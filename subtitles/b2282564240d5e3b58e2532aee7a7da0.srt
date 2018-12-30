@@ -1,0 +1,3387 @@
+﻿1
+00:00:00,997 --> 00:00:02,951
+<i>Nos episódios anteriores...</i>
+
+2
+00:00:03,340 --> 00:00:06,300
+Sabes o que o Fritz
+está a fazer?
+
+3
+00:00:09,292 --> 00:00:11,608
+<i>É responsável
+<i>por milhares de mortes.</i>
+
+4
+00:00:11,609 --> 00:00:13,129
+Podes ter mudado de religião,
+
+5
+00:00:13,130 --> 00:00:15,522
+mas não podes mudar
+o teu legado.
+
+6
+00:00:15,523 --> 00:00:19,164
+Se as piores disputas
+entre nações em guerra têm solução,
+
+7
+00:00:19,165 --> 00:00:21,620
+<i>não podem dois velhos amigos
+<i>fazer as pazes?</i>
+
+8
+00:00:21,621 --> 00:00:24,366
+Apresento-lhe o meu bom amigo,
+Dr. Niels Bohr.
+
+9
+00:00:24,367 --> 00:00:26,944
+Conhece o princípio da incerteza
+de Heisenberg?
+
+10
+00:00:26,945 --> 00:00:28,381
+<i>E a Margot e a Ilse?</i>
+
+11
+00:00:28,382 --> 00:00:30,329
+<i>Estão decididas a viver aqui.</i>
+
+12
+00:00:30,330 --> 00:00:32,407
+Talvez mudem de ideias
+quando virem
+
+13
+00:00:32,408 --> 00:00:34,619
+como podemos
+ser felizes em Nova Jérsia.
+
+14
+00:00:34,620 --> 00:00:38,210
+Realizo esta investigação
+a pedido do Sr. J. Edgar Hoover
+
+15
+00:00:38,211 --> 00:00:40,604
+Hoover?
+O que é que ele quer de mim?
+
+16
+00:00:40,605 --> 00:00:43,583
+<i>Dr. Lenard, é uma honra.
+<i>Ele espera por si.</i>
+
+17
+00:00:43,800 --> 00:00:45,000
+"Heil, mein Führer."
+
+18
+00:00:45,084 --> 00:00:47,420
+<i>Bem-vindo ao Partido Nazi,
+<i>Dr. Lenard.</i>
+
+19
+00:01:14,090 --> 00:01:19,090
+<b>S01E09
+<b>"Chapter Nine"</b>
+
+20
+00:01:21,400 --> 00:01:23,699
+A informação é escassa,
+admito,
+
+21
+00:01:23,700 --> 00:01:25,571
+mas, se estiver correcta,
+
+22
+00:01:25,572 --> 00:01:30,383
+então é melhor aprendermos
+a falar alemão como o senhor.
+
+23
+00:01:30,789 --> 00:01:32,139
+O que mais têm?
+
+24
+00:01:32,507 --> 00:01:33,861
+Não muito.
+
+25
+00:01:34,769 --> 00:01:36,318
+É por isso que está aqui.
+
+26
+00:01:37,738 --> 00:01:39,500
+Os soldados alemães
+pressionam-nos...
+
+27
+00:01:39,510 --> 00:01:40,400
+LOCAL NÃO REVELADO
+1944
+
+28
+00:01:40,410 --> 00:01:41,745
+... mas se o Heisenberg
+
+29
+00:01:41,746 --> 00:01:44,509
+estiver quase a construir
+uma bomba atómica...
+
+30
+00:01:45,834 --> 00:01:47,228
+Deus nos ajude.
+
+31
+00:01:49,776 --> 00:01:51,507
+O que quer que faça?
+
+32
+00:01:55,970 --> 00:01:57,816
+É uma Walther PPK.
+
+33
+00:01:59,117 --> 00:02:01,149
+Um amigo suíço
+convidou o Heisenberg
+
+34
+00:02:01,150 --> 00:02:04,077
+para uma palestra em Zurique.
+Vai estar lá.
+
+35
+00:02:04,078 --> 00:02:06,765
+Se for capturado,
+parecerá que a levou da Alemanha.
+
+36
+00:02:06,766 --> 00:02:08,367
+Se isso acontecer,
+
+37
+00:02:08,830 --> 00:02:11,249
+engula o comprimido,
+é rápido.
+
+38
+00:02:11,250 --> 00:02:14,397
+E muito menos doloroso
+do que o que os nazis lhe farão.
+
+39
+00:02:21,619 --> 00:02:23,587
+<i>O seu contacto
+é o Prof. Scherrer,</i>
+
+40
+00:02:23,588 --> 00:02:25,675
+<i>da Escola Politécnica Federal.</i>
+
+41
+00:02:25,676 --> 00:02:28,923
+<i>- Qual é o meu disfarce?
+- <i>Professor de Física suíço.</i>
+
+42
+00:02:28,924 --> 00:02:31,308
+Tomas Ritter?
+Paul Scherrer.
+
+43
+00:02:31,309 --> 00:02:33,509
+Muito prazer, Sr. Professor.
+
+44
+00:02:33,510 --> 00:02:35,161
+Qual deles é o Heisenberg?
+
+45
+00:02:35,833 --> 00:02:37,930
+Ali, à direita.
+
+46
+00:02:39,760 --> 00:02:41,573
+<i>Esteja atento
+<i>a certas palavras.</i>
+
+47
+00:02:41,574 --> 00:02:44,572
+<i>Água pesada,
+<i>fissão rápida, plutónio.</i>
+
+48
+00:02:44,573 --> 00:02:47,259
+Boa tarde,
+senhores e senhoras.
+
+49
+00:02:47,260 --> 00:02:48,657
+Obrigado por terem vindo.
+
+50
+00:02:48,658 --> 00:02:51,061
+<i>Se algo que disser
+<i>o fizer pensar</i>
+
+51
+00:02:51,062 --> 00:02:53,309
+<i>que está quase
+<i>a construir a bomba,</i>
+
+52
+00:02:53,310 --> 00:02:54,610
+mate-o.
+
+53
+00:02:54,611 --> 00:02:58,680
+Parabéns, Dr. Lenard.
+O Führer, na sua sabedoria,
+
+54
+00:02:58,681 --> 00:03:03,170
+decidiu recompensar
+o seu apoio inicial e a lealdade.
+
+55
+00:03:03,180 --> 00:03:05,000
+ONZE ANOS ANTES
+BERLIM, 1933
+
+56
+00:03:05,010 --> 00:03:07,234
+Foi nomeado
+Chefe da Física Ariana.
+
+57
+00:03:07,726 --> 00:03:10,588
+Fico humilde e grato,
+Dr. Goebbels.
+
+58
+00:03:10,589 --> 00:03:14,041
+Informe o Führer
+de que a minha primeira tarefa
+
+59
+00:03:14,042 --> 00:03:17,217
+será recuperar a glória
+da ciência alemã,
+
+60
+00:03:17,218 --> 00:03:18,851
+ao eliminar
+da Academia Prussiana
+
+61
+00:03:18,852 --> 00:03:21,223
+influências estrangeiras
+e impuras.
+
+62
+00:03:21,224 --> 00:03:24,155
+Temos de fazer mais
+do que informar o Führer.
+
+63
+00:03:24,760 --> 00:03:26,460
+Temos de informar o povo
+
+64
+00:03:26,461 --> 00:03:30,352
+de modo a que este momento
+não lhes saia da memória.
+
+65
+00:03:30,685 --> 00:03:35,412
+<i>A era do intelectualismo judaico
+<i>exagerado</i>
+
+66
+00:03:35,413 --> 00:03:37,789
+<i>chegou agora ao fim.</i>
+
+67
+00:03:38,243 --> 00:03:41,739
+<i>O triunfo da Revolução Alemã</i>
+
+68
+00:03:41,740 --> 00:03:45,418
+<i>voltou a abrir caminho
+<i>para o modo de vida alemão.</i>
+
+69
+00:03:46,016 --> 00:03:50,510
+<i>E o alemão do futuro será
+<i>não apenas um homem instruído,</i>
+
+70
+00:03:50,511 --> 00:03:53,895
+<i>mas também
+<i>um homem de carácter.</i>
+
+71
+00:03:54,331 --> 00:03:58,428
+<i>Assim, farão bem,
+<i>neste fim de dia,</i>
+
+72
+00:03:58,429 --> 00:04:03,030
+<i>se entregarem às chamas
+<i>o espírito maligno do passado.</i>
+
+73
+00:04:03,820 --> 00:04:05,860
+- <i>Sieg...</i>
+- <i>Heil!</i>
+
+74
+00:04:06,119 --> 00:04:07,809
+- <i>Sieg!</i>
+- <i>Heil!</i>
+
+75
+00:04:07,974 --> 00:04:10,130
+- <i>Sieg!</i>
+- <i>Heil!</i>
+
+76
+00:04:10,290 --> 00:04:11,830
+- <i>Sieg!</i>
+- <i>Heil!</i>
+
+77
+00:04:12,424 --> 00:04:14,129
+- <i>Sieg...</i>
+- <i>Heil!</i>
+
+78
+00:04:14,342 --> 00:04:16,500
+TEORIA DA RELATIVIDADE
+ALBERT EINSTEIN
+
+79
+00:04:16,937 --> 00:04:19,087
+- <i>Sieg!</i>
+- <i>Heil!</i>
+
+80
+00:04:28,860 --> 00:04:32,524
+<i>Albert, invadiram
+<i>o nosso apartamento.</i>
+
+81
+00:04:32,525 --> 00:04:35,497
+- A casa de campo também.
+- O que esperavam encontrar?
+
+82
+00:04:35,498 --> 00:04:37,500
+O meu tabaco de contrabando?
+
+83
+00:04:37,510 --> 00:04:38,800
+PRINCETON, NOVA JÉRSIA
+1933
+
+84
+00:04:38,810 --> 00:04:40,790
+A Margot diz
+que procuravam armas.
+
+85
+00:04:41,391 --> 00:04:43,999
+Os serviços de inteligência dizem
+que as escondias
+
+86
+00:04:44,000 --> 00:04:45,738
+para insurgentes comunistas.
+
+87
+00:04:45,739 --> 00:04:48,657
+Não são serviços
+com muita inteligência.
+
+88
+00:04:48,658 --> 00:04:51,078
+Elas salvaram
+quase todos os teus documentos.
+
+89
+00:04:51,079 --> 00:04:52,656
+Pobre "Herr" Hitler.
+
+90
+00:04:53,352 --> 00:04:57,347
+O que usará para acender a lareira,
+quando quiser ler?
+
+91
+00:04:57,348 --> 00:04:58,900
+Isto não tem graça, Albert.
+
+92
+00:04:58,901 --> 00:05:01,660
+Eu sei. É por isso
+que temos de lutar, Elsa.
+
+93
+00:05:02,731 --> 00:05:05,041
+Lutamos contra Hitler
+como pudermos.
+
+94
+00:05:05,042 --> 00:05:06,609
+Não temos armas.
+
+95
+00:05:06,610 --> 00:05:09,055
+Eu tenho voz.
+Posso escrever e falar.
+
+96
+00:05:09,056 --> 00:05:11,677
+Digo a quem quiser ouvir
+que ele é uma ameaça,
+
+97
+00:05:12,279 --> 00:05:16,692
+que os outros governos se devem opor
+a ele com todos os meios pacíficos.
+
+98
+00:05:21,381 --> 00:05:24,726
+A Margot diz
+que a Ilse está pior.
+
+99
+00:05:28,780 --> 00:05:31,069
+Não é uma boa notícia,
+meu amor.
+
+100
+00:05:32,546 --> 00:05:34,698
+Temos de a tirar da Alemanha,
+
+101
+00:05:35,134 --> 00:05:37,506
+com os restantes familiares
+e amigos.
+
+102
+00:05:37,507 --> 00:05:40,658
+- Usa a tua voz para isso.
+- O carro chegou.
+
+103
+00:05:40,659 --> 00:05:42,135
+Obrigada, Helen.
+
+104
+00:05:43,560 --> 00:05:45,866
+Vai andando, eu vou já.
+
+105
+00:05:45,867 --> 00:05:47,200
+Não demores muito.
+
+106
+00:05:47,201 --> 00:05:49,308
+O Flexner ameaçou
+
+107
+00:05:49,309 --> 00:05:52,227
+dar-me de comer aos Tigres
+de Princeton se me atrasar.
+
+108
+00:06:11,960 --> 00:06:14,264
+Os nazis são fanáticos.
+
+109
+00:06:14,265 --> 00:06:16,415
+Capitalistas americanos
+como o senhor
+
+110
+00:06:16,416 --> 00:06:19,094
+devem recusar negociar com eles,
+Sr. Mills.
+
+111
+00:06:19,095 --> 00:06:23,315
+Espanta-me que um homem como
+o senhor não entenda o capitalismo.
+
+112
+00:06:23,316 --> 00:06:26,478
+Não recusamos negociar
+com ninguém.
+
+113
+00:06:26,479 --> 00:06:29,311
+Veio atrair doadores, Albert,
+
+114
+00:06:29,312 --> 00:06:31,259
+não para os afugentar.
+
+115
+00:06:31,260 --> 00:06:34,095
+Peço desculpa.
+Pensei que estava cá
+
+116
+00:06:34,096 --> 00:06:38,356
+por razões científicas,
+não para encher os seus cofres.
+
+117
+00:06:38,853 --> 00:06:43,978
+A maioria deles já não gosta
+de ter tantos docentes judeus.
+
+118
+00:06:43,979 --> 00:06:46,425
+Não querem ouvir
+a nossa política.
+
+119
+00:06:46,426 --> 00:06:48,758
+Albert, olha quem conheci.
+
+120
+00:06:48,759 --> 00:06:51,129
+É o Sr. Henry Morgenthau,
+
+121
+00:06:51,130 --> 00:06:54,800
+Secretário do Tesouro
+de Roosevelt.
+
+122
+00:06:54,810 --> 00:06:56,549
+É uma honra conhecê-lo,
+Professor.
+
+123
+00:06:56,550 --> 00:06:59,075
+Morgenthau. Nome judaico?
+
+124
+00:06:59,076 --> 00:07:01,236
+Por acaso, é.
+
+125
+00:07:01,237 --> 00:07:04,283
+"Bar mitzvah" em 1904,
+conserva de carne em pão de centeio.
+
+126
+00:07:04,908 --> 00:07:07,382
+Um judeu
+que também é político.
+
+127
+00:07:07,383 --> 00:07:08,967
+Muito interessante.
+
+128
+00:07:09,369 --> 00:07:11,716
+Albert, talvez o Sr. Morgenthau
+
+129
+00:07:11,717 --> 00:07:15,497
+nos possa dar uns conselhos
+para tirar os amigos da Alemanha.
+
+130
+00:07:16,600 --> 00:07:18,600
+De pé, vamos! De pé, judeu.
+
+131
+00:07:18,610 --> 00:07:21,300
+INSTITUTO KAISER GUILHERME
+BERLIM, 1933
+
+132
+00:07:21,328 --> 00:07:22,648
+Para onde os levam?
+
+133
+00:07:22,649 --> 00:07:24,352
+Não há judeus
+em cargos do governo,
+
+134
+00:07:24,353 --> 00:07:25,871
+incluindo este laboratório.
+
+135
+00:07:25,872 --> 00:07:28,845
+Que escândalo!
+Como continuo o meu trabalho?
+
+136
+00:07:29,345 --> 00:07:31,059
+Encontrará uma solução.
+
+137
+00:07:31,406 --> 00:07:33,700
+A sua gente é esperta.
+
+138
+00:07:33,701 --> 00:07:36,965
+A minha gente?
+O que insinua?
+
+139
+00:07:36,966 --> 00:07:39,367
+Sabemos
+que não nasceu luterano.
+
+140
+00:07:39,368 --> 00:07:42,942
+Ou quer baixar as calças
+e provar que estamos errados?
+
+141
+00:07:44,920 --> 00:07:48,521
+Como se atreve
+a falar-me assim?
+
+142
+00:07:48,522 --> 00:07:50,224
+Os seus amigos
+que adoram judeus
+
+143
+00:07:50,225 --> 00:07:53,481
+não o protegem para sempre,
+Haber.
+
+144
+00:07:57,640 --> 00:07:59,998
+<i>O Fritz é um patriota alemão.</i>
+
+145
+00:07:59,999 --> 00:08:03,429
+Foi o primeiro a colaborar
+na Grande Guerra.
+
+146
+00:08:03,430 --> 00:08:05,180
+Também é judeu.
+
+147
+00:08:06,700 --> 00:08:09,103
+Sim, Philipp, mas...
+
+148
+00:08:09,540 --> 00:08:13,395
+... há judeus e judeus.
+
+149
+00:08:13,396 --> 00:08:16,949
+Soube que já falou deste assunto
+com o Führer.
+
+150
+00:08:16,950 --> 00:08:19,023
+Ele não lhe deu
+uma resposta clara?
+
+151
+00:08:19,024 --> 00:08:22,656
+Deu, mas não podemos
+virar as costas ao Fritz.
+
+152
+00:08:22,657 --> 00:08:25,130
+Ele é um colega e amigo
+há décadas.
+
+153
+00:08:25,131 --> 00:08:28,942
+E há décadas que apoia gente
+como o Haber e o Einstein,
+
+154
+00:08:28,943 --> 00:08:31,948
+enquanto destroem a pureza
+da ciência alemã.
+
+155
+00:08:31,949 --> 00:08:34,371
+Mas a Academia está obsoleta,
+Max.
+
+156
+00:08:34,372 --> 00:08:37,103
+Agora, sou o responsável
+pela ciência deste país.
+
+157
+00:08:39,760 --> 00:08:41,579
+Não se iluda, Philipp.
+
+158
+00:08:42,079 --> 00:08:45,383
+O Führer não o nomeou
+pelo seu intelecto brilhante,
+
+159
+00:08:45,384 --> 00:08:47,718
+mas pela sua política
+depravada.
+
+160
+00:08:51,120 --> 00:08:54,361
+Não posso fazer nada
+para ajudar o seu amigo Haber.
+
+161
+00:08:54,362 --> 00:08:55,562
+Nenhuma universidade americana
+
+162
+00:08:55,563 --> 00:08:58,216
+quer um criminoso de guerra
+como docente.
+
+163
+00:08:58,217 --> 00:09:00,041
+Receava isso.
+
+164
+00:09:00,851 --> 00:09:02,151
+Pobre Fritz.
+
+165
+00:09:02,152 --> 00:09:05,335
+A boa notícia é que
+o Dept. de Estado concedeu vistos
+
+166
+00:09:05,336 --> 00:09:07,612
+a vários nomes da sua lista.
+
+167
+00:09:07,613 --> 00:09:08,913
+Betty Neumann.
+
+168
+00:09:08,914 --> 00:09:12,875
+O seu filho Hans e a família dele.
+A filha da sua esposa, Margot.
+
+169
+00:09:12,876 --> 00:09:14,176
+Obrigado.
+
+170
+00:09:15,094 --> 00:09:17,554
+E a minha outra enteada, Ilse?
+
+171
+00:09:17,555 --> 00:09:20,068
+Tem tuberculose.
+A Elsa foi a Paris
+
+172
+00:09:20,069 --> 00:09:24,317
+para cuidar dela, mas queremos
+trazê-la para cá, para ser tratada.
+
+173
+00:09:24,318 --> 00:09:26,646
+As leis de imigração excluem
+
+174
+00:09:26,647 --> 00:09:28,686
+quem tenha problemas de saúde.
+
+175
+00:09:28,687 --> 00:09:31,647
+Não aceitamos que possa ser
+um fardo para o Estado.
+
+176
+00:09:31,648 --> 00:09:33,871
+Eu pagaria
+pelos cuidados dela.
+
+177
+00:09:34,878 --> 00:09:37,851
+Infelizmente, o seu filho Eduard
+tem o mesmo obstáculo.
+
+178
+00:09:37,852 --> 00:09:39,770
+Sr. Secretário, prometi-lhe.
+
+179
+00:09:39,771 --> 00:09:41,991
+Não pode abrir uma excepção?
+
+180
+00:09:42,588 --> 00:09:45,529
+Lamento, não posso fazer nada.
+
+181
+00:09:51,357 --> 00:09:53,714
+Princeton é muito agradável.
+
+182
+00:09:53,715 --> 00:09:56,137
+Temos um jardim bonito,
+
+183
+00:09:56,587 --> 00:09:59,027
+com um olmo magnífico.
+
+184
+00:10:00,655 --> 00:10:03,861
+Nem vais acreditar
+no tamanho das lojas, Ilse.
+
+185
+00:10:04,316 --> 00:10:08,589
+Tudo o que uma pessoa pode
+desejar comer, num só lugar.
+
+186
+00:10:20,880 --> 00:10:23,921
+O Albert
+trata dos vistos de todos.
+
+187
+00:10:25,040 --> 00:10:28,030
+Em breve, estaremos todos juntos
+na nossa casa.
+
+188
+00:10:35,599 --> 00:10:37,149
+<i>Parece uma morte lenta.</i>
+
+189
+00:10:37,470 --> 00:10:38,724
+Todos os meus bons amigos
+partem.
+
+190
+00:10:38,725 --> 00:10:39,815
+BERLIM, 1934
+
+191
+00:10:39,816 --> 00:10:42,141
+Sei que fizeste
+tudo o que podias, Max.
+
+192
+00:10:42,142 --> 00:10:44,213
+A Alemanha traiu-te, Fritz.
+
+193
+00:10:44,214 --> 00:10:45,514
+Não.
+
+194
+00:10:45,967 --> 00:10:48,454
+Os nazis traíram a Alemanha.
+
+195
+00:10:49,308 --> 00:10:52,693
+Quando desaparecerem,
+eu regresso a casa.
+
+196
+00:10:55,420 --> 00:10:56,838
+Regressaremos todos.
+
+197
+00:10:58,540 --> 00:11:01,139
+Palestina, quem diria?
+
+198
+00:11:01,740 --> 00:11:03,452
+É irónico.
+
+199
+00:11:03,453 --> 00:11:06,139
+Avisei o Albert para não
+se envolver com sionistas
+
+200
+00:11:06,140 --> 00:11:10,082
+e agora é o único lugar do mundo
+onde sou bem-vindo.
+
+201
+00:11:10,083 --> 00:11:12,967
+Talvez o clima te faça bem
+ao coração.
+
+202
+00:11:12,968 --> 00:11:16,788
+Admito que precisa de sarar.
+
+203
+00:11:48,760 --> 00:11:51,341
+Lamento incomodar.
+
+204
+00:11:51,993 --> 00:11:54,458
+Posso ajudá-la
+em alguma coisa?
+
+205
+00:11:55,011 --> 00:11:57,383
+Não, obrigada, Helen.
+Estou bem.
+
+206
+00:12:00,072 --> 00:12:02,542
+Só queria dizer de novo
+
+207
+00:12:03,805 --> 00:12:06,419
+que sinto muito pela Ilse.
+
+208
+00:12:07,709 --> 00:12:10,004
+Ela gostava muito de si.
+
+209
+00:12:10,820 --> 00:12:12,377
+Todos nós gostamos.
+
+210
+00:12:13,208 --> 00:12:15,881
+Tornou-se parte da família.
+
+211
+00:12:17,877 --> 00:12:20,331
+É uma honra ouvir isso.
+
+212
+00:12:26,400 --> 00:12:29,576
+Talvez seja altura
+de a tornar...
+
+213
+00:12:30,086 --> 00:12:32,653
+... titular
+das nossas contas bancárias.
+
+214
+00:12:33,676 --> 00:12:35,766
+Não sei se compreendo.
+
+215
+00:12:37,432 --> 00:12:40,033
+O Albert
+não sabe lidar com dinheiro.
+
+216
+00:12:40,807 --> 00:12:43,272
+Precisará que faça isso
+por ele.
+
+217
+00:12:52,702 --> 00:12:56,086
+BASILEIA, SUÍÇA
+A CAMINHO DA PALESTINA
+
+218
+00:13:49,200 --> 00:13:50,862
+O Fritz morreu.
+
+219
+00:13:51,940 --> 00:13:53,769
+Albert.
+
+220
+00:13:54,419 --> 00:13:55,719
+Não...
+
+221
+00:13:59,477 --> 00:14:01,978
+A tua querida filha
+e agora isto?
+
+222
+00:14:02,620 --> 00:14:05,468
+Porque é que Deus
+continua a castigar-nos?
+
+223
+00:14:12,920 --> 00:14:15,125
+- Aonde vais?
+- Trabalhar.
+
+224
+00:14:15,126 --> 00:14:19,399
+Albert, as equações não trazem
+o Fritz ou a Ilse de volta.
+
+225
+00:14:19,400 --> 00:14:21,619
+Não posso falar disso, Elsa.
+
+226
+00:14:21,620 --> 00:14:24,761
+- Não sou capaz.
+- Não temos de falar disso.
+
+227
+00:14:24,762 --> 00:14:28,029
+Senta-te comigo.
+Tenho a vista cansada.
+
+228
+00:14:28,720 --> 00:14:33,646
+Seria maravilhoso
+se lesses para mim, como fazias.
+
+229
+00:14:33,647 --> 00:14:35,698
+Esquecíamos as preocupações.
+
+230
+00:14:35,699 --> 00:14:38,247
+Bohr e Podolsky esperam-me.
+
+231
+00:14:38,248 --> 00:14:40,651
+Vão compreender.
+Por favor, Albert.
+
+232
+00:14:40,652 --> 00:14:45,273
+Só um bocadinho.
+É Tolstoi. O teu favorito.
+
+233
+00:14:47,793 --> 00:14:49,839
+Não os posso fazer esperar.
+
+234
+00:14:57,180 --> 00:15:00,593
+<i>Albert escreveu e pediu-me
+<i>que vos lesse o seguinte.</i>
+
+235
+00:15:01,400 --> 00:15:03,500
+CASA DE HARNACK
+SOCIEDADE DE KAISER GUILHERME
+
+236
+00:15:03,510 --> 00:15:05,903
+"O meu amigo Haber tinha
+uma curiosidade interminável
+
+237
+00:15:05,904 --> 00:15:07,784
+"e paixão pela descoberta.
+
+238
+00:15:08,100 --> 00:15:11,008
+"Queria partilhar o génio
+com o país.
+
+239
+00:15:11,009 --> 00:15:13,602
+"Era o mais importante
+para ele.
+
+240
+00:15:13,603 --> 00:15:16,620
+"Assim, o fim amargo dele
+é a história trágica...
+
+241
+00:15:18,280 --> 00:15:21,048
+... do amor não correspondido
+do judeu alemão."
+
+242
+00:15:21,500 --> 00:15:23,430
+As SS estão lá fora.
+
+243
+00:15:23,431 --> 00:15:25,757
+Temos de acabar
+antes que percebam o que fazemos.
+
+244
+00:15:25,758 --> 00:15:28,791
+Todo o país devia honrar o Fritz,
+Dr. Heisenberg,
+
+245
+00:15:28,792 --> 00:15:30,922
+mas conspiramos como cobardes.
+
+246
+00:15:30,923 --> 00:15:33,331
+Que outra opção temos?
+
+247
+00:15:33,332 --> 00:15:35,380
+Se foi a isto que chegámos,
+
+248
+00:15:36,288 --> 00:15:38,432
+talvez devamos partir,
+como o Albert.
+
+249
+00:15:38,433 --> 00:15:40,908
+Não.
+Somos alemães.
+
+250
+00:15:41,707 --> 00:15:43,225
+Somos patriotas.
+
+251
+00:15:43,939 --> 00:15:45,493
+O nosso dever é ficar
+
+252
+00:15:45,494 --> 00:15:47,997
+e garantir
+o futuro da ciência alemã.
+
+253
+00:15:48,397 --> 00:15:50,537
+A arte é como a ciência,
+Albert.
+
+254
+00:15:50,538 --> 00:15:51,218
+NOVA IORQUE
+
+255
+00:15:51,219 --> 00:15:52,389
+Não pode ser apressada.
+
+256
+00:15:52,390 --> 00:15:54,703
+Perdoe a impaciência, Sergei.
+
+257
+00:15:56,073 --> 00:15:58,189
+Quanto tempo falta?
+
+258
+00:16:00,190 --> 00:16:03,405
+Uma eternidade,
+se não ficar quieto.
+
+259
+00:16:05,439 --> 00:16:06,799
+Olá, querido.
+
+260
+00:16:06,800 --> 00:16:08,955
+Não vês que trabalho?
+
+261
+00:16:09,880 --> 00:16:11,749
+Não me vais apresentar?
+
+262
+00:16:12,835 --> 00:16:16,136
+Dr. Einstein,
+a minha mulher Margarita.
+
+263
+00:16:16,591 --> 00:16:18,881
+É uma honra conhecer
+um grande homem.
+
+264
+00:16:18,882 --> 00:16:21,160
+Levantava-me
+para a cumprimentar,
+
+265
+00:16:21,161 --> 00:16:25,000
+mas o seu marido aceitou
+uma comissão generosa
+
+266
+00:16:25,010 --> 00:16:27,287
+do meu chefe, Sr. Flexner,
+
+267
+00:16:27,288 --> 00:16:29,710
+para me manter permanentemente
+em silêncio,
+
+268
+00:16:29,711 --> 00:16:32,983
+imóvel e em exibição..
+
+269
+00:16:37,705 --> 00:16:40,240
+Começaste bem.
+
+270
+00:16:44,200 --> 00:16:48,051
+Mas não fizeste o Dr. Einstein
+suficientemente atraente.
+
+271
+00:16:52,800 --> 00:16:53,900
+CASA BRANCA DE ROOSEVELT
+1934
+
+272
+00:16:53,910 --> 00:16:55,999
+- Quarto ou quinto?
+- Desculpe?
+
+273
+00:16:56,300 --> 00:16:57,939
+É casado com a sua prima,
+
+274
+00:16:57,940 --> 00:17:00,779
+como eu.
+Em quarto ou quinto grau?
+
+275
+00:17:00,780 --> 00:17:03,011
+Somos primos em primeiro grau.
+
+276
+00:17:04,453 --> 00:17:08,437
+Os europeus são mais permissivos
+do que nós, americanos.
+
+277
+00:17:08,914 --> 00:17:12,530
+- Por falar na Europa...
+- Então, Professor?
+
+278
+00:17:12,531 --> 00:17:15,007
+Não convidei o cientista
+mais brilhante do mundo
+
+279
+00:17:15,008 --> 00:17:17,071
+para falar de política.
+
+280
+00:17:17,372 --> 00:17:19,139
+Esperava que me explicasse
+
+281
+00:17:19,140 --> 00:17:22,284
+a sua famosa
+teoria da relatividade,
+
+282
+00:17:22,285 --> 00:17:24,846
+que deixou todos confusos.
+
+283
+00:17:24,847 --> 00:17:27,220
+Se lhe explicar a relatividade
+
+284
+00:17:27,221 --> 00:17:29,226
+de modo a que compreenda,
+
+285
+00:17:29,227 --> 00:17:32,429
+concede-me alguns momentos
+para falar da Alemanha?
+
+286
+00:17:33,230 --> 00:17:34,621
+Combinado.
+
+287
+00:17:38,560 --> 00:17:40,987
+Se pisar brasas,
+
+288
+00:17:40,988 --> 00:17:43,341
+um segundo
+parece uma eternidade.
+
+289
+00:17:43,342 --> 00:17:45,879
+Quando está na cama
+com uma mulher linda,
+
+290
+00:17:45,880 --> 00:17:48,566
+uma hora passa num instante.
+
+291
+00:17:50,560 --> 00:17:52,751
+Isso é a relatividade.
+
+292
+00:17:53,101 --> 00:17:55,182
+Ganhou, Professor.
+
+293
+00:17:55,183 --> 00:17:57,164
+Mas sei o que vai dizer.
+
+294
+00:17:57,165 --> 00:17:59,909
+Quer que me imponha
+contra o Sr. Hitler.
+
+295
+00:17:59,910 --> 00:18:02,565
+A América deve liderar o mundo
+e opor-se a ele.
+
+296
+00:18:02,566 --> 00:18:05,177
+Boicotes. Bloqueios.
+
+297
+00:18:05,178 --> 00:18:08,864
+De certa forma, invejo o sacana.
+Ele faz o que quer.
+
+298
+00:18:10,100 --> 00:18:14,159
+Neste país, ninguém pode agir
+sozinho, nem sequer o presidente.
+
+299
+00:18:14,160 --> 00:18:16,057
+Então,
+tem de persuadir o Congresso.
+
+300
+00:18:16,058 --> 00:18:18,313
+Aqueles idiotas não vão apoiar
+qualquer acção
+
+301
+00:18:18,314 --> 00:18:20,740
+contra a Alemanha porque
+os seus eleitores
+
+302
+00:18:20,741 --> 00:18:22,438
+não se sentem ameaçados.
+
+303
+00:18:22,439 --> 00:18:24,137
+Talvez não hoje,
+
+304
+00:18:24,629 --> 00:18:26,919
+mas o amanhã
+estará aqui em breve.
+
+305
+00:18:26,920 --> 00:18:29,245
+Lamento,
+mas não o posso ajudar.
+
+306
+00:18:29,787 --> 00:18:32,827
+Permita-me que lhe ofereça
+um pequeno consolo.
+
+307
+00:18:33,347 --> 00:18:35,795
+Sei que pediu a cidadania.
+
+308
+00:18:36,480 --> 00:18:38,804
+Posso acelerar o processo.
+
+309
+00:18:38,805 --> 00:18:42,091
+Obrigado, mas não quero
+tratamento especial.
+
+310
+00:18:42,092 --> 00:18:43,847
+É nobre, Professor,
+
+311
+00:18:43,848 --> 00:18:46,213
+mas o teste de cidadania
+exige muito estudo.
+
+312
+00:18:46,214 --> 00:18:49,077
+Prometa-me que poupa
+o intelecto para a ciência.
+
+313
+00:18:49,378 --> 00:18:51,438
+<i>Imagina duas partículas.</i>
+
+314
+00:18:54,000 --> 00:18:55,609
+Mede a sua massa.
+
+315
+00:18:55,610 --> 00:18:57,317
+Une-as.
+
+316
+00:19:00,360 --> 00:19:02,114
+Deixa-as afastar-se.
+
+317
+00:19:02,115 --> 00:19:03,517
+O que acontece?
+
+318
+00:19:03,836 --> 00:19:06,428
+As posições e velocidades
+estão ligadas...
+
+319
+00:19:06,429 --> 00:19:09,561
+Segundo o princípio da incerteza,
+se medirmos a posição de uma...
+
+320
+00:19:09,562 --> 00:19:11,655
+Não podemos medir
+a velocidade.
+
+321
+00:19:11,656 --> 00:19:15,109
+Mas podemos medir
+a velocidade da segunda partícula.
+
+322
+00:19:15,110 --> 00:19:17,641
+Como estão
+matematicamente ligadas,
+
+323
+00:19:17,642 --> 00:19:20,362
+podemos determinar
+a velocidade da primeira.
+
+324
+00:19:20,363 --> 00:19:23,828
+Saberíamos a sua posição
+e velocidade,
+
+325
+00:19:23,829 --> 00:19:25,769
+sem ter de medir ambas.
+
+326
+00:19:31,940 --> 00:19:35,687
+Refutei com certeza o princípio
+da incerteza de Heisenberg.
+
+327
+00:19:36,388 --> 00:19:39,089
+- Foste vencido.
+- Mas...
+
+328
+00:19:39,490 --> 00:19:41,642
+E se o acto de medir
+a primeira partícula
+
+329
+00:19:41,643 --> 00:19:42,943
+influencia a segunda?
+
+330
+00:19:42,944 --> 00:19:45,291
+Se a alterou
+quando foi medida?
+
+331
+00:19:45,292 --> 00:19:49,410
+Impossível.
+Seria algo inquietante à distância.
+
+332
+00:19:49,411 --> 00:19:51,076
+Inquietante?
+
+333
+00:19:51,077 --> 00:19:53,457
+És melhor poeta
+do que cientista.
+
+334
+00:19:55,560 --> 00:19:58,486
+Rende-te já
+e ofereço condições generosas.
+
+335
+00:19:58,487 --> 00:20:00,319
+O que tens em mente?
+
+336
+00:20:00,320 --> 00:20:03,376
+A Elsa
+fez um "strudel" fabuloso.
+
+337
+00:20:04,500 --> 00:20:05,800
+Helen!
+
+338
+00:20:06,295 --> 00:20:07,829
+Traga-nos "strudel".
+
+339
+00:20:09,640 --> 00:20:10,940
+Helen?
+
+340
+00:20:13,800 --> 00:20:15,433
+Estava a chamá-la...
+
+341
+00:20:42,120 --> 00:20:44,839
+É o que suspeitávamos,
+Sra. Einstein.
+
+342
+00:20:44,840 --> 00:20:47,147
+Tem miocardite avançada.
+
+343
+00:20:49,200 --> 00:20:52,376
+Então, qual é o tratamento?
+
+344
+00:20:55,120 --> 00:20:57,566
+Dou-lhe algum tempo a sós
+com o seu marido.
+
+345
+00:21:03,880 --> 00:21:05,180
+Elsa...
+
+346
+00:21:12,000 --> 00:21:14,666
+Como me pudeste esconder isso?
+
+347
+00:21:15,740 --> 00:21:17,707
+Não te quis preocupar.
+
+348
+00:21:18,260 --> 00:21:22,731
+Tens tanto mais em que pensar.
+
+349
+00:21:23,695 --> 00:21:26,167
+A tua ciência,
+as tuas comissões.
+
+350
+00:21:29,180 --> 00:21:32,121
+Não te preocupes,
+A Helen leva-me para casa.
+
+351
+00:21:32,540 --> 00:21:35,731
+Podes ir trabalhar.
+Sei que é o que tens de fazer.
+
+352
+00:21:39,472 --> 00:21:42,953
+Creio que prefiro ler para ti.
+
+353
+00:21:57,420 --> 00:22:01,539
+"O mundo divide-se agora
+em duas partes.
+
+354
+00:22:01,540 --> 00:22:03,798
+"Uma em que ela está presente,
+
+355
+00:22:03,799 --> 00:22:07,872
+"onde tudo é felicidade,
+esperança, luz.
+
+356
+00:22:11,720 --> 00:22:14,313
+"A outra,
+em que ela não figura,
+
+357
+00:22:14,880 --> 00:22:17,962
+onde tudo é tristeza
+e escuridão."
+
+358
+00:22:30,200 --> 00:22:33,411
+És um óptimo enfermeiro,
+Dr. Einstein.
+
+359
+00:22:35,380 --> 00:22:38,691
+<i>"Não posso visitá-la,
+<i>mas será possível</i>
+
+360
+00:22:38,692 --> 00:22:40,767
+<i>"que não a torne a ver?</i>
+
+361
+00:22:40,768 --> 00:22:43,255
+"'Amo-a loucamente.
+Será possível que nunca?'
+
+362
+00:22:43,700 --> 00:22:45,598
+"E, cortando-lhe o caminho,
+
+363
+00:22:45,599 --> 00:22:49,117
+aproximou o seu rosto dela."
+
+364
+00:22:59,400 --> 00:23:02,516
+<i>"O amor é o inimigo da morte.</i>
+
+365
+00:23:02,835 --> 00:23:04,539
+<i>"O amor é a vida.</i>
+
+366
+00:23:04,924 --> 00:23:08,126
+"Tudo o que compreendo,
+
+367
+00:23:09,264 --> 00:23:12,862
+"compreendo apenas porque amo.
+
+368
+00:23:20,050 --> 00:23:21,934
+"Tudo é,
+
+369
+00:23:23,115 --> 00:23:25,258
+"tudo existe,
+
+370
+00:23:26,133 --> 00:23:28,527
+apenas porque amo."
+
+371
+00:23:55,249 --> 00:23:57,399
+UNIVERSIDADE COLUMBIA
+NOVA IORQUE, 1939
+
+372
+00:23:57,400 --> 00:24:00,020
+Os alemães dividiram
+o núcleo do átomo.
+
+373
+00:24:00,900 --> 00:24:02,436
+Não acreditei, no início,
+
+374
+00:24:02,437 --> 00:24:05,537
+mas o sacana do Hahn conseguiu.
+
+375
+00:24:05,538 --> 00:24:09,505
+Meu Deus, Niels.
+Achas...?
+
+376
+00:24:09,506 --> 00:24:11,836
+Uma bomba? Impossível.
+
+377
+00:24:11,837 --> 00:24:13,744
+Não encontram urânio suficiente.
+
+378
+00:24:13,745 --> 00:24:15,111
+E se encontrassem?
+
+379
+00:24:15,112 --> 00:24:17,224
+Só com um exército
+de cientistas.
+
+380
+00:24:17,701 --> 00:24:20,508
+Os alemães são bons
+a criar exércitos.
+
+381
+00:24:20,509 --> 00:24:22,370
+As melhores mentes partiram.
+
+382
+00:24:22,767 --> 00:24:25,789
+Não o Hahn ou o Heisenberg.
+
+383
+00:24:27,840 --> 00:24:31,100
+Temos de informar já
+o governo americano.
+
+384
+00:24:31,101 --> 00:24:35,784
+Porque ouviria o governo americano
+uns estrangeiros desconhecidos?
+
+385
+00:24:38,014 --> 00:24:40,065
+Sei quem ouvirão.
+
+386
+00:24:40,566 --> 00:24:44,306
+<i>É o primeiro "strike"
+<i>para o "Einstein de calças largas".</i>
+
+387
+00:24:45,400 --> 00:24:47,444
+Einstein de calças largas?
+
+388
+00:24:47,445 --> 00:24:49,379
+Porque lhe chamam isso?
+
+389
+00:24:49,380 --> 00:24:52,524
+Dizem que é o jogador
+mais inteligente.
+
+390
+00:24:52,525 --> 00:24:54,239
+A Elsa acusava-os de difamação
+
+391
+00:24:54,240 --> 00:24:57,275
+se ouvisse o meu nome
+usado assim no rádio.
+
+392
+00:25:05,237 --> 00:25:06,646
+Delicioso.
+
+393
+00:25:07,536 --> 00:25:09,395
+Tem mais canela desta vez?
+
+394
+00:25:10,476 --> 00:25:13,198
+Talvez aprenda a gostar
+de doces russos.
+
+395
+00:25:15,677 --> 00:25:18,000
+<i>É o terceiro "strike"
+<i>para Moe Berg.</i>
+
+396
+00:25:18,010 --> 00:25:19,390
+FENWAY PARK, BOSTON
+1939
+
+397
+00:25:19,398 --> 00:25:24,181
+<i>Moe pode não bater como quando
+<i>começou a jogar, há 15 anos,</i>
+
+398
+00:25:24,182 --> 00:25:26,868
+<i>mas ainda lança
+<i>com muita força.</i>
+
+399
+00:25:29,880 --> 00:25:32,153
+<i>Berg é o mais esperto
+<i>do basebol.</i>
+
+400
+00:25:32,560 --> 00:25:34,910
+<i>Advogado,
+<i>licenciou-se em Princeton,</i>
+
+401
+00:25:35,640 --> 00:25:39,639
+<i>lê até dez jornais por dia,
+<i>fala sete línguas.</i>
+
+402
+00:25:39,640 --> 00:25:41,480
+É muito inteligente.
+
+403
+00:25:41,823 --> 00:25:43,188
+Por falar nisso,
+
+404
+00:25:43,189 --> 00:25:44,751
+prometeu ajudar-me a preparar
+
+405
+00:25:44,752 --> 00:25:49,347
+o teste de cidadania,
+não distrair-me com basebol.
+
+406
+00:25:51,600 --> 00:25:53,318
+Vamos para o meu escritório?
+
+407
+00:25:53,960 --> 00:25:56,138
+Prefiro que me leve
+para a cama.
+
+408
+00:25:59,580 --> 00:26:01,429
+Mas é casada.
+
+409
+00:26:01,771 --> 00:26:04,330
+Nunca foi infiel
+à sua mulher, Albert?
+
+410
+00:26:04,840 --> 00:26:06,140
+Fui.
+
+411
+00:26:06,900 --> 00:26:08,856
+Bastantes vezes, na verdade.
+
+412
+00:26:10,962 --> 00:26:12,858
+Tínhamos um entendimento.
+
+413
+00:26:13,668 --> 00:26:15,580
+Então qual é o problema?
+
+414
+00:26:18,820 --> 00:26:21,362
+É curioso,
+quando a Elsa era viva...
+
+415
+00:26:22,218 --> 00:26:24,992
+... nunca me senti culpado
+por estar com outras mulheres.
+
+416
+00:26:27,591 --> 00:26:29,307
+Agora que ela partiu...
+
+417
+00:26:31,830 --> 00:26:34,581
+... sinto que a trairia.
+
+418
+00:26:48,660 --> 00:26:50,737
+Passaram-se anos, Albert.
+
+419
+00:26:52,460 --> 00:26:55,679
+Sei que ainda sente muito
+a falta dela, mas...
+
+420
+00:26:57,233 --> 00:26:59,870
+... deve sentir-se
+muito sozinho sem ela.
+
+421
+00:27:20,780 --> 00:27:23,650
+<i>Quantos anos tem
+<i>o mandato de um senador?</i>
+
+422
+00:27:23,651 --> 00:27:24,982
+Quatro.
+
+423
+00:27:24,983 --> 00:27:27,482
+Não, esse é o do presidente.
+
+424
+00:27:28,864 --> 00:27:30,264
+Dois?
+
+425
+00:27:30,265 --> 00:27:33,520
+Não, esse é o dos congressistas.
+O dos senadores tem seis.
+
+426
+00:27:34,779 --> 00:27:39,642
+- Agora, o colégio eleitoral.
+- Por favor, não faz sentido.
+
+427
+00:27:45,680 --> 00:27:47,186
+Sei o que vai dizer.
+
+428
+00:27:47,187 --> 00:27:49,820
+Ela é casada
+e eu sou um velho tonto.
+
+429
+00:27:50,140 --> 00:27:53,338
+Ia dizer que o Sr. Szilard
+veio visitá-lo.
+
+430
+00:27:56,140 --> 00:27:58,692
+Cada divisão causaria...
+
+431
+00:27:58,693 --> 00:28:00,785
+Uma enorme reacção em cadeia.
+
+432
+00:28:01,232 --> 00:28:03,689
+Descobriu isso há décadas.
+
+433
+00:28:03,690 --> 00:28:06,784
+Energia é massa vezes
+velocidade da luz ao quadrado.
+
+434
+00:28:06,785 --> 00:28:09,175
+Significa
+que basta este material
+
+435
+00:28:09,176 --> 00:28:12,442
+para destruir uma cidade
+do tamanho de Berlim.
+
+436
+00:28:12,826 --> 00:28:14,586
+Deus nos ajude a todos.
+
+437
+00:28:14,887 --> 00:28:19,131
+Albert, é o cientista
+mais famosos do mundo.
+
+438
+00:28:19,132 --> 00:28:20,603
+Tem de avisar o presidente.
+
+439
+00:28:20,604 --> 00:28:22,358
+O que lhe devo dizer?
+
+440
+00:28:22,359 --> 00:28:25,300
+Os cientistas americanos
+devem construir a bomba primeiro.
+
+441
+00:28:25,510 --> 00:28:26,805
+Sou um pacifista devoto.
+
+442
+00:28:26,806 --> 00:28:29,857
+Não pode ser um pacifista
+perante o mal, Albert.
+
+443
+00:28:29,858 --> 00:28:32,908
+O Hitler é louco.
+Imagine como usaria essa arma.
+
+444
+00:28:32,909 --> 00:28:34,805
+Podia dizimar Londres
+ou Moscovo.
+
+445
+00:28:34,806 --> 00:28:36,949
+Há muitos anos,
+Haber convenceu-me
+
+446
+00:28:36,950 --> 00:28:39,304
+que o gás venenoso
+acabaria logo com a guerra.
+
+447
+00:28:39,305 --> 00:28:41,229
+Só a tornou mais horrenda.
+
+448
+00:28:41,230 --> 00:28:43,744
+A ciência nunca deve ser usada
+para fins violentos.
+
+449
+00:28:45,245 --> 00:28:49,087
+Pensa que Adolf Hitler partilha
+essa reserva moral?
+
+450
+00:28:49,088 --> 00:28:51,488
+Contacte o Roosevelt,
+ele vai ouvi-lo.
+
+451
+00:28:51,489 --> 00:28:53,107
+O problema é esse, Leo.
+
+452
+00:28:55,133 --> 00:28:56,597
+E se me ouvir?
+
+453
+00:29:00,720 --> 00:29:03,178
+<i>Alcançar uma reacção atómica
+<i>em cadeia</i>
+
+454
+00:29:03,179 --> 00:29:07,116
+será o maior feito
+da ciência alemã.
+
+455
+00:29:07,117 --> 00:29:09,000
+INSTITUTO KAISER GUILHERME
+BERLIM, 1939
+
+456
+00:29:09,010 --> 00:29:13,232
+E pensar que o Führer
+o tornou responsável por tudo.
+
+457
+00:29:18,080 --> 00:29:19,380
+Carl...
+
+458
+00:29:27,412 --> 00:29:29,157
+E se conseguirmos?
+
+459
+00:29:32,170 --> 00:29:34,155
+Escreverão livros sobre nós.
+
+460
+00:29:35,112 --> 00:29:38,654
+O Führer porá medalhas
+ao nosso peito.
+
+461
+00:29:39,425 --> 00:29:41,048
+Seremos heróis.
+
+462
+00:29:59,480 --> 00:30:01,592
+Há algo que o incomoda,
+Professor?
+
+463
+00:30:03,183 --> 00:30:05,624
+Nunca estive tão incerto
+
+464
+00:30:05,625 --> 00:30:09,435
+sobre se aquilo que faço
+está correcto.
+
+465
+00:30:11,520 --> 00:30:14,168
+Qual seria o conselho
+de "Frau" Einstein?
+
+466
+00:30:16,160 --> 00:30:19,138
+Creio que me recordaria
+que lhe disse, uma vez,
+
+467
+00:30:19,139 --> 00:30:21,752
+que devemos lutar contra Hitler
+como pudermos.
+
+468
+00:30:23,939 --> 00:30:26,087
+Então tem a sua resposta.
+
+469
+00:30:33,680 --> 00:30:36,978
+Que Deus me perdoe
+se cometer um erro horrível.
+
+470
+00:30:37,973 --> 00:30:41,579
+<i>"Com base neste fenómeno novo,
+<i>é possível,</i>
+
+471
+00:30:41,580 --> 00:30:43,221
+<i>"mas muito menos certo,</i>
+
+472
+00:30:43,222 --> 00:30:46,175
+<i>"que uma bomba muito poderosa
+<i>e nova</i>
+
+473
+00:30:46,176 --> 00:30:47,450
+<i>"possa ser construída.</i>
+
+474
+00:30:47,500 --> 00:30:49,700
+"Uma única bomba deste tipo,
+
+475
+00:30:50,210 --> 00:30:52,500
+"transportada por barco
+e detonada num porto,
+
+476
+00:30:52,510 --> 00:30:58,304
+pode destruir todo o porto
+e algum território adjacente."
+
+477
+00:30:58,305 --> 00:30:59,743
+Meu Deus.
+
+478
+00:30:59,744 --> 00:31:01,691
+Não tenho de lhe dizer
+o que acontece
+
+479
+00:31:01,692 --> 00:31:05,158
+se os alemães desenvolverem
+primeiro essa tecnologia.
+
+480
+00:31:05,570 --> 00:31:07,593
+Faremos todos o passo de ganso.
+
+481
+00:31:07,594 --> 00:31:08,896
+Ou pior.
+
+482
+00:31:09,440 --> 00:31:12,111
+É por isso que lhe peço
+para liderar
+
+483
+00:31:12,112 --> 00:31:14,721
+o programa
+para investigar e desenvolver
+
+484
+00:31:14,722 --> 00:31:16,411
+uma arma atómica.
+
+485
+00:31:16,934 --> 00:31:19,499
+Precisaria de imensos recursos.
+
+486
+00:31:19,500 --> 00:31:21,847
+Não tenho qualquer dúvida.
+
+487
+00:31:22,213 --> 00:31:24,754
+Preciso de liberdade
+para gerir o projecto.
+
+488
+00:31:24,755 --> 00:31:27,801
+Cientistas, militares,
+operações clandestinas.
+
+489
+00:31:27,802 --> 00:31:29,836
+O secretismo seria crucial.
+
+490
+00:31:30,237 --> 00:31:32,199
+Os boches
+não podem saber de nada.
+
+491
+00:31:32,200 --> 00:31:35,091
+Todos os envolvidos precisam
+de credenciais de segurança.
+
+492
+00:31:35,392 --> 00:31:37,360
+Oppenheimer, Teller,
+
+493
+00:31:37,361 --> 00:31:38,738
+Fermi...
+
+494
+00:31:40,892 --> 00:31:42,293
+Einstein?
+
+495
+00:31:43,791 --> 00:31:45,091
+Não.
+
+496
+00:31:46,392 --> 00:31:48,251
+Einstein fica de fora.
+
+497
+00:31:48,252 --> 00:31:50,273
+Ainda nem o investigou, Edgar.
+
+498
+00:31:50,274 --> 00:31:54,914
+Há anos que o FBI está preocupado
+com o Einstein.
+
+499
+00:31:55,215 --> 00:31:57,536
+É um radical,
+quase certamente comunista.
+
+500
+00:31:57,537 --> 00:32:00,872
+Foi ele quem informou o Presidente
+deste assunto urgente.
+
+501
+00:32:01,410 --> 00:32:05,603
+Não podemos confiar
+que seja leal ao nosso país.
+
+502
+00:32:06,200 --> 00:32:09,965
+Apoiarei e defenderei
+a constituição
+
+503
+00:32:09,966 --> 00:32:13,865
+e as leis
+dos Estados Unidos da América.
+
+504
+00:32:13,866 --> 00:32:16,967
+Contra todos os inimigos,
+estrangeiros e nacionais.
+
+505
+00:32:16,968 --> 00:32:20,638
+Contra todos os inimigos,
+estrangeiros e nacionais.
+
+506
+00:32:20,639 --> 00:32:23,812
+Usarei armas em nome dos EUA,
+
+507
+00:32:23,813 --> 00:32:25,486
+quando exigido pela lei.
+
+508
+00:32:25,487 --> 00:32:29,691
+Usarei armas em nome dos EUA,
+
+509
+00:32:29,692 --> 00:32:32,018
+quando exigido pela lei.
+
+510
+00:32:32,019 --> 00:32:34,307
+<i>Albert, tornaste-te americano.</i>
+
+511
+00:32:34,308 --> 00:32:36,428
+Porque queres aprender russo?
+
+512
+00:32:36,752 --> 00:32:40,048
+Para te dizer que te amo
+na tua língua.
+
+513
+00:33:13,800 --> 00:33:16,382
+Desculpem, não queria...
+
+514
+00:33:16,383 --> 00:33:19,025
+Leo.
+É muito bom vê-lo.
+
+515
+00:33:19,110 --> 00:33:20,700
+Lembra-se
+da minha amiga Margarita?
+
+516
+00:33:20,710 --> 00:33:23,455
+- Olá.
+- Ela ensina-me russo.
+
+517
+00:33:23,456 --> 00:33:24,756
+Sim.
+
+518
+00:33:24,757 --> 00:33:27,606
+É um prazer vê-la de novo.
+Peço desculpa.
+
+519
+00:33:27,607 --> 00:33:29,096
+Entre.
+
+520
+00:33:30,503 --> 00:33:32,352
+Dá-nos licença, Margarita.
+
+521
+00:33:32,880 --> 00:33:35,671
+Faz os teus deliciosos
+"piroshki".
+
+522
+00:33:35,672 --> 00:33:36,972
+Claro.
+
+523
+00:33:45,244 --> 00:33:47,050
+Eles rejeitaram-me.
+
+524
+00:33:47,898 --> 00:33:49,359
+Quem?
+
+525
+00:33:49,360 --> 00:33:52,719
+O programa da bomba atómica
+não me dão credenciais de segurança.
+
+526
+00:33:53,140 --> 00:33:55,371
+Preciso que fale bem de mim.
+
+527
+00:33:55,372 --> 00:33:58,213
+Também não me deram
+credenciais.
+
+528
+00:33:58,214 --> 00:34:00,270
+- O quê?
+- Sinceramente, é um alívio.
+
+529
+00:34:00,271 --> 00:34:01,816
+Escrever uma carta
+
+530
+00:34:01,817 --> 00:34:04,226
+é muito diferente de ajudar
+a construir uma bomba.
+
+531
+00:34:07,660 --> 00:34:09,691
+Arranja uma namorada russa
+
+532
+00:34:09,692 --> 00:34:12,286
+e agora não tenho
+quem me defenda.
+
+533
+00:34:13,680 --> 00:34:15,785
+Leo, do que está a falar?
+
+534
+00:34:15,786 --> 00:34:18,458
+Obviamente suspeitam dela.
+
+535
+00:34:18,459 --> 00:34:20,864
+Que decifra a minha poesia
+
+536
+00:34:20,865 --> 00:34:22,646
+e a entregue ao Kremlin?
+
+537
+00:34:22,647 --> 00:34:24,214
+Não digo que seja verdade,
+
+538
+00:34:24,215 --> 00:34:26,522
+apenas que terão essa dúvida.
+
+539
+00:34:26,523 --> 00:34:28,766
+Porque é que
+uma jovem tão bonita...
+
+540
+00:34:30,580 --> 00:34:34,582
+Prestaria atenção a um velho tolo
+e desgrenhado como eu?
+
+541
+00:34:40,240 --> 00:34:43,175
+- Albert, não quis dizer isso.
+- Não faz mal, Leo.
+
+542
+00:34:43,980 --> 00:34:46,345
+Deixei-me levar
+pela imaginação.
+
+543
+00:34:46,346 --> 00:34:48,758
+De certeza
+que ela gosta muito de si.
+
+544
+00:34:48,759 --> 00:34:50,059
+Sim.
+
+545
+00:34:51,078 --> 00:34:52,602
+De certeza que gosta.
+
+546
+00:35:08,340 --> 00:35:11,502
+Deve ter entrado ar.
+Incendiou o pó de urânio.
+
+547
+00:35:11,503 --> 00:35:14,362
+Temos de o arrefecer.
+Mais água aqui!
+
+548
+00:35:14,363 --> 00:35:16,339
+É tarde, tornou-se instável.
+
+549
+00:35:16,340 --> 00:35:18,583
+Saiam todos! Já!
+
+550
+00:35:18,584 --> 00:35:21,243
+Saiam! Saiam!
+
+551
+00:35:25,300 --> 00:35:28,059
+Alcançaram a detonação atómica?
+
+552
+00:35:28,060 --> 00:35:30,654
+O material atómico não explodiu.
+
+553
+00:35:30,655 --> 00:35:33,300
+A pressão do vapor
+explodiu o depósito.
+
+554
+00:35:33,500 --> 00:35:37,000
+SEDE DO PARTIDO NAZI
+BERLIM, 1942
+
+555
+00:35:40,200 --> 00:35:42,554
+O seu trabalho
+progride devagar, Werner.
+
+556
+00:35:43,180 --> 00:35:47,110
+Agora, destruiu um laboratório
+muito caro.
+
+557
+00:35:48,211 --> 00:35:52,819
+Podemos concluir que não está
+empenhado de coração e alma.
+
+558
+00:35:52,820 --> 00:35:54,241
+Não é verdade.
+
+559
+00:35:54,242 --> 00:35:56,357
+Quero construir
+um reactor estável.
+
+560
+00:35:56,358 --> 00:35:59,033
+O Führer não quer saber
+do reactor!
+
+561
+00:35:59,034 --> 00:36:01,983
+A sua prioridade
+deve ser uma arma.
+
+562
+00:36:09,860 --> 00:36:13,045
+Construir uma arma é
+um processo extremamente difícil.
+
+563
+00:36:13,046 --> 00:36:15,749
+Se não for capaz,
+encontro quem seja.
+
+564
+00:36:17,949 --> 00:36:19,864
+Isso não será necessário,
+senhor.
+
+565
+00:36:20,547 --> 00:36:22,549
+Vou fazer todos os...
+
+566
+00:36:26,000 --> 00:36:27,954
+Posso fazer isso,
+Sr. Halliwell.
+
+567
+00:36:29,741 --> 00:36:32,022
+Não duvido
+das suas qualificações,
+
+568
+00:36:32,835 --> 00:36:35,524
+mas não compreendo porquê.
+
+569
+00:36:36,480 --> 00:36:38,536
+Sou velho para me alistar
+no exército.
+
+570
+00:36:43,600 --> 00:36:45,698
+Se o aceitarmos,
+
+571
+00:36:48,499 --> 00:36:51,700
+podemos pedir-lhe
+que faça coisas que considera...
+
+572
+00:36:53,210 --> 00:36:54,429
+... desagradáveis.
+
+573
+00:36:57,380 --> 00:36:59,209
+Contribuo como puder.
+
+574
+00:36:59,920 --> 00:37:01,600
+Isto não é um jogo, Moe.
+
+575
+00:37:01,601 --> 00:37:02,927
+Sr. Halliwell,
+
+576
+00:37:03,649 --> 00:37:07,148
+sou adulto e vivi a tentar acertar
+na bola com um taco.
+
+577
+00:37:07,149 --> 00:37:09,272
+Estou farto de jogos.
+
+578
+00:37:17,360 --> 00:37:19,011
+Dr. Einstein?
+
+579
+00:37:19,936 --> 00:37:22,450
+- Sim.
+- Vannevar Bush,
+
+580
+00:37:22,451 --> 00:37:25,002
+director da Investigação
+da Defesa Nacional.
+
+581
+00:37:25,451 --> 00:37:27,865
+Aprendi que, neste país,
+a palavra defesa
+
+582
+00:37:27,866 --> 00:37:30,133
+muitas vezes significa
+exactamente o oposto.
+
+583
+00:37:31,003 --> 00:37:34,407
+Esperávamos que nos ajudasse
+com uns cálculos.
+
+584
+00:37:47,720 --> 00:37:52,020
+Querem forçar isótopos de urânio
+a ficar num estado gasoso.
+
+585
+00:37:52,410 --> 00:37:55,278
+Se não mostrarmos resultados,
+o financiamento pode acabar.
+
+586
+00:37:56,780 --> 00:37:59,092
+Lamento,
+mas estou muito ocupado.
+
+587
+00:37:59,093 --> 00:38:01,303
+São apenas algumas equações.
+
+588
+00:38:01,304 --> 00:38:03,262
+Apenas uma das minhas equações
+
+589
+00:38:03,263 --> 00:38:06,212
+parece ter começado
+esta loucura.
+
+590
+00:38:07,699 --> 00:38:08,999
+Por isso...
+
+591
+00:38:11,160 --> 00:38:13,259
+Não lhe devia dizer isto,
+
+592
+00:38:13,560 --> 00:38:16,403
+mas os serviços de informações
+falam de agitações na Alemanha.
+
+593
+00:38:16,404 --> 00:38:19,712
+Sabemos que os nazis investem tudo
+na criação de uma bomba.
+
+594
+00:38:22,800 --> 00:38:25,759
+Sabe que as minhas credenciais
+foram negadas?
+
+595
+00:38:25,760 --> 00:38:28,506
+Por isso esta conversa
+fica entre nós.
+
+596
+00:38:28,507 --> 00:38:30,300
+Ninguém pode saber.
+
+597
+00:38:30,301 --> 00:38:32,134
+Deus nos livre se os alemães...
+
+598
+00:38:32,637 --> 00:38:34,363
+... ou os russos
+
+599
+00:38:34,364 --> 00:38:35,960
+souberem o que fazemos.
+
+600
+00:38:46,240 --> 00:38:49,383
+Albert?
+Pensei que vinhas para a cama.
+
+601
+00:38:49,384 --> 00:38:51,691
+Sim, claro.
+Daqui a uns minutos.
+
+602
+00:38:51,692 --> 00:38:53,191
+Não demores muito.
+
+603
+00:39:42,080 --> 00:39:43,611
+O que procuras?
+
+604
+00:39:45,620 --> 00:39:46,988
+Não conseguia dormir.
+
+605
+00:39:47,352 --> 00:39:49,122
+O meu livro
+não estava onde o deixei,
+
+606
+00:39:49,123 --> 00:39:51,930
+talvez a Helen
+o tivesse posto aqui.
+
+607
+00:39:52,320 --> 00:39:56,660
+Acordei com o estômago
+a pedir comida.
+
+608
+00:39:56,661 --> 00:39:59,867
+Então faço-te algo para comer.
+
+609
+00:39:59,868 --> 00:40:01,191
+Porque não?
+
+610
+00:40:09,020 --> 00:40:11,564
+Tudo isto é muito complicado.
+
+611
+00:40:11,565 --> 00:40:13,565
+ESCOLA POLITÉCNICA FEDERAL
+ZURIQUE, SUÍÇA, DEZEMBRO 1944
+
+612
+00:40:13,566 --> 00:40:17,199
+Se algo não ficou claro, foi porque
+não consegui explicar bem.
+
+613
+00:40:17,200 --> 00:40:18,879
+<i>Esteja atento
+<i>a certas palavras.</i>
+
+614
+00:40:18,880 --> 00:40:21,999
+<i>Água pesada,
+<i>fissão rápida, plutónio.</i>
+
+615
+00:40:22,000 --> 00:40:24,580
+<i>Se algo que disser
+<i>o fizer pensar</i>
+
+616
+00:40:24,581 --> 00:40:26,500
+<i>que está quase
+<i>a construir a bomba,</i>
+
+617
+00:40:26,510 --> 00:40:27,598
+mate-o.
+
+618
+00:40:28,210 --> 00:40:29,750
+Na sala de aulas?
+
+619
+00:40:31,010 --> 00:40:33,252
+<i>Os alemães
+<i>não podem ter essa arma.</i>
+
+620
+00:40:33,253 --> 00:40:34,700
+<i>Igualmente importante,</i>
+
+621
+00:40:34,910 --> 00:40:37,575
+<i>os russos
+<i>não poder ter o Heisenberg.</i>
+
+622
+00:40:37,920 --> 00:40:40,835
+<i>Mesmo que os nazis
+<i>não tenham sucesso,</i>
+
+623
+00:40:41,417 --> 00:40:44,388
+<i>temos de impedir que os comunas
+<i>obtenham esses segredos.</i>
+
+624
+00:41:03,920 --> 00:41:05,889
+Aula fascinante, Sr. Professor,
+
+625
+00:41:05,890 --> 00:41:09,184
+embora
+não tenha entendido tudo.
+
+626
+00:41:09,185 --> 00:41:11,000
+Sei que deve estar ocupado,
+
+627
+00:41:11,110 --> 00:41:14,000
+mas talvez o possa acompanhar
+até ao hotel.
+
+628
+00:41:14,010 --> 00:41:15,760
+Tenho umas perguntas.
+
+629
+00:41:15,761 --> 00:41:19,100
+Admira-me que ensine ideias
+tão avançadas no secundário.
+
+630
+00:41:19,110 --> 00:41:21,709
+Ensino apenas
+os conceitos básicos,
+
+631
+00:41:22,900 --> 00:41:26,898
+mas gosto de estar a par
+dos avanços mais recentes.
+
+632
+00:41:26,899 --> 00:41:29,160
+Ainda tenho a fantasia
+
+633
+00:41:29,161 --> 00:41:32,373
+de ser um físico a sério,
+como o senhor.
+
+634
+00:41:32,374 --> 00:41:33,860
+O que gostaria de saber?
+
+635
+00:41:33,861 --> 00:41:37,860
+O tópico que me interessa mais
+é a fissão atómica.
+
+636
+00:41:37,861 --> 00:41:40,570
+Os periódicos dizem
+que se tornará
+
+637
+00:41:40,871 --> 00:41:44,192
+uma fonte de energia mais poderosa
+do que o carvão ou o petróleo.
+
+638
+00:41:44,193 --> 00:41:45,876
+É a nossa esperança.
+
+639
+00:41:46,877 --> 00:41:51,861
+Também li que pode ser usada
+para criar uma bomba.
+
+640
+00:41:52,174 --> 00:41:53,474
+É verdade?
+
+641
+00:41:53,475 --> 00:41:55,459
+Uma arma é apenas uma teoria.
+
+642
+00:41:55,938 --> 00:41:58,937
+Sim, mas teoricamente,
+
+643
+00:41:58,938 --> 00:42:00,742
+se tivesse os materiais,
+
+644
+00:42:00,743 --> 00:42:02,342
+seria possível?
+
+645
+00:42:05,120 --> 00:42:07,516
+Seria um processo
+extremamente difícil.
+
+646
+00:42:09,520 --> 00:42:12,644
+Tenho uma pergunta para si
+sobre fissão atómica.
+
+647
+00:42:17,040 --> 00:42:19,659
+Se fosse um físico a sério,
+
+648
+00:42:19,660 --> 00:42:22,006
+que soubesse construir
+essa arma
+
+649
+00:42:22,709 --> 00:42:25,656
+e que ajudaria o seu país
+a ganhar uma guerra,
+
+650
+00:42:27,840 --> 00:42:30,811
+mas que poderia matar
+milhares...
+
+651
+00:42:33,480 --> 00:42:35,735
+... o que seria mais forte?
+
+652
+00:42:36,259 --> 00:42:37,826
+O seu patriotismo
+
+653
+00:42:39,199 --> 00:42:41,195
+ou as dúvidas morais?
+
+654
+00:42:43,680 --> 00:42:45,671
+Suponho...
+
+655
+00:42:48,117 --> 00:42:51,087
+Se fosse
+um verdadeiro patriota,
+
+656
+00:42:53,140 --> 00:42:55,650
+teria de ignorar
+as dúvidas morais.
+
+657
+00:43:00,728 --> 00:43:02,179
+Faria mesmo isso?
+
+658
+00:43:09,331 --> 00:43:10,870
+Diga-me...
+
+659
+00:43:12,240 --> 00:43:14,587
+Conhece
+o meu princípio da incerteza?
+
+660
+00:43:15,385 --> 00:43:16,894
+Claro.
+
+661
+00:43:17,800 --> 00:43:22,363
+Quão mais exacta for a medição
+da velocidade de uma partícula,
+
+662
+00:43:22,364 --> 00:43:25,429
+menos exacta será a medição
+da sua posição.
+
+663
+00:43:27,220 --> 00:43:30,911
+Talvez quão mais exacta
+for a sua avaliação de mim,
+
+664
+00:43:31,591 --> 00:43:34,411
+menos saiba
+qual é a minha posição.
+
+665
+00:43:39,755 --> 00:43:41,334
+Boa noite, "Herr" Ritter.
+
+666
+00:43:51,580 --> 00:43:53,675
+Obrigado pelo seu tempo,
+Sr. Professor.
+
+667
+00:44:01,420 --> 00:44:03,660
+<i>Os alemães não têm uma bomba.</i>
+
+668
+00:44:10,440 --> 00:44:13,554
+Dizem-me que a informação
+é bastante conclusiva.
+
+669
+00:44:13,555 --> 00:44:15,109
+Se estiver certo,
+
+670
+00:44:15,469 --> 00:44:17,110
+podemos respirar de alívio.
+
+671
+00:44:17,111 --> 00:44:19,918
+Mas também soube
+que os amigos americanos
+
+672
+00:44:19,919 --> 00:44:21,396
+estão perto do êxito.
+
+673
+00:44:21,397 --> 00:44:24,901
+Mesmo que seja verdade,
+Hitler e os homens dele recuam.
+
+674
+00:44:25,302 --> 00:44:27,460
+Os EUA não precisam
+de uma bomba atómica
+
+675
+00:44:27,461 --> 00:44:29,002
+para derrotar a Alemanha.
+
+676
+00:44:29,003 --> 00:44:30,653
+E o Japão?
+
+677
+00:44:31,560 --> 00:44:34,345
+- Não fariam isso.
+- Foi por isso que vim, Albert.
+
+678
+00:44:34,346 --> 00:44:37,799
+Peço-lhe que escreva de novo
+a Roosevelt.
+
+679
+00:44:37,800 --> 00:44:40,735
+Diga-lhe que essa arma
+nunca deve ser usada.
+
+680
+00:44:45,080 --> 00:44:48,642
+Não é o homem
+que me visitou há seis anos
+
+681
+00:44:49,309 --> 00:44:53,539
+e me implorou para começar
+este maldito projecto?
+
+682
+00:44:53,540 --> 00:44:58,473
+Dizem que podem causar uma reacção
+em cadeia que incendeia a atmosfera.
+
+683
+00:44:58,474 --> 00:45:02,164
+Escreva ao presidente, Albert,
+antes que seja tarde.
+
+684
+00:45:34,000 --> 00:45:36,400
+<i>Este é um comunicado tardio
+<i>da capital.</i>
+
+685
+00:45:36,510 --> 00:45:39,700
+12 DE ABRIL DE 1945
+
+686
+00:45:39,710 --> 00:45:43,686
+<i>Franklin Delano Roosevelt,
+<i>o Presidente dos EUA, morreu.</i>
+
+687
+00:45:44,480 --> 00:45:47,508
+<i>Parece ter morrido
+<i>de hemorragia cerebral.</i>
+
+688
+00:45:47,940 --> 00:45:50,761
+<i>O vice-presidente Truman
+<i>e o gabinete estão reunidos</i>
+
+689
+00:45:50,762 --> 00:45:54,212
+<i>para tratar de todos
+<i>os assuntos públicos.</i>
+
+690
+00:46:02,000 --> 00:46:05,000
+BERLIM
+DUAS SEMANAS DEPOIS
+
+691
+00:46:05,280 --> 00:46:07,487
+O Führer morreu!
+
+692
+00:46:07,488 --> 00:46:11,125
+O Führer morreu!
+Temos de evacuar Berlim!
+
+693
+00:46:35,931 --> 00:46:40,390
+BAVIERA, ALEMANHA
+1945
+
+694
+00:46:40,391 --> 00:46:41,691
+<i>Por aqui.</i>
+
+695
+00:46:45,006 --> 00:46:46,562
+Coloquem-no no camião.
+
+696
+00:46:47,706 --> 00:46:49,310
+Entre, Heisenberg.
+
+697
+00:46:55,100 --> 00:46:56,468
+ESTADOS UNIDOS
+
+698
+00:47:03,717 --> 00:47:05,433
+Pedem o seu regresso.
+
+699
+00:47:10,234 --> 00:47:11,944
+Sou mais útil aqui.
+
+700
+00:47:13,360 --> 00:47:15,311
+Útil? Palavra?
+
+701
+00:47:16,120 --> 00:47:19,516
+Deu-nos algo de valor
+do seu amigo professor?
+
+702
+00:47:24,952 --> 00:47:26,853
+Ele não é a minha única fonte.
+
+703
+00:47:29,060 --> 00:47:30,877
+Diga a Moscovo
+que pretendo ficar.
+
+704
+00:47:31,574 --> 00:47:32,874
+Porquê?
+
+705
+00:47:33,660 --> 00:47:35,637
+Porque cometeu
+o erro imperdoável
+
+706
+00:47:35,638 --> 00:47:37,740
+de se apaixonar pelo alvo?
+
+707
+00:47:39,932 --> 00:47:42,926
+Fará o que lhe dizem, camarada.
+
+708
+00:47:50,680 --> 00:47:53,379
+<i>Não compreendo
+<i>porque vais embora.</i>
+
+709
+00:47:55,680 --> 00:47:57,263
+Há outra pessoa?
+
+710
+00:47:57,264 --> 00:48:00,611
+Não.
+Não, Albert.
+
+711
+00:48:03,460 --> 00:48:06,537
+Mas eu amo o meu país.
+
+712
+00:48:08,040 --> 00:48:10,596
+A Rússia foi devastada
+pela guerra
+
+713
+00:48:10,597 --> 00:48:12,658
+e precisam de mim em casa.
+
+714
+00:48:15,380 --> 00:48:20,500
+Suspeitei muitas vezes que querias
+mais do que a minha companhia.
+
+715
+00:48:21,484 --> 00:48:23,079
+Albert...
+
+716
+00:48:23,380 --> 00:48:27,685
+É muito difícil para um velhote
+encontrar uma companheira.
+
+717
+00:48:31,680 --> 00:48:34,132
+Suponho que me convenci...
+
+718
+00:48:35,840 --> 00:48:38,260
+Porque não podiam ser
+ambas verdade?
+
+719
+00:48:40,720 --> 00:48:42,984
+Porque não podias amar
+o teu país
+
+720
+00:48:44,511 --> 00:48:46,302
+e amar-me a mim?
+
+721
+00:48:57,540 --> 00:48:59,927
+És mesmo um homem brilhante.
+
+722
+00:49:17,800 --> 00:49:19,329
+Professor?
+
+723
+00:49:21,020 --> 00:49:23,296
+Ouvi agora no rádio.
+
+724
+00:49:24,580 --> 00:49:28,346
+Largaram uma bomba
+numa cidade japonesa.
+
+725
+00:49:30,300 --> 00:49:32,912
+Dizem que usou
+o poder do átomo.
+
+726
+00:49:34,660 --> 00:49:36,457
+Meu Deus.
+
+727
+00:49:37,700 --> 00:49:39,505
+<i>É uma bomba atómica.</i>
+
+728
+00:49:39,506 --> 00:49:43,177
+<i>Usa o poder básico do Universo.</i>
+
+729
+00:49:43,540 --> 00:49:46,000
+<i>A força onde o Sol obtém
+<i>a sua energia</i>
+
+730
+00:49:46,010 --> 00:49:50,500
+<i>foi libertada contra quem levou
+<i>a guerra ao Extremo Oriente.</i>
+
+731
+00:49:50,510 --> 00:49:52,710
+CAMPO DE PRISIONEIROS DE GUERRA
+INGLATERRA, 1945
+
+732
+00:49:52,720 --> 00:49:54,589
+<i>Gastámos mais
+<i>de 2 mil milhões de dólares</i>
+
+733
+00:49:54,590 --> 00:49:58,121
+<i>na maior aposta científica
+<i>de sempre.</i>
+
+734
+00:49:58,122 --> 00:49:59,842
+<i>E ganhámos.</i>
+
+735
+00:49:59,843 --> 00:50:02,929
+Os americanos voltaram
+a derrotar os alemães, certo?
+
+736
+00:50:04,426 --> 00:50:07,443
+<i>... o seu secretismo
+<i>ou o seu custo...</i>
+
+737
+00:50:16,840 --> 00:50:18,320
+Como conseguiram?
+
+738
+00:50:21,320 --> 00:50:24,305
+É um processo extremamente simples,
+na verdade.
+
+739
+00:50:29,858 --> 00:50:32,744
+Dá-me um lápis e um papel
+e eu mostro-te.
+
+740
+00:50:58,510 --> 00:51:01,238
+COSMOCLASTA EINSTEIN
+Toda a Matéria é Velocidade e Fogo
+
+741
+00:51:17,500 --> 00:51:19,500
+<b>Transcrito do canal:
+<b>National Geographic</b>
+
+742
+00:51:20,000 --> 00:51:22,000
+<b>Sincronia:
+<b>PT-BR</b>
+
+743
+00:51:22,500 --> 00:51:24,500
+<b>Transcrição:
+<b>fininhos</b>
+

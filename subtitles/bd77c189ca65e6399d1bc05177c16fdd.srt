@@ -1,0 +1,3337 @@
+﻿1
+00:00:00,000 --> 00:00:01,199
+<i>No episódio anterior...</i>
+
+2
+00:00:01,229 --> 00:00:02,829
+Albert Einstein.
+
+3
+00:00:02,859 --> 00:00:04,854
+A sua reputação precede-o.
+
+4
+00:00:04,884 --> 00:00:07,772
+Eu, a tua mãe e irmã
+vamos viver para Itália.
+
+5
+00:00:07,802 --> 00:00:09,708
+- Vai abandonar-me?
+- Não.
+
+6
+00:00:09,738 --> 00:00:11,547
+Olho pelo teu futuro.
+
+7
+00:00:11,577 --> 00:00:14,511
+<i>- Como está a Marie?
+- <i>Maravilhosa. Ensina-me francês.</i>
+
+8
+00:00:14,541 --> 00:00:16,973
+Volta para Munique.
+É uma ordem.
+
+9
+00:00:17,003 --> 00:00:19,271
+Desculpe, Pai,
+mas não volto para a Alemanha.
+
+10
+00:00:19,301 --> 00:00:21,731
+É hora de defender a Alemanha.
+
+11
+00:00:21,942 --> 00:00:24,007
+Diz-me, meu filho, o génio,
+
+12
+00:00:24,037 --> 00:00:25,956
+como tencionas ganhar a vida
+sem emprego?
+
+13
+00:00:25,986 --> 00:00:27,397
+Vou ser professor.
+
+14
+00:00:27,427 --> 00:00:30,547
+<i>Chumbaste no exame de admissão.
+- <i>Não se repetirá.</i>
+
+15
+00:00:30,577 --> 00:00:33,164
+- Bem-vindo ao Politécnico de Zurique.
+- Desculpe, não pensei...
+
+16
+00:00:33,194 --> 00:00:37,081
+Que uma mulher pudesse entender
+a equação de Maxwell-Faraday.
+
+17
+00:00:37,111 --> 00:00:39,742
+Einstein,
+cumprimente Mileva Maric.
+
+18
+00:01:21,000 --> 00:01:24,992
+<b>S01E02
+<b>"Chapter Two"</b>
+
+19
+00:01:26,239 --> 00:01:29,235
+Obrigada, Papá. É tão bonita.
+
+20
+00:01:30,206 --> 00:01:32,420
+Cria cores maravilhosas.
+
+21
+00:01:33,006 --> 00:01:34,355
+Chama-se refracção.
+
+22
+00:01:34,583 --> 00:01:37,033
+Todas as cores estão lá,
+dentro da luz.
+
+23
+00:01:37,935 --> 00:01:40,382
+O vidro só as afasta
+e podemos vê-las.
+
+24
+00:01:41,396 --> 00:01:43,280
+Ensinaram-te isso na escola?
+
+25
+00:01:43,310 --> 00:01:45,545
+Não aprendemos Ciência
+na escola.
+
+26
+00:01:45,788 --> 00:01:47,320
+Li num livro.
+
+27
+00:01:52,545 --> 00:01:56,122
+<i>O que farás na vida,
+<i>minha brilhante Mileva?</i>
+
+28
+00:01:57,052 --> 00:01:58,502
+A energia move-se
+
+29
+00:01:58,779 --> 00:02:01,096
+e altera-se através do trabalho
+
+30
+00:02:01,496 --> 00:02:02,597
+e do calor.
+
+31
+00:02:02,627 --> 00:02:05,393
+Entra e sai dos sistemas
+que regem a nossa vida.
+
+32
+00:02:05,423 --> 00:02:08,161
+Quando esses sistemas interagem,
+procuram equilíbrio.
+
+33
+00:02:08,191 --> 00:02:11,310
+Um bloco de gelo
+numa sala quente derrete
+
+34
+00:02:11,340 --> 00:02:13,673
+e, com essa transformação
+de energia,
+
+35
+00:02:13,703 --> 00:02:16,415
+há um aumento associado
+de entropia.
+
+36
+00:02:16,445 --> 00:02:20,309
+Esse processo, como todos
+os processos naturais, é...
+
+37
+00:02:21,830 --> 00:02:23,792
+... irreversível.
+O gelo derrete.
+
+38
+00:02:23,822 --> 00:02:25,072
+Contudo...
+
+39
+00:02:31,911 --> 00:02:34,120
+Há algum problema,
+Menina Maric?
+
+40
+00:02:34,445 --> 00:02:36,095
+Comigo? Não, senhor.
+
+41
+00:02:36,203 --> 00:02:37,203
+Está confusa?
+
+42
+00:02:38,892 --> 00:02:40,080
+É apenas...
+
+43
+00:02:40,821 --> 00:02:43,795
+Se o calor é o resultado do movimento
+das moléculas subjacentes,
+
+44
+00:02:43,825 --> 00:02:45,885
+e as leis de movimento de Newton
+são reversíveis,
+
+45
+00:02:45,915 --> 00:02:48,265
+o que explica
+a irreversibilidade aqui?
+
+46
+00:02:50,090 --> 00:02:53,457
+Nesta aula, lidamos apenas
+com o que foi provado.
+
+47
+00:02:53,487 --> 00:02:55,709
+A existência de moléculas
+não foi.
+
+48
+00:02:57,766 --> 00:02:59,869
+A Menina Maric levanta
+uma boa dúvida.
+
+49
+00:02:59,899 --> 00:03:01,212
+"Herr" Einstein, por favor.
+
+50
+00:03:01,242 --> 00:03:03,042
+Estes lápis, por exemplo.
+
+51
+00:03:06,032 --> 00:03:09,952
+Claro que não saltam do chão
+para se reorganizarem na caixa,
+
+52
+00:03:09,982 --> 00:03:12,079
+mas matematicamente podiam,
+correcto?
+
+53
+00:03:12,109 --> 00:03:14,948
+As equações de Newton
+são reversíveis, teoricamente,
+
+54
+00:03:14,978 --> 00:03:17,772
+se o movimento de moléculas
+for o princípio...
+
+55
+00:03:17,802 --> 00:03:19,002
+"Herr" Einstein!
+
+56
+00:03:24,703 --> 00:03:27,288
+Agradeço o seu entusiamo,
+mas...
+
+57
+00:03:27,683 --> 00:03:29,626
+... aqui não usamos
+métodos teatrais.
+
+58
+00:03:29,656 --> 00:03:30,859
+Peço desculpa.
+
+59
+00:03:30,889 --> 00:03:31,889
+Obrigado.
+
+60
+00:03:33,512 --> 00:03:36,691
+Como eu dizia,
+um bloco de gelo derrete...
+
+61
+00:03:36,961 --> 00:03:38,261
+Menina Maric!
+
+62
+00:03:39,233 --> 00:03:40,395
+Menina Maric!
+
+63
+00:03:41,018 --> 00:03:42,261
+- Podemos falar?
+- Não tenho tempo
+
+64
+00:03:42,291 --> 00:03:43,953
+para conversas
+de circunstância.
+
+65
+00:03:43,983 --> 00:03:45,167
+Nem eu.
+
+66
+00:03:45,197 --> 00:03:47,546
+De que serve uma conversa,
+se for de circunstância?
+
+67
+00:03:48,061 --> 00:03:50,914
+Não, queria falar
+da sua pergunta na aula.
+
+68
+00:03:50,944 --> 00:03:52,893
+- Pareci aflita?
+- Desculpe?
+
+69
+00:03:52,923 --> 00:03:55,373
+Como se precisasse
+de um salvador?
+
+70
+00:03:55,702 --> 00:03:56,726
+Pelo contrário.
+
+71
+00:03:56,756 --> 00:03:59,098
+Não sei porque decidiu
+
+72
+00:03:59,128 --> 00:04:01,568
+interceder junto do Prof. Weber
+em meu nome,
+
+73
+00:04:01,598 --> 00:04:04,893
+ou porque pensa ter direito
+à minha atenção, neste momento.
+
+74
+00:04:05,234 --> 00:04:07,660
+Garanto-lhe que sou
+altamente recomendado.
+
+75
+00:04:07,690 --> 00:04:08,990
+"Herr" Einstein,
+
+76
+00:04:10,080 --> 00:04:12,080
+tenta namoriscar comigo?
+
+77
+00:04:12,655 --> 00:04:14,607
+Não era a minha intenção,
+mas...
+
+78
+00:04:14,637 --> 00:04:16,983
+Não vim para a universidade
+para namoriscar
+
+79
+00:04:17,013 --> 00:04:20,464
+ou conhecer um homem e muito menos
+para encontrar marido.
+
+80
+00:04:20,825 --> 00:04:22,815
+Receio que tenha entendido mal.
+Apenas...
+
+81
+00:04:22,845 --> 00:04:24,345
+Afaste-se de mim!
+
+82
+00:04:26,814 --> 00:04:29,164
+Meu Deus,
+o que é que lhe fez?
+
+83
+00:04:29,258 --> 00:04:30,508
+Não faço ideia.
+
+84
+00:04:31,629 --> 00:04:33,288
+Que criatura perturbada.
+
+85
+00:04:33,491 --> 00:04:35,966
+Não nos conhecemos antes da aula.
+Michele Besso.
+
+86
+00:04:35,996 --> 00:04:37,833
+Albert Einstein.
+Peço desculpa pelos lápis.
+
+87
+00:04:37,863 --> 00:04:39,526
+Não é preciso pedir desculpa.
+
+88
+00:04:39,556 --> 00:04:42,030
+foi uma demonstração
+convincente.
+
+89
+00:04:42,060 --> 00:04:45,000
+Pensei que veríamos uma
+transferência de energia explosiva
+
+90
+00:04:45,010 --> 00:04:46,641
+do crânio do Professor Weber.
+
+91
+00:04:46,671 --> 00:04:49,225
+Teria sido
+fantasticamente irreversível.
+
+92
+00:04:49,760 --> 00:04:51,131
+Marcel Grossmann.
+
+93
+00:04:51,516 --> 00:04:53,871
+Íamos almoçar.
+Junta-se a nós?
+
+94
+00:04:53,901 --> 00:04:54,901
+Porque não?
+
+95
+00:05:08,156 --> 00:05:09,516
+PRIMAVERA
+1897
+
+96
+00:05:59,054 --> 00:06:00,368
+Menina Maric.
+
+97
+00:06:03,237 --> 00:06:05,841
+Pensa que está sozinho
+no edifício?
+
+98
+00:06:05,871 --> 00:06:09,016
+- Desculpe. Incomodei-a?
+- A sua música é...
+
+99
+00:06:10,637 --> 00:06:13,830
+... satisfatória,
+mas torna-se difícil concentrar-me.
+
+100
+00:06:14,468 --> 00:06:15,595
+Desculpe.
+
+101
+00:06:16,346 --> 00:06:18,031
+Mozart ajuda-me a pensar.
+
+102
+00:06:18,632 --> 00:06:21,313
+Não é necessário pensar muito
+neste trabalho.
+
+103
+00:06:21,712 --> 00:06:25,529
+Não se seguirmos
+estas instruções deselegantes.
+
+104
+00:06:25,867 --> 00:06:27,771
+Deve haver
+uma abordagem melhor, não?
+
+105
+00:06:27,801 --> 00:06:30,828
+Creio que seguir as instruções
+nos permite passar.
+
+106
+00:06:30,858 --> 00:06:33,776
+Quer apenas passar nos exames?
+
+107
+00:06:33,806 --> 00:06:35,607
+- Quero uma licenciatura. Não quer?
+- Certamente.
+
+108
+00:06:35,637 --> 00:06:38,102
+Mas estudo Ciências porque...
+
+109
+00:06:38,488 --> 00:06:39,585
+Bom...
+
+110
+00:06:39,615 --> 00:06:43,850
+Quero descobrir modos novos
+de compreender o mundo que me rodeia.
+
+111
+00:06:44,229 --> 00:06:46,709
+Não sabe qual será
+o resultado?
+
+112
+00:06:47,855 --> 00:06:51,493
+Saber o resultado
+é reconfortante.
+
+113
+00:06:54,142 --> 00:06:55,776
+Descubra o silêncio,
+
+114
+00:06:56,311 --> 00:06:57,511
+"Herr" Einstein.
+
+115
+00:06:59,184 --> 00:07:00,184
+Por favor.
+
+116
+00:07:36,563 --> 00:07:38,101
+<i>Ele é um perigo!</i>
+
+117
+00:07:38,131 --> 00:07:41,786
+Se se tivesse arrependido
+dos danos,
+
+118
+00:07:41,816 --> 00:07:44,145
+talvez estivesse disposto
+a ignorar,
+
+119
+00:07:44,502 --> 00:07:47,000
+mas o idiota teve
+o atrevimento de afirmar
+
+120
+00:07:47,010 --> 00:07:49,366
+que a culpa era
+das minhas instruções.
+
+121
+00:07:49,396 --> 00:07:51,652
+Fazia mais
+do que era necessário.
+
+122
+00:07:51,682 --> 00:07:53,544
+Não apontemos falhas
+ao entusiasmo.
+
+123
+00:07:53,574 --> 00:07:55,173
+Entusiasmo? É preguiçoso.
+
+124
+00:07:55,203 --> 00:07:57,239
+Não terminou nenhum
+dos meus trabalhos.
+
+125
+00:07:57,269 --> 00:08:00,210
+Mas passou nos exames de Inverno
+com distinção, correcto?
+
+126
+00:08:00,240 --> 00:08:02,552
+Não entendo o que vê nele.
+
+127
+00:08:02,582 --> 00:08:03,709
+Potencial.
+
+128
+00:08:04,169 --> 00:08:06,985
+Einstein é talvez a mente
+mais brilhante que já ensinei.
+
+129
+00:08:07,015 --> 00:08:10,222
+Concordo que pode ser insolente,
+mas é jovem.
+
+130
+00:08:11,067 --> 00:08:13,795
+Quem não fazia disparates
+com a idade dele?
+
+131
+00:08:14,330 --> 00:08:15,973
+Eu falarei com ele.
+
+132
+00:08:28,206 --> 00:08:29,632
+B de Boltzmann?
+
+133
+00:08:31,294 --> 00:08:32,494
+Também?
+
+134
+00:08:32,960 --> 00:08:36,432
+Meio período sobre gases e o Weber
+não mencionou a teoria cinética.
+
+135
+00:08:37,399 --> 00:08:40,675
+Começo a pensar que aprendo mais
+com um bom livro.
+
+136
+00:08:40,705 --> 00:08:43,085
+Infelizmente,
+cheguei primeiro a este.
+
+137
+00:08:43,630 --> 00:08:44,977
+Não me importo de partilhar.
+
+138
+00:08:45,184 --> 00:08:46,911
+Talvez mo possa ler.
+
+139
+00:08:49,676 --> 00:08:52,061
+O violino decidiu retaliar?
+
+140
+00:08:55,353 --> 00:08:58,277
+Devia ter ouvido o conselho
+e seguido as instruções.
+
+141
+00:08:58,860 --> 00:09:00,661
+Oxalá tenha aprendido a lição.
+
+142
+00:09:02,054 --> 00:09:04,758
+Porque é tão cruel comigo,
+Menina Maric?
+
+143
+00:09:05,725 --> 00:09:06,925
+"Herr" Einstein,
+
+144
+00:09:07,275 --> 00:09:08,955
+- Venha comigo.
+- Sr. Professor,
+
+145
+00:09:08,985 --> 00:09:10,270
+falava com a Menina Maric...
+
+146
+00:09:10,300 --> 00:09:12,943
+Tenho poucos minutos
+antes da aula seguinte.
+
+147
+00:09:13,225 --> 00:09:14,225
+Claro.
+
+148
+00:09:15,460 --> 00:09:18,450
+Se decidir partilhar,
+bata-me à porta.
+
+149
+00:09:27,580 --> 00:09:28,580
+Por favor,
+
+150
+00:09:28,763 --> 00:09:30,134
+dê-lhe uma oportunidade.
+
+151
+00:09:30,763 --> 00:09:34,661
+- Deixe-a fazer o exame de admissão.
+- Esta é uma escola para rapazes.
+
+152
+00:09:34,691 --> 00:09:37,789
+E tem a melhor educação científica
+da Europa de Leste.
+
+153
+00:09:37,819 --> 00:09:40,344
+O que faria a sua filha
+com tal educação?
+
+154
+00:09:40,374 --> 00:09:43,614
+- Conversaria no grupo de costura?
+- A Mileva não costura.
+
+155
+00:09:43,923 --> 00:09:47,823
+Passa a noite acordada, a encher
+o cérebro com coisas que não entendo.
+
+156
+00:09:47,853 --> 00:09:50,097
+Como sabe que ela as entende?
+
+157
+00:09:51,665 --> 00:09:54,078
+Receio não poder ajudar,
+Sr. Maric.
+
+158
+00:09:58,571 --> 00:10:02,196
+Miza, podes mostrar ao director
+o que lês?
+
+159
+00:10:04,158 --> 00:10:05,281
+É um adereço?
+
+160
+00:10:05,311 --> 00:10:08,430
+Pensou mesmo
+que isso me iria convencer?
+
+161
+00:10:09,041 --> 00:10:10,706
+Como encontraste esse livro?
+
+162
+00:10:10,736 --> 00:10:12,405
+Fomos de comboio até Viena.
+
+163
+00:10:12,435 --> 00:10:15,373
+Não há livros sobre teoria
+electromagnética em casa.
+
+164
+00:10:15,403 --> 00:10:19,012
+Os métodos de Faraday
+despertaram-lhe o interesse?
+
+165
+00:10:19,042 --> 00:10:20,007
+Sim.
+
+166
+00:10:20,037 --> 00:10:22,467
+Os conceitos de campos
+e potenciais de Faraday
+
+167
+00:10:22,497 --> 00:10:24,000
+são o cenário mais natural
+
+168
+00:10:24,010 --> 00:10:26,949
+para as descobertas matemáticas
+de Green e Gauss.
+
+169
+00:10:31,292 --> 00:10:34,501
+Não é comum encontrar um aluno
+com o seu enorme potencial.
+
+170
+00:10:34,531 --> 00:10:36,854
+Contudo,
+nem todos os professores
+
+171
+00:10:36,884 --> 00:10:39,163
+têm paciência
+para a sua excentricidade.
+
+172
+00:10:39,193 --> 00:10:41,375
+- Não compreendo.
+- Falta às aulas,
+
+173
+00:10:41,405 --> 00:10:44,412
+não faz trabalhos
+e desafia os professores.
+
+174
+00:10:44,442 --> 00:10:47,769
+Sinceramente, dá a entender
+que sabe todas as respostas.
+
+175
+00:10:47,799 --> 00:10:50,850
+Pelo contrário,
+só tenho perguntas.
+
+176
+00:10:50,880 --> 00:10:53,221
+Como devo encontrar as respostas
+sem perguntar?
+
+177
+00:10:53,251 --> 00:10:55,457
+Ao respeitar os fundamentos.
+
+178
+00:10:56,096 --> 00:10:59,049
+E ao prestar atenção
+ao que deve.
+
+179
+00:10:59,490 --> 00:11:03,949
+A biblioteca não é um lugar
+para cortejar uma mulher.
+
+180
+00:11:04,250 --> 00:11:06,225
+- Senhor?
+- Não sou cego.
+
+181
+00:11:06,255 --> 00:11:10,051
+Vi-o conversar várias vezes
+de perto com a Menina Maric.
+
+182
+00:11:10,081 --> 00:11:13,485
+- Mal a conheço e não estava...
+- Óptimo.
+
+183
+00:11:13,515 --> 00:11:14,961
+Continue assim.
+
+184
+00:11:15,253 --> 00:11:17,594
+Os eslavos são perigosos.
+
+185
+00:11:18,049 --> 00:11:22,758
+Bom, não me importei de o defender
+perante os professores que duvidam.
+
+186
+00:11:22,788 --> 00:11:24,618
+- Obrigado, mas...
+- Quando se formar,
+
+187
+00:11:24,648 --> 00:11:27,544
+posso ser útil
+e garantir o seu futuro,
+
+188
+00:11:27,574 --> 00:11:31,762
+se provar que a minha fé
+tem fundamento.
+
+189
+00:11:32,843 --> 00:11:33,979
+Claro.
+
+190
+00:11:34,278 --> 00:11:35,730
+Farei o meu melhor.
+
+191
+00:11:35,859 --> 00:11:36,859
+Óptimo.
+
+192
+00:12:04,903 --> 00:12:06,957
+- Menina Maric.
+- Boa noite.
+
+193
+00:12:07,499 --> 00:12:08,693
+"Herr" Einstein está?
+
+194
+00:12:08,723 --> 00:12:11,911
+Não está. Creio que está em Aarau
+com a Marie.
+
+195
+00:12:12,101 --> 00:12:14,147
+- Marie?
+- A noiva dele.
+
+196
+00:12:17,817 --> 00:12:19,110
+Não deixa mensagem?
+
+197
+00:12:19,289 --> 00:12:20,770
+Apenas isto.
+
+198
+00:12:29,607 --> 00:12:32,745
+<i>Já tinha uma vida difícil
+<i>por nascer manca.</i>
+
+199
+00:12:32,775 --> 00:12:34,333
+Isso vai arruiná-la.
+
+200
+00:12:34,709 --> 00:12:39,481
+A nossa filha não será rebaixada por
+noções antiquadas de feminilidade.
+
+201
+00:12:39,511 --> 00:12:43,884
+Ela passou no exame de admissão
+e teve a nota mais alta.
+
+202
+00:12:43,914 --> 00:12:46,716
+Pensas que o mundo lhe abrirá
+caminho apenas porque desejas?
+
+203
+00:12:46,746 --> 00:12:48,145
+Não por desejo,
+
+204
+00:12:48,175 --> 00:12:50,676
+mas porque luto por ela.
+Lá fora!
+
+205
+00:12:51,038 --> 00:12:54,673
+Aqui, na minha casa,
+com a minha mulher? Não!
+
+206
+00:12:55,042 --> 00:12:57,103
+Não discutimos o assunto.
+
+207
+00:12:57,521 --> 00:13:00,493
+Nenhum homem se casou
+pela mente de uma mulher.
+
+208
+00:13:02,581 --> 00:13:03,825
+Marija...
+
+209
+00:13:09,516 --> 00:13:11,020
+Não se preocupe, Mãe.
+
+210
+00:13:11,050 --> 00:13:12,811
+Não terei de me casar.
+
+211
+00:13:12,963 --> 00:13:14,835
+Tenciono ser cientista.
+
+212
+00:13:17,087 --> 00:13:19,227
+<i>Minha filha linda!</i>
+
+213
+00:13:19,257 --> 00:13:22,096
+É uma alegria celebrar
+o teu nascimento.
+
+214
+00:13:22,168 --> 00:13:24,796
+Não tarda muito vamos perder-te
+para outro homem,
+
+215
+00:13:24,826 --> 00:13:26,766
+mas podia ser pior
+do que o Albert.
+
+216
+00:13:26,796 --> 00:13:28,071
+Não por muito.
+
+217
+00:13:30,679 --> 00:13:33,528
+Quem diria que ao convidar-te
+para a nossa casa, há anos,
+
+218
+00:13:33,558 --> 00:13:37,116
+aumentaríamos tanto
+o nosso grupo alegre?
+
+219
+00:13:37,635 --> 00:13:40,912
+A cara Maja é tão tua irmã
+como das nossas filhas.
+
+220
+00:13:40,942 --> 00:13:43,088
+Agora,
+trouxeste-nos o Sr. Besso.
+
+221
+00:13:43,118 --> 00:13:47,285
+É uma companhia encantadora.
+Espero que regresse mais vezes.
+
+222
+00:13:47,315 --> 00:13:49,592
+Sim, a Anna espera o mesmo.
+
+223
+00:13:49,622 --> 00:13:51,310
+Julius, basta!
+
+224
+00:13:51,340 --> 00:13:53,473
+Mas, mais importante,
+
+225
+00:13:54,104 --> 00:13:55,434
+obrigado, Albert,
+
+226
+00:13:55,464 --> 00:13:58,286
+por fazeres a nossa Marie
+tão feliz.
+
+227
+00:14:00,563 --> 00:14:01,563
+À Marie!
+
+228
+00:14:01,593 --> 00:14:03,945
+- À Marie!
+- À Marie!
+
+229
+00:14:10,296 --> 00:14:11,439
+O que aconteceu?
+
+230
+00:14:12,209 --> 00:14:14,806
+Usava um tubo de Kundt,
+
+231
+00:14:14,836 --> 00:14:18,405
+para medir o efeito da temperatura
+na velocidade das ondas sonoras,
+
+232
+00:14:18,435 --> 00:14:20,561
+e, ao tentar, ampliá-las,
+
+233
+00:14:20,591 --> 00:14:22,035
+esqueci-me de compensar
+
+234
+00:14:22,065 --> 00:14:24,762
+a natureza inflamável...
+- <i>Chéri, chéri.</i>
+
+235
+00:14:24,792 --> 00:14:26,553
+<i>Ce que tu dis n'a aucun sens.</i>
+
+236
+00:14:27,513 --> 00:14:29,380
+Desculpa, não compreendo.
+
+237
+00:14:29,410 --> 00:14:32,879
+Exactamente. Nunca prestaste
+atenção nas aulas de Francês
+
+238
+00:14:32,909 --> 00:14:35,519
+e, infelizmente,
+a física não é o meu forte.
+
+239
+00:14:36,965 --> 00:14:37,987
+Desculpa.
+
+240
+00:14:38,941 --> 00:14:42,043
+Claro,
+não queres falar de física.
+
+241
+00:14:47,547 --> 00:14:49,395
+Não quero falar de nada.
+
+242
+00:15:00,356 --> 00:15:02,087
+Leva-me a passear.
+
+243
+00:15:10,149 --> 00:15:12,972
+Não sei agradecer
+a recepção da sua família.
+
+244
+00:15:13,002 --> 00:15:14,679
+- Foi um prazer.
+- O comboio não espera.
+
+245
+00:15:14,709 --> 00:15:16,887
+Calma, filho, há muito tempo.
+
+246
+00:15:24,702 --> 00:15:26,427
+Menina Winteler...
+
+247
+00:15:26,457 --> 00:15:29,622
+Espero que regresse em breve
+Sr. Besso.
+
+248
+00:15:33,540 --> 00:15:36,606
+- Estás corada.
+- Eu podia ir a Milão.
+
+249
+00:15:37,054 --> 00:15:38,054
+Talvez.
+
+250
+00:15:38,836 --> 00:15:41,606
+Mas a família do Grossmann
+tem uma casa no lago
+
+251
+00:15:41,636 --> 00:15:44,160
+e fui convidado.
+
+252
+00:15:44,347 --> 00:15:46,071
+Gosto de velejar.
+
+253
+00:15:49,149 --> 00:15:50,149
+Albert,
+
+254
+00:15:51,004 --> 00:15:53,154
+dir-me-ias
+se algo te incomodasse?
+
+255
+00:15:53,184 --> 00:15:54,812
+Claro, Mariechien.
+
+256
+00:16:05,411 --> 00:16:07,173
+Sabes que sou moderno, Albert,
+
+257
+00:16:07,203 --> 00:16:09,642
+mas a minha Marie arrisca
+muito contigo.
+
+258
+00:16:09,672 --> 00:16:12,086
+Espero que a trates bem.
+
+259
+00:16:13,891 --> 00:16:15,362
+Boa viagem, filho.
+
+260
+00:16:28,854 --> 00:16:31,572
+Céus, fecho os olhos
+e só vejo o rosto dela.
+
+261
+00:16:31,602 --> 00:16:34,094
+Esta conversa é insuportável.
+
+262
+00:16:34,124 --> 00:16:35,954
+Devias ter ido connosco.
+
+263
+00:16:35,984 --> 00:16:39,800
+Há uma terceira irmã.
+Terias apreciado a companhia dela.
+
+264
+00:16:39,810 --> 00:16:41,024
+Não procuro uma esposa.
+
+265
+00:16:41,054 --> 00:16:44,024
+Quem falou disso?
+Falo de amor.
+
+266
+00:16:44,054 --> 00:16:46,435
+Jesus, salvai-me.
+Albert, por favor.
+
+267
+00:16:47,950 --> 00:16:48,954
+Albert!
+
+268
+00:16:49,277 --> 00:16:51,224
+- O quê?
+- A tua noiva.
+
+269
+00:16:51,663 --> 00:16:53,567
+Quero os pormenores sórdidos.
+
+270
+00:16:54,266 --> 00:16:58,020
+Não entendo porque pensam
+que estamos noivos.
+
+271
+00:16:58,050 --> 00:17:00,205
+Não entendo a tua relutância.
+
+272
+00:17:00,578 --> 00:17:01,911
+Ela é linda,
+
+273
+00:17:01,941 --> 00:17:03,423
+é bondosa.
+
+274
+00:17:03,781 --> 00:17:05,813
+E ama-te profundamente.
+
+275
+00:17:07,357 --> 00:17:09,700
+Não sei se quero passar a vida
+com uma mulher
+
+276
+00:17:09,710 --> 00:17:11,642
+que não tem
+uma conversa cativante
+
+277
+00:17:11,672 --> 00:17:13,333
+sobre a natureza das coisas.
+
+278
+00:17:14,158 --> 00:17:16,288
+Esse não é o objectivo
+das esposas.
+
+279
+00:17:16,358 --> 00:17:18,047
+Desta vez,
+concordo com o Marcel.
+
+280
+00:17:18,077 --> 00:17:20,220
+Porque aturo
+essa burguesia aborrecida?
+
+281
+00:17:20,250 --> 00:17:23,664
+Porque queres os meus apontamentos
+de Geometria, boémio falso.
+
+282
+00:17:25,316 --> 00:17:26,321
+Muito bem.
+
+283
+00:17:27,756 --> 00:17:28,760
+Aqui está.
+
+284
+00:17:29,352 --> 00:17:31,582
+Aquela manca estranha
+passou por cá.
+
+285
+00:17:31,612 --> 00:17:32,746
+Manca?
+
+286
+00:17:34,019 --> 00:17:35,329
+Falas da Mileva?
+
+287
+00:17:40,704 --> 00:17:43,346
+Ela tem um problema no andar,
+não tem?
+
+288
+00:17:43,707 --> 00:17:45,513
+Mas adoro a voz dela.
+
+289
+00:17:54,192 --> 00:17:55,258
+Menina Maric!
+
+290
+00:17:55,288 --> 00:17:56,572
+Menina Maric.
+
+291
+00:17:57,290 --> 00:17:59,591
+Obrigado por me deixar o livro.
+
+292
+00:17:59,621 --> 00:18:01,901
+Foi inevitável
+pensar nos lápis.
+
+293
+00:18:01,931 --> 00:18:03,781
+Da nossa primeira aula?
+
+294
+00:18:03,811 --> 00:18:06,314
+Se pensarmos na entropia
+como Boltzmann,
+
+295
+00:18:06,344 --> 00:18:08,754
+como uma medida
+de probabilidade,
+
+296
+00:18:09,626 --> 00:18:13,581
+o processo é irreversível,
+porque o número de configurações
+
+297
+00:18:13,611 --> 00:18:16,491
+dos lápis fora da caixa
+é quase infinito,
+
+298
+00:18:16,521 --> 00:18:19,542
+mas há poucas possibilidades
+para caberem na caixa.
+
+299
+00:18:19,572 --> 00:18:22,200
+Ainda bem que gostou.
+Se me der licença...
+
+300
+00:18:31,375 --> 00:18:32,559
+Não vá.
+
+301
+00:18:33,348 --> 00:18:36,125
+Falta pouco
+para o fim do período.
+
+302
+00:18:36,628 --> 00:18:40,305
+Há coisas que quero
+discutir consigo, como...
+
+303
+00:18:40,335 --> 00:18:42,076
+A probabilidade do caos.
+
+304
+00:18:44,075 --> 00:18:45,312
+Mexe comigo.
+
+305
+00:18:48,589 --> 00:18:49,996
+É um truque.
+
+306
+00:18:50,831 --> 00:18:52,786
+Não, eu...
+
+307
+00:18:52,816 --> 00:18:55,021
+- Como assim?
+- Sei que está comprometido.
+
+308
+00:18:56,144 --> 00:18:59,599
+"Herr" Grossmann
+falou-me da Marie.
+
+309
+00:19:00,657 --> 00:19:03,150
+Quer divertir-se às minhas...
+
+310
+00:19:06,524 --> 00:19:07,524
+Pare!
+
+311
+00:19:07,554 --> 00:19:09,773
+Mas a Marie não é...
+
+312
+00:19:09,803 --> 00:19:11,041
+Não importa.
+
+313
+00:19:11,346 --> 00:19:12,350
+Não posso.
+
+314
+00:19:12,536 --> 00:19:14,120
+Não é uma possibilidade.
+
+315
+00:19:14,150 --> 00:19:15,275
+Porque não?
+
+316
+00:19:21,582 --> 00:19:24,103
+Estão ambos rosados.
+As férias de Verão
+
+317
+00:19:24,133 --> 00:19:26,931
+trataram-vos bem.
+- Ainda me imagino num barco à vela,
+
+318
+00:19:26,961 --> 00:19:28,469
+com "schnapps" na mão.
+
+319
+00:19:28,499 --> 00:19:30,900
+Os Wintelers esperavam ver-te
+em Aarau.
+
+320
+00:19:31,094 --> 00:19:31,900
+Sim, bom...
+
+321
+00:19:31,910 --> 00:19:34,900
+Besso, se fechasses os olhos,
+confundia-te com a minha mãe.
+
+322
+00:19:34,910 --> 00:19:38,425
+Passei o Verão sem ouvir
+o teu escárnio constante.
+
+323
+00:19:38,455 --> 00:19:40,821
+- Como sobrevivi?
+- É um mistério.
+
+324
+00:19:41,365 --> 00:19:44,685
+Albert, quase me esqueci.
+Tens de ler este livro.
+
+325
+00:19:44,715 --> 00:19:46,832
+Mach, "A Ciência da Mecânica".
+
+326
+00:19:46,862 --> 00:19:48,867
+Defende
+que se reconsidere Newton.
+
+327
+00:19:52,143 --> 00:19:54,652
+Que se reconsidere Newton.
+Estás a ouvir?
+
+328
+00:19:54,938 --> 00:19:55,938
+O quê?
+
+329
+00:19:56,158 --> 00:19:57,903
+Meu Deus, é um impostor.
+
+330
+00:19:57,933 --> 00:19:59,804
+Grossmann, chama a polícia.
+
+331
+00:20:00,732 --> 00:20:02,114
+Bem-vindos de volta.
+
+332
+00:20:04,170 --> 00:20:05,178
+Senhor Professor?
+
+333
+00:20:05,659 --> 00:20:08,658
+Teve notícias da Menina Maric?
+
+334
+00:20:08,688 --> 00:20:10,649
+Pensei
+que não tinha interesse nela.
+
+335
+00:20:10,679 --> 00:20:12,629
+Não tenho.
+
+336
+00:20:12,659 --> 00:20:15,278
+É puramente intelectual.
+Ela emprestou-me um livro.
+
+337
+00:20:15,308 --> 00:20:19,619
+Se quer saber, ela frequenta aulas
+em Heidelberg e não regressará.
+
+338
+00:20:20,868 --> 00:20:22,764
+Lembra-se da nossa conversa?
+
+339
+00:20:22,794 --> 00:20:24,600
+Atenção e desempenho.
+
+340
+00:20:25,108 --> 00:20:26,567
+Ser-lhe-ão úteis.
+
+341
+00:20:26,812 --> 00:20:27,817
+Sim, senhor.
+
+342
+00:20:31,323 --> 00:20:33,807
+UNIVERSIDADE DE HEIDELBERG
+1898
+
+343
+00:20:40,608 --> 00:20:41,914
+Fritz, olha.
+
+344
+00:20:50,424 --> 00:20:51,788
+Não acredito.
+
+345
+00:20:52,075 --> 00:20:54,208
+O que faz aqui esta rapariga?
+
+346
+00:21:16,352 --> 00:21:17,733
+Bom dia a todos.
+
+347
+00:21:21,536 --> 00:21:22,761
+Boa tarde.
+
+348
+00:21:22,791 --> 00:21:24,830
+Sou o Professor Philipp Lenard.
+
+349
+00:21:24,860 --> 00:21:26,599
+Sejam bem-vindos
+
+350
+00:21:26,629 --> 00:21:29,194
+aos Princípios Cinéticos
+da Física Teórica.
+
+351
+00:21:29,467 --> 00:21:32,056
+Ao longo do período,
+exploraremos
+
+352
+00:21:32,086 --> 00:21:34,480
+um universo vasto,
+mas infinitesimal...
+
+353
+00:21:34,510 --> 00:21:36,541
+<i>Prezada Menina Maric,</i>
+
+354
+00:21:36,572 --> 00:21:39,487
+<i>a minha mente divagou para si
+<i>mais do que uma vez, no Verão.</i>
+
+355
+00:21:39,810 --> 00:21:43,128
+<i>Perdoe a aflição que lhe causei
+<i>no nosso último encontro.</i>
+
+356
+00:21:43,433 --> 00:21:45,890
+<i>Esperava poder pedir-lhe desculpa
+<i>pessoalmente,</i>
+
+357
+00:21:45,920 --> 00:21:47,505
+<i>mas, pelo que sei,</i>
+
+358
+00:21:47,535 --> 00:21:49,726
+<i>foi atraída para Heidelberg.</i>
+
+359
+00:21:49,924 --> 00:21:51,412
+<i>Se ficar aborrecida,</i>
+
+360
+00:21:51,442 --> 00:21:54,407
+<i>escreva e partilhe comigo
+<i>porque decidiu partir.</i>
+
+361
+00:21:54,645 --> 00:21:55,739
+"Fräulein"?
+
+362
+00:21:56,566 --> 00:21:57,862
+Chegou uma carta.
+
+363
+00:21:58,949 --> 00:22:02,411
+Devia encontrar um homem
+que carregue os seus livros.
+
+364
+00:22:02,662 --> 00:22:04,111
+Obrigada, "Frau" Fricke.
+
+365
+00:22:41,867 --> 00:22:46,562
+Se as moléculas se moverem
+a mais de 400 metros por segundo,
+
+366
+00:22:46,592 --> 00:22:49,845
+então, usando estes resultados,
+podemos determinar
+
+367
+00:22:49,875 --> 00:22:54,252
+que não viajam a mais
+de 1/100 de um fio de cabelo.
+
+368
+00:22:54,450 --> 00:22:55,807
+<i>Prezado senhor,</i>
+
+369
+00:22:55,837 --> 00:22:57,542
+<i>tenho de lhe pedir desculpa.</i>
+
+370
+00:22:57,803 --> 00:22:59,419
+<i>As suas instruções
+<i>foram claras.</i>
+
+371
+00:22:59,676 --> 00:23:02,349
+<i>Devia escrever-lhe
+<i>quando estivesse aborrecida.</i>
+
+372
+00:23:02,379 --> 00:23:04,435
+<i>Mas nunca estou aborrecida.</i>
+
+373
+00:23:04,465 --> 00:23:07,096
+<i>Fui obrigada a ignorar
+<i>as instruções</i>
+
+374
+00:23:07,126 --> 00:23:09,519
+<i>após uma aula
+<i>do Professor Lenard</i>
+
+375
+00:23:10,054 --> 00:23:13,331
+<i>a explorar a teoria cinética
+<i>do calor e dos gases,</i>
+
+376
+00:23:13,603 --> 00:23:16,825
+<i>como sempre esperámos
+<i>ouvir do Weber.</i>
+
+377
+00:23:17,271 --> 00:23:20,510
+<i>Não acreditará
+<i>no que esta aula revelou.</i>
+
+378
+00:23:21,695 --> 00:23:23,629
+Quero saber porquê, senhor.
+
+379
+00:23:23,659 --> 00:23:24,669
+O quê?
+
+380
+00:23:24,699 --> 00:23:27,835
+Porque há uma ligação entre
+os fluxos térmicos e as temperaturas?
+
+381
+00:23:27,865 --> 00:23:30,242
+Porque é que os gases exercem
+pressões diferentes?
+
+382
+00:23:30,272 --> 00:23:31,638
+Se explorarmos
+a teoria cinética...
+
+383
+00:23:31,668 --> 00:23:33,962
+Não é uma exploração,
+é uma aula.
+
+384
+00:23:33,992 --> 00:23:36,542
+- Peguem no lápis.
+- A física é dinâmica!
+
+385
+00:23:36,572 --> 00:23:38,690
+Para si, o conhecimento
+é um testemunho,
+
+386
+00:23:38,720 --> 00:23:41,229
+mas a busca científica
+não é uma corrida.
+
+387
+00:23:41,259 --> 00:23:44,083
+- Devia ser uma aventura.
+- "Herr" Einstein, basta!
+
+388
+00:23:45,546 --> 00:23:49,000
+Nunca vi tanto desrespeito,
+em anos de ensino.
+
+389
+00:23:49,210 --> 00:23:51,247
+Não será tolerado. Fui claro?
+
+390
+00:23:51,277 --> 00:23:53,359
+Não leve isto a peito.
+
+391
+00:23:53,389 --> 00:23:55,566
+É a base da termodinâmica
+que questiono.
+
+392
+00:23:55,596 --> 00:23:56,769
+Não "Herr" Weber.
+
+393
+00:23:56,799 --> 00:23:59,770
+Chame-me Sr. Professor,
+imbecil impudente!
+
+394
+00:24:01,687 --> 00:24:04,508
+Peço desculpa, Sr. Professor,
+mas não compreendo...
+
+395
+00:24:04,538 --> 00:24:07,233
+As leis termodinâmicas são
+observáveis e prováveis.
+
+396
+00:24:07,263 --> 00:24:08,388
+Não há nada a questionar.
+
+397
+00:24:08,418 --> 00:24:11,891
+Não acha fascinante que embora
+as moléculas pequenas de gás
+
+398
+00:24:11,921 --> 00:24:14,740
+se movam a uma velocidade
+quase incompreensível,
+
+399
+00:24:14,770 --> 00:24:17,596
+quase não percorram
+qualquer distância?
+
+400
+00:24:17,626 --> 00:24:19,836
+Essas ideias radicais
+são uma doença.
+
+401
+00:24:20,679 --> 00:24:22,203
+Quem o infectou?
+
+402
+00:24:22,641 --> 00:24:24,356
+Foi Boltzmann? Mach?
+
+403
+00:24:24,781 --> 00:24:25,958
+Lenard, na verdade.
+
+404
+00:24:25,988 --> 00:24:28,231
+A Menina Maric falou-me
+de uma aula dele...
+
+405
+00:24:28,261 --> 00:24:31,661
+Outra vez essa mulher!
+Não lhe disse que é perigosa?
+
+406
+00:24:35,411 --> 00:24:36,760
+A Menina Maric
+
+407
+00:24:36,919 --> 00:24:38,613
+apenas lhe mostrou
+
+408
+00:24:38,643 --> 00:24:43,406
+a grande inteligência que tem,
+contudo trata-a com desdém.
+
+409
+00:24:45,368 --> 00:24:46,985
+Que afronta lhe fez?
+
+410
+00:24:48,591 --> 00:24:51,572
+É muito esperto, Einstein.
+
+411
+00:24:51,849 --> 00:24:53,243
+Mas tem um defeito.
+
+412
+00:24:55,378 --> 00:24:57,331
+Nunca deixa
+que lhe digam nada.
+
+413
+00:25:01,950 --> 00:25:03,085
+Desejo-lhe sorte.
+
+414
+00:25:04,075 --> 00:25:06,049
+É evidente
+que só lhe posso oferecer isso.
+
+415
+00:25:08,939 --> 00:25:10,174
+Está zangado comigo?
+
+416
+00:25:10,204 --> 00:25:11,838
+Zangado? Claro que não.
+
+417
+00:25:12,259 --> 00:25:14,398
+O Albert nem deve estar...
+
+418
+00:25:15,208 --> 00:25:16,378
+Nem o quê?
+
+419
+00:25:16,408 --> 00:25:18,425
+Sabes como ele é.
+
+420
+00:25:18,455 --> 00:25:20,351
+Distrai-se?
+
+421
+00:25:20,381 --> 00:25:21,381
+Sim.
+
+422
+00:25:22,150 --> 00:25:25,156
+Deixa-se consumir
+pelo que tem diante dele.
+
+423
+00:25:25,927 --> 00:25:27,235
+Pode ser encantador,
+
+424
+00:25:27,383 --> 00:25:29,577
+mas também é muito frustrante.
+
+425
+00:25:30,322 --> 00:25:32,396
+Se te sentes melhor,
+não me escreve
+
+426
+00:25:32,426 --> 00:25:35,984
+desde que voltou para Zurique.
+Nem um postal me enviou.
+
+427
+00:25:37,192 --> 00:25:39,089
+Tenho saudades dele, suponho.
+
+428
+00:25:39,899 --> 00:25:40,906
+Eu sei.
+
+429
+00:25:41,100 --> 00:25:42,528
+Aposto que ele gostava de chá,
+
+430
+00:25:42,558 --> 00:25:44,812
+ao estudar tantas horas.
+Concordas?
+
+431
+00:25:45,043 --> 00:25:47,869
+O meu irmão não sabe
+a sorte que tem.
+
+432
+00:25:48,980 --> 00:25:50,517
+Posso ver este?
+
+433
+00:25:50,547 --> 00:25:51,853
+Claro, "Fräulein".
+
+434
+00:25:52,103 --> 00:25:53,141
+Obrigada.
+
+435
+00:26:31,143 --> 00:26:32,360
+Sr. Professor.
+
+436
+00:26:33,958 --> 00:26:36,085
+Se me der licença,
+o meu nome é...
+
+437
+00:26:36,115 --> 00:26:37,271
+Mileva Maric.
+
+438
+00:26:38,173 --> 00:26:40,988
+Não perdemos de vista
+a única mulher da sala.
+
+439
+00:26:41,240 --> 00:26:42,485
+Sim, bom...
+
+440
+00:26:43,300 --> 00:26:45,629
+Tento entender
+o teorema da equipartição
+
+441
+00:26:45,659 --> 00:26:47,784
+e se se aplica
+aos gases diatómicos.
+
+442
+00:26:47,814 --> 00:26:49,771
+Como distribuo a energia?
+
+443
+00:26:49,801 --> 00:26:51,800
+De facto, aplica-se.
+
+444
+00:26:51,830 --> 00:26:55,111
+Usa o teorema
+exactamente como antes.
+
+445
+00:26:55,141 --> 00:26:57,882
+Então divide a energia
+por igual,
+
+446
+00:26:57,912 --> 00:26:59,694
+dando aos modos de rotação
+e vibração
+
+447
+00:26:59,724 --> 00:27:01,891
+a mesma energia da translação?
+
+448
+00:27:02,771 --> 00:27:04,992
+Domina muito bem esta matéria.
+
+449
+00:27:05,022 --> 00:27:06,785
+Com quem mais estudou?
+
+450
+00:27:06,815 --> 00:27:09,661
+O teorema da equiparação?
+Apenas com o senhor.
+
+451
+00:27:09,691 --> 00:27:12,277
+Mas li quando estudei
+no Politécnico de Zurique.
+
+452
+00:27:12,307 --> 00:27:15,126
+Lá, as instruções
+sobre termodinâmica eram...
+
+453
+00:27:16,105 --> 00:27:17,105
+... escassas.
+
+454
+00:27:18,616 --> 00:27:23,000
+Veio assistir às minhas aulas
+por prazer?
+
+455
+00:27:23,010 --> 00:27:23,991
+Não, senhor.
+
+456
+00:27:24,363 --> 00:27:27,312
+Aliás, sim.
+Gostei muito das aulas.
+
+457
+00:27:27,342 --> 00:27:29,771
+Escrevi um ensaio
+sobre teoria cinética.
+
+458
+00:27:30,301 --> 00:27:32,583
+Esperava que o pudesse ler.
+
+459
+00:27:32,613 --> 00:27:34,212
+Se considerar que mereço,
+
+460
+00:27:34,242 --> 00:27:36,496
+pode falar de mim
+à administração.
+
+461
+00:27:36,827 --> 00:27:39,331
+Pedi para fazer
+o exame de admissão.
+
+462
+00:27:39,361 --> 00:27:41,068
+Admiro o seu espírito,
+"Fräulein",
+
+463
+00:27:41,098 --> 00:27:43,701
+mas os suíços são muito mais
+liberais do que os alemães.
+
+464
+00:27:44,336 --> 00:27:47,248
+Heidelberg não atribuirá
+diplomas a mulheres.
+
+465
+00:27:47,278 --> 00:27:49,478
+Devia regressar a Zurique
+e obter o seu diploma.
+
+466
+00:27:49,508 --> 00:27:50,508
+Depois disso,
+
+467
+00:27:50,926 --> 00:27:53,997
+talvez pense em si
+para uma posição de investigação.
+
+468
+00:27:54,652 --> 00:27:56,252
+Obrigada, senhor, mas...
+
+469
+00:27:57,592 --> 00:27:58,642
+Por favor.
+
+470
+00:27:59,096 --> 00:28:00,510
+Não posso voltar para lá.
+
+471
+00:28:00,886 --> 00:28:01,986
+Porque não?
+
+472
+00:28:06,091 --> 00:28:07,179
+Emile.
+
+473
+00:28:08,965 --> 00:28:11,349
+Se quiseres estar comigo
+
+474
+00:28:11,708 --> 00:28:13,001
+na biblioteca,
+
+475
+00:28:13,243 --> 00:28:14,735
+ajudo-te a estudar.
+
+476
+00:28:15,646 --> 00:28:17,554
+Talvez aceite a oferta.
+
+477
+00:28:18,233 --> 00:28:21,017
+Sendo assim, vemo-nos amanhã.
+
+478
+00:29:02,295 --> 00:29:04,241
+Será que tem namorado?
+
+479
+00:29:06,329 --> 00:29:09,204
+Três cartas do mesmo jovem?
+
+480
+00:29:20,503 --> 00:29:21,638
+Parabéns!
+
+481
+00:29:21,668 --> 00:29:23,147
+Correu como planeaste?
+
+482
+00:29:23,177 --> 00:29:26,127
+Ela aceitou, só isso importa,
+mas...
+
+483
+00:29:26,916 --> 00:29:28,884
+Não pudemos celebrar muito.
+
+484
+00:29:28,914 --> 00:29:30,949
+- Os Wintelers não são assim.
+- Não,
+
+485
+00:29:30,979 --> 00:29:33,449
+mas a Anna pensa na Marie
+antes dela, por isso...
+
+486
+00:29:33,479 --> 00:29:34,715
+Não compreendo.
+
+487
+00:29:35,024 --> 00:29:37,628
+Albert, estás cansado
+que te diga isto,
+
+488
+00:29:37,658 --> 00:29:39,924
+mas estou duplamente cansado
+de o dizer.
+
+489
+00:29:40,235 --> 00:29:42,693
+Pelo amor
+do meu futuro casamento,
+
+490
+00:29:42,723 --> 00:29:44,929
+podes tornar claras
+as tuas intenções para a rapariga?
+
+491
+00:29:44,959 --> 00:29:48,184
+- Não sei o que lhe dizer.
+- Não podes ficar calado.
+
+492
+00:29:48,717 --> 00:29:51,692
+Envia-lhe uma carta,
+agradece as prendas que ela envia.
+
+493
+00:29:51,722 --> 00:29:53,672
+Não pedi nada disso.
+
+494
+00:29:53,702 --> 00:29:55,381
+És mesmo tão estúpido?
+
+495
+00:29:55,411 --> 00:29:57,621
+Ela é uma pessoa maravilhosa,
+mas eu...
+
+496
+00:30:07,278 --> 00:30:08,278
+Albert?
+
+497
+00:30:08,961 --> 00:30:11,482
+Veja por onda anda!
+
+498
+00:30:11,512 --> 00:30:12,812
+Menina Maric!
+
+499
+00:30:23,877 --> 00:30:25,627
+Não voltei por sua causa.
+
+500
+00:30:27,255 --> 00:30:30,231
+Se pudesse licenciar-me
+em Heidelberg, estaria lá.
+
+501
+00:30:32,960 --> 00:30:33,960
+Pare.
+
+502
+00:30:35,881 --> 00:30:37,981
+Só vim para acabar o curso.
+
+503
+00:30:39,028 --> 00:30:42,661
+Tenho tanto para pôr em dia.
+Trabalhos, exames...
+
+504
+00:30:47,964 --> 00:30:49,014
+Por favor.
+
+505
+00:30:50,172 --> 00:30:51,672
+É uma distracção.
+
+506
+00:30:52,979 --> 00:30:54,479
+Não a distrai-o.
+
+507
+00:30:55,560 --> 00:30:56,610
+Ajudo-a.
+
+508
+00:30:58,999 --> 00:31:00,444
+Pomo-nos em dia.
+
+509
+00:31:01,308 --> 00:31:02,308
+Juntos.
+
+510
+00:31:04,140 --> 00:31:05,471
+E a Marie?
+
+511
+00:31:07,105 --> 00:31:08,355
+Só existe você.
+
+512
+00:31:11,778 --> 00:31:12,778
+Mileva.
+
+513
+00:31:15,706 --> 00:31:17,497
+Não me posso perder consigo.
+
+514
+00:31:19,285 --> 00:31:21,145
+Podemos falar de física,
+
+515
+00:31:21,868 --> 00:31:22,868
+geometria.
+
+516
+00:31:23,744 --> 00:31:25,493
+Não nos podemos perder.
+
+517
+00:31:31,084 --> 00:31:32,234
+Prometa-me.
+
+518
+00:31:34,835 --> 00:31:36,000
+Prometa-me.
+
+519
+00:31:36,030 --> 00:31:37,280
+Prometo.
+
+520
+00:32:07,913 --> 00:32:09,861
+Pareces uma boneca.
+
+521
+00:32:11,347 --> 00:32:12,347
+Podes parar.
+
+522
+00:32:16,730 --> 00:32:18,448
+O teu corpo é muito suave,
+
+523
+00:32:18,487 --> 00:32:22,387
+mas a cara é severa,
+como a de uma boneca de porcelana.
+
+524
+00:32:26,886 --> 00:32:30,013
+Acho que te vou chamar Dollie.
+
+525
+00:32:33,772 --> 00:32:35,569
+Achas-me engraçada?
+
+526
+00:32:36,339 --> 00:32:39,020
+- Não. Porque...
+- Não é uma piada para mim.
+
+527
+00:32:39,050 --> 00:32:40,995
+- Não estava...
+- Estavas.
+
+528
+00:32:41,351 --> 00:32:42,600
+Ouve-me, Albert.
+
+529
+00:32:42,610 --> 00:32:47,475
+Se apenas te queres divertir,
+tens de me deixar em paz.
+
+530
+00:32:47,884 --> 00:32:49,324
+Mileva...
+
+531
+00:32:50,993 --> 00:32:52,093
+Não vês?
+
+532
+00:32:53,022 --> 00:32:56,185
+Estou perdidamente
+apaixonado pela tua mente.
+
+533
+00:33:09,537 --> 00:33:11,209
+Albert, vens?
+
+534
+00:33:11,239 --> 00:33:12,239
+Vai-te embora.
+
+535
+00:33:13,204 --> 00:33:14,433
+Que horas são?
+
+536
+00:33:14,463 --> 00:33:16,735
+O que é o tempo?
+Essa é a grande dúvida.
+
+537
+00:33:16,765 --> 00:33:18,663
+Albert, estamos atrasados
+para a aula.
+
+538
+00:33:18,693 --> 00:33:21,800
+Que importa? Já disse
+que te ajudo a ficar em dia.
+
+539
+00:33:22,210 --> 00:33:23,500
+Além disso,
+a presença não é obrigatória.
+
+540
+00:33:23,510 --> 00:33:25,132
+Só temos de passar nos exames.
+
+541
+00:33:25,162 --> 00:33:27,160
+Não é obrigatória,
+mas é esperada
+
+542
+00:33:27,190 --> 00:33:29,618
+e não posso ficar abaixo
+das expectativas.
+
+543
+00:33:29,648 --> 00:33:32,821
+Essas expectativas são
+para mentes pequenas,
+
+544
+00:33:32,851 --> 00:33:34,578
+para homens como Weber,
+
+545
+00:33:34,608 --> 00:33:36,140
+escravos da convenção.
+
+546
+00:33:36,170 --> 00:33:38,226
+Homens sem criatividade
+ou visão.
+
+547
+00:33:38,256 --> 00:33:40,472
+Eu não sou um homem.
+
+548
+00:33:41,330 --> 00:33:43,061
+Graças a Deus.
+
+549
+00:33:49,307 --> 00:33:50,984
+Faltam meses para os exames.
+
+550
+00:33:52,876 --> 00:33:54,661
+O que é mais uma manhã?
+
+551
+00:34:05,636 --> 00:34:07,012
+Faço mais?
+
+552
+00:34:07,787 --> 00:34:09,800
+Ainda está morno
+e passou algum tempo.
+
+553
+00:34:09,830 --> 00:34:11,661
+A lei do arrefecimento
+é exponencial.
+
+554
+00:34:11,691 --> 00:34:14,564
+O coeficiente de transferência
+térmica obtém-se medindo o líquido.
+
+555
+00:34:14,594 --> 00:34:16,491
+Não te preocupes com a medida.
+
+556
+00:34:16,521 --> 00:34:18,104
+Encontramos um modo novo.
+
+557
+00:34:18,134 --> 00:34:20,319
+Então esquece o chá.
+
+558
+00:34:20,609 --> 00:34:24,003
+E se pensarmos nas moléculas
+como pessoas?
+
+559
+00:34:24,033 --> 00:34:26,218
+Sim! Movem-se
+a velocidades impossíveis,
+
+560
+00:34:26,248 --> 00:34:27,461
+chocam umas com as outras.
+
+561
+00:34:27,491 --> 00:34:31,490
+E a pressão sentida é entendida
+pela frequência dos choques.
+
+562
+00:34:31,520 --> 00:34:32,824
+Mais pessoas,
+
+563
+00:34:32,854 --> 00:34:34,738
+mais pressão.
+- Não necessariamente.
+
+564
+00:34:34,768 --> 00:34:36,073
+Quão grande é a sala?
+
+565
+00:34:36,248 --> 00:34:38,626
+Imagina que estão
+num corredor apinhado.
+
+566
+00:34:38,656 --> 00:34:40,615
+Aos encontrões,
+atrasados para a aula.
+
+567
+00:34:42,218 --> 00:34:43,637
+<i>Pressão alta, sim?</i>
+
+568
+00:34:59,644 --> 00:35:00,644
+<i>Mileva?</i>
+
+569
+00:35:02,445 --> 00:35:03,445
+Estás bem?
+
+570
+00:35:03,864 --> 00:35:04,886
+Estou.
+
+571
+00:35:06,409 --> 00:35:08,689
+Vamos imaginá-las
+num salão de baile.
+
+572
+00:35:08,925 --> 00:35:10,325
+<i>As mesmas pessoas,</i>
+
+573
+00:35:10,732 --> 00:35:12,753
+<i>nem mais, nem menos.</i>
+
+574
+00:35:13,570 --> 00:35:16,445
+<i>Mas agora têm
+<i>dez vezes mais espaço.</i>
+
+575
+00:35:17,232 --> 00:35:20,114
+<i>É suficiente para dançarem
+<i>livremente pelo salão.</i>
+
+576
+00:35:21,258 --> 00:35:22,239
+<i>Mais volume.</i>
+
+577
+00:35:22,269 --> 00:35:23,731
+<i>Menos colisões.</i>
+
+578
+00:35:24,032 --> 00:35:25,672
+<i>- Menos pressão.
+- <i>Menos pressão.</i>
+
+579
+00:35:43,047 --> 00:35:44,378
+Vamos escrever
+um artigo juntos.
+
+580
+00:35:44,408 --> 00:35:47,338
+Sobre o quê? A ideia não é nova,
+apenas a abordagem.
+
+581
+00:35:47,368 --> 00:35:50,203
+E se for o modo de provar
+a existência de moléculas?
+
+582
+00:35:51,325 --> 00:35:54,078
+Não é divertido, Dollie?
+Escrevemos um artigo
+
+583
+00:35:54,108 --> 00:35:55,412
+que pode mudar o mundo.
+
+584
+00:35:55,442 --> 00:35:57,055
+A probabilidade do caos.
+
+585
+00:35:57,850 --> 00:36:01,881
+Não escolheria esse título,
+mas podemos debater isso.
+
+586
+00:36:01,911 --> 00:36:05,138
+Tentei avisá-lo.
+Einstein é igual aos outros judeus.
+
+587
+00:36:05,418 --> 00:36:07,891
+Detestável e presumido.
+
+588
+00:36:09,382 --> 00:36:11,103
+Desculpe, Hermann.
+
+589
+00:36:11,791 --> 00:36:13,825
+Sempre foi uma excepção.
+
+590
+00:36:13,855 --> 00:36:15,761
+Obrigado.
+
+591
+00:36:15,791 --> 00:36:18,673
+Fiz tudo
+para ser mentor desse jovem.
+
+592
+00:36:19,146 --> 00:36:20,564
+Reprove-o, se for preciso.
+
+593
+00:36:20,801 --> 00:36:22,736
+O futuro dele
+já não me preocupa.
+
+594
+00:36:22,951 --> 00:36:25,170
+Escreverei uma carta
+de reprimenda.
+
+595
+00:36:25,536 --> 00:36:28,216
+A energia cinética média
+é sempre igual,
+
+596
+00:36:28,246 --> 00:36:30,693
+quer haja ou não
+uma união química dos átomos.
+
+597
+00:36:30,723 --> 00:36:34,136
+Portanto, incrementos iguais
+de energia cinética média
+
+598
+00:36:34,458 --> 00:36:37,232
+correspondem a incrementos iguais
+de temperatura.
+
+599
+00:36:38,737 --> 00:36:41,242
+E o calor específico é...
+
+600
+00:36:45,910 --> 00:36:47,256
+Há algum problema?
+
+601
+00:36:53,077 --> 00:36:54,583
+Absolutamente nenhum.
+
+602
+00:37:08,280 --> 00:37:09,893
+Não é um milagre, Dollie?
+
+603
+00:37:11,398 --> 00:37:14,629
+Tantos de nós,
+vários milhões...
+
+604
+00:37:15,963 --> 00:37:17,853
+Como nos encontrámos?
+
+605
+00:37:18,412 --> 00:37:20,899
+<i>Falta um mês
+<i>para os exames finais.</i>
+
+606
+00:37:21,251 --> 00:37:23,354
+O vosso desempenho
+ditará o vosso futuro.
+
+607
+00:37:23,698 --> 00:37:26,800
+Cada um de vocês
+pode ter sucesso...
+
+608
+00:37:26,830 --> 00:37:28,407
+Viste o Albert?
+
+609
+00:37:33,171 --> 00:37:34,719
+Bom dia, querida Dollie.
+
+610
+00:37:35,192 --> 00:37:36,242
+Bom dia.
+
+611
+00:37:37,887 --> 00:37:40,618
+Tive um sonho maravilhoso.
+
+612
+00:37:41,909 --> 00:37:45,485
+Dançávamos na corda
+do meu violino.
+
+613
+00:37:47,702 --> 00:37:49,440
+Acordei com esta ideia.
+
+614
+00:37:50,660 --> 00:37:53,362
+E se as propriedades
+de gases diferentes
+
+615
+00:37:53,392 --> 00:37:55,450
+forem como
+os timbres diferentes
+
+616
+00:37:55,480 --> 00:37:57,278
+dos instrumentos musicais?
+
+617
+00:37:57,308 --> 00:38:00,434
+Representados pela composição
+molecular diferente.
+
+618
+00:38:01,380 --> 00:38:03,251
+- É emocionante.
+- Não é?
+
+619
+00:38:04,240 --> 00:38:05,998
+Volto num instante.
+
+620
+00:38:08,342 --> 00:38:09,762
+Faz-nos chá, Dollie.
+
+621
+00:38:55,177 --> 00:38:56,643
+- Mentiroso!
+- Dollie, o quê?
+
+622
+00:38:56,673 --> 00:38:58,609
+Não me chames isso!
+
+623
+00:39:00,340 --> 00:39:02,205
+"Meu caro Albert,
+
+624
+00:39:02,507 --> 00:39:04,903
+espero que ainda gostes
+do bule."
+
+625
+00:39:07,442 --> 00:39:08,992
+Prometeste-me!
+
+626
+00:39:10,217 --> 00:39:12,389
+Mas não me ajudaste
+a estudar.
+
+627
+00:39:12,926 --> 00:39:14,981
+Não me ajudaste
+a ficar em dia.
+
+628
+00:39:15,141 --> 00:39:18,541
+Tiraste-me tempo,
+ideias, energia,
+
+629
+00:39:18,571 --> 00:39:20,000
+tudo a teu favor.
+
+630
+00:39:20,030 --> 00:39:22,878
+Como pudeste ser tão descuidado
+com o meu coração?
+
+631
+00:39:22,908 --> 00:39:25,145
+- Não fui!
+- Podes parar.
+
+632
+00:39:25,747 --> 00:39:27,094
+Deixa-me explicar, por favor.
+
+633
+00:39:27,124 --> 00:39:28,888
+Só pensas em ti.
+
+634
+00:39:29,750 --> 00:39:32,046
+Nem sequer tentaste
+entender-me.
+
+635
+00:39:32,076 --> 00:39:35,044
+O quanto tenho de trabalhar,
+
+636
+00:39:36,119 --> 00:39:38,074
+quão incansável tenho de ser,
+
+637
+00:39:38,104 --> 00:39:41,573
+quão forte e fria,
+para ter a mínima esperança
+
+638
+00:39:42,233 --> 00:39:44,011
+de ser levada a sério.
+
+639
+00:39:44,706 --> 00:39:47,554
+Para receber
+um pingo de respeito
+
+640
+00:39:47,584 --> 00:39:50,329
+que recebes imediatamente,
+por seres homem.
+
+641
+00:39:50,359 --> 00:39:51,471
+Mileva, por favor...
+
+642
+00:39:51,501 --> 00:39:52,877
+Não! Eu sabia.
+
+643
+00:39:54,684 --> 00:39:57,954
+Sabia que isto aconteceria.
+
+644
+00:39:58,826 --> 00:40:00,648
+Sou uma idiota!
+
+645
+00:40:02,445 --> 00:40:05,133
+Faltam poucas semanas
+para os exames.
+
+646
+00:40:06,932 --> 00:40:07,912
+Mileva...
+
+647
+00:40:07,942 --> 00:40:10,000
+Sou maluca.
+
+648
+00:40:11,361 --> 00:40:13,384
+Tornaste-me maluca!
+
+649
+00:40:13,414 --> 00:40:14,414
+Não.
+
+650
+00:40:15,507 --> 00:40:18,156
+- Mileva, por favor.
+- Não fales comigo.
+
+651
+00:40:18,853 --> 00:40:20,027
+Nunca mais.
+
+652
+00:40:22,709 --> 00:40:23,709
+Espera!
+
+653
+00:40:34,219 --> 00:40:36,363
+Se uma superfície curva
+for formada
+
+654
+00:40:36,393 --> 00:40:38,868
+em qualquer outra superfície,
+
+655
+00:40:39,625 --> 00:40:43,486
+o grau de curvatura em cada ponto
+mantém-se inalterado.
+
+656
+00:40:43,898 --> 00:40:46,166
+Esse Teorema Egrégio,
+de Gauss,
+
+657
+00:40:46,196 --> 00:40:49,236
+teve um impacto grande
+na cartografia.
+
+658
+00:40:59,036 --> 00:41:00,328
+Menina Maric.
+
+659
+00:41:00,982 --> 00:41:02,282
+Está bem?
+
+660
+00:41:03,996 --> 00:41:06,926
+Posso fazer alguma coisa
+por si?
+
+661
+00:41:14,758 --> 00:41:15,995
+Nada.
+
+662
+00:41:16,086 --> 00:41:17,336
+Boa dia.
+
+663
+00:41:35,422 --> 00:41:37,122
+<i>"Minha cara 'Frau' Winteler,</i>
+
+664
+00:41:37,784 --> 00:41:39,833
+<i>"é com o coração pesado
+<i>que lhe escrevo</i>
+
+665
+00:41:40,056 --> 00:41:44,132
+<i>"e peço que partilhe o que digo
+<i>e sinto com a sua filha Marie.</i>
+
+666
+00:41:46,115 --> 00:41:48,863
+<i>"Ela merece mais atenção
+<i>do que tenho para lhe dar.</i>
+
+667
+00:41:49,689 --> 00:41:52,448
+<i>"Os estudos consomem todo
+<i>o meu tempo e pensamento</i>
+
+668
+00:41:52,478 --> 00:41:56,360
+<i>"e receio já ter causado demasiado
+<i>sofrimento à pobre rapariga.</i>
+
+669
+00:41:57,735 --> 00:42:00,054
+<i>"Por favor,
+<i>garanta que ela entende.</i>
+
+670
+00:42:03,379 --> 00:42:06,360
+<i>Espero que ela, e todos vós,
+<i>me possam perdoar."</i>
+
+671
+00:42:11,622 --> 00:42:14,010
+Preciso dos apontamentos.
+Geometria, dois últimos períodos.
+
+672
+00:42:14,040 --> 00:42:16,770
+Não sabia quando tirarias a cabeça
+das coxas da manca.
+
+673
+00:42:16,800 --> 00:42:18,560
+Não fales assim dela.
+
+674
+00:42:19,673 --> 00:42:20,673
+Claro.
+
+675
+00:42:21,143 --> 00:42:22,293
+Peço desculpa.
+
+676
+00:42:23,121 --> 00:42:24,592
+Vou buscá-los.
+
+677
+00:42:38,611 --> 00:42:39,668
+Tinhas razão.
+
+678
+00:42:39,698 --> 00:42:41,160
+Fui indiferente.
+
+679
+00:42:42,413 --> 00:42:45,357
+A relação com a Marie acabou
+há algum tempo, mas eu...
+
+680
+00:42:48,030 --> 00:42:51,906
+Não a queria magoar,
+por isso não disse nada.
+
+681
+00:42:53,360 --> 00:42:54,688
+Mas agora acabou.
+
+682
+00:42:54,830 --> 00:42:56,466
+Fui claro.
+
+683
+00:42:58,691 --> 00:43:02,400
+Embora tenha sido injusto com ela,
+fui dez vezes pior contigo.
+
+684
+00:43:02,810 --> 00:43:05,569
+Fui horrível e egoísta.
+
+685
+00:43:06,044 --> 00:43:08,316
+Tens razão ao não querer
+nada comigo.
+
+686
+00:43:11,717 --> 00:43:14,925
+São os apontamentos do Marcel
+dos dois últimos períodos.
+
+687
+00:43:15,659 --> 00:43:17,083
+Copiei-os para ti.
+
+688
+00:43:18,055 --> 00:43:19,304
+Podes guardá-los.
+
+689
+00:43:21,397 --> 00:43:26,316
+Espero que desfaçam
+parte dos danos que causei.
+
+690
+00:43:27,582 --> 00:43:28,582
+Se...
+
+691
+00:43:30,693 --> 00:43:32,866
+Se quiseres a minha ajuda,
+
+692
+00:43:33,174 --> 00:43:35,474
+adoraria ajudar-te.
+
+693
+00:43:36,446 --> 00:43:38,160
+Não peço nada em troca.
+
+694
+00:43:48,323 --> 00:43:49,323
+Senta-te.
+
+695
+00:44:02,531 --> 00:44:03,728
+Foi um prazer
+
+696
+00:44:03,758 --> 00:44:06,826
+ter-vos na minha aula,
+cavalheiros.
+
+697
+00:44:07,593 --> 00:44:09,088
+Desejo-vos sorte.
+
+698
+00:44:09,451 --> 00:44:10,609
+Podem começar.
+
+699
+00:44:26,276 --> 00:44:27,570
+Sei que te disse
+
+700
+00:44:27,818 --> 00:44:29,738
+que não te pediria nada
+
+701
+00:44:29,768 --> 00:44:32,692
+e, com o que vou dizer,
+pode parecer que peço.
+
+702
+00:44:33,600 --> 00:44:35,100
+É apenas uma oferta.
+
+703
+00:44:38,278 --> 00:44:39,718
+Sê minha parceira.
+
+704
+00:44:40,691 --> 00:44:41,741
+Na vida,
+
+705
+00:44:41,820 --> 00:44:42,874
+no amor,
+
+706
+00:44:43,335 --> 00:44:45,983
+na busca científica infinita.
+
+707
+00:44:46,142 --> 00:44:48,804
+Vamos construir
+uma linda existência boémia.
+
+708
+00:44:48,834 --> 00:44:50,864
+- Não sei o que isso é.
+- Sabes.
+
+709
+00:44:51,576 --> 00:44:53,641
+Já a tivemos. Era perfeita.
+
+710
+00:44:53,671 --> 00:44:55,454
+Não pode continuar assim.
+
+711
+00:44:56,642 --> 00:45:00,644
+Nós os dois, sozinhos e juntos,
+encaixamos como lápis na caixa.
+
+712
+00:45:00,674 --> 00:45:04,900
+Mas a mundo tem
+possibilidades intermináveis
+
+713
+00:45:04,910 --> 00:45:06,808
+de chocarmos com tudo,
+irreversivelmente.
+
+714
+00:45:06,838 --> 00:45:09,219
+As pessoas não são moléculas,
+Mileva.
+
+715
+00:45:09,431 --> 00:45:10,441
+Por favor.
+
+716
+00:45:10,879 --> 00:45:13,271
+Quando não estou contigo,
+não me sinto inteiro.
+
+717
+00:45:14,206 --> 00:45:16,998
+Vamos continuar estudantes
+enquanto vivermos.
+
+718
+00:45:17,191 --> 00:45:19,379
+Sozinhos e juntos.
+
+719
+00:45:22,523 --> 00:45:23,563
+"Herr" Einstein?
+
+720
+00:45:23,711 --> 00:45:25,574
+- Parabéns.
+- Professor?
+
+721
+00:45:25,845 --> 00:45:28,889
+Os resultados serão afixados
+em breve, mas passou nos exames.
+
+722
+00:45:28,919 --> 00:45:30,768
+Por um triz, claro.
+
+723
+00:45:32,453 --> 00:45:33,498
+Bom dia.
+
+724
+00:45:40,194 --> 00:45:41,194
+Dollie.
+
+725
+00:45:44,378 --> 00:45:47,661
+KAC, SÉRVIA
+TRÊS MESES DEPOIS
+
+726
+00:46:14,393 --> 00:46:15,393
+Miza!
+
+727
+00:46:15,804 --> 00:46:18,264
+- Olá, Papá.
+- É tão bom ver-te.
+
+728
+00:46:18,294 --> 00:46:20,313
+- Também tive saudades.
+- Tiveste?
+
+729
+00:46:23,731 --> 00:46:26,351
+Eu e a tua mãe estávamos
+preocupados, nunca vieste a casa.
+
+730
+00:46:26,381 --> 00:46:30,160
+Nas cartas, nunca explicaste
+o que te manteve lá estes meses.
+
+731
+00:46:31,669 --> 00:46:33,369
+Peço imensa desculpa, Papá.
+
+732
+00:46:34,728 --> 00:46:36,020
+Desiludi-o.
+
+733
+00:46:36,202 --> 00:46:37,402
+Por causa dos exames?
+
+734
+00:46:37,787 --> 00:46:40,034
+Voltas e tentas de novo.
+
+735
+00:46:41,130 --> 00:46:43,360
+Foi por isso que ficaste longe?
+
+736
+00:46:43,569 --> 00:46:44,569
+Não.
+
+737
+00:46:47,494 --> 00:46:49,840
+- Não sei como...
+- Mileva Maric.
+
+738
+00:46:50,152 --> 00:46:52,179
+Vem cá imediatamente.
+
+739
+00:47:00,083 --> 00:47:01,792
+Peço imensa desculpa, Papá.
+
+740
+00:47:03,136 --> 00:47:04,840
+Peço imensa desculpa.
+
+741
+00:47:23,500 --> 00:47:25,500
+<b>Transcrito do canal:
+<b>National Geographic</b>
+
+742
+00:47:26,000 --> 00:47:28,000
+<b>Sincronia:
+<b>Italiansubs</b>
+
+743
+00:47:28,500 --> 00:47:30,500
+<b>Transcrição:
+<b>fininhos</b>
+

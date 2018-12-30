@@ -1,0 +1,2638 @@
+
+1
+00:00:00,000 --> 00:00:01,652
+<i>Anteriormente em "The 100"...</i>
+
+2
+00:00:01,662 --> 00:00:03,336
+<i>Alguma coisa está para acontecer.</i>
+
+3
+00:00:03,483 --> 00:00:05,672
+<i>Alguma coisa como nada
+que tenhamos visto até agora.</i>
+
+4
+00:00:06,472 --> 00:00:09,712
+<i>A onda de radiação matará
+tudo no seu caminho.</i>
+
+5
+00:00:09,924 --> 00:00:11,398
+Não a ameaçámos.
+
+6
+00:00:11,408 --> 00:00:13,865
+O seu corpo está a rejeitar a radiação.
+
+7
+00:00:13,967 --> 00:00:17,255
+Só há uma variável
+que separa Luna dos outros.
+
+8
+00:00:17,678 --> 00:00:18,722
+O Sangue Noturno.
+
+9
+00:00:18,732 --> 00:00:20,582
+Deverei sintetizar o Sangue Nocturno.
+
+10
+00:00:20,592 --> 00:00:23,753
+Se o Jaha tem razão e a Becca criou
+o Sangue Nocturno ali,
+
+11
+00:00:23,763 --> 00:00:25,363
+<i>eles vão encontrar
+os seus registos.</i>
+
+12
+00:00:25,612 --> 00:00:28,194
+<i>E tudo o que terão de fazer
+é engenharia reversa na Luna.</i>
+
+13
+00:00:28,404 --> 00:00:29,554
+E todos sobrevivem.
+
+14
+00:00:29,564 --> 00:00:32,039
+Se eles o conseguirem
+antes de a radiação chegar aqui.
+
+15
+00:00:33,660 --> 00:00:35,411
+O melhor é terminarmos a nave.
+
+16
+00:00:35,421 --> 00:00:37,133
+Disseram-nos que tens Sangue Noturno.
+
+17
+00:00:37,143 --> 00:00:39,435
+O Sangue Noturno ajuda
+a metabolizar a radiação.
+
+18
+00:00:39,445 --> 00:00:41,366
+Estamos a investigar formas
+de o criar para todos,
+
+19
+00:00:41,376 --> 00:00:42,529
+para que todos sobrevivam.
+
+20
+00:00:42,539 --> 00:00:44,522
+Roan quer-te viva. Vem sem resistir.
+
+21
+00:00:44,798 --> 00:00:45,748
+Como se isso fosse acontecer...
+
+22
+00:00:52,586 --> 00:00:55,282
+<i>Os Skaikru obrigaram-me
+a matar toda a minha família.</i>
+
+23
+00:01:00,737 --> 00:01:02,127
+Vamos levar-te para casa.
+
+24
+00:01:02,706 --> 00:01:04,709
+A vossa nave é um refúgio do Praimfaya,
+
+25
+00:01:05,019 --> 00:01:06,619
+por isso tenciono conquistá-la.
+
+26
+00:01:13,460 --> 00:01:16,272
+Computador, mostra-me o <i>software</i>
+de deteção de radiação
+
+27
+00:01:16,274 --> 00:01:17,940
+disponível para os <i>drones.</i>
+
+28
+00:01:18,010 --> 00:01:19,110
+em VHDL.
+
+29
+00:01:24,304 --> 00:01:26,179
+Caramba, a Becca era mesmo boa.
+
+30
+00:01:26,185 --> 00:01:29,021
+O Nightblood foi concebido para ajudar
+o corpo humano a não rejeitar a IA
+
+31
+00:01:29,031 --> 00:01:32,288
+e protegê-lo contra a radiação
+emitida pelo aparelho.
+
+32
+00:01:32,290 --> 00:01:34,523
+Foi por isso que salvou a Luna.
+
+33
+00:01:34,525 --> 00:01:36,305
+É por isso que nos salvará a todos.
+
+34
+00:01:36,311 --> 00:01:40,763
+Se conseguirmos descobrir como ela
+fez estas células combinarem-se.
+
+35
+00:01:41,174 --> 00:01:44,260
+Parece que a Becca estava a fazer
+experiências com perfluoroquímicos.
+
+36
+00:01:44,270 --> 00:01:46,737
+Oxigenadores, um bloco de construção
+do sangue artificial.
+
+37
+00:01:46,738 --> 00:01:48,058
+Eu sei o que são, Jackson,
+
+38
+00:01:48,064 --> 00:01:50,149
+mas não vejo isso aqui.
+
+39
+00:01:50,155 --> 00:01:53,190
+Abby, e se tivermos vindo de tão longe
+em vão?
+
+40
+00:01:54,161 --> 00:01:55,911
+E se não conseguirmos descobrir isto?
+
+41
+00:01:55,913 --> 00:01:58,114
+Nós conseguimos, Jackson.
+
+42
+00:01:58,116 --> 00:01:59,693
+Sabemos que a Becca descobriu.
+
+43
+00:01:59,699 --> 00:02:01,465
+A Luna é a prova.
+
+44
+00:02:01,709 --> 00:02:03,475
+Se não estiver na base de dados,
+
+45
+00:02:03,477 --> 00:02:06,245
+invertemos o processo
+a partir do sangue da Luna.
+
+46
+00:02:10,021 --> 00:02:12,351
+Preciso de uma nova amostra.
+Onde está a Luna?
+
+47
+00:02:12,711 --> 00:02:14,875
+Está a dormir.
+Talvez a devêssemos deixar.
+
+48
+00:02:15,690 --> 00:02:17,489
+Já lhe tirámos demasiado.
+
+49
+00:02:17,491 --> 00:02:18,352
+O organismo dela precisa de tempo...
+
+50
+00:02:18,358 --> 00:02:20,040
+Não temos tempo.
+
+51
+00:02:23,764 --> 00:02:27,666
+Espera. Tens razão.
+Desculpa.
+
+52
+00:02:28,729 --> 00:02:30,699
+Ajuda-me a refazer um teste
+de valência molecular
+
+53
+00:02:30,705 --> 00:02:32,438
+à Amostra 7.
+
+54
+00:02:32,440 --> 00:02:33,872
+Entendido.
+
+55
+00:02:35,443 --> 00:02:37,543
+Abby, ouve isto.
+
+56
+00:02:37,545 --> 00:02:39,645
+Segundo os registos, a Becca criou
+
+57
+00:02:39,647 --> 00:02:41,612
+o que conhecemos como Nightblood
+
+58
+00:02:41,618 --> 00:02:43,771
+para a Companhia de Mineração Eligius.
+
+59
+00:02:43,777 --> 00:02:45,343
+Minas?
+
+60
+00:02:45,586 --> 00:02:47,886
+Missões espaciais de longa duração.
+
+61
+00:02:47,888 --> 00:02:50,022
+Metiam os criminosos em hipersono
+
+62
+00:02:50,024 --> 00:02:53,525
+e davam-lhes Nightblood
+para os proteger da radiação solar.
+
+63
+00:02:53,527 --> 00:02:56,291
+Que simpático partilhar isso
+
+64
+00:02:56,297 --> 00:02:58,838
+com os nossos antepassados na Arca.
+
+65
+00:02:59,967 --> 00:03:01,600
+Não entendo.
+
+66
+00:03:01,602 --> 00:03:05,004
+As cadeias proteicas do Nightblood
+estão quebradas.
+
+67
+00:03:07,839 --> 00:03:10,507
+Como conseguiu ela que se ligassem
+às células sanguíneas?
+
+68
+00:03:12,585 --> 00:03:15,200
+Pensei que detestasses
+biologia molecular.
+
+69
+00:03:21,579 --> 00:03:23,088
+Raven.
+
+70
+00:03:27,214 --> 00:03:28,765
+Está a ter um ataque.
+
+71
+00:03:30,201 --> 00:03:31,416
+- Pronto.
+- O pescoço dela.
+
+72
+00:03:31,418 --> 00:03:33,785
+- Pronto.
+- Ei.
+
+73
+00:03:33,787 --> 00:03:35,653
+Muito bem. O outro lado.
+O outro lado.
+
+74
+00:03:35,655 --> 00:03:36,921
+Eu percebi.
+Percebi.
+
+75
+00:03:36,923 --> 00:03:38,190
+Tenho uma seringa na minha mala.
+
+76
+00:03:38,196 --> 00:03:40,058
+- Sim.
+- Vai buscá-la. Depressa.
+
+77
+00:03:40,660 --> 00:03:42,984
+Pronto, querida. Pronto.
+
+78
+00:03:44,440 --> 00:03:46,198
+- Eu seguro.
+- Já a tenho.
+
+79
+00:03:48,003 --> 00:03:49,432
+Já está.
+
+80
+00:03:55,295 --> 00:03:56,585
+Vais ficar bem.
+
+81
+00:04:01,190 --> 00:04:03,190
+[  S04 - E05  ]
+- The Tinder Box -
+
+82
+00:05:22,095 --> 00:05:25,463
+Este é o último lote de aguardente.
+
+83
+00:05:28,278 --> 00:05:29,634
+Parece um pouco leve.
+
+84
+00:05:29,636 --> 00:05:31,769
+Os teus caçadores estão a falhar.
+
+85
+00:05:31,771 --> 00:05:34,172
+Só posso secar
+o que eles me trazem.
+
+86
+00:05:35,875 --> 00:05:39,010
+Há notícias do Jaha?
+Encontraram a unidade do Bellamy?
+
+87
+00:05:39,012 --> 00:05:41,913
+Sim, já voltaram
+e esquecemo-nos de te dizer.
+
+88
+00:05:45,050 --> 00:05:47,053
+Olá, minha amiga.
+
+89
+00:05:47,053 --> 00:05:47,990
+Olá.
+
+90
+00:05:51,444 --> 00:05:52,615
+Quanto nos faltou?
+
+91
+00:05:52,803 --> 00:05:54,653
+Sempre tão séria.
+
+92
+00:05:55,829 --> 00:05:58,563
+Melhor.
+Não te preocupes.
+
+93
+00:05:58,565 --> 00:06:00,965
+A terra será mais generosa,
+na próxima vez.
+
+94
+00:06:00,967 --> 00:06:03,201
+Até à próxima.
+
+95
+00:06:03,203 --> 00:06:05,414
+Espera.
+
+96
+00:06:08,694 --> 00:06:09,927
+Carregaste o rádio
+
+97
+00:06:09,933 --> 00:06:11,666
+que te dei,
+quando estiveste cá?
+
+98
+00:06:11,898 --> 00:06:14,732
+Sim, tal como me disseste
+para fazer.
+
+99
+00:06:16,182 --> 00:06:16,988
+Ótimo.
+
+100
+00:06:16,994 --> 00:06:18,326
+Clarke!
+
+101
+00:06:18,551 --> 00:06:20,051
+Octavia?
+
+102
+00:06:20,053 --> 00:06:21,386
+- Ela parou de respirar.
+- Está bem.
+
+103
+00:06:21,388 --> 00:06:23,616
+Ponham-na em cima da mesa, já.
+
+104
+00:06:23,928 --> 00:06:24,947
+Tem uma facada na barriga.
+
+105
+00:06:24,953 --> 00:06:26,385
+Está ensopada em sangue.
+
+106
+00:06:29,073 --> 00:06:31,173
+Primeiro o mais urgente.
+
+107
+00:06:32,031 --> 00:06:34,329
+1, 2, 3, 4...
+
+108
+00:06:34,768 --> 00:06:36,234
+Quem és tu?
+
+109
+00:06:36,236 --> 00:06:37,594
+Como lhe aconteceu isto?
+
+110
+00:06:37,600 --> 00:06:39,934
+Ilian, <i>kom Trishanakru.</i>
+
+111
+00:06:40,460 --> 00:06:41,383
+1, 2...
+
+112
+00:06:41,389 --> 00:06:43,507
+Regressava a casa vindo de Polis,
+quando a encontrei.
+
+113
+00:07:07,340 --> 00:07:09,892
+Muito bem,
+levem-na à Unidade Médica. Já.
+
+114
+00:07:12,058 --> 00:07:15,006
+O facto de a teres trazido
+salvou-lhe a vida. Obrigada.
+
+115
+00:07:17,244 --> 00:07:19,690
+Está tudo bem.
+
+116
+00:07:19,696 --> 00:07:21,629
+Está tudo bem.
+Estás bem.
+
+117
+00:07:22,282 --> 00:07:23,777
+Octavia, perdeste muito sangue,
+
+118
+00:07:23,783 --> 00:07:25,078
+mas agora estás em casa.
+
+119
+00:07:25,084 --> 00:07:26,683
+Vou ajudar-te.
+
+120
+00:07:29,989 --> 00:07:33,324
+Os <i>Azgeda</i> vêm aí.
+
+121
+00:07:33,326 --> 00:07:34,892
+De que está ela a falar?
+
+122
+00:07:34,894 --> 00:07:36,294
+Eu...
+
+123
+00:07:36,296 --> 00:07:39,186
+Os <i>Azgeda</i> vêm aí.
+
+124
+00:07:39,192 --> 00:07:43,634
+- Exército... a marchar
+- Octavia. Fica comigo.
+
+125
+00:07:44,729 --> 00:07:46,304
+A guerra chegou.
+
+126
+00:07:50,669 --> 00:07:52,654
+Levem-na. Vão.
+
+127
+00:07:52,660 --> 00:07:55,127
+Pronto. Devagar.
+Três, dois, um.
+
+128
+00:07:55,369 --> 00:07:56,382
+Já a tenho.
+
+129
+00:07:57,484 --> 00:07:59,484
+Abram-lhe uma via. Sangue e fluidos.
+
+130
+00:07:59,486 --> 00:08:01,652
+E preparem um <i>kit</i> de sutura.
+
+131
+00:08:03,473 --> 00:08:06,305
+Tenho de fazer isto.
+Mas contacta o Kane por rádio
+
+132
+00:08:06,311 --> 00:08:07,558
+e descobre o que se passa.
+
+133
+00:08:07,560 --> 00:08:09,160
+É para já.
+
+134
+00:08:09,491 --> 00:08:12,029
+Harper. Olha para mim.
+
+135
+00:08:12,031 --> 00:08:13,185
+Reúne a guarda.
+
+136
+00:08:13,191 --> 00:08:14,732
+O pai do Miller é o oficial superior.
+
+137
+00:08:14,734 --> 00:08:16,234
+Se os <i>Azgeda </i>vêm aí,
+temos de preparar
+
+138
+00:08:16,236 --> 00:08:17,401
+a nossa defesa, está bem?
+
+139
+00:08:17,403 --> 00:08:18,410
+Irei lá assim que puder.
+- Está bem.
+
+140
+00:08:18,416 --> 00:08:20,853
+- Está bem.
+- Niylah, preciso de ajuda.
+
+141
+00:08:35,478 --> 00:08:37,288
+Muito bem, colocamos artilheiros
+ao longo do muro.
+
+142
+00:08:37,290 --> 00:08:38,689
+Assim, podemos reduzir o número deles
+
+143
+00:08:38,691 --> 00:08:40,741
+antes que cheguem ao muro.
+
+144
+00:08:40,757 --> 00:08:42,059
+E quando chegarem perto?
+
+145
+00:08:42,061 --> 00:08:43,129
+Hidrazina.
+
+146
+00:08:43,135 --> 00:08:45,229
+Enterrámos a que restava nos motores,
+quando aterrámos.
+
+147
+00:08:45,231 --> 00:08:46,731
+Está a ser desenterrada.
+
+148
+00:08:46,733 --> 00:08:48,032
+Vamos deitá-la nas trincheiras.
+
+149
+00:08:48,034 --> 00:08:50,134
+- Como está ela?
+- Forte.
+
+150
+00:08:50,136 --> 00:08:52,374
+Ouçam. Só temos de a espalhar
+
+151
+00:08:52,380 --> 00:08:53,571
+à frente do muro exterior.
+
+152
+00:08:53,573 --> 00:08:54,966
+Quando o exército se aproximar...
+
+153
+00:08:54,972 --> 00:08:56,407
+- Incendiamo-los.
+- Isso mesmo.
+
+154
+00:08:56,409 --> 00:08:58,349
+Queres atear fogo perto da nave
+
+155
+00:08:58,355 --> 00:08:59,877
+que passámos o último mês
+a preparar?
+
+156
+00:08:59,879 --> 00:09:01,345
+Não vai acontecer.
+
+157
+00:09:01,347 --> 00:09:03,011
+Há notícias do Kane?
+
+158
+00:09:03,370 --> 00:09:06,400
+Não, mas o Jaha encontrou
+o camião de carga
+
+159
+00:09:06,406 --> 00:09:10,208
+a 12 horas daqui. Não havia sinal
+do Bellamy nem do Stephens.
+
+160
+00:09:15,219 --> 00:09:16,627
+Tenho de falar com o Roan.
+
+161
+00:09:16,629 --> 00:09:18,095
+Aconteceu alguma coisa.
+
+162
+00:09:18,097 --> 00:09:19,830
+Algum mal-entendido.
+
+163
+00:09:19,832 --> 00:09:21,355
+Clarke, se ele quisesse conversar,
+
+164
+00:09:21,361 --> 00:09:22,767
+não viria com o exército dele.
+
+165
+00:09:22,769 --> 00:09:24,657
+Sim, mas só há uma forma
+
+166
+00:09:24,663 --> 00:09:26,137
+de chegar aqui vindo de Polis.
+
+167
+00:09:26,139 --> 00:09:28,272
+- Vou ao encontro dele.
+- Estás...?
+
+168
+00:09:28,274 --> 00:09:29,740
+Não, nem pensar.
+
+169
+00:09:29,742 --> 00:09:32,610
+Na verdade, talvez resulte.
+
+170
+00:09:32,612 --> 00:09:34,946
+Monty, de que estás a falar?
+
+171
+00:09:34,948 --> 00:09:37,415
+Eles acham que nos vão surpreender.
+
+172
+00:09:37,417 --> 00:09:39,750
+Mas, graças à Octavia,
+nós é que podemos.
+
+173
+00:09:40,285 --> 00:09:42,090
+O Pike mostrou-nos
+como pode ser valioso.
+
+174
+00:09:42,096 --> 00:09:44,229
+Estás a citar o Pike?
+
+175
+00:09:45,665 --> 00:09:47,442
+Por muito horrível que pareça...
+
+176
+00:09:49,134 --> 00:09:50,695
+...sim.
+
+177
+00:10:17,980 --> 00:10:19,980
+Alto.
+
+178
+00:10:25,980 --> 00:10:28,980
+Eles sabiam que vínhamos.
+
+179
+00:10:28,980 --> 00:10:30,980
+Foram avisados.
+
+180
+00:10:30,980 --> 00:10:33,980
+A Octavia não pode ter sobrevivido
+à minha lâmina...
+
+181
+00:10:33,980 --> 00:10:35,980
+...nem àquela queda.
+
+182
+00:10:40,986 --> 00:10:42,680
+Temos de conversar.
+
+183
+00:10:42,682 --> 00:10:44,522
+É um pouco tarde para isso.
+
+184
+00:10:44,522 --> 00:10:47,520
+Arqueiros! Apontem à Wanheda!
+
+185
+00:10:56,520 --> 00:10:58,520
+Meu rei...
+
+186
+00:11:18,959 --> 00:11:21,485
+Muito bem,
+conseguimos a atenção deles.
+
+187
+00:11:21,487 --> 00:11:24,255
+<i>Lembrem-se, ninguém dispara
+a menos que eles disparem.</i>
+
+188
+00:11:24,257 --> 00:11:27,191
+A nossa inimiga é a radiação,
+não a Nação do Gelo.
+
+189
+00:11:33,190 --> 00:11:35,190
+Tragam os prisioneiros.
+
+190
+00:11:52,585 --> 00:11:54,385
+É a tua vez, <i>Wanheda.</i>
+
+191
+00:12:05,298 --> 00:12:08,450
+Dez minutos. É só o que peço.
+
+192
+00:12:15,480 --> 00:12:18,609
+Espera. Aonde vai ela?
+
+193
+00:12:18,611 --> 00:12:20,778
+E se for uma armadilha?
+
+194
+00:12:20,780 --> 00:12:24,221
+É uma armadilha. E já caímos nela.
+
+195
+00:12:28,225 --> 00:12:29,116
+Muito bem, atiradores,
+
+196
+00:12:29,122 --> 00:12:31,678
+eles vão para a gruta.
+Deixem o rei ir.
+
+197
+00:12:39,330 --> 00:12:41,764
+Esperem aí.
+Quem continua a apontar a arma?
+
+198
+00:12:48,043 --> 00:12:50,623
+O que estás a fazer, Riley?
+
+199
+00:12:50,629 --> 00:12:51,863
+O teu alvo é o exército.
+
+200
+00:12:52,403 --> 00:12:54,247
+<i>A Clarke está a negociar
+com o rei deles.</i>
+
+201
+00:12:54,253 --> 00:12:59,075
+<i>Para de apontar. Escuto.</i>
+Riley, responde.
+
+202
+00:12:59,801 --> 00:13:03,370
+Negociar com esta gente
+é perda de tempo.
+
+203
+00:13:03,376 --> 00:13:06,402
+<i>Temos a posição elevada,</i>
+temos as armas.
+
+204
+00:13:06,470 --> 00:13:08,245
+Devíamos abatê-los.
+
+205
+00:13:08,644 --> 00:13:10,859
+- <i>Negativo.</i>
+- Vamos cumprir o plano.
+
+206
+00:13:10,865 --> 00:13:13,109
+Achas mesmo que a Nação do Gelo
+
+207
+00:13:13,115 --> 00:13:14,915
+se rala com o teu plano?
+
+208
+00:13:14,917 --> 00:13:16,830
+Tenho o rei na mira.
+
+209
+00:13:16,836 --> 00:13:20,571
+<i>Isto é um barril de pólvora.
+Um tiro,</i> e entraremos em guerra.
+
+210
+00:13:21,907 --> 00:13:24,172
+<i>Se fizeres isto, será um massacre.</i>
+
+211
+00:13:25,494 --> 00:13:28,094
+Tens de baixar a arma. Imediatamente.
+
+212
+00:13:29,150 --> 00:13:30,550
+<i>Riley!</i>
+
+213
+00:13:36,555 --> 00:13:37,708
+Ele não devia estar aqui,
+
+214
+00:13:37,714 --> 00:13:39,747
+depois do que eles lhe fizeram.
+
+215
+00:13:43,112 --> 00:13:45,048
+Muito bem, o rei está em segurança.
+
+216
+00:13:45,619 --> 00:13:48,820
+Arqueiros,
+ao primeiro tiro que ouvirem,
+
+217
+00:13:48,822 --> 00:13:49,664
+disparem as vossas flechas.
+
+218
+00:13:49,670 --> 00:13:52,420
+Infantaria, à minha ordem,
+espalhem-se e trepem.
+
+219
+00:13:52,426 --> 00:13:54,393
+Matem até não restar ninguém.
+
+220
+00:13:54,673 --> 00:13:55,894
+Isto é uma loucura.
+
+221
+00:13:55,896 --> 00:13:57,768
+Eles sabiam que vocês vinham.
+
+222
+00:14:00,267 --> 00:14:02,434
+Temos milhares de munições.
+
+223
+00:14:02,436 --> 00:14:04,603
+Dos vossos é que não restará ninguém.
+
+224
+00:14:04,605 --> 00:14:06,943
+Então, esperemos que ninguém dispare.
+
+225
+00:14:09,907 --> 00:14:11,443
+O que é?
+
+226
+00:14:11,445 --> 00:14:13,812
+Eles julgavam que nos iam surpreender,
+
+227
+00:14:14,784 --> 00:14:16,181
+mas nós é que os surpreendemos.
+
+228
+00:14:18,729 --> 00:14:20,485
+Alguém os avisou.
+
+229
+00:14:21,534 --> 00:14:23,769
+Achas que foi a Octavia?
+
+230
+00:14:24,892 --> 00:14:26,325
+Ela está viva.
+
+231
+00:14:47,207 --> 00:14:48,847
+Tenho de os avisar.
+
+232
+00:14:48,849 --> 00:14:50,180
+Já avisaste.
+
+233
+00:14:50,186 --> 00:14:53,114
+Os soldados da Gente do Céu
+foram ao encontro do exército do Roan.
+
+234
+00:14:56,407 --> 00:14:58,617
+Como vim aqui parar?
+
+235
+00:14:59,196 --> 00:15:02,710
+Um homem trouxe-te. <i>Trishanakru.</i>
+
+236
+00:15:03,445 --> 00:15:05,526
+Tens sorte.
+Se ele não te tivesse encontrado...
+
+237
+00:15:05,532 --> 00:15:06,821
+O Ilian.
+
+238
+00:15:40,401 --> 00:15:41,704
+Raven.
+
+239
+00:15:42,903 --> 00:15:44,369
+Abby.
+
+240
+00:15:47,666 --> 00:15:51,310
+Abby.
+Aconteceu alguma coisa?
+
+241
+00:15:52,142 --> 00:15:54,149
+Raven, tiveste um ataque.
+
+242
+00:15:56,005 --> 00:15:58,246
+Temos de fazer um <i>scan</i>
+ao cérebro.
+
+243
+00:15:59,074 --> 00:16:01,320
+Jackson, ela acordou.
+
+244
+00:16:03,590 --> 00:16:05,624
+Ataque?
+
+245
+00:16:07,261 --> 00:16:09,381
+Não. Não. Era...
+
+246
+00:16:10,065 --> 00:16:11,502
+- O meu cérebro,
+- Então...
+
+247
+00:16:11,508 --> 00:16:13,315
+estava a funcionar com tal...
+
+248
+00:16:13,801 --> 00:16:15,508
+Com tal intensidade.
+
+249
+00:16:15,778 --> 00:16:19,015
+Era tão real. Como se estivesse
+outra vez a andar no espaço.
+
+250
+00:16:19,807 --> 00:16:21,948
+Gravidade zero, sem fato.
+
+251
+00:16:25,689 --> 00:16:26,764
+Não estou louca.
+
+252
+00:16:26,770 --> 00:16:29,003
+Não.
+Ninguém acha que estejas.
+
+253
+00:16:29,249 --> 00:16:31,004
+Sem peso.
+
+254
+00:16:32,504 --> 00:16:35,314
+Abby, o que aconteceu
+quando tentaste
+
+255
+00:16:35,320 --> 00:16:36,858
+fazer com que
+a proteína do Nightblood
+
+256
+00:16:36,864 --> 00:16:38,140
+se ligasse ao ADN da Luna?
+
+257
+00:16:38,292 --> 00:16:41,059
+A estrutura do ARN desfez-se.
+
+258
+00:16:42,665 --> 00:16:45,175
+- Porquê?
+- Abby, ela teve um ataque.
+
+259
+00:16:45,196 --> 00:16:48,602
+Porque acho que sei porque é que a Becca
+não conseguiu fazê-lo neste laboratório.
+
+260
+00:16:48,699 --> 00:16:50,906
+Computador, mostra-me o ARN
+do protótipo de Nightblood
+
+261
+00:16:50,912 --> 00:16:55,048
+a ligar-se em gravidade zero.
+
+262
+00:17:11,198 --> 00:17:12,749
+Resultaria.
+
+263
+00:17:13,660 --> 00:17:15,727
+<i>Simulação terminada.</i>
+
+264
+00:17:15,729 --> 00:17:17,261
+Foi a tua alucinação
+que te disse isto?
+
+265
+00:17:17,267 --> 00:17:19,627
+Sim. Quando imaginei
+que não tinha peso,
+
+266
+00:17:19,633 --> 00:17:22,028
+os meus neurónios devem ter
+disparado mais depressa
+
+267
+00:17:22,034 --> 00:17:24,302
+do que a minha mente consciente
+conseguia processar.
+
+268
+00:17:24,304 --> 00:17:25,937
+Comunicando através
+do teu subconsciente.
+
+269
+00:17:25,939 --> 00:17:27,353
+Exatamente.
+
+270
+00:17:28,978 --> 00:17:31,217
+Como simulamos a gravidade zero
+
+271
+00:17:31,223 --> 00:17:33,134
+num ambiente de laboratório?
+
+272
+00:17:34,269 --> 00:17:37,289
+Não podemos. É impossível.
+
+273
+00:17:43,093 --> 00:17:44,532
+CUIDADO: N2H4
+
+274
+00:17:46,364 --> 00:17:48,214
+L1 LOGISTICA
+L2 ENGENHARIA
+
+275
+00:17:48,234 --> 00:17:49,786
+L3 TESTE
+L4 MODULO DE SERVIÇO
+
+276
+00:17:54,804 --> 00:17:57,001
+É impossível na Terra.
+
+277
+00:17:58,005 --> 00:17:59,433
+A A.L.I.E. disse que a Becca
+foi ao espaço
+
+278
+00:17:59,439 --> 00:18:01,005
+à procura de um ambiente
+mais seguro
+
+279
+00:18:01,010 --> 00:18:02,490
+para fugir dela,
+mas não creio
+
+280
+00:18:02,500 --> 00:18:04,133
+que fosse esse o motivo.
+
+281
+00:18:04,135 --> 00:18:07,069
+Acho que ela foi ao espaço
+para fazer Nightblood.
+
+282
+00:18:07,652 --> 00:18:09,371
+Raven, como é que isso nos ajuda?
+
+283
+00:18:09,863 --> 00:18:12,195
+Não podemos voltar ao espaço.
+
+284
+00:18:12,992 --> 00:18:14,543
+E se pudermos?
+
+285
+00:18:15,441 --> 00:18:16,909
+Computador...
+
+286
+00:18:17,879 --> 00:18:21,617
+...abre as portas de segurança interiores
+e as portas de lançamento.
+
+287
+00:19:11,192 --> 00:19:13,206
+Quem quer ir dar uma volta?
+
+288
+00:19:25,117 --> 00:19:26,750
+A espera dá cabo de mim.
+
+289
+00:19:26,752 --> 00:19:29,475
+Calma. Eles já devem estar na gruta.
+
+290
+00:19:29,843 --> 00:19:32,689
+Além disso, não temos outra opção.
+
+291
+00:19:33,672 --> 00:19:35,544
+Temos de dar tempo à Clarke.
+
+292
+00:19:35,550 --> 00:19:37,350
+<i>Todas as unidades, verificação rádio.</i>
+
+293
+00:19:37,812 --> 00:19:39,059
+<i>- Unidade 1.</i>
+
+294
+00:19:39,065 --> 00:19:40,497
+Unidade 1, em ordem.
+
+295
+00:19:40,572 --> 00:19:41,949
+<i>Unidade 2.</i>
+
+296
+00:19:42,841 --> 00:19:45,709
+<i>Unidade 2.</i>
+Riley, onde estás?
+
+297
+00:19:51,179 --> 00:19:52,549
+Raios!
+
+298
+00:19:54,164 --> 00:19:56,158
+Costa, vês o Riley?
+
+299
+00:19:56,160 --> 00:19:57,593
+<i>Foi urinar.</i>
+
+300
+00:19:57,595 --> 00:19:58,828
+Há quanto tempo?
+
+301
+00:19:58,830 --> 00:20:00,596
+Não sei. Não há muito.
+
+302
+00:20:00,814 --> 00:20:02,640
+<i>Deixou a espingarda dele?</i>
+
+303
+00:20:04,304 --> 00:20:05,950
+Negativo. Levou-a com ele.
+
+304
+00:20:07,384 --> 00:20:08,623
+Mas deixou o rádio.
+
+305
+00:20:11,633 --> 00:20:13,227
+Talvez tenha ido para casa.
+
+306
+00:20:13,844 --> 00:20:16,097
+Ou vai para a gruta
+para executar
+
+307
+00:20:16,103 --> 00:20:18,006
+o rei do povo
+que o fez escravo.
+
+308
+00:20:19,818 --> 00:20:21,720
+Estou a esquecer-me de outras opções?
+
+309
+00:20:23,924 --> 00:20:27,302
+Espera.
+Nunca passarás pelo exército.
+
+310
+00:20:27,308 --> 00:20:28,593
+O que estás a fazer?
+
+311
+00:20:29,319 --> 00:20:31,162
+A impedir uma guerra.
+
+312
+00:20:34,617 --> 00:20:36,313
+<i>Monty, o que estás a fazer?</i>
+
+313
+00:20:36,352 --> 00:20:40,136
+<i>Mantém a tua posição
+Repito: mantém a tua posição.</i>
+
+314
+00:20:44,349 --> 00:20:45,833
+Suponho que aches que nos tens
+
+315
+00:20:45,839 --> 00:20:47,207
+onde nos querias.
+
+316
+00:20:48,464 --> 00:20:51,340
+Roan, somos aliados.
+O que estão a fazer?
+
+317
+00:20:51,346 --> 00:20:53,817
+Tínhamos um acordo. Quebraste-o.
+
+318
+00:20:53,823 --> 00:20:55,292
+Eu é que o quebrei?
+
+319
+00:20:57,230 --> 00:20:59,457
+Quase mataram a Octavia.
+
+320
+00:20:59,613 --> 00:21:02,740
+Têm o Bellamy
+e o nosso chanceler reféns.
+
+321
+00:21:02,746 --> 00:21:06,052
+Marchaste para aqui com um exército
+para fazer o quê, exatamente?
+
+322
+00:21:06,058 --> 00:21:07,669
+Porque nos haverias de matar,
+sabendo
+
+323
+00:21:07,675 --> 00:21:09,797
+que morreremos em breve
+de qualquer maneira?
+
+324
+00:21:10,544 --> 00:21:12,704
+Não viemos aqui
+para vos matar, Clarke.
+
+325
+00:21:12,706 --> 00:21:14,264
+Viemos para tomar a vossa nave.
+
+326
+00:21:16,250 --> 00:21:18,217
+Uma nave que restauraram
+para salvar o vosso povo,
+
+327
+00:21:18,223 --> 00:21:19,450
+não o meu.
+
+328
+00:21:20,013 --> 00:21:22,448
+Aquela nave
+é um plano de contingência.
+
+329
+00:21:23,261 --> 00:21:25,318
+Só dará para cem pessoas, no máximo.
+
+330
+00:21:25,324 --> 00:21:27,334
+Então, não te importarás
+que fiquemos com ela.
+
+331
+00:21:32,498 --> 00:21:34,355
+Antes de o fazerem refém,
+
+332
+00:21:34,361 --> 00:21:36,828
+o Kane falou-vos
+da solução do Nightblood?
+
+333
+00:21:37,225 --> 00:21:38,430
+Tentou.
+
+334
+00:21:38,944 --> 00:21:40,365
+Parece-me,
+
+335
+00:21:40,367 --> 00:21:42,534
+que vais ser a próxima comandante.
+
+336
+00:21:42,746 --> 00:21:44,903
+Mais uma violação do nosso acordo.
+
+337
+00:21:46,703 --> 00:21:49,815
+A Flame foi-se, e sabes disso.
+
+338
+00:21:50,299 --> 00:21:52,827
+Se pudermos acreditar na Octavia.
+
+339
+00:21:53,554 --> 00:21:56,591
+Roan, isto não é uma conspiração.
+
+340
+00:21:56,597 --> 00:21:59,116
+Estou a fazer tudo o que posso
+para nos salvar a todos.
+
+341
+00:21:59,122 --> 00:22:00,550
+Não, não estás.
+
+342
+00:22:00,556 --> 00:22:01,784
+Choras a Lexa,
+
+343
+00:22:01,790 --> 00:22:03,954
+mas não aprendeste nada com ela.
+
+344
+00:22:05,094 --> 00:22:07,818
+Ela era <i>Trikru,</i> mas viu
+
+345
+00:22:07,824 --> 00:22:09,422
+mais longe que a lealdade ao clã.
+
+346
+00:22:09,428 --> 00:22:11,687
+Dizes a ti mesma que também o fizeste.
+
+347
+00:22:11,693 --> 00:22:15,500
+A grande <i>Wanheda,</i>
+a comandante da morte,
+
+348
+00:22:15,502 --> 00:22:17,635
+disse que quer salvar todos,
+
+349
+00:22:17,637 --> 00:22:21,299
+mas constrói uma nave para si própria,
+para o seu povo.
+
+350
+00:22:22,759 --> 00:22:25,877
+A solução do Nightblood
+salvará toda a gente.
+
+351
+00:22:25,879 --> 00:22:27,506
+Não acredito em milagres.
+
+352
+00:22:27,512 --> 00:22:29,147
+Não tem de ser assim.
+
+353
+00:22:29,149 --> 00:22:30,949
+Tem, sim.
+
+354
+00:22:30,951 --> 00:22:32,750
+A meu ver, tens duas opções:
+
+355
+00:22:32,752 --> 00:22:34,819
+diz aos teus atiradores
+para recuarem,
+
+356
+00:22:35,061 --> 00:22:37,328
+dá-nos a tua nave,
+e usa o tempo que nos resta
+
+357
+00:22:37,334 --> 00:22:39,924
+para encontrar a tua solução
+do Nightblood,
+
+358
+00:22:40,631 --> 00:22:44,808
+ou diz-lhes para dispararem.
+
+359
+00:22:45,640 --> 00:22:48,166
+Temos mais balas
+do que vocês têm homens.
+
+360
+00:22:48,168 --> 00:22:49,546
+Perderão.
+
+361
+00:22:49,552 --> 00:22:52,272
+Talvez.
+Ambos sofreremos baixas.
+
+362
+00:22:52,967 --> 00:22:55,039
+O Kane e o Bellamy entre elas.
+
+363
+00:22:57,663 --> 00:23:00,186
+Achas que consegues abalar
+a minha determinação?
+
+364
+00:23:00,615 --> 00:23:03,367
+Estava disposta a sacrificar
+a minha própria mãe
+
+365
+00:23:03,703 --> 00:23:05,066
+para deter a A.L.I.E.
+
+366
+00:23:05,099 --> 00:23:08,067
+E eu estava disposto a sacrificar
+a minha para te ajudar.
+
+367
+00:23:10,384 --> 00:23:12,114
+Que belo par que nós somos.
+
+368
+00:23:17,380 --> 00:23:18,863
+Então, lutamos.
+
+369
+00:23:20,829 --> 00:23:21,972
+Espera.
+
+370
+00:23:24,760 --> 00:23:26,593
+E se a partilharmos?
+
+371
+00:23:32,071 --> 00:23:33,760
+<i>Afasta-te, Skaikru!
+
+372
+00:23:34,546 --> 00:23:37,916
+Parem. Estou desarmado.
+
+373
+00:23:37,918 --> 00:23:40,051
+Preciso de falar com quem comanda.
+
+374
+00:23:53,052 --> 00:23:54,505
+A Octavia está viva?
+
+375
+00:23:56,657 --> 00:23:57,834
+Fala.
+
+376
+00:23:59,112 --> 00:24:01,439
+Um dos nossos saiu da formação.
+
+377
+00:24:01,441 --> 00:24:03,604
+Tenho motivos para crer
+que vai tentar matar o vosso rei.
+
+378
+00:24:04,081 --> 00:24:05,410
+Porque me dizes isso?
+
+379
+00:24:05,412 --> 00:24:06,811
+Porque achas que te diz isso?
+
+380
+00:24:06,813 --> 00:24:08,213
+Está a tentar evitar um massacre.
+
+381
+00:24:08,215 --> 00:24:09,747
+- Quem é?
+- O Riley.
+
+382
+00:24:09,886 --> 00:24:11,740
+O Riley?
+Nem devia estar aqui.
+
+383
+00:24:11,746 --> 00:24:13,546
+Parece ser esse o consenso.
+
+384
+00:24:14,319 --> 00:24:16,252
+Tu e tu, venham comigo.
+
+385
+00:24:18,583 --> 00:24:19,714
+<i>- Venham.</i>
+- Esperem!
+
+386
+00:24:22,195 --> 00:24:24,040
+Se os nossos atiradores virem
+arqueiros a avançar,
+
+387
+00:24:24,046 --> 00:24:25,343
+abrirão fogo.
+
+388
+00:24:25,819 --> 00:24:28,800
+- Diz-lhe.
+- Foram essas as nossas ordens.
+
+389
+00:24:29,213 --> 00:24:31,773
+Não permitirei que o meu rei
+seja assassinado.
+
+390
+00:24:31,779 --> 00:24:33,424
+Não precisa de o ser.
+
+391
+00:24:35,050 --> 00:24:36,816
+Conheço o Riley. Deixa-me ir contigo.
+
+392
+00:24:36,822 --> 00:24:37,811
+Eu posso detê-lo.
+
+393
+00:24:37,817 --> 00:24:39,644
+Achas que sou parva, Bellamy?
+
+394
+00:24:39,857 --> 00:24:43,278
+Serás uma parva morta,
+se saíres daqui sem mim.
+
+395
+00:24:43,350 --> 00:24:45,248
+Usa o rádio do Monty,
+deixa o Kane dizer-lhes
+
+396
+00:24:45,254 --> 00:24:47,229
+que vamos procurar o Riley juntos,
+
+397
+00:24:47,235 --> 00:24:48,823
+e eles deixar-nos-ão passar.
+
+398
+00:25:00,613 --> 00:25:01,733
+Fala o Chanceler Kane.
+
+399
+00:25:01,735 --> 00:25:03,334
+<i>O senhor está bem?</i>
+
+400
+00:25:03,336 --> 00:25:04,763
+Ouçam-me.
+
+401
+00:25:04,769 --> 00:25:06,900
+O Bellamy está a colaborar
+com um dos deles para encontrar o Riley.
+
+402
+00:25:07,549 --> 00:25:09,099
+Deixem-nos passar, entendido?
+
+403
+00:25:09,105 --> 00:25:10,432
+<i>- Entendido.</i>
+
+404
+00:25:13,455 --> 00:25:14,655
+<i>Tira-lhe as correntes.</i>
+
+405
+00:25:17,564 --> 00:25:19,443
+E põe-nas neste.
+
+406
+00:25:23,949 --> 00:25:25,293
+Se eu não voltar antes de o Sol
+
+407
+00:25:25,299 --> 00:25:28,700
+passar das árvores,
+matem os reféns.
+
+408
+00:25:41,855 --> 00:25:44,074
+Que bela maneira de ganhar confiança.
+
+409
+00:25:49,988 --> 00:25:52,182
+Nunca vi nada assim.
+
+410
+00:25:54,455 --> 00:25:57,524
+Ela está a usar
+uma percentagem enorme do cérebro.
+
+411
+00:25:58,041 --> 00:25:59,722
+Há um simulador de voo integrado
+
+412
+00:25:59,724 --> 00:26:00,969
+no <i>software</i> do foguetão.
+
+413
+00:26:00,975 --> 00:26:02,285
+Tirem-me esta rede de cabelo,
+de cima de mim
+
+414
+00:26:02,324 --> 00:26:04,358
+para eu poder sentar-me
+e dar uma voltinha.
+
+415
+00:26:04,360 --> 00:26:05,926
+Ainda não, Raven.
+
+416
+00:26:05,928 --> 00:26:07,127
+Continua a fazer
+o que estás a fazer.
+
+417
+00:26:07,129 --> 00:26:08,328
+Isto é importante.
+
+418
+00:26:12,045 --> 00:26:14,554
+Computador, vista temporal.
+
+419
+00:26:17,142 --> 00:26:19,306
+- Abby...
+- Estou a ver.
+
+420
+00:26:20,451 --> 00:26:22,376
+Isquémico, ou hemorrágico?
+
+421
+00:26:22,378 --> 00:26:24,177
+Ainda não sabemos se é uma trombose.
+
+422
+00:26:26,506 --> 00:26:27,814
+Então, o que é?
+
+423
+00:26:32,221 --> 00:26:33,854
+Não tem combustível no tanque,
+
+424
+00:26:33,957 --> 00:26:36,724
+mas temos muita hidrazina em Arkadia.
+
+425
+00:26:37,293 --> 00:26:38,982
+- Demoramos um dia a trazê-la.
+- Raven,
+
+426
+00:26:38,988 --> 00:26:42,311
+preciso que abrandes.
+- Abrandar?
+
+427
+00:26:42,418 --> 00:26:43,798
+Estás a brincar, certo?
+
+428
+00:26:43,804 --> 00:26:45,532
+Abby, temos um foguetão.
+
+429
+00:26:45,534 --> 00:26:47,634
+Temos de ir ao espaço
+fazer Nightblood.
+
+430
+00:26:47,636 --> 00:26:49,207
+Tem dois lugares, já agora.
+
+431
+00:26:49,213 --> 00:26:51,048
+Eu piloto, tu cozinhas.
+Parece-te um bom plano?
+
+432
+00:26:52,841 --> 00:26:56,177
+- O que é?
+- Ouve-me.
+
+433
+00:26:57,421 --> 00:26:59,603
+Capacidade mental aumentada,
+alucinações,
+
+434
+00:26:59,609 --> 00:27:03,577
+euforia, dores de cabeça,
+está tudo ligado.
+
+435
+00:27:04,553 --> 00:27:06,352
+A A.L.I.E. avisou-te de que o PEM
+
+436
+00:27:06,358 --> 00:27:08,525
+causaria lesões cerebrais.
+
+437
+00:27:10,943 --> 00:27:12,446
+O Jasper tinha razão.
+
+438
+00:27:12,895 --> 00:27:15,162
+Foi por isso que mais ninguém
+teve um <i>upgrade.</i>
+
+439
+00:27:15,825 --> 00:27:17,310
+De que estás a falar?
+
+440
+00:27:17,316 --> 00:27:19,215
+Para todos os outros,
+a Clarke desligou
+
+441
+00:27:19,221 --> 00:27:20,600
+o interruptor geral.
+
+442
+00:27:20,602 --> 00:27:22,390
+É como desligar
+
+443
+00:27:22,396 --> 00:27:23,737
+um programa da forma correta.
+
+444
+00:27:23,739 --> 00:27:25,138
+Quando o PEM queimou o meu <i>chip,</i>
+
+445
+00:27:25,140 --> 00:27:27,858
+foi mais como cortar
+a corrente do SO
+
+446
+00:27:27,864 --> 00:27:29,217
+enquanto a RAM ainda está cheia.
+
+447
+00:27:29,995 --> 00:27:30,980
+Continua.
+
+448
+00:27:31,211 --> 00:27:34,068
+Parte do código da A.L.I.E.
+ainda está na minha cabeça.
+
+449
+00:27:34,888 --> 00:27:37,451
+É por isso que sei coisas
+que nunca me ensinaram.
+
+450
+00:27:37,976 --> 00:27:40,005
+A mente da Becca
+estava nesse código.
+
+451
+00:27:40,857 --> 00:27:42,658
+É por isso que sabias
+onde estava o foguetão.
+
+452
+00:27:42,664 --> 00:27:43,763
+Sim.
+
+453
+00:27:45,894 --> 00:27:48,128
+Agora, tenho de aprender
+a pilotar isto.
+
+454
+00:27:48,130 --> 00:27:49,239
+Espera.
+
+455
+00:27:50,934 --> 00:27:52,899
+Raven, o teu <i>scan</i>
+revelou sinais
+
+456
+00:27:52,905 --> 00:27:54,210
+de uma trombose.
+
+457
+00:27:55,976 --> 00:27:58,209
+Receio que, se continuares
+a este ritmo,
+
+458
+00:27:58,215 --> 00:28:00,257
+só vá piorar as coisas.
+
+459
+00:28:01,804 --> 00:28:03,710
+Já passei por pior, doutora.
+
+460
+00:28:07,251 --> 00:28:09,382
+Não pior do que isto.
+
+461
+00:28:13,020 --> 00:28:15,043
+Raven, pode matar-te.
+
+462
+00:28:17,235 --> 00:28:20,470
+Pode, ou vai matar-me?
+
+463
+00:28:24,179 --> 00:28:27,201
+E então?
+Sobrevivo tempo suficiente
+
+464
+00:28:27,207 --> 00:28:29,027
+para todos os outros morrerem?
+
+465
+00:28:31,464 --> 00:28:33,167
+Não posso fazer isso, Abby.
+
+466
+00:28:34,720 --> 00:28:37,244
+Mesmo que me custe a vida.
+
+467
+00:28:40,441 --> 00:28:42,477
+Tens de me deixar ir.
+
+468
+00:28:55,656 --> 00:28:56,863
+Abby, espera.
+
+469
+00:28:56,865 --> 00:28:58,165
+Porque não tens sintomas?
+
+470
+00:28:58,167 --> 00:29:00,233
+Eles usaram os PEM também em ti.
+
+471
+00:29:00,533 --> 00:29:02,650
+Porque ambos sabemos
+que os traumatismos cerebrais
+
+472
+00:29:02,656 --> 00:29:04,522
+podem provocar sintomas diferentes
+
+473
+00:29:04,524 --> 00:29:06,313
+em pessoas diferentes.
+
+474
+00:29:06,987 --> 00:29:09,358
+Mesmo assim. Abby,
+
+475
+00:29:10,176 --> 00:29:12,477
+temos de fazer um <i>scan</i>
+ao teu cérebro também.
+
+476
+00:29:14,167 --> 00:29:17,443
+Eu aviso-te se tiver dores
+de cabeça, está bem?
+
+477
+00:29:24,663 --> 00:29:26,184
+Aquela cumeada
+tem a melhor vista
+
+478
+00:29:26,190 --> 00:29:27,656
+para a gruta.
+
+479
+00:29:27,782 --> 00:29:29,381
+É onde o encontraremos.
+
+480
+00:29:29,649 --> 00:29:31,349
+Estás mesmo disposto
+a matar o teu homem
+
+481
+00:29:31,351 --> 00:29:32,737
+para salvar o meu rei?
+
+482
+00:29:33,056 --> 00:29:34,659
+Nunca te fartas?
+
+483
+00:29:37,257 --> 00:29:38,501
+De lados.
+
+484
+00:29:39,257 --> 00:29:41,259
+O meu homem, o teu rei...
+
+485
+00:29:42,056 --> 00:29:43,428
+O <i>Praimfaya</i>
+está-se nas tintas
+
+486
+00:29:43,430 --> 00:29:45,281
+para o clã a que pertences.
+
+487
+00:29:47,240 --> 00:29:48,389
+Fico contente por poderes
+
+488
+00:29:48,395 --> 00:29:49,476
+despedir-te da tua irmã,
+
+489
+00:29:49,482 --> 00:29:50,971
+antes que ele chegue.
+
+490
+00:29:53,624 --> 00:29:55,636
+A menos que morramos todos aqui, hoje.
+
+491
+00:29:59,294 --> 00:30:00,845
+Se a tivesses matado,
+
+492
+00:30:01,209 --> 00:30:03,235
+estas correntes estariam
+à volta do teu pescoço.
+
+493
+00:30:04,383 --> 00:30:06,814
+É como a Rainha Nia dizia:
+
+494
+00:30:07,633 --> 00:30:09,540
+"A guerra torna-nos todos assassinos."
+
+495
+00:30:20,667 --> 00:30:24,549
+Cinquenta lugares para cada lado.
+Posso aceitar isso.
+
+496
+00:30:24,875 --> 00:30:28,210
+O teu povo pode?
+Eles queriam guerra.
+
+497
+00:30:28,275 --> 00:30:30,275
+Sou um rei, Clarke.
+
+498
+00:30:30,277 --> 00:30:32,911
+Não tenho de perguntar ao meu povo
+o que eles querem.
+
+499
+00:30:33,851 --> 00:30:35,528
+A verdadeira questão é:
+
+500
+00:30:35,534 --> 00:30:37,725
+como vais convencer o teu povo disto?
+
+501
+00:30:37,731 --> 00:30:39,048
+Não vão gostar de perder
+
+502
+00:30:39,054 --> 00:30:40,527
+metade dos lugares no salva-vidas.
+
+503
+00:30:40,533 --> 00:30:42,052
+Não precisamos de ser felizes.
+
+504
+00:30:42,745 --> 00:30:44,476
+Precisamos de sobreviver.
+
+505
+00:30:46,827 --> 00:30:48,721
+Se a Gente do Céu não te seguir,
+
+506
+00:30:48,898 --> 00:30:51,232
+quando chegar a altura
+de fechar a porta,
+
+507
+00:30:51,288 --> 00:30:53,455
+os <i>Azgeda </i>tratarão de o fazer.
+
+508
+00:30:57,317 --> 00:30:59,737
+Esperemos que nunca chegue
+a esse ponto.
+
+509
+00:31:03,963 --> 00:31:06,563
+Unimo-nos com sangue.
+
+510
+00:31:09,589 --> 00:31:12,022
+Unimo-nos com sangue.
+
+511
+00:31:20,690 --> 00:31:23,395
+Devemos estar perto.
+Faz o que eu disser.
+
+512
+00:31:23,401 --> 00:31:25,864
+Se ele disparar aquela arma,
+entraremos em guerra.
+
+513
+00:31:25,870 --> 00:31:28,270
+Como queiras.
+
+514
+00:31:41,014 --> 00:31:42,780
+Ali. Riley!
+
+515
+00:31:44,317 --> 00:31:47,576
+Riley, para.
+Não queres fazer isto.
+
+516
+00:31:47,582 --> 00:31:49,554
+Sai daqui, Bellamy.
+
+517
+00:31:49,556 --> 00:31:51,328
+Echo. Echo, espera.
+
+518
+00:31:51,334 --> 00:31:53,124
+Se disparares, ele dispara.
+
+519
+00:31:53,126 --> 00:31:55,727
+Riley. Riley, ouve-me.
+
+520
+00:31:55,729 --> 00:31:58,642
+Premir esse gatilho
+não porá fim a nada.
+
+521
+00:31:59,548 --> 00:32:01,666
+O Kane e o Monty serão executados,
+
+522
+00:32:01,668 --> 00:32:03,697
+e o nosso lado abrirá fogo.
+
+523
+00:32:04,208 --> 00:32:05,205
+Haverá um banho de sangue.
+
+524
+00:32:05,211 --> 00:32:06,809
+És prisioneiro deles.
+
+525
+00:32:07,067 --> 00:32:09,294
+Dizes o que eles querem que digas.
+
+526
+00:32:10,106 --> 00:32:11,918
+Sei bem como isso é.
+
+527
+00:32:12,679 --> 00:32:14,246
+Já chega disto.
+
+528
+00:32:15,215 --> 00:32:16,538
+Sai da frente, ou mato-te também.
+
+529
+00:32:16,544 --> 00:32:19,542
+Riley, baixa a arma. Imploro-te.
+
+530
+00:32:20,191 --> 00:32:21,553
+Eu sei o que sentes em relação a eles
+
+531
+00:32:21,559 --> 00:32:23,226
+e o que eles te fizeram.
+
+532
+00:32:23,457 --> 00:32:25,386
+Mas a tua vida...
+A tua vida foi salva
+
+533
+00:32:25,392 --> 00:32:27,692
+por um motivo e não foi por isto.
+
+534
+00:32:27,698 --> 00:32:28,937
+Por favor.
+
+535
+00:32:30,381 --> 00:32:31,977
+Não dispares. Não dispares.
+
+536
+00:32:31,990 --> 00:32:34,564
+Ele está a ouvir-me. Não estás, Riley?
+
+537
+00:32:36,508 --> 00:32:38,182
+Confia em mim quando te digo
+
+538
+00:32:38,188 --> 00:32:40,038
+que, se isto se tornar num massacre,
+
+539
+00:32:40,040 --> 00:32:42,524
+nunca mais te sairá da cabeça.
+
+540
+00:32:43,410 --> 00:32:46,146
+A guerra tornou-me um assassino.
+
+541
+00:32:49,920 --> 00:32:51,749
+Não permitas que te aconteça o mesmo.
+
+542
+00:33:21,699 --> 00:33:23,032
+Procurámos em metade da nave.
+
+543
+00:33:23,038 --> 00:33:24,752
+Porque tens tanta certeza
+de que está aqui?
+
+544
+00:33:24,758 --> 00:33:26,257
+Não o viste em Polis.
+
+545
+00:33:26,259 --> 00:33:29,093
+Estava numa missão
+para destruir a tecnologia.
+
+546
+00:33:29,330 --> 00:33:31,075
+Não foi coincidência
+ter-me encontrado
+
+547
+00:33:31,081 --> 00:33:32,382
+no caminho para cá.
+
+548
+00:33:33,374 --> 00:33:35,277
+Ele usou-me para entrar.
+
+549
+00:33:35,871 --> 00:33:37,168
+Toda esta nave é tecnologia.
+
+550
+00:33:37,170 --> 00:33:39,372
+Aonde irias para causar
+mais estragos?
+
+551
+00:33:40,765 --> 00:33:42,240
+À sala dos servidores.
+
+552
+00:33:43,100 --> 00:33:44,710
+Por aqui.
+
+553
+00:33:46,417 --> 00:33:47,893
+Eu ajudo-te.
+
+554
+00:33:50,462 --> 00:33:51,549
+Haihefa.
+
+555
+00:33:51,551 --> 00:33:53,139
+Bellamy. Estás bem?
+
+556
+00:33:53,663 --> 00:33:55,220
+Ninguém morreu, hoje.
+
+557
+00:33:55,688 --> 00:33:57,188
+Então, o que perdemos?
+
+558
+00:34:01,473 --> 00:34:02,799
+Nada, Majestade.
+
+559
+00:34:11,279 --> 00:34:12,279
+<i>Pelo meu irmão.
+
+560
+00:34:14,522 --> 00:34:15,522
+<i>Pelo meu pai.
+
+561
+00:34:18,673 --> 00:34:19,673
+<i>Pela minha mãe.
+
+562
+00:34:25,535 --> 00:34:27,285
+Ilian, não!
+
+563
+00:34:27,845 --> 00:34:29,613
+Presumo que não estejamos em guerra.
+
+564
+00:34:30,379 --> 00:34:31,810
+Hoje, não.
+
+565
+00:34:32,201 --> 00:34:33,654
+O que quer que faças aqui,
+
+566
+00:34:33,660 --> 00:34:35,493
+não trará a tua família de volta.
+
+567
+00:34:35,495 --> 00:34:37,061
+Ninguém tem de morrer.
+Deviam ir-se embora.
+
+568
+00:34:37,063 --> 00:34:39,163
+Por favor. A casa das máquinas
+fica por baixo.
+
+569
+00:34:39,165 --> 00:34:41,266
+Se explodir, destruirá toda a nave.
+
+570
+00:34:41,268 --> 00:34:42,705
+É essa a ideia.
+
+571
+00:34:44,319 --> 00:34:45,483
+E a nave?
+
+572
+00:34:46,676 --> 00:34:48,740
+Fui prisioneira nesta nave.
+
+573
+00:34:48,742 --> 00:34:53,211
+Detesto este lugar.
+Mas, agora, precisamos dela.
+
+574
+00:34:55,015 --> 00:34:57,181
+Se não conseguirmos
+fazer Nightblood,
+
+575
+00:34:57,183 --> 00:34:58,772
+partilharemos a Arkadia.
+
+576
+00:34:59,352 --> 00:35:01,853
+Arranjaremos forma
+de sobrevivermos juntos.
+
+577
+00:35:03,206 --> 00:35:05,373
+Ilian, por favor, não faças isto.
+
+578
+00:35:05,521 --> 00:35:07,325
+Estiveste na Cidade da Luz?
+
+579
+00:35:08,948 --> 00:35:10,112
+Não.
+
+580
+00:35:10,658 --> 00:35:12,851
+Então, nunca entenderás.
+
+581
+00:35:14,834 --> 00:35:17,535
+Não, Ilian!
+
+582
+00:35:34,754 --> 00:35:37,388
+Veio de Arkadia.
+
+583
+00:36:02,267 --> 00:36:03,734
+Niylah.
+
+584
+00:36:08,524 --> 00:36:10,123
+Niylah.
+
+585
+00:36:19,950 --> 00:36:22,651
+Que raio estás a fazer?
+
+586
+00:36:29,191 --> 00:36:31,562
+Estou a certificar-me
+de que não morres.
+
+587
+00:36:42,189 --> 00:36:43,546
+Tenho de encontrar a minha irmã.
+
+588
+00:36:43,552 --> 00:36:45,051
+<i>Freddie!
+
+589
+00:36:47,534 --> 00:36:49,468
+Não sei.
+Aonde é que ele está?
+
+590
+00:36:50,283 --> 00:36:52,086
+Tenho de encontrar
+a minha irmã.
+
+591
+00:36:52,092 --> 00:36:54,059
+Ela estava na enfermaria.
+
+592
+00:37:01,235 --> 00:37:03,149
+Como aconteceu isto?
+
+593
+00:37:15,641 --> 00:37:19,109
+- Ali. Ali.
+- O.
+
+594
+00:37:20,094 --> 00:37:22,127
+O!
+
+595
+00:37:22,191 --> 00:37:24,858
+Vamos. Vamos.
+
+596
+00:37:27,821 --> 00:37:31,856
+Vamos tirar-te daqui.
+Estás bem.
+
+597
+00:37:31,858 --> 00:37:33,420
+O.
+
+598
+00:37:37,078 --> 00:37:39,363
+Estas bem?
+
+599
+00:37:39,365 --> 00:37:41,198
+Estou bem.
+
+600
+00:37:43,270 --> 00:37:45,803
+- Ajuda a Octavia.
+- Está bem.
+
+601
+00:37:45,805 --> 00:37:48,105
+Monty, leva a Niylah.
+
+602
+00:37:48,285 --> 00:37:49,697
+Estou aqui.
+
+603
+00:37:52,426 --> 00:37:54,157
+Pronto. Está tudo bem.
+
+604
+00:37:54,163 --> 00:37:57,932
+Foi o Ilian. Tentei impedi-lo.
+
+605
+00:38:06,058 --> 00:38:07,525
+Clarke.
+
+606
+00:39:40,820 --> 00:39:42,090
+Clarke?
+
+607
+00:39:50,863 --> 00:39:52,130
+Clarke.
+
+608
+00:39:54,233 --> 00:39:55,564
+Como chegaste aqui?
+
+609
+00:39:55,570 --> 00:39:57,570
+Porque não me disseste que vinhas?
+
+610
+00:39:57,777 --> 00:39:58,777
+Querida...
+
+611
+00:40:01,590 --> 00:40:03,531
+O teu tempo está a esgotar-se, mãe.
+
+

@@ -1,0 +1,3316 @@
+﻿1
+00:00:00,000 --> 00:00:01,281
+<i>Nos episódios anteriores...</i>
+
+2
+00:00:01,311 --> 00:00:04,105
+Preciso de ajuda,
+de alguém que trabalhe comigo.
+
+3
+00:00:04,135 --> 00:00:05,785
+Tens alguém em mente?
+
+4
+00:00:05,815 --> 00:00:08,164
+O tempo não é absoluto.
+
+5
+00:00:11,903 --> 00:00:12,727
+Caramba!
+
+6
+00:00:12,757 --> 00:00:15,410
+Concebi o meu princípio
+da relatividade.
+
+7
+00:00:15,440 --> 00:00:17,926
+É a redefinição do universo.
+
+8
+00:00:17,956 --> 00:00:19,861
+Era isto que procurávamos.
+
+9
+00:00:19,891 --> 00:00:21,934
+- Agradeceste ao Michele?
+- Claro.
+
+10
+00:00:21,964 --> 00:00:24,133
+Eu ajudei-te
+com tantos artigos,
+
+11
+00:00:24,163 --> 00:00:26,359
+mas nunca pensaste incluir
+o meu nome.
+
+12
+00:00:26,389 --> 00:00:27,731
+Nunca me ocorreu.
+
+13
+00:00:27,761 --> 00:00:32,637
+Dr. Curie, receberá
+o Prémio Nobel de Física de 1903.
+
+14
+00:00:32,667 --> 00:00:35,224
+Informe o comité
+que não aceitarei o prémio
+
+15
+00:00:35,254 --> 00:00:37,365
+<i>se não honrarem
+<i>a minha esposa comigo.</i>
+
+16
+00:00:37,395 --> 00:00:40,546
+O funcionário de patentes de Berna
+citou-nos aos dois no artigo sobre...
+
+17
+00:00:40,576 --> 00:00:42,626
+"Quanta" de luz, sim. Vê?
+
+18
+00:00:42,656 --> 00:00:43,708
+Einstein.
+
+19
+00:00:43,738 --> 00:00:47,719
+É fascinante o que podemos deduzir
+de um homem apenas pelo nome.
+
+20
+00:00:47,749 --> 00:00:49,963
+Venho em nome
+do Professor Max Planck.
+
+21
+00:00:49,993 --> 00:00:51,496
+O pai da física prussiana?
+
+22
+00:00:51,526 --> 00:00:53,095
+Trabalha em mais algum artigo?
+
+23
+00:00:53,125 --> 00:00:55,101
+- Sim.
+- "Herr" Einstein, é...
+
+24
+00:00:56,013 --> 00:00:57,013
+... genial.
+
+25
+00:01:23,890 --> 00:01:26,418
+<b>S01E05
+<b>"Chapter Five"</b>
+
+26
+00:01:32,822 --> 00:01:35,100
+CLÍNICA DE BURGHÖLZLI
+ZURIQUE, 1932
+
+27
+00:01:37,124 --> 00:01:38,340
+Parem!
+
+28
+00:01:38,370 --> 00:01:39,833
+Por favor, parem!
+
+29
+00:01:48,728 --> 00:01:50,109
+Posso entrar?
+
+30
+00:01:53,013 --> 00:01:55,590
+Sou o Dr. Carl Jung.
+
+31
+00:01:56,021 --> 00:01:57,767
+Sou amigo do seu pai.
+
+32
+00:02:14,687 --> 00:02:18,699
+Pode explicar-me porque
+se quis magoar, Eduard?
+
+33
+00:02:21,963 --> 00:02:24,000
+22 ANOS ANTES
+ZURIQUE, SUÍÇA, 1910
+
+34
+00:02:24,021 --> 00:02:25,552
+Não chores, pequenote.
+
+35
+00:02:26,467 --> 00:02:29,036
+Quando chegar, toco-te Mozart.
+
+36
+00:02:29,449 --> 00:02:32,177
+Talvez um dia seja
+um belo violinista, como o pai.
+
+37
+00:02:32,207 --> 00:02:33,823
+Ensaia piano, Albertli.
+
+38
+00:02:33,853 --> 00:02:36,972
+Mais tarde, tocamos o minuete
+que aprendes para o bebé Eduard.
+
+39
+00:02:37,002 --> 00:02:38,834
+Ele não soa nada bem.
+
+40
+00:02:39,406 --> 00:02:41,144
+Posso ficar, se precisares,
+Miza.
+
+41
+00:02:41,174 --> 00:02:43,638
+Ficamos bem.
+Estás nervoso por causa da aula.
+
+42
+00:02:44,483 --> 00:02:48,456
+Não posso ser mais aborrecido
+do que o gordo Professor Pernet.
+
+43
+00:02:48,486 --> 00:02:50,008
+Vai correr bem, Albert.
+
+44
+00:02:50,562 --> 00:02:53,096
+Esperaste muito
+pelo cargo de professor.
+
+45
+00:03:13,108 --> 00:03:14,925
+Então, bom dia.
+
+46
+00:03:16,034 --> 00:03:17,034
+Acho eu.
+
+47
+00:03:18,498 --> 00:03:19,498
+Sim...
+
+48
+00:03:20,099 --> 00:03:22,236
+A segunda lei de Newton...
+
+49
+00:03:23,187 --> 00:03:27,436
+A aceleração em resposta
+a qualquer força...
+
+50
+00:03:34,641 --> 00:03:38,657
+Vamos começar
+pelo princípio da gravidade dele.
+
+51
+00:03:43,662 --> 00:03:48,809
+Uma força directamente proporcional
+ao produto de duas massas
+
+52
+00:03:49,363 --> 00:03:52,918
+e inversamente proporcional...
+
+53
+00:03:57,396 --> 00:03:59,138
+Parecem todos
+um pouco inquietos.
+
+54
+00:04:00,211 --> 00:04:02,323
+Quem se junta a mim
+para um passeio?
+
+55
+00:04:06,968 --> 00:04:08,724
+Porque caminhamos,
+Sr. Professor?
+
+56
+00:04:08,754 --> 00:04:10,898
+Porque sou péssimo
+a dar aulas.
+
+57
+00:04:11,569 --> 00:04:13,320
+Mas não sou péssimo a falar.
+
+58
+00:04:13,795 --> 00:04:15,366
+Devem ter dúvidas.
+
+59
+00:04:15,396 --> 00:04:18,722
+A física tenta explicar
+o universo todo.
+
+60
+00:04:19,065 --> 00:04:21,352
+Quem não tem dúvidas
+sobre isso?
+
+61
+00:04:22,584 --> 00:04:25,496
+Olhem para o céu.
+Quem sabe porque é azul?
+
+62
+00:04:25,526 --> 00:04:27,757
+Devido à dispersão da luz?
+
+63
+00:04:27,787 --> 00:04:29,604
+É isso que os livros dizem.
+
+64
+00:04:29,634 --> 00:04:31,490
+Mas o que dispersa a luz?
+
+65
+00:04:32,018 --> 00:04:34,719
+Acreditem ou não,
+ninguém sabe.
+
+66
+00:04:35,537 --> 00:04:37,710
+Talvez possamos compreender
+juntos.
+
+67
+00:04:39,646 --> 00:04:41,300
+Não é tuberculose, pois não?
+
+68
+00:04:41,590 --> 00:04:44,433
+- Ele vai ficar bem. É apenas crupe.
+- Tem a certeza.
+
+69
+00:04:44,463 --> 00:04:46,902
+Não aguento perder
+outro filho.
+
+70
+00:04:46,932 --> 00:04:49,691
+Francamente, preocupa-me mais
+a sua histeria
+
+71
+00:04:49,721 --> 00:04:51,331
+do que a tosse da criança.
+
+72
+00:04:52,510 --> 00:04:53,910
+Não estou histérica,
+
+73
+00:04:54,371 --> 00:04:55,313
+estou cansada.
+
+74
+00:04:55,343 --> 00:04:57,662
+As suas reacções emocionais
+são desproporcionais.
+
+75
+00:04:57,692 --> 00:05:01,564
+Julga que é fácil cuidar
+de dois filhos e de um marido?
+
+76
+00:05:01,594 --> 00:05:04,260
+Posso perguntar se tem relações
+com o seu marido?
+
+77
+00:05:05,280 --> 00:05:07,467
+- Desculpe?
+- É um facto clínico.
+
+78
+00:05:07,497 --> 00:05:09,402
+Os órgãos femininos
+não funcionam bem
+
+79
+00:05:09,432 --> 00:05:11,983
+se não satisfizer o marido.
+
+80
+00:05:17,288 --> 00:05:20,390
+O princípio de Mach
+lança dúvidas
+
+81
+00:05:20,420 --> 00:05:24,014
+sobre a explicação de Newton
+para a água que gira no balde.
+
+82
+00:05:24,044 --> 00:05:25,839
+A sua teoria também,
+Professor.
+
+83
+00:05:26,263 --> 00:05:27,266
+Conhece o meu trabalho?
+
+84
+00:05:27,296 --> 00:05:30,700
+Li a relatividade restrita uma dúzia
+de vezes, mas tenho uma dúvida.
+
+85
+00:05:31,034 --> 00:05:33,621
+Só uma? Eu tenho centenas.
+
+86
+00:05:34,536 --> 00:05:37,439
+A relatividade restrita só se aplica
+a velocidades constantes.
+
+87
+00:05:37,782 --> 00:05:39,503
+E a aceleração?
+
+88
+00:05:40,991 --> 00:05:44,133
+É uma dúvida que tenho
+há anos.
+
+89
+00:05:44,163 --> 00:05:47,221
+Infelizmente, estou atrasado
+para um compromisso.
+
+90
+00:06:01,158 --> 00:06:03,264
+Estás bonito esta noite, Babu.
+
+91
+00:06:03,778 --> 00:06:04,977
+Agora não, Miza.
+
+92
+00:06:05,410 --> 00:06:06,964
+Não faz mal,
+as crianças dormem.
+
+93
+00:06:06,994 --> 00:06:09,702
+Veste-te, por favor.
+Vamos chegar tarde.
+
+94
+00:06:11,624 --> 00:06:16,265
+Não quero fingir um sorriso
+e falar com estranhos sobre o tempo.
+
+95
+00:06:17,810 --> 00:06:19,954
+Quase não temos tempo
+para nós.
+
+96
+00:06:19,984 --> 00:06:22,760
+Por favor, Miza.
+Estás muito bonita,
+
+97
+00:06:22,995 --> 00:06:26,177
+mas este convite é uma honra.
+Não podemos cancelar.
+
+98
+00:06:28,936 --> 00:06:30,549
+Talvez devas ir sem mim.
+
+99
+00:06:33,246 --> 00:06:34,558
+Como queiras.
+
+100
+00:06:40,214 --> 00:06:41,278
+"Brandy"?
+
+101
+00:06:41,308 --> 00:06:42,618
+Não, obrigado, Dr. Jung.
+
+102
+00:06:42,648 --> 00:06:44,710
+Confunde-me as ideias.
+
+103
+00:06:44,740 --> 00:06:46,742
+Gosta de manter o controlo.
+
+104
+00:06:46,772 --> 00:06:49,446
+Este é o meu laboratório,
+afinal.
+
+105
+00:06:49,809 --> 00:06:51,871
+E este é o meu.
+
+106
+00:06:52,646 --> 00:06:55,345
+É pena que a esposa não esteja bem,
+mas ainda bem que veio.
+
+107
+00:06:55,375 --> 00:06:57,484
+Queria debater o seu artigo.
+
+108
+00:06:57,752 --> 00:06:59,911
+"Sobre a Electrodinâmica
+dos Corpos em Movimento".
+
+109
+00:06:59,941 --> 00:07:03,769
+Creio que os seus colegas
+lhe chamam relatividade restrita.
+
+110
+00:07:05,256 --> 00:07:07,214
+Disse algo que o incomode?
+
+111
+00:07:08,951 --> 00:07:11,933
+Sinceramente,
+gostava de ultrapassar a teoria.
+
+112
+00:07:11,963 --> 00:07:15,341
+Faz com que pareça
+um... charlatão.
+
+113
+00:07:16,236 --> 00:07:17,531
+Um charlatão?
+
+114
+00:07:18,383 --> 00:07:20,233
+Mas é inovadora.
+
+115
+00:07:20,263 --> 00:07:23,650
+Talvez, mas cobre apenas
+uma circunstância especializada.
+
+116
+00:07:23,680 --> 00:07:25,496
+A velocidade
+não é sempre constante.
+
+117
+00:07:25,526 --> 00:07:28,638
+O mundo gira, acelera.
+
+118
+00:07:28,668 --> 00:07:32,873
+A teoria ignora isso
+e não menciona a gravidade.
+
+119
+00:07:33,395 --> 00:07:36,201
+A teoria está incompleta.
+Estou bloqueado.
+
+120
+00:07:36,231 --> 00:07:38,641
+Para piorar tudo,
+pediram-me que fale
+
+121
+00:07:38,671 --> 00:07:40,934
+numa conferência em Salzburgo.
+
+122
+00:07:41,732 --> 00:07:43,363
+Penso recusar.
+
+123
+00:07:44,636 --> 00:07:46,831
+Calculo que desiludiria
+muita gente.
+
+124
+00:07:46,861 --> 00:07:49,969
+Odeio dar aulas, enerva-me.
+
+125
+00:07:52,348 --> 00:07:54,443
+Não acredito
+que tagarelei tanto.
+
+126
+00:07:54,916 --> 00:07:56,940
+Tenho esse efeito nas pessoas.
+
+127
+00:07:57,916 --> 00:08:01,891
+Nos meus pacientes, descobri
+que o que os incomoda à superfície,
+
+128
+00:08:01,921 --> 00:08:03,940
+como o medo de falar,
+por exemplo,
+
+129
+00:08:04,005 --> 00:08:08,540
+tem algo mais fascinante
+no inconsciente.
+
+130
+00:08:09,276 --> 00:08:11,933
+Com todo o respeito,
+prefiro não ser analisado.
+
+131
+00:08:11,963 --> 00:08:14,546
+Prefiro manter-me
+na escuridão.
+
+132
+00:08:15,067 --> 00:08:17,844
+Perdoe-me.
+Convidei-o para conversar,
+
+133
+00:08:17,874 --> 00:08:19,304
+não para uma análise.
+
+134
+00:08:20,496 --> 00:08:23,286
+Mas posso oferecer-lhe
+um conselho de amigo?
+
+135
+00:08:23,502 --> 00:08:24,990
+Como poderia recusar?
+
+136
+00:08:25,951 --> 00:08:28,980
+Um homem não pode evitar
+os seus medos.
+
+137
+00:08:29,598 --> 00:08:30,895
+Para os superar,
+
+138
+00:08:31,139 --> 00:08:34,311
+tem de os enfrentar
+e passar pelo inferno deles.
+
+139
+00:08:38,132 --> 00:08:40,381
+SALZBURGO, ÁUSTRIA
+
+140
+00:09:03,376 --> 00:09:04,619
+Mezanino, por favor.
+
+141
+00:09:21,934 --> 00:09:23,217
+Mezanino, senhor.
+
+142
+00:09:36,086 --> 00:09:37,603
+Boa tarde, Professor.
+
+143
+00:09:39,488 --> 00:09:40,840
+Sente-se bem?
+
+144
+00:09:42,890 --> 00:09:45,391
+Professor Planck,
+Professor Minkowski, eu...
+
+145
+00:09:45,421 --> 00:09:46,880
+Diga logo, Einstein.
+
+146
+00:09:46,910 --> 00:09:50,527
+Não fique mudo.
+É o orador principal da tarde.
+
+147
+00:09:50,557 --> 00:09:53,795
+Nunca imaginei que um aluno
+que considerei preguiçoso
+
+148
+00:09:53,825 --> 00:09:56,282
+concebesse algo tão bonito
+como a relatividade restrita.
+
+149
+00:09:56,312 --> 00:10:00,525
+De facto. Os nosso colegas aguardam
+há semanas pela sua palestra.
+
+150
+00:10:00,555 --> 00:10:03,099
+Só falamos da sua teoria.
+
+151
+00:10:29,500 --> 00:10:32,621
+Sei o que esperam ouvir, mas...
+
+152
+00:10:33,259 --> 00:10:38,248
+... hoje gostava de falar de algo
+que não a relatividade.
+
+153
+00:10:53,291 --> 00:10:57,102
+<i>Segundo a teoria
+<i>predominante...</i>
+
+154
+00:10:57,132 --> 00:11:00,312
+<i>... a fase seguinte
+<i>de desenvolvimento...</i>
+
+155
+00:11:00,500 --> 00:11:06,665
+<i>... e teorias sobre a emissão
+<i>de luz só podem presumir...</i>
+
+156
+00:11:10,849 --> 00:11:11,899
+Assim,
+
+157
+00:11:12,814 --> 00:11:16,503
+se aceitarmos
+a constante do Professor Planck,
+
+158
+00:11:16,983 --> 00:11:19,332
+significa, resumindo,
+
+159
+00:11:20,258 --> 00:11:23,331
+que muito do que pensávamos
+saber sobre a luz
+
+160
+00:11:25,373 --> 00:11:26,473
+está errado.
+
+161
+00:11:38,281 --> 00:11:39,281
+Bravo!
+
+162
+00:11:46,975 --> 00:11:48,055
+Brilhante, Albert.
+
+163
+00:11:48,085 --> 00:11:50,961
+Mas porque não falou
+da relatividade?
+
+164
+00:11:52,856 --> 00:11:57,990
+Quando o vi na fila da frente,
+senti-me inspirado.
+
+165
+00:11:58,261 --> 00:12:01,479
+- O seu trabalho é a base...
+- Professor Einstein!
+
+166
+00:12:01,752 --> 00:12:03,339
+Perdoe-me a interrupção.
+
+167
+00:12:03,956 --> 00:12:05,206
+Conde von Stürgkh,
+
+168
+00:12:05,236 --> 00:12:08,050
+Ministro da Educação
+do Império Austro-Húngaro.
+
+169
+00:12:08,526 --> 00:12:13,424
+Quero informá-lo de que há uma vaga
+para Professor de Física Teórica
+
+170
+00:12:13,454 --> 00:12:16,365
+na Universidade Karl-Ferdinand,
+em Praga.
+
+171
+00:12:16,395 --> 00:12:19,351
+Seria uma honra
+tê-lo como docente.
+
+172
+00:12:20,824 --> 00:12:24,047
+- Fico lisonjeado.
+- As condições são generosas.
+
+173
+00:12:24,077 --> 00:12:25,925
+Deveres de ensino limitados.
+
+174
+00:12:26,243 --> 00:12:28,499
+Muito tempo para se focar
+no seu trabalho.
+
+175
+00:12:28,529 --> 00:12:30,687
+Não soa muito mal, pois não?
+
+176
+00:12:30,717 --> 00:12:31,717
+Maravilhoso!
+
+177
+00:12:32,385 --> 00:12:33,755
+Mais uma pergunta.
+
+178
+00:12:34,635 --> 00:12:36,670
+Querem que declare
+uma religião.
+
+179
+00:12:36,700 --> 00:12:39,202
+O que tem isso que ver
+com ensinar física?
+
+180
+00:12:39,232 --> 00:12:41,417
+Por alguma razão se chama
+Santa Coroa, Albert.
+
+181
+00:12:41,447 --> 00:12:44,548
+Deves fingir acreditar em Deus,
+se queres ser contratado.
+
+182
+00:12:44,578 --> 00:12:47,929
+Talvez seja tolo.
+Porque trocaria a Suíça democrática
+
+183
+00:12:47,959 --> 00:12:50,647
+por uma monarquia
+medieval e belicista?
+
+184
+00:12:50,677 --> 00:12:53,080
+Desde quando te preocupas
+com as parvoíces da política?
+
+185
+00:12:53,110 --> 00:12:55,636
+Não, preocupo-me
+em completar a minha teoria.
+
+186
+00:12:55,666 --> 00:12:56,911
+Aí tens a resposta.
+
+187
+00:12:56,941 --> 00:12:59,291
+Queixas-te de não ter tempo.
+
+188
+00:12:59,559 --> 00:13:02,007
+Engole o orgulho
+e admite que és judeu.
+
+189
+00:13:02,192 --> 00:13:04,669
+Judeu! Vão adorar.
+
+190
+00:13:21,357 --> 00:13:26,273
+PALÁCIO DE SCHÖNBRUNN
+VIENA, ÁUSTRIA
+
+191
+00:13:54,394 --> 00:13:56,072
+Professor Einstein,
+
+192
+00:13:56,271 --> 00:14:00,371
+Von Stürgkh diz-me que é uma
+das maiores mentes da Europa.
+
+193
+00:14:01,603 --> 00:14:03,853
+Ele é demasiado gentil,
+Vossa Majestade.
+
+194
+00:14:06,139 --> 00:14:08,596
+Ele também me diz
+que o senhor é judeu.
+
+195
+00:14:12,544 --> 00:14:13,544
+Sim.
+
+196
+00:14:13,893 --> 00:14:15,776
+Bom, os meus pais...
+
+197
+00:14:15,806 --> 00:14:18,951
+Não somos como os prussianos.
+
+198
+00:14:19,524 --> 00:14:23,101
+"Herr" Einstein,
+não temos nada contra os judeus.
+
+199
+00:14:24,907 --> 00:14:27,290
+Basta que seja temente a Deus.
+
+200
+00:14:31,698 --> 00:14:33,858
+Sou, Vossa Majestade.
+
+201
+00:14:34,257 --> 00:14:36,058
+Tenho pavor d'Ele, na verdade.
+
+202
+00:14:40,769 --> 00:14:42,590
+<i>Gostava de continuar
+<i>o nosso trabalho,</i>
+
+203
+00:14:42,620 --> 00:14:45,117
+porque não vens comigo
+para Praga, Jakob?
+
+204
+00:14:45,147 --> 00:14:47,737
+Talvez te arranje
+um cargo na universidade.
+
+205
+00:14:47,767 --> 00:14:50,567
+Poderíamos trabalhar
+no movimento acelerado.
+
+206
+00:14:50,597 --> 00:14:52,572
+Albert, fico lisonjeado,
+
+207
+00:14:52,855 --> 00:14:54,657
+mas recebi outra oferta.
+
+208
+00:14:54,687 --> 00:14:55,837
+Cargo de professor?
+
+209
+00:14:56,414 --> 00:14:58,564
+Não, assistente
+do Philipp Lenard.
+
+210
+00:14:59,111 --> 00:15:02,095
+O Lenard é um génio.
+Claro que tens de aceitar.
+
+211
+00:15:02,125 --> 00:15:05,452
+Sim, mas tem reputação.
+
+212
+00:15:06,183 --> 00:15:08,233
+Obriga a trabalhar muito,
+ao que parece.
+
+213
+00:15:08,634 --> 00:15:11,122
+Sinto um nó na barriga
+só de pensar nisso.
+
+214
+00:15:11,152 --> 00:15:12,499
+Sei como te sentes.
+
+215
+00:15:13,053 --> 00:15:15,516
+Em Salzburgo, estava tão nervoso
+antes da palestra
+
+216
+00:15:15,546 --> 00:15:19,296
+que pensei que o meu coração
+ia parar no elevador.
+
+217
+00:15:20,630 --> 00:15:21,730
+Na verdade,
+
+218
+00:15:22,354 --> 00:15:24,754
+imaginei algo muito estranho,
+
+219
+00:15:25,516 --> 00:15:30,386
+como se o elevador caísse
+e eu flutuasse dentro dele.
+
+220
+00:15:37,008 --> 00:15:38,908
+<i>Foi aterrador, no início,</i>
+
+221
+00:15:39,806 --> 00:15:43,317
+<i>mas, subitamente,
+<i>foi como se...</i>
+
+222
+00:15:43,891 --> 00:15:47,635
+<i>Bom,
+<i>como se eu não pesasse nada,</i>
+
+223
+00:15:52,211 --> 00:15:55,964
+Porque um homem que cai
+não sente o seu próprio peso.
+
+224
+00:15:57,428 --> 00:16:01,846
+Eu, o chão, os meus papéis,
+caímos todos à mesma velocidade.
+
+225
+00:16:01,876 --> 00:16:04,673
+<i>Não sentia a pressão
+<i>do chão nos pés.</i>
+
+226
+00:16:04,703 --> 00:16:06,780
+E se o elevador subisse?
+
+227
+00:16:09,015 --> 00:16:11,358
+Aceleraria na direcção oposta.
+
+228
+00:16:11,388 --> 00:16:13,142
+O efeito seria oposto.
+
+229
+00:16:13,172 --> 00:16:15,435
+<i>- Sentirias o chão.
+- <i>Ficaria colado,</i>
+
+230
+00:16:15,465 --> 00:16:16,894
+<i>como estou agora.</i>
+
+231
+00:16:16,924 --> 00:16:18,325
+Mas isso é a gravidade.
+
+232
+00:16:18,701 --> 00:16:19,801
+Exactamente!
+
+233
+00:16:22,170 --> 00:16:23,929
+Devia ter percebido antes.
+
+234
+00:16:23,959 --> 00:16:26,567
+É tão simples, tão lindo!
+
+235
+00:16:26,977 --> 00:16:29,977
+A aceleração e a gravidade
+são o mesmo.
+
+236
+00:16:31,025 --> 00:16:34,575
+Essa era a ideia que me faltava
+para completar a relatividade.
+
+237
+00:16:35,699 --> 00:16:39,122
+Talvez seja um dos pensamentos
+mais felizes da minha vida.
+
+238
+00:16:44,672 --> 00:16:48,223
+Sei que tens sido infeliz aqui,
+mas será melhor em Praga.
+
+239
+00:16:48,253 --> 00:16:50,376
+Porque seria feliz
+noutra cidade?
+
+240
+00:16:50,406 --> 00:16:51,956
+Será mais do mesmo.
+
+241
+00:16:53,285 --> 00:16:56,632
+Lavar pratos,
+mudar fraldas, ir às compras.
+
+242
+00:16:57,604 --> 00:17:00,459
+Podia ser uma mula
+presa a um carrinho.
+
+243
+00:17:01,452 --> 00:17:03,595
+Quando posso usar
+a minha mente?
+
+244
+00:17:03,625 --> 00:17:06,119
+Tens maus humores desde criança.
+Isso passa.
+
+245
+00:17:06,149 --> 00:17:08,358
+Não é um mau humor, Mamã.
+
+246
+00:17:09,662 --> 00:17:10,873
+Estou a sufocar!
+
+247
+00:17:10,903 --> 00:17:12,410
+Devias dar graças.
+
+248
+00:17:12,664 --> 00:17:15,739
+Cheguei a pensar
+que nunca terias um homem.
+
+249
+00:17:17,430 --> 00:17:19,830
+Talvez estivesse melhor sem um.
+
+250
+00:17:20,716 --> 00:17:22,639
+Como podes dizer isso?
+
+251
+00:17:23,531 --> 00:17:24,881
+E os teus filhos?
+
+252
+00:17:38,593 --> 00:17:41,145
+Não ligues à mamã, Eduard.
+
+253
+00:17:45,183 --> 00:17:46,833
+Às vezes, a mamã fica triste.
+
+254
+00:17:51,630 --> 00:17:55,080
+As pessoas não se tentam suicidar
+sem razão, Eduard.
+
+255
+00:17:55,618 --> 00:17:57,689
+Deve sentir desespero
+sobre algo.
+
+256
+00:17:58,269 --> 00:18:01,792
+Problemas femininos?
+Uma desilusão na escola?
+
+257
+00:18:12,644 --> 00:18:14,744
+Desculpe. Importa-se que fume?
+
+258
+00:18:20,554 --> 00:18:22,017
+Faz-me pensar no meu pai.
+
+259
+00:18:24,119 --> 00:18:26,055
+<i>Quando viu o seu pai?</i>
+
+260
+00:18:26,085 --> 00:18:27,085
+Não o vejo há anos.
+
+261
+00:18:29,508 --> 00:18:31,058
+Deve ser difícil.
+
+262
+00:18:31,648 --> 00:18:32,648
+Não.
+
+263
+00:18:33,367 --> 00:18:35,010
+Não, não é nada difícil.
+
+264
+00:18:35,666 --> 00:18:36,666
+Sabe...
+
+265
+00:18:39,092 --> 00:18:40,142
+Eu odeio-o.
+
+266
+00:18:41,128 --> 00:18:42,900
+PRAGA, 1911
+
+267
+00:18:42,922 --> 00:18:44,772
+Praga é um sistema de castas.
+
+268
+00:18:45,180 --> 00:18:49,071
+Alemães no topo, judeus no meio
+e os pobres checos abaixo de ambos.
+
+269
+00:18:49,101 --> 00:18:52,155
+- Porque é que alguém atura isso?
+- Tem uma vantagem.
+
+270
+00:18:52,564 --> 00:18:55,316
+Dizem que o sofrimento
+é necessário na arte.
+
+271
+00:18:55,574 --> 00:18:57,351
+Então é artista?
+
+272
+00:18:57,381 --> 00:18:59,100
+Podia alegar que sou escritor,
+
+273
+00:18:59,110 --> 00:19:03,085
+mas a verdade que é que trabalho
+na função pública.
+
+274
+00:19:04,057 --> 00:19:05,328
+Mata a minha alma.
+
+275
+00:19:05,358 --> 00:19:08,317
+Compreendo.
+Fui administrativo vários anos.
+
+276
+00:19:08,347 --> 00:19:10,731
+Sentia-se uma barata?
+
+277
+00:19:11,075 --> 00:19:13,853
+- Que metáfora interessante.
+- Palavra?
+
+278
+00:19:13,883 --> 00:19:14,933
+Professor,
+
+279
+00:19:15,336 --> 00:19:17,005
+vejo que conheceu "Herr" Kafka.
+
+280
+00:19:17,758 --> 00:19:21,281
+O Franz tem vergonha de lhe dizer,
+mas publicou alguns contos.
+
+281
+00:19:21,782 --> 00:19:23,337
+São bastante modernos.
+
+282
+00:19:24,104 --> 00:19:27,773
+Creio que o intelecto é a parte
+mais fascinante de um homem.
+
+283
+00:19:28,268 --> 00:19:30,561
+O checo
+é uma língua interessante.
+
+284
+00:19:30,591 --> 00:19:32,685
+Eslava,
+mas sem o alfabeto cirílico.
+
+285
+00:19:34,126 --> 00:19:37,825
+Deve ser tão intimidante
+ser casada com um génio.
+
+286
+00:19:38,427 --> 00:19:41,327
+Eu teria sempre medo
+de dizer algo estúpido.
+
+287
+00:19:44,942 --> 00:19:46,142
+Pelo contrário.
+
+288
+00:19:47,351 --> 00:19:49,604
+É ele quem faz tolices.
+
+289
+00:19:53,330 --> 00:19:56,333
+Albert, dói-me a cabeça.
+Leva-me para casa.
+
+290
+00:20:04,486 --> 00:20:06,026
+Se não é a anca, é a cabeça.
+
+291
+00:20:06,056 --> 00:20:08,690
+Quando foi a última vez
+que te divertiste?
+
+292
+00:20:08,720 --> 00:20:11,435
+Não tenho a culpa que todos
+na cidade sejam grosseiros.
+
+293
+00:20:11,465 --> 00:20:14,958
+Eles? Passaste a noite amuada
+como uma criança repreendida.
+
+294
+00:20:14,988 --> 00:20:17,409
+Não conhecemos ninguém cá.
+Pensei que querias conhecer.
+
+295
+00:20:17,439 --> 00:20:19,609
+Porque não me apresentaste
+a ninguém?
+
+296
+00:20:19,639 --> 00:20:22,574
+Já é mau ser invisível para todos,
+mas também me ignoras.
+
+297
+00:20:22,604 --> 00:20:24,603
+Apenas falava
+com outras pessoas.
+
+298
+00:20:24,633 --> 00:20:27,907
+Sim. Tinhas muito para dizer
+à morena peituda.
+
+299
+00:20:30,636 --> 00:20:33,611
+Não te preocupes, decerto
+vais divertir-te muito sem mim
+
+300
+00:20:33,641 --> 00:20:36,078
+na conferência muito importante
+em Bruxelas.
+
+301
+00:20:36,459 --> 00:20:39,955
+Espanta-me que não vá
+à Conferência Solvay, Sr. Professor.
+
+302
+00:20:39,985 --> 00:20:42,763
+Estou demasiado ocupado
+para ir a Bruxelas.
+
+303
+00:20:42,793 --> 00:20:44,865
+Os colegas sentirão
+a sua falta.
+
+304
+00:20:44,895 --> 00:20:46,285
+Schinz, este é o Laub.
+
+305
+00:20:46,315 --> 00:20:47,785
+Vai trabalhar connosco.
+
+306
+00:20:48,064 --> 00:20:49,928
+Mostre-lhe o equipamento,
+explique os processos.
+
+307
+00:20:49,958 --> 00:20:51,399
+Sim, Sr. Professor.
+
+308
+00:20:54,388 --> 00:20:56,434
+Não devia ter perguntado
+pela Solvay.
+
+309
+00:20:56,464 --> 00:20:57,991
+Ele não foi convidado.
+
+310
+00:20:58,421 --> 00:21:00,864
+Meu Deus, como pude ser
+tão estúpido?
+
+311
+00:21:00,894 --> 00:21:03,447
+Tem de me falar do Einstein.
+
+312
+00:21:03,783 --> 00:21:06,450
+É tão brilhante
+como todos dizem?
+
+313
+00:21:07,557 --> 00:21:09,794
+Não é
+um verdadeiro cavalheiro.
+
+314
+00:21:10,246 --> 00:21:12,891
+E a senhora
+não é loira verdadeira.
+
+315
+00:21:12,900 --> 00:21:14,900
+CONFERÊNCIA SOLVAY
+BRUXELAS, 1911
+
+316
+00:21:14,938 --> 00:21:17,482
+Tenho de me lembrar dessa,
+Sommerfeld.
+
+317
+00:21:20,172 --> 00:21:22,000
+Não é a Madame Curie?
+
+318
+00:21:22,882 --> 00:21:25,097
+O que a denunciou? O vestido?
+
+319
+00:21:29,308 --> 00:21:30,856
+Porque é que ninguém
+fala com ela?
+
+320
+00:21:31,351 --> 00:21:32,551
+Não sabe?
+
+321
+00:21:32,835 --> 00:21:35,843
+Ela diverte-se em Paris
+com um homem casado.
+
+322
+00:21:37,091 --> 00:21:39,069
+Porque é que isso interessa
+a alguém?
+
+323
+00:21:39,521 --> 00:21:41,753
+Há dias que os jornais franceses
+só falam disso.
+
+324
+00:21:42,032 --> 00:21:44,249
+Desonra muito
+o falecido marido.
+
+325
+00:21:44,721 --> 00:21:48,486
+Poincaré pensa que lhe deviam pedir
+para abandonar a conferência.
+
+326
+00:21:49,884 --> 00:21:50,984
+Com licença.
+
+327
+00:21:56,356 --> 00:21:57,506
+Madame Curie?
+
+328
+00:21:59,023 --> 00:22:00,613
+Sou Albert Einstein.
+
+329
+00:22:01,109 --> 00:22:03,020
+Ouvi alguns boatos sobre si.
+
+330
+00:22:03,472 --> 00:22:04,625
+Acredito que sim.
+
+331
+00:22:04,655 --> 00:22:05,905
+Diz-se...
+
+332
+00:22:07,343 --> 00:22:09,657
+... que vai ganhar
+outro Prémio Nobel.
+
+333
+00:22:12,948 --> 00:22:14,403
+Não se preocupe com eles.
+
+334
+00:22:14,433 --> 00:22:16,829
+As piadas são piores
+do que os modos.
+
+335
+00:22:17,883 --> 00:22:19,999
+Então vai adaptar-se bem,
+"Herr" Einstein
+
+336
+00:22:23,676 --> 00:22:27,579
+Pessoas a flutuar sem peso,
+elevadores a voar no espaço...
+
+337
+00:22:28,106 --> 00:22:30,950
+Tem a imaginação de um poeta,
+não de um cientista.
+
+338
+00:22:30,980 --> 00:22:33,128
+Não pensaria isso,
+se lesse a minha poesia.
+
+339
+00:22:35,488 --> 00:22:38,434
+Suponhamos que está certo
+sobre a aceleração e a gravidade.
+
+340
+00:22:39,273 --> 00:22:42,963
+Deve preparar-se para muita
+resistência por parte dos colegas.
+
+341
+00:22:43,294 --> 00:22:45,746
+Acabará com uma
+das suas questões sagradas.
+
+342
+00:22:46,597 --> 00:22:49,034
+Acabarão por perceber
+que estou certo.
+
+343
+00:22:50,045 --> 00:22:51,572
+Apenas se conseguir provar.
+
+344
+00:22:52,217 --> 00:22:54,724
+Calculo que a matemática
+seja muito complexa.
+
+345
+00:22:55,501 --> 00:22:59,037
+Se estivesse em Zurique, teria
+a ajuda do meu amigo Grossmann.
+
+346
+00:22:59,888 --> 00:23:02,704
+Em Praga,
+os meus colegas são inúteis.
+
+347
+00:23:03,242 --> 00:23:04,767
+Quando o Pierre era vivo,
+
+348
+00:23:05,390 --> 00:23:08,100
+tínhamos o luxo
+de nos ajudarmos mutuamente.
+
+349
+00:23:08,831 --> 00:23:10,634
+Fazia o mesmo
+com a minha mulher.
+
+350
+00:23:11,882 --> 00:23:13,302
+Também é cientista?
+
+351
+00:23:14,098 --> 00:23:15,732
+Ela estudou física, sim.
+
+352
+00:23:16,076 --> 00:23:17,076
+E agora?
+
+353
+00:23:28,959 --> 00:23:32,430
+Penso que, de todos
+os mistérios no Universo,
+
+354
+00:23:33,239 --> 00:23:35,669
+as pessoas são o mais difícil
+de compreender.
+
+355
+00:23:40,227 --> 00:23:42,120
+Mas a minha mulher
+é brilhante.
+
+356
+00:23:47,009 --> 00:23:49,028
+Estiveste com alguém
+em Bruxelas?
+
+357
+00:23:49,438 --> 00:23:51,815
+Com alguém? Como assim?
+
+358
+00:23:51,845 --> 00:23:53,338
+Esta mulher.
+
+359
+00:23:54,362 --> 00:23:55,862
+Encontraram-se lá?
+
+360
+00:24:03,783 --> 00:24:06,405
+É da rapariga tola
+que conheci na festa.
+
+361
+00:24:06,435 --> 00:24:09,485
+Porque é que ela te escreve
+de um modo tão trivial?
+
+362
+00:24:10,991 --> 00:24:13,341
+Não podes estar com ciúmes,
+Miza.
+
+363
+00:24:13,485 --> 00:24:15,438
+Foste íntimo com ela?
+
+364
+00:24:15,468 --> 00:24:18,356
+Íntimo?
+Eu nunca te fui infiel.
+
+365
+00:24:18,386 --> 00:24:19,386
+Como te atreves?
+
+366
+00:24:21,113 --> 00:24:23,656
+Já não pareces interessado
+em mim.
+
+367
+00:24:23,686 --> 00:24:26,859
+Mileva, estive com uma mulher
+em Bruxelas.
+
+368
+00:24:26,991 --> 00:24:28,391
+Admites?
+
+369
+00:24:28,421 --> 00:24:29,623
+Estive com a tua heroína,
+
+370
+00:24:29,653 --> 00:24:30,753
+Marie Curie.
+
+371
+00:24:31,511 --> 00:24:33,346
+Passámos horas a conversar,
+
+372
+00:24:33,376 --> 00:24:35,061
+falei-lhe muito de ti.
+
+373
+00:24:35,091 --> 00:24:37,823
+Ela até disse
+que te queria conhecer, um dia.
+
+374
+00:24:37,853 --> 00:24:42,090
+Se soubesse como és
+desconfiada e ciumenta...
+
+375
+00:24:48,048 --> 00:24:50,605
+Praga é mais bonita
+do que se diz.
+
+376
+00:24:50,635 --> 00:24:53,676
+Praga é uma rapariga bonita
+com um coração frio.
+
+377
+00:24:53,706 --> 00:24:56,475
+Nenhum dos meus colegas
+me é útil.
+
+378
+00:24:56,505 --> 00:25:00,436
+Pedi ao Grossmann que me consiga
+um cargo no Politécnico de Zurique.
+
+379
+00:25:00,674 --> 00:25:03,036
+A Mileva quer mudar-se
+outra vez?
+
+380
+00:25:03,479 --> 00:25:04,729
+Ela odeia estar aqui.
+
+381
+00:25:05,659 --> 00:25:08,100
+Acho que não seria feliz
+em lado nenhum.
+
+382
+00:25:09,217 --> 00:25:10,579
+Esquece os tópicos tristes.
+
+383
+00:25:10,609 --> 00:25:13,125
+O que achaste da ideia
+do elevador?
+
+384
+00:25:13,155 --> 00:25:14,860
+A ideia ainda está no ar.
+
+385
+00:25:16,336 --> 00:25:19,932
+Apercebi-me de outra consequência
+maravilhosa da minha ideia.
+
+386
+00:25:21,158 --> 00:25:23,298
+A gravidade distorce a luz.
+
+387
+00:25:25,057 --> 00:25:28,139
+Esse é um conceito
+totalmente novo.
+
+388
+00:25:28,169 --> 00:25:32,259
+Precisarias de uma enorme
+força gravitacional para o provar.
+
+389
+00:25:32,723 --> 00:25:34,623
+O Sol serviria, não?
+
+390
+00:25:38,323 --> 00:25:41,867
+Imagina que aquele tronco
+é uma partícula de luz.
+
+391
+00:25:42,371 --> 00:25:44,871
+Agora,
+imagina que o rio é o espaço.
+
+392
+00:25:46,074 --> 00:25:47,824
+Vês aquela barca?
+
+393
+00:25:48,951 --> 00:25:50,301
+É o Sol.
+
+394
+00:25:50,763 --> 00:25:51,813
+Observa.
+
+395
+00:25:55,653 --> 00:25:57,115
+A gravidade do Sol
+
+396
+00:25:57,145 --> 00:25:59,370
+muda a forma do espaço.
+
+397
+00:25:59,938 --> 00:26:02,498
+Dou-te crédito
+pela originalidade, Albert,
+
+398
+00:26:03,486 --> 00:26:06,147
+mas será possível
+que tenhas ido longe de mais?
+
+399
+00:26:06,177 --> 00:26:09,027
+Não. É tão lindo
+que deve estar certo.
+
+400
+00:26:09,206 --> 00:26:11,106
+E um astrónomo pode prová-lo.
+
+401
+00:26:12,389 --> 00:26:14,905
+Então encontra
+um bom astrónomo.
+
+402
+00:26:16,193 --> 00:26:18,800
+Conheço alguns astrónomos
+da universidade,
+
+403
+00:26:18,810 --> 00:26:22,677
+mas, sinceramente,
+hesito em apresentá-los.
+
+404
+00:26:23,155 --> 00:26:24,605
+Porque hesita?
+
+405
+00:26:25,266 --> 00:26:26,277
+Para ser franco,
+
+406
+00:26:26,307 --> 00:26:28,289
+não sei se é do seu interesse.
+
+407
+00:26:28,977 --> 00:26:32,124
+Como não é do meu interesse
+provar a minha teoria?
+
+408
+00:26:32,154 --> 00:26:33,576
+É uma ideia bizarra.
+
+409
+00:26:33,606 --> 00:26:35,806
+Pode provar que está errado.
+
+410
+00:26:35,868 --> 00:26:38,631
+Não estou errado.
+E se estivesse?
+
+411
+00:26:38,831 --> 00:26:42,560
+Os cientistas devem arriscar,
+caso contrário nunca avançaríamos.
+
+412
+00:26:42,590 --> 00:26:45,417
+Criou uma reputação forte.
+
+413
+00:26:46,431 --> 00:26:48,081
+Devia ter cautela.
+
+414
+00:26:48,111 --> 00:26:50,711
+Não é difícil passar de génio
+a alvo de chacota.
+
+415
+00:26:53,349 --> 00:26:56,433
+Fico com os meus tios
+em Berlim.
+
+416
+00:26:58,166 --> 00:26:59,616
+Pode contactar-me lá.
+
+417
+00:27:01,456 --> 00:27:05,261
+Depois, o Albert bateu
+na cabeça dela com uma pá.
+
+418
+00:27:06,044 --> 00:27:09,359
+- Não fiz isso.
+- Fizeste, sim.
+
+419
+00:27:09,389 --> 00:27:10,389
+Duas vezes!
+
+420
+00:27:12,258 --> 00:27:17,188
+Albert, tens de provar os famosos
+torresmos de ganso da prima Elsa.
+
+421
+00:27:19,144 --> 00:27:23,339
+Quem imaginaria que um desordeiro
+se tornaria um grande cientista?
+
+422
+00:27:23,528 --> 00:27:26,806
+Era bom que o ensinassem
+a usar uma escova.
+
+423
+00:27:32,926 --> 00:27:34,406
+Pobre Albert,
+
+424
+00:27:34,436 --> 00:27:36,454
+tem estado muito infeliz
+em Praga.
+
+425
+00:27:36,484 --> 00:27:38,929
+Mas tem um cargo de prestígio,
+não?
+
+426
+00:27:39,128 --> 00:27:40,337
+É a esposa.
+
+427
+00:27:41,213 --> 00:27:42,250
+Ele nunca admitiria,
+
+428
+00:27:42,260 --> 00:27:44,831
+mas arrepende-se
+de ter casado com ela.
+
+429
+00:27:50,254 --> 00:27:52,354
+É muito bom ter-te cá, Albert.
+
+430
+00:27:52,825 --> 00:27:56,449
+A última vez que te vi,
+serias da idade das minhas filhas.
+
+431
+00:27:56,479 --> 00:27:57,946
+Sempre nos divertimos juntos.
+
+432
+00:27:57,976 --> 00:27:59,794
+Gostavas mais da minha irmã.
+
+433
+00:27:59,824 --> 00:28:03,068
+Ela tratava-me melhor.
+
+434
+00:28:04,856 --> 00:28:06,102
+Despe a camisola.
+
+435
+00:28:06,624 --> 00:28:07,624
+Porquê?
+
+436
+00:28:07,654 --> 00:28:09,054
+Pareces um vagabundo.
+
+437
+00:28:09,666 --> 00:28:11,396
+Vamos, dá-ma.
+
+438
+00:28:12,079 --> 00:28:13,279
+Eu remendo-a.
+
+439
+00:28:14,978 --> 00:28:17,948
+Pode dizer-me porque está
+tão zangado com o seu pai?
+
+440
+00:28:22,076 --> 00:28:24,923
+Pensei que queria saber
+porque tentei saltar da janela.
+
+441
+00:28:24,953 --> 00:28:26,893
+Sim, se estiver pronto
+para me contar.
+
+442
+00:28:26,923 --> 00:28:28,823
+Não é por estar desesperado.
+
+443
+00:28:29,747 --> 00:28:31,369
+É por ser louco.
+
+444
+00:28:31,717 --> 00:28:33,822
+- Como assim, louco?
+- Maluco.
+
+445
+00:28:34,025 --> 00:28:35,745
+Esquizofrénico. É de família.
+
+446
+00:28:36,575 --> 00:28:39,733
+A irmã da minha mãe
+foi internada neste hospital.
+
+447
+00:28:40,317 --> 00:28:43,267
+Como vê,
+não tentava suicidar-me.
+
+448
+00:28:43,613 --> 00:28:45,413
+Tive um delírio.
+
+449
+00:28:48,288 --> 00:28:49,424
+Pensei que estava a arder.
+
+450
+00:28:51,618 --> 00:28:53,080
+Adivinha porque é azul.
+
+451
+00:28:53,293 --> 00:28:54,651
+Porque se sente sozinho?
+
+452
+00:28:54,962 --> 00:28:56,615
+Muito esperta, mas não.
+
+453
+00:28:56,944 --> 00:28:59,902
+O ar forma
+milhares de milhões de bolsas
+
+454
+00:28:59,932 --> 00:29:02,124
+que dispersam a luz do sol.
+
+455
+00:29:02,154 --> 00:29:06,439
+A luz azul dispersa-se mais do que
+os outros cumprimentos de onda.
+
+456
+00:29:06,469 --> 00:29:07,519
+É bonito,
+
+457
+00:29:08,029 --> 00:29:11,363
+mas posso apreciar um céu azul
+sem saber nada sobre física.
+
+458
+00:29:11,393 --> 00:29:13,832
+Porque terias de saber
+algo sobre física?
+
+459
+00:29:14,036 --> 00:29:16,036
+És uma conversadora
+deslumbrante,
+
+460
+00:29:16,947 --> 00:29:18,383
+uma cozinheira maravilhosa
+
+461
+00:29:18,559 --> 00:29:20,109
+e uma costureira talentosa.
+
+462
+00:29:23,668 --> 00:29:25,218
+Fala-me da tua mulher.
+
+463
+00:29:25,812 --> 00:29:27,312
+Ela estudou contigo?
+
+464
+00:29:27,686 --> 00:29:29,986
+Sim, ela queria ser cientista.
+
+465
+00:29:30,461 --> 00:29:31,461
+Ela é como tu?
+
+466
+00:29:32,243 --> 00:29:34,477
+Pensa sempre
+em ideias grandes,
+
+467
+00:29:34,920 --> 00:29:37,520
+sem se lembrar de cuidar
+das coisas pequenas?
+
+468
+00:29:40,504 --> 00:29:44,129
+Tenho um amigo psiquiatra
+que pensa
+
+469
+00:29:44,740 --> 00:29:48,421
+que as psiques de um casal
+devem estar equilibradas.
+
+470
+00:29:50,201 --> 00:29:52,541
+A minha e a da Mileva
+não estão.
+
+471
+00:29:54,476 --> 00:29:57,214
+Pareces insatisfeito.
+
+472
+00:29:59,553 --> 00:30:01,482
+A Mileva está sempre infeliz.
+
+473
+00:30:03,058 --> 00:30:06,739
+Torna a vida em casa
+insuportável.
+
+474
+00:30:07,803 --> 00:30:10,245
+Por isso, encontro razões
+para me manter longe.
+
+475
+00:30:12,274 --> 00:30:14,186
+Depois,
+sinto a falta dos meus filhos.
+
+476
+00:30:15,835 --> 00:30:17,881
+Deve ser muito difícil para ti.
+
+477
+00:30:20,283 --> 00:30:21,283
+Mas sabes...
+
+478
+00:30:22,097 --> 00:30:25,091
+E falo por experiência própria.
+
+479
+00:30:26,040 --> 00:30:28,857
+Nem todos os casamentos são
+para sempre.
+
+480
+00:30:32,836 --> 00:30:35,314
+Mereces ser feliz, Albert.
+
+481
+00:30:51,429 --> 00:30:52,429
+Albert,
+
+482
+00:30:52,606 --> 00:30:53,606
+espera!
+
+483
+00:30:54,302 --> 00:30:56,334
+Pensei que podias ter fome
+na viagem para casa.
+
+484
+00:30:56,364 --> 00:30:58,114
+Fiz bolachas de manteiga.
+
+485
+00:30:58,665 --> 00:31:01,876
+Onde encontraste uma rosa
+nesta altura do ano?
+
+486
+00:31:01,906 --> 00:31:03,806
+Tenho contactos
+na cidade toda,
+
+487
+00:31:03,836 --> 00:31:06,684
+especialmente para coisas bonitas
+como flores de estufa.
+
+488
+00:31:07,155 --> 00:31:10,972
+Por falar em contactos,
+disse-te que conheço Fritz Haber,
+
+489
+00:31:11,002 --> 00:31:12,319
+da Academia Prussiana?
+
+490
+00:31:12,349 --> 00:31:14,499
+Haber? Ele é lendário.
+
+491
+00:31:14,529 --> 00:31:17,368
+O homem que tirou o azoto
+do ar.
+
+492
+00:31:17,398 --> 00:31:19,100
+Podia falar com ele.
+
+493
+00:31:19,390 --> 00:31:22,790
+A Academia seria perfeita
+para o teu trabalho.
+
+494
+00:31:24,880 --> 00:31:27,280
+Não me posso mudar
+para Berlim, Elsa.
+
+495
+00:31:27,338 --> 00:31:28,351
+Porque não?
+
+496
+00:31:28,381 --> 00:31:31,855
+Sabes que só queria sair
+da Alemanha, quando era novo.
+
+497
+00:31:32,839 --> 00:31:36,460
+Se voltasse, seria apenas
+porque queria estar contigo.
+
+498
+00:31:37,927 --> 00:31:39,453
+Isso é assim tão mau?
+
+499
+00:31:41,515 --> 00:31:42,515
+Eu...
+
+500
+00:31:43,229 --> 00:31:45,029
+Eu gostaria muito...
+
+501
+00:31:46,522 --> 00:31:52,049
+... de ter algo contigo, Elsa,
+mas tenho de pensar noutras pessoas.
+
+502
+00:31:52,079 --> 00:31:53,769
+A Mileva, claro,
+
+503
+00:31:53,799 --> 00:31:55,749
+e, mais importante,
+as tuas filhas
+
+504
+00:31:56,149 --> 00:31:57,399
+e os meus filhos.
+
+505
+00:32:00,124 --> 00:32:03,181
+O fogo representa
+zonas profundas do inconsciente.
+
+506
+00:32:03,211 --> 00:32:04,846
+É um arquétipo
+de transformação.
+
+507
+00:32:04,876 --> 00:32:07,534
+- Vários pacientes...
+- Poupe os disparates
+
+508
+00:32:07,564 --> 00:32:08,993
+para os pacientes que pagam.
+
+509
+00:32:09,023 --> 00:32:10,850
+A minha neurose
+não tem nada que ver
+
+510
+00:32:10,880 --> 00:32:12,399
+com as suas teorias bizarras
+
+511
+00:32:12,429 --> 00:32:14,508
+sobre
+o "inconsciente colectivo".
+
+512
+00:32:16,958 --> 00:32:18,408
+Estudo psiquiatria.
+
+513
+00:32:20,798 --> 00:32:23,898
+Digo-lhe que as minhas neuroses
+são obviamente freudianas.
+
+514
+00:32:26,120 --> 00:32:28,170
+- Freudianas em que sentido?
+- Não é evidente?
+
+515
+00:32:29,101 --> 00:32:30,802
+São todas sobre o meu pai.
+
+516
+00:32:31,269 --> 00:32:34,820
+Não vejo como um delírio sobre fogo
+se associa ao seu pai.
+
+517
+00:32:36,206 --> 00:32:37,649
+É bastante simples.
+
+518
+00:32:39,248 --> 00:32:41,948
+Quando era criança,
+ele quase me queimou vivo.
+
+519
+00:32:42,435 --> 00:32:45,200
+<i>Uma noite, estava tão distraído
+<i>com uma ideia científica</i>
+
+520
+00:32:46,110 --> 00:32:48,847
+<i>que deixou cair o cachimbo
+<i>e pegou fogo ao quarto.</i>
+
+521
+00:32:53,409 --> 00:32:55,125
+É uma recordação vívida.
+
+522
+00:32:55,155 --> 00:32:56,520
+Como podia esquecer isso?
+
+523
+00:32:56,550 --> 00:33:01,605
+Era um bebé, muito novo
+para se lembrar de tanto.
+
+524
+00:33:02,281 --> 00:33:04,409
+Todos na minha família
+conhecem a história.
+
+525
+00:33:07,479 --> 00:33:09,569
+O meu pai nunca devia
+ter tido filhos.
+
+526
+00:33:10,630 --> 00:33:13,679
+Sem a minha mãe,
+só Deus sabe o que seria de nós.
+
+527
+00:33:14,127 --> 00:33:16,371
+O seu pai é um ser humano.
+
+528
+00:33:16,401 --> 00:33:18,796
+Os seres humanos erram.
+
+529
+00:33:18,826 --> 00:33:20,587
+Estuda a psique, Eduard.
+
+530
+00:33:20,842 --> 00:33:22,392
+Seja o seu próprio médico.
+
+531
+00:33:23,145 --> 00:33:24,895
+O que diria de si mesmo?
+
+532
+00:33:26,396 --> 00:33:28,500
+Diria que quando o nosso pai
+
+533
+00:33:28,710 --> 00:33:32,168
+é um homem "grande" e cruel,
+
+534
+00:33:33,238 --> 00:33:34,738
+podemos sentir-nos...
+
+535
+00:33:36,952 --> 00:33:38,352
+... bastante inúteis.
+
+536
+00:33:40,745 --> 00:33:46,329
+Tornou o seu pai
+uma espécie de monstro arquetípico.
+
+537
+00:33:48,085 --> 00:33:50,485
+Tem a certeza
+de que tem razão?
+
+538
+00:34:00,533 --> 00:34:02,436
+Deixas fósforos
+com as crianças?
+
+539
+00:34:02,466 --> 00:34:03,800
+Como pudeste ser
+tão irresponsável?
+
+540
+00:34:03,810 --> 00:34:06,607
+Desculpa! Não sei
+o que se passa comigo.
+
+541
+00:34:06,637 --> 00:34:08,437
+Não sei o que se passa.
+
+542
+00:34:08,467 --> 00:34:09,667
+Desculpa.
+
+543
+00:34:10,666 --> 00:34:11,696
+Desculpa.
+
+544
+00:34:16,130 --> 00:34:17,480
+Está tudo bem, Eduard.
+
+545
+00:34:18,065 --> 00:34:19,638
+Vai ficar tudo bem.
+
+546
+00:34:33,398 --> 00:34:35,131
+Sei que és infeliz aqui, Miza.
+
+547
+00:34:38,976 --> 00:34:41,264
+Ontem recebi uma carta
+da Marie Curie.
+
+548
+00:34:42,211 --> 00:34:45,246
+Convidou-nos para passar férias
+com ela nos Alpes.
+
+549
+00:34:47,264 --> 00:34:49,645
+Acho que seria bom
+sairmos daqui.
+
+550
+00:35:03,625 --> 00:35:06,152
+MALOJA, SUÍÇA
+
+551
+00:35:11,072 --> 00:35:13,075
+Li os seus artigos todos.
+
+552
+00:35:14,678 --> 00:35:16,309
+São um pouco secos, não são?
+
+553
+00:35:16,632 --> 00:35:18,093
+De modo algum.
+
+554
+00:35:18,692 --> 00:35:20,160
+Fascina-me a ideia
+
+555
+00:35:20,190 --> 00:35:22,874
+de que o rádio
+está em deterioração perpétua.
+
+556
+00:35:23,736 --> 00:35:28,055
+Crê que a teoria subatómica e de
+desintegração de Rutherford é certa?
+
+557
+00:35:29,945 --> 00:35:31,251
+Sobre Rutherford não sei,
+
+558
+00:35:31,281 --> 00:35:34,900
+mas vejo que é tão brilhante
+como o seu marido afirmou.
+
+559
+00:35:38,445 --> 00:35:40,000
+Agora parece uma tolice,
+
+560
+00:35:40,010 --> 00:35:44,584
+mas sonhava ganhar
+um Prémio Nobel.
+
+561
+00:35:45,865 --> 00:35:49,948
+Depois, a vida e os filhos...
+
+562
+00:35:52,783 --> 00:35:54,300
+Como conseguiu fazer tudo?
+
+563
+00:35:57,279 --> 00:35:58,529
+Não fiz.
+
+564
+00:35:59,590 --> 00:36:01,239
+Os meus filhos
+quase não me viam.
+
+565
+00:36:01,618 --> 00:36:03,580
+Agora, receio que me odeiem.
+
+566
+00:36:06,198 --> 00:36:07,198
+Desculpe.
+
+567
+00:36:08,703 --> 00:36:10,053
+Eu não sabia.
+
+568
+00:36:11,785 --> 00:36:13,247
+Tem muita sorte, Mileva.
+
+569
+00:36:15,112 --> 00:36:17,131
+É evidente que os seus filhos
+a adoram.
+
+570
+00:36:25,047 --> 00:36:26,940
+O meu marido não.
+
+571
+00:36:30,759 --> 00:36:31,992
+Já não me adora.
+
+572
+00:36:34,003 --> 00:36:35,659
+A Mileva
+tem uma mente maravilhosa.
+
+573
+00:36:37,483 --> 00:36:39,684
+Vejo porque se sentiu
+atraído por ela.
+
+574
+00:36:40,796 --> 00:36:43,091
+Parece ter sido
+há uma eternidade.
+
+575
+00:36:44,786 --> 00:36:46,450
+O amor é uma reacção química.
+
+576
+00:36:47,036 --> 00:36:48,807
+Por vezes, esgota-se.
+
+577
+00:36:51,921 --> 00:36:54,288
+Sinto falta do que tinha
+com a Mileva.
+
+578
+00:36:56,557 --> 00:36:58,267
+Não pensa, por vezes,
+
+579
+00:36:59,383 --> 00:37:02,571
+que não vale a pena viver
+sem alguém para amar?
+
+580
+00:37:04,370 --> 00:37:06,083
+Talvez encontre outra pessoa.
+
+581
+00:37:14,165 --> 00:37:15,960
+A Mileva está muito frágil.
+
+582
+00:37:19,499 --> 00:37:21,755
+Não suportaria magoar
+os meus filhos.
+
+583
+00:37:24,553 --> 00:37:27,896
+Digo-lhe uma coisa,
+porque creio que compreenderá.
+
+584
+00:37:29,539 --> 00:37:32,652
+Os rumores do meu caso com
+o Paul Langevin eram verdadeiros.
+
+585
+00:37:34,069 --> 00:37:36,366
+Não me sinto culpada.
+Apaixonámo-nos.
+
+586
+00:37:37,716 --> 00:37:39,525
+Porque devemos negar
+o que sentimos
+
+587
+00:37:39,555 --> 00:37:42,044
+por causa de um contrato social
+antiquado?
+
+588
+00:37:44,070 --> 00:37:47,389
+Nós os dois não aceitamos todas
+as regras e convenções da Ciência.
+
+589
+00:37:48,525 --> 00:37:50,885
+Porque devemos aceitar
+o casamento tradicional?
+
+590
+00:37:58,523 --> 00:38:01,501
+"As casas abraçaram-se
+nessa noite
+
+591
+00:38:02,754 --> 00:38:06,171
+E eu beijei a lua e chorei."
+
+592
+00:38:07,514 --> 00:38:09,847
+Foi "Anseio",
+de Henriette Hardenberg.
+
+593
+00:38:15,946 --> 00:38:17,031
+Professor Haber,
+
+594
+00:38:17,061 --> 00:38:18,478
+ainda bem que pôde vir.
+
+595
+00:38:18,634 --> 00:38:20,279
+Foi encantadora.
+
+596
+00:38:22,380 --> 00:38:25,405
+Alguma vez mencionei
+que Albert Einstein é meu primo?
+
+597
+00:38:26,598 --> 00:38:28,456
+Torna-se bastante famoso.
+
+598
+00:38:28,909 --> 00:38:30,265
+Está em Praga, julgo.
+
+599
+00:38:30,295 --> 00:38:31,863
+Regressou a Zurique.
+
+600
+00:38:32,145 --> 00:38:34,168
+Mas creio que está inquieto lá.
+
+601
+00:38:34,534 --> 00:38:38,492
+Uma mente como a dele deve preferir
+uma comunidade mais estimulante.
+
+602
+00:38:40,339 --> 00:38:42,703
+Que fascínio é esse
+pelo Einstein?
+
+603
+00:38:43,480 --> 00:38:46,004
+O que são os exercícios
+intelectuais dele?
+
+604
+00:38:46,194 --> 00:38:48,522
+O que são os comboios e relâmpagos
+de que escreve?
+
+605
+00:38:48,552 --> 00:38:51,153
+É o pensador mais original
+do mundo.
+
+606
+00:38:51,183 --> 00:38:53,883
+- Queremos alguém assim na Academia.
+- É um sonhador.
+
+607
+00:38:54,106 --> 00:38:55,446
+Não um cientista rigoroso.
+
+608
+00:38:55,596 --> 00:38:57,991
+Não acaba de aceitar
+um cargo em Zurique?
+
+609
+00:38:58,463 --> 00:39:04,824
+Sim. Mas, dizem-me que preferia
+não ter obrigações de ensino.
+
+610
+00:39:05,757 --> 00:39:08,076
+A Alemanha precisa
+de homens como ele.
+
+611
+00:39:08,443 --> 00:39:11,933
+Se não me engano, ele renunciou
+à cidadania alemã há anos.
+
+612
+00:39:14,406 --> 00:39:16,621
+Talvez seja melhor deixá-lo
+com os suíços.
+
+613
+00:39:18,208 --> 00:39:20,213
+É bom vê-lo de novo, Carl.
+
+614
+00:39:20,625 --> 00:39:23,084
+Espanta-me que tenha voltado já
+para Zurique.
+
+615
+00:39:23,576 --> 00:39:25,692
+A minha mulher odiava Praga.
+
+616
+00:39:26,150 --> 00:39:30,034
+Mais importante, espero que Zurique
+seja melhor para os meus filhos.
+
+617
+00:39:30,173 --> 00:39:31,315
+Mais saudável.
+
+618
+00:39:31,356 --> 00:39:33,526
+Especialmente
+o pequeno Eduard.
+
+619
+00:39:33,556 --> 00:39:34,715
+É propenso a doenças.
+
+620
+00:39:34,952 --> 00:39:36,453
+Lamento.
+
+621
+00:39:36,483 --> 00:39:37,624
+Não me interprete mal,
+
+622
+00:39:37,654 --> 00:39:39,214
+é uma criança notável.
+
+623
+00:39:39,244 --> 00:39:40,568
+Incrivelmente esperto.
+
+624
+00:39:41,167 --> 00:39:43,886
+Começou a falar muito antes
+do que o irmão mais velho
+
+625
+00:39:43,916 --> 00:39:46,960
+e tem um dom fantástico
+para a música.
+
+626
+00:39:47,957 --> 00:39:50,400
+Tem a sorte de ter
+um pai tão orgulhoso.
+
+627
+00:39:50,688 --> 00:39:52,282
+Permita-me.
+
+628
+00:39:55,351 --> 00:39:56,718
+Quatro francos.
+
+629
+00:39:57,080 --> 00:39:58,583
+Um número mágico.
+
+630
+00:39:58,959 --> 00:40:01,588
+Não acredita em magia,
+pois não?
+
+631
+00:40:01,618 --> 00:40:05,399
+Quanto à magia não sei,
+mas o quatro é muito especial.
+
+632
+00:40:05,944 --> 00:40:09,240
+- Fala a sério?
+- Falo. O quatro é fundamental.
+
+633
+00:40:09,402 --> 00:40:12,437
+Quatro elementos:
+terra, ar, fogo e água.
+
+634
+00:40:12,604 --> 00:40:15,641
+Quatro pontos cardeais
+e quatro funções da psique.
+
+635
+00:40:15,878 --> 00:40:19,613
+Pensamento, sentimento,
+sensação e intuição.
+
+636
+00:40:20,198 --> 00:40:21,578
+Quem sabe, Albert?
+
+637
+00:40:22,174 --> 00:40:24,991
+Talvez exista até
+uma quarta dimensão.
+
+638
+00:40:34,531 --> 00:40:36,402
+<i>Qual é o seu diagnóstico?</i>
+
+639
+00:40:37,122 --> 00:40:38,968
+Esquizóide com delírios?
+
+640
+00:40:40,004 --> 00:40:42,900
+Sou amigo da família.
+
+641
+00:40:43,900 --> 00:40:45,600
+Quis vê-lo pessoalmente,
+
+642
+00:40:45,610 --> 00:40:49,257
+mas julgo
+que seria mais apropriado
+
+643
+00:40:49,709 --> 00:40:51,677
+se trabalhasse
+com um colega meu.
+
+644
+00:40:51,707 --> 00:40:52,807
+Compreendo.
+
+645
+00:40:53,494 --> 00:40:56,978
+Como sempre, um homem notável
+não vem por minha causa.
+
+646
+00:40:57,645 --> 00:41:00,591
+Veio por causa
+do meu pai importante.
+
+647
+00:41:03,677 --> 00:41:08,388
+Pelo que sei,
+admira bastante Freud.
+
+648
+00:41:08,418 --> 00:41:11,450
+Exacto. Não tente dizer-me
+que é um charlatão,
+
+649
+00:41:11,859 --> 00:41:15,460
+porque creio que entendeu a psique
+humana melhor do que ninguém.
+
+650
+00:41:15,783 --> 00:41:17,648
+Eu já pensei o mesmo.
+
+651
+00:41:18,508 --> 00:41:19,508
+Na verdade,
+
+652
+00:41:20,035 --> 00:41:22,066
+ele foi como um pai para mim.
+
+653
+00:41:24,279 --> 00:41:26,991
+Mas eu era jovem.
+
+654
+00:41:27,849 --> 00:41:29,796
+O meu ego intrometeu-se.
+
+655
+00:41:29,826 --> 00:41:30,826
+Agora,
+
+656
+00:41:31,116 --> 00:41:32,538
+não nos falamos há...
+
+657
+00:41:34,855 --> 00:41:36,205
+... há muito tempo.
+
+658
+00:41:37,070 --> 00:41:39,479
+Disse-lhe coisas horríveis.
+
+659
+00:41:41,522 --> 00:41:44,301
+E nunca tive humildade
+para lhe pedir perdão.
+
+660
+00:41:45,785 --> 00:41:47,324
+Não sei se me perdoaria.
+
+661
+00:41:50,123 --> 00:41:52,670
+Não sei se eu
+o conseguiria perdoar.
+
+662
+00:42:14,992 --> 00:42:15,992
+Olha.
+
+663
+00:42:16,411 --> 00:42:20,453
+Imagina como seria estar no lugar
+daquela aranha, Teddy.
+
+664
+00:42:21,399 --> 00:42:23,090
+Andar às voltas.
+
+665
+00:42:23,454 --> 00:42:25,563
+O mundo deve parecer muito...
+
+666
+00:42:27,155 --> 00:42:29,359
+... muito diferente.
+
+667
+00:42:30,382 --> 00:42:31,909
+Meu Deus!
+
+668
+00:42:33,010 --> 00:42:34,812
+Tens uma visita.
+
+669
+00:42:35,457 --> 00:42:36,657
+Vai com a mamã.
+
+670
+00:42:38,238 --> 00:42:39,439
+Sr. Professor,
+
+671
+00:42:39,826 --> 00:42:43,310
+que prazer inesperado.
+O que o traz a Zurique?
+
+672
+00:42:43,740 --> 00:42:46,119
+Para começar,
+encontrei um astrónomo.
+
+673
+00:42:46,149 --> 00:42:49,112
+Chama-se Freundlich.
+É jovem, mas ambicioso.
+
+674
+00:42:49,142 --> 00:42:53,624
+Tem de me falar dele,
+mas antes veja a aranha no disco.
+
+675
+00:42:55,245 --> 00:42:57,826
+"Eratigena atrica", creio.
+
+676
+00:42:58,062 --> 00:42:59,710
+Já se conhecem?
+
+677
+00:42:59,740 --> 00:43:01,400
+Pergunte-lhe qual é a razão
+
+678
+00:43:01,410 --> 00:43:03,985
+entre o diâmetro do disco
+e a circunferência.
+
+679
+00:43:04,459 --> 00:43:05,880
+Pi, claro.
+
+680
+00:43:06,157 --> 00:43:08,072
+Para a aranha não é.
+
+681
+00:43:08,102 --> 00:43:09,448
+Devido à relatividade,
+
+682
+00:43:09,478 --> 00:43:12,472
+a circunferência é mais curta
+na direcção da rotação.
+
+683
+00:43:13,397 --> 00:43:15,311
+Não sei se compreendo.
+
+684
+00:43:15,341 --> 00:43:18,044
+Aquele ser maravilhoso
+deu-me a chave
+
+685
+00:43:18,074 --> 00:43:20,364
+para formular
+a relatividade geral.
+
+686
+00:43:20,394 --> 00:43:23,204
+Não é possível fazê-lo
+com a geometria tridimensional.
+
+687
+00:43:23,234 --> 00:43:26,022
+O Dr. Jung fez-me perceber,
+Minkowski estava certo.
+
+688
+00:43:26,052 --> 00:43:27,598
+Preciso de quatro dimensões.
+
+689
+00:43:27,628 --> 00:43:29,728
+É maravilhoso, não compreende?
+
+690
+00:43:30,997 --> 00:43:34,975
+Espero que também considere
+isto maravilhoso.
+
+691
+00:43:40,292 --> 00:43:41,617
+Academia Prussiana.
+
+692
+00:43:45,789 --> 00:43:47,964
+É uma oferta oficial.
+
+693
+00:43:51,826 --> 00:43:52,826
+Meu Deus.
+
+694
+00:43:53,611 --> 00:43:54,861
+É generosa.
+
+695
+00:43:57,181 --> 00:43:58,984
+Mas não sei se posso aceitar.
+
+696
+00:43:59,866 --> 00:44:02,116
+- Pensei que ficaria radiante.
+- É complicado.
+
+697
+00:44:02,146 --> 00:44:03,464
+Berlim é...
+
+698
+00:44:03,787 --> 00:44:05,152
+Berlim é o quê?
+
+699
+00:44:07,191 --> 00:44:09,613
+Desculpe.
+Preciso de tempo para pensar.
+
+700
+00:44:09,643 --> 00:44:12,881
+Não foi fácil conseguir-lhe
+essa oferta.
+
+701
+00:44:12,911 --> 00:44:14,696
+Não posso regressar a Berlim
+
+702
+00:44:15,212 --> 00:44:16,671
+sem uma resposta.
+
+703
+00:44:17,905 --> 00:44:20,916
+Porque não dá um passeio
+no monte Käferberg?
+
+704
+00:44:21,217 --> 00:44:23,230
+- Um passeio?
+- Tem uma bela vista da cidade.
+
+705
+00:44:23,260 --> 00:44:25,015
+Demora duas horas.
+
+706
+00:44:25,045 --> 00:44:27,325
+Dou-lhe a minha resposta
+cá em baixo.
+
+707
+00:44:28,993 --> 00:44:30,043
+Muito bem.
+
+708
+00:44:36,605 --> 00:44:39,138
+CLÍNICA DE BURGHÖLZLI
+ZURIQUE, 1932
+
+709
+00:44:57,879 --> 00:44:59,429
+Está tudo bem, Teddy.
+
+710
+00:45:01,384 --> 00:45:02,584
+Está tudo bem.
+
+711
+00:45:03,922 --> 00:45:05,022
+A mamã está cá.
+
+712
+00:45:07,797 --> 00:45:09,959
+Fale-me do incêndio em Praga.
+
+713
+00:45:12,153 --> 00:45:14,261
+Isso aconteceu há muito tempo.
+
+714
+00:45:15,272 --> 00:45:16,634
+O que importa agora?
+
+715
+00:45:17,573 --> 00:45:19,622
+Sempre pensei
+que o Pai o causou.
+
+716
+00:45:20,192 --> 00:45:21,200
+Causou, certo?
+
+717
+00:45:21,210 --> 00:45:24,241
+- Eduard, não te deves trastornar.
+- Mãe, por favor!
+
+718
+00:45:25,123 --> 00:45:26,272
+Quero saber.
+
+719
+00:45:32,492 --> 00:45:33,592
+Na verdade...
+
+720
+00:45:34,858 --> 00:45:36,186
+... a culpa foi minha.
+
+721
+00:45:36,597 --> 00:45:38,898
+O teu pai apagou as chamas.
+
+722
+00:45:40,507 --> 00:45:44,511
+Eu tinha uma crise de melancolia,
+como tu tens agora.
+
+723
+00:45:48,875 --> 00:45:53,155
+Não prestava atenção.
+Um de vocês encontrou fósforos.
+
+724
+00:45:56,838 --> 00:45:58,550
+Porque nunca me disse
+a verdade?
+
+725
+00:45:58,580 --> 00:46:01,268
+Precisava que te sentisses
+seguro comigo.
+
+726
+00:46:03,527 --> 00:46:05,304
+Idolatravas o teu pai, Eduard,
+
+727
+00:46:05,562 --> 00:46:08,715
+mas ele nunca estava presente.
+Vi como isso era doloroso para ti.
+
+728
+00:46:08,745 --> 00:46:10,496
+Pensei que seria mais fácil
+
+729
+00:46:10,526 --> 00:46:13,386
+se não o considerasses
+um herói.
+
+730
+00:46:19,583 --> 00:46:21,390
+Diga ao Pai que o quero ver.
+
+731
+00:46:39,880 --> 00:46:41,730
+Onde está o teu pai, Eduard?
+
+732
+00:47:20,110 --> 00:47:22,110
+<b>Transcrito do canal:
+<b>National Geographic</b>
+
+733
+00:47:22,610 --> 00:47:24,610
+<b>Sincronia:
+<b>Italiansubs</b>
+
+734
+00:47:25,110 --> 00:47:27,110
+<b>Transcrição:
+<b>fininhos</b>
+

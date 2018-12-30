@@ -1,0 +1,3333 @@
+﻿1
+00:01:14,631 --> 00:01:15,631
+<i>A Terra...</i>
+
+2
+00:01:17,433 --> 00:01:18,536
+<i>antes da guerra...</i>
+
+3
+00:01:22,906 --> 00:01:24,409
+<i>A vida estendia-se...</i>
+
+4
+00:01:24,875 --> 00:01:27,278
+<i>à cada recanto do planeta.</i>
+
+5
+00:01:28,945 --> 00:01:32,951
+<i>Converteu-se em um mundo cheio
+de inovação e oportunidades.</i>
+
+6
+00:01:35,586 --> 00:01:39,891
+<i>Enormes saltos na ciência viram à
+humanidade conseguir resultados inimaginables.</i>
+
+7
+00:01:42,059 --> 00:01:44,496
+<i>A robótica converteu-se
+no caminho do futuro.</i>
+
+8
+00:01:46,297 --> 00:01:49,668
+<i>A inteligência artificial converteu-se
+ na nova religião.</i>
+
+9
+00:01:51,335 --> 00:01:54,572
+<i>Éramos os mesías sintéticos.</i>
+
+10
+00:01:59,779 --> 00:02:00,914
+<i>Mas tal poder...</i>
+
+11
+00:02:02,048 --> 00:02:05,585
+<i>na proximidade dos primitivos,
+só conduziu a um resultado:</i>
+
+12
+00:02:07,920 --> 00:02:08,955
+<i>Guerra.</i>
+
+13
+00:02:15,427 --> 00:02:16,695
+<i>Choveram bombas...</i>
+
+14
+00:02:17,897 --> 00:02:20,000
+<i>onda, depois de onda, depois de onda.</i>
+
+15
+00:02:21,967 --> 00:02:24,703
+<i>O mundo entrou em uma
+nova era escura.</i>
+
+16
+00:02:26,671 --> 00:02:30,644
+<i>Das cinzas nasceu
+uma grande doença:</i>
+
+17
+00:02:31,477 --> 00:02:32,579
+<i>A febre vermelha.</i>
+
+18
+00:02:37,650 --> 00:02:40,453
+<i>As nações caíram.
+As sociedades colapsaron.</i>
+
+19
+00:02:44,423 --> 00:02:47,795
+<i>Os Senhores da Guerra tribales usaram-nos
+ como armas uns contra outros.</i>
+
+20
+00:02:49,762 --> 00:02:52,365
+<i>Fuí uma das últimas
+sintéticas em sobreviver.</i>
+
+21
+00:02:54,701 --> 00:02:55,936
+<i>Ao final, todos perderam.</i>
+
+22
+00:02:59,973 --> 00:03:01,008
+<i>Eu queria a vida.</i>
+
+23
+00:03:04,578 --> 00:03:05,946
+<i>Os humanos queriam a morte.</i>
+
+24
+00:03:13,120 --> 00:03:14,655
+<i>Não posso ser parte disso.</i>
+
+25
+00:03:17,458 --> 00:03:18,458
+<i>Não fá-lo-ei.</i>
+
+26
+00:03:22,429 --> 00:03:23,995
+<i>Apagar a entrada e purgar
+todas as memórias.</i>
+
+27
+00:03:23,997 --> 00:03:25,630
+<i>Anulação manual confirmada.</i>
+
+28
+00:03:25,632 --> 00:03:26,752
+<i>Iniciar modo de hibernación.</i>
+
+29
+00:04:40,211 --> 00:04:41,742
+Vou agarrar-te!
+
+30
+00:04:41,744 --> 00:04:42,678
+Não, não fá-lo-ás!
+
+31
+00:04:42,680 --> 00:04:43,715
+Move-te para acima!
+
+32
+00:04:43,913 --> 00:04:45,416
+Sim, tenho-o, Chefe.
+
+33
+00:05:12,743 --> 00:05:13,979
+Ginetes!
+
+34
+00:05:14,846 --> 00:05:16,916
+- Ginetes!
+- Vamos! Vamos!
+
+35
+00:05:17,181 --> 00:05:18,748
+- Acima!
+- Vamos, vamos!
+
+36
+00:05:18,750 --> 00:05:20,052
+Onde estão as crianças?
+
+37
+00:05:20,284 --> 00:05:22,018
+- Corram, corram, corram!
+- Vamos, vamos, vamos!
+
+38
+00:05:22,020 --> 00:05:23,589
+Onde estão as crianças?
+
+39
+00:05:23,988 --> 00:05:25,787
+Subam! Acima!
+Vamos!
+
+40
+00:05:25,789 --> 00:05:26,859
+Comida e refúgio!
+
+41
+00:05:27,292 --> 00:05:28,626
+Ginetes!
+
+42
+00:05:28,628 --> 00:05:29,627
+A pressa! Agora!
+
+43
+00:05:29,629 --> 00:05:30,761
+Vamos!
+
+44
+00:05:30,763 --> 00:05:31,995
+Acima, acima!
+
+45
+00:05:31,997 --> 00:05:32,997
+Ginetes!
+
+46
+00:05:50,016 --> 00:05:52,081
+Agora mesmo! Agora mesmo!
+Têm que se ir!
+
+47
+00:05:52,083 --> 00:05:54,487
+- Poppy, vamos! Poppy, faz favor!
+- Jack, estás bem?
+
+48
+00:05:55,086 --> 00:05:56,252
+- Vamos estar bem.
+- Poppy!
+
+49
+00:05:56,254 --> 00:05:57,923
+- Sobe aí, rápido!
+- Que?
+
+50
+00:05:57,925 --> 00:05:59,925
+- A onde vou?
+- Mais rápido! Mais rápido! Vamos!
+
+51
+00:06:27,955 --> 00:06:30,525
+Volta a qualquer Inferno
+do que te tenhas arrastado!
+
+52
+00:06:30,958 --> 00:06:32,223
+Arma?
+
+53
+00:06:32,225 --> 00:06:34,228
+Não vi uma arma
+funcionando desde a guerra!
+
+54
+00:06:36,898 --> 00:06:38,934
+Dispara, homem!
+
+55
+00:06:41,602 --> 00:06:42,901
+Não, Poppy!
+
+56
+00:06:42,903 --> 00:06:44,171
+Poppy, não!
+
+57
+00:06:44,838 --> 00:06:46,641
+Ajudem-me!
+
+58
+00:07:09,064 --> 00:07:10,567
+Estás seguro de que
+este é o local?
+
+59
+00:07:11,033 --> 00:07:12,068
+Sim, ela está aqui.
+
+60
+00:07:12,634 --> 00:07:13,670
+Sei-o.
+
+61
+00:07:36,226 --> 00:07:37,728
+Que era este local?
+
+62
+00:07:38,294 --> 00:07:39,964
+O local costumava ser o futuro.
+
+63
+00:07:42,032 --> 00:07:43,267
+Agora é só pó.
+
+64
+00:07:50,039 --> 00:07:51,075
+Ouve!
+
+65
+00:07:51,440 --> 00:07:52,676
+Vêem aqui.
+
+66
+00:08:05,088 --> 00:08:06,256
+Esta é a que queremos.
+
+67
+00:08:10,860 --> 00:08:11,896
+Onde está ela?
+
+68
+00:08:14,131 --> 00:08:15,166
+Vamos.
+
+69
+00:09:25,906 --> 00:09:26,940
+Acorda.
+
+70
+00:09:31,210 --> 00:09:32,245
+Que é o que vês?
+
+71
+00:09:36,849 --> 00:09:37,884
+Quem és?
+
+72
+00:09:39,118 --> 00:09:40,721
+Eu sou o que te dió a vida.
+
+73
+00:09:44,925 --> 00:09:45,925
+Onde estou?
+
+74
+00:09:49,463 --> 00:09:53,166
+Tenho-te estado procurando
+durante muito tempo.
+
+75
+00:10:03,110 --> 00:10:04,145
+<i>Não.</i>
+
+76
+00:10:20,494 --> 00:10:22,328
+Vamos! Espera!
+
+77
+00:10:22,330 --> 00:10:24,771
+Cuidado, Billy! Não te acerques
+demasiado à água, faz favor!
+
+78
+00:10:24,899 --> 00:10:25,934
+Ouve, Rico!
+
+79
+00:10:27,836 --> 00:10:28,871
+Rico.
+
+80
+00:10:33,374 --> 00:10:34,943
+- Como te sentes?
+- Bem.
+
+81
+00:10:35,311 --> 00:10:36,345
+Como está ela?
+
+82
+00:10:37,078 --> 00:10:38,113
+Melhor.
+
+83
+00:10:38,446 --> 00:10:39,883
+Acaba de perguntar por ti.
+
+84
+00:10:43,152 --> 00:10:44,187
+Que tens aí?
+
+85
+00:10:45,153 --> 00:10:46,556
+Ainda crês nessa magia?
+
+86
+00:10:48,557 --> 00:10:49,793
+Isso pode a salvar.
+
+87
+00:10:51,594 --> 00:10:53,164
+Praia Paraíso não é real.
+
+88
+00:10:57,299 --> 00:10:58,868
+Não o sei. Suponho que...
+
+89
+00:11:00,069 --> 00:11:01,829
+tenho a sensação
+de que está aí afora.
+
+90
+00:11:03,405 --> 00:11:04,440
+Vê a vê-la.
+
+91
+00:11:29,032 --> 00:11:30,367
+Ouve.
+
+92
+00:11:32,035 --> 00:11:33,405
+Encontras-te bem?
+
+93
+00:11:34,405 --> 00:11:36,141
+Serve-me um pouco de chá, queres?
+
+94
+00:11:36,373 --> 00:11:37,408
+Sim.
+
+95
+00:11:40,011 --> 00:11:42,447
+Lembrança quando eras
+como esses pequenos.
+
+96
+00:11:51,689 --> 00:11:53,025
+Sabes que há medicina.
+
+97
+00:11:55,459 --> 00:11:56,561
+Praia Paraíso.
+
+98
+00:11:58,030 --> 00:11:59,432
+ouvi histórias ao respeito.
+
+99
+00:12:01,699 --> 00:12:03,401
+Não há medicina aí afora.
+
+100
+00:12:04,136 --> 00:12:05,538
+Só há morte e ódio.
+
+101
+00:12:07,039 --> 00:12:08,538
+Não posso te deixar ir, mamãe.
+
+102
+00:12:08,540 --> 00:12:11,644
+Este oásis salvou-me quando
+era jovem e avariada.
+
+103
+00:12:14,713 --> 00:12:16,348
+Ocupa-te deste
+quando me tenha ido.
+
+104
+00:12:17,482 --> 00:12:19,218
+És demasiado jovem para morrer,
+mamãe.
+
+105
+00:12:19,618 --> 00:12:22,288
+Não seria bom se pudéssemos
+decidir isso por nós mesmos?
+
+106
+00:12:24,324 --> 00:12:25,893
+Serás um grande líder.
+
+107
+00:12:28,061 --> 00:12:29,528
+Posso ver nos teus olhos.
+
+108
+00:12:30,028 --> 00:12:32,331
+Mamãe, eu... Eu não sou realmente...
+
+109
+00:12:32,965 --> 00:12:36,003
+Se pudesse fazê-lo de novo,
+falaria mais baixo.
+
+110
+00:12:38,470 --> 00:12:40,039
+Eu escutaria mais tempo...
+
+111
+00:12:41,340 --> 00:12:43,542
+e abraçar-te-ia mais forte.
+
+112
+00:13:08,235 --> 00:13:09,269
+Se!
+
+113
+00:13:54,650 --> 00:13:55,684
+Olá, homem.
+
+114
+00:13:57,051 --> 00:13:58,297
+Ouve.
+
+115
+00:13:58,787 --> 00:14:00,289
+- Como estás?
+- Muito bem.
+
+116
+00:14:01,122 --> 00:14:02,224
+- Se?
+- Se.
+
+117
+00:14:02,657 --> 00:14:03,692
+Ouve...
+
+118
+00:14:04,392 --> 00:14:05,632
+viste este local antes?
+
+119
+00:14:06,529 --> 00:14:07,529
+Sim, tenho estado aí.
+
+120
+00:14:08,064 --> 00:14:09,366
+Não queres sair aí afora.
+
+121
+00:14:09,598 --> 00:14:10,632
+Não é um bom local.
+
+122
+00:14:11,867 --> 00:14:14,636
+Chamam-no o Templo da Vida,
+mas não é o que parece.
+
+123
+00:14:15,070 --> 00:14:16,138
+Sim, bom, irei.
+
+124
+00:14:16,372 --> 00:14:17,674
+Não posso te parar.
+
+125
+00:14:20,208 --> 00:14:21,211
+Faz o que queiras.
+
+126
+00:14:25,214 --> 00:14:27,051
+Esta é a minha nova noiva!
+
+127
+00:14:29,386 --> 00:14:30,554
+O seu nome é Ash.
+
+128
+00:14:31,320 --> 00:14:32,790
+Quem quer a conhecer primeiro?
+
+129
+00:14:33,456 --> 00:14:35,590
+Sujeita-a.
+Ma follaré pela cara!
+
+130
+00:14:38,295 --> 00:14:39,329
+Jodetelo.
+
+131
+00:14:47,871 --> 00:14:49,406
+Merda!
+
+132
+00:14:50,207 --> 00:14:51,509
+Se!
+
+133
+00:14:52,343 --> 00:14:53,575
+Sim, homem!
+
+134
+00:14:53,577 --> 00:14:54,612
+O meu homem!
+
+135
+00:14:56,880 --> 00:14:58,315
+Agora me mostra a morte.
+
+136
+00:15:04,287 --> 00:15:10,825
+Assassinato, assassinato, assassinato!
+
+137
+00:15:10,827 --> 00:15:12,294
+Assassinato! Sim!
+
+138
+00:15:17,201 --> 00:15:18,235
+Sim.
+
+139
+00:15:24,676 --> 00:15:25,711
+Boa garota.
+
+140
+00:15:49,669 --> 00:15:50,703
+Mamãe.
+
+141
+00:15:54,339 --> 00:15:55,441
+Vou arranjar isto.
+
+142
+00:15:57,577 --> 00:15:58,712
+Vou arranjar isto.
+
+143
+00:16:10,356 --> 00:16:11,356
+Ouve!
+
+144
+00:16:11,723 --> 00:16:13,727
+A Rainha morrerá se não mo dizes.
+
+145
+00:16:14,593 --> 00:16:15,793
+Há medicina ali, verdade?
+
+146
+00:16:15,962 --> 00:16:17,595
+Medicina que pode salvar a sua vida.
+
+147
+00:16:17,597 --> 00:16:18,829
+Por suposto.
+
+148
+00:16:18,831 --> 00:16:20,365
+Olha,
+não me importo o perigoso que seja.
+
+149
+00:16:20,367 --> 00:16:21,836
+Tens que me dizer onde está.
+
+150
+00:16:22,435 --> 00:16:24,602
+Está a orlas do Oceano Morto.
+
+151
+00:16:24,604 --> 00:16:25,964
+Ali podem curar qualquer dor.
+
+152
+00:16:26,439 --> 00:16:28,840
+- Quase podes viver para sempre.
+- "Viver para sempre"?
+
+153
+00:16:28,842 --> 00:16:30,576
+Viver para sempre,
+mas não é um bom local.
+
+154
+00:16:30,578 --> 00:16:31,976
+Não é o que achas que é.
+
+155
+00:16:31,978 --> 00:16:33,213
+Dime.
+
+156
+00:16:33,479 --> 00:16:34,339
+De acordo.
+
+157
+00:16:34,348 --> 00:16:36,846
+Segues a Estrela do
+Norte durante três dias,
+
+158
+00:16:36,917 --> 00:16:38,628
+até chegar ao Bosque de Neón.
+
+159
+00:16:39,353 --> 00:16:40,854
+Quando chegues ao Bosque de Neón,
+
+160
+00:16:41,521 --> 00:16:43,790
+há gente ali,
+mas tens que ter cuidado.
+
+161
+00:16:44,458 --> 00:16:46,427
+Dizer-te-ão como chegar ao Templo.
+
+162
+00:16:46,794 --> 00:16:48,293
+Quando chegues ao Mar Morrido,
+
+163
+00:16:48,295 --> 00:16:49,565
+chegarás ao Templo.
+
+164
+00:16:53,902 --> 00:16:54,936
+Vê.
+
+165
+00:17:01,942 --> 00:17:02,944
+Tomada.
+
+166
+00:17:03,744 --> 00:17:04,780
+Vais precisar isto.
+
+167
+00:17:06,313 --> 00:17:07,416
+E leva-te isto também.
+
+168
+00:17:12,654 --> 00:17:13,689
+Boa sorte.
+
+169
+00:17:31,706 --> 00:17:32,943
+Estarei em casa cedo, mamãe.
+
+170
+00:17:56,733 --> 00:17:57,933
+Sabia que encontrar-te-ia aqui.
+
+171
+00:17:58,334 --> 00:17:59,733
+Não me vão parar, de acordo?
+
+172
+00:17:59,735 --> 00:18:01,655
+Esse nunca foi o plano.
+Precisasses ajuda.
+
+173
+00:18:02,339 --> 00:18:03,341
+Vamo-nos!
+
+174
+00:18:13,082 --> 00:18:14,317
+<i>Praia Paraíso,</i>
+
+175
+00:18:16,620 --> 00:18:17,922
+<i>uma viagem de mil milhas...</i>
+
+176
+00:18:20,858 --> 00:18:22,561
+<i>O seu colega, Rico,</i>
+
+177
+00:18:22,959 --> 00:18:24,528
+<i>chamou-o "O Caminho à Morte".</i>
+
+178
+00:18:31,869 --> 00:18:33,572
+<i>O Príncipe falou do cheiro.</i>
+
+179
+00:18:36,373 --> 00:18:38,442
+<i>Uma presença constante
+neste páramo...</i>
+
+180
+00:18:41,579 --> 00:18:44,349
+<i>é o cheiro a carne
+humana queimando-se,</i>
+
+181
+00:18:46,050 --> 00:18:47,954
+<i>derretimiento de gordura.</i>
+
+182
+00:18:50,722 --> 00:18:52,589
+<i>Combustível para os Ginetes.</i>
+
+183
+00:19:23,722 --> 00:19:24,991
+Duas armas, dez balas.
+
+184
+00:19:25,924 --> 00:19:27,004
+Vamos precisá-las todas.
+
+185
+00:19:30,997 --> 00:19:33,437
+O velho viajante disse que
+seguíssemos à Estrela do Norte.
+
+186
+00:19:35,034 --> 00:19:36,370
+A ver a onde nos leva.
+
+187
+00:19:43,698 --> 00:19:48,154
+<i>LOVE TOWN</i>
+
+188
+00:19:49,784 --> 00:19:50,949
+<i>Sim, senhor!</i>
+
+189
+00:19:50,951 --> 00:19:52,554
+<i>É o seu anfitrião com a maioria.</i>
+
+190
+00:19:52,853 --> 00:19:54,823
+<i>Bem-vindos a Love Town,</i>
+
+191
+00:19:55,088 --> 00:19:57,022
+<i>também conhecida como
+a Cidade das Tetas.</i>
+
+192
+00:19:57,024 --> 00:19:58,990
+<i>E de cidade em cidade,
+de teta em teta,</i>
+
+193
+00:19:58,992 --> 00:20:00,894
+<i>fazemos o melhor bebé!</i>
+
+194
+00:20:13,540 --> 00:20:14,742
+<i>Bem-vindos a Love Town,</i>
+
+195
+00:20:14,974 --> 00:20:16,745
+<i>onde todo se vai a pique.</i>
+
+196
+00:20:25,554 --> 00:20:26,822
+São robôs como eu?
+
+197
+00:20:27,021 --> 00:20:29,724
+Não, essas putas são reais.
+
+198
+00:20:30,592 --> 00:20:33,095
+Envelhecerão,
+pôr-se-ão feias e morrerão.
+
+199
+00:20:34,162 --> 00:20:36,832
+Não como tu,
+vais estar perfeita para sempre.
+
+200
+00:20:41,769 --> 00:20:44,050
+Bem, esse é o local do
+que falava o velho viajante.
+
+201
+00:20:56,519 --> 00:20:58,159
+Consigamos informação
+e saiamos de aqui.
+
+202
+00:21:00,722 --> 00:21:01,758
+Mantém a cabeça baixa.
+
+203
+00:21:12,702 --> 00:21:14,101
+Que é este local?
+
+204
+00:21:14,103 --> 00:21:16,707
+A gente que não pode encontrar
+amor, compram amor aqui.
+
+205
+00:21:37,793 --> 00:21:38,829
+Tem cuidado.
+
+206
+00:21:40,230 --> 00:21:41,466
+Não te apaixones.
+
+207
+00:21:45,002 --> 00:21:46,038
+Fica-te perto.
+
+208
+00:21:48,205 --> 00:21:49,241
+Ouve!
+
+209
+00:21:49,974 --> 00:21:51,009
+Sim.
+
+210
+00:21:56,781 --> 00:21:58,548
+Parecem um pouco perdidos.
+
+211
+00:21:58,550 --> 00:21:59,581
+Que posso lhes oferecer?
+
+212
+00:21:59,583 --> 00:22:00,585
+Um pouco de whisky.
+
+213
+00:22:00,984 --> 00:22:01,984
+Sentem-se, faz favor.
+
+214
+00:22:10,628 --> 00:22:12,108
+Por algo de informação,
+sim a tens.
+
+215
+00:22:14,064 --> 00:22:15,100
+Que estás a procurar?
+
+216
+00:22:15,600 --> 00:22:17,035
+Algo chamado "Praia Paraíso".
+
+217
+00:22:17,735 --> 00:22:19,135
+Podes assinalar o caminho correto?
+
+218
+00:22:21,072 --> 00:22:22,242
+Nunca ouvi falar dela.
+
+219
+00:22:25,945 --> 00:22:27,385
+Mas posso perguntar-lhe a Papi
+Grande.
+
+220
+00:22:28,280 --> 00:22:30,250
+Conhece o páramo como
+a palma da sua mão.
+
+221
+00:22:31,216 --> 00:22:32,252
+Agradecer-to-ia.
+
+222
+00:22:33,718 --> 00:22:35,398
+Dá a estes tipos uma
+ronda pela minha conta.
+
+223
+00:22:35,920 --> 00:22:36,956
+Divirtam-se.
+
+224
+00:22:41,260 --> 00:22:43,793
+- Achas que vá ajudar-nos/ajudá-nos?
+- Não estou seguro.
+
+225
+00:22:43,795 --> 00:22:45,128
+Ouve, Senhor da Guerra.
+
+226
+00:22:45,130 --> 00:22:47,301
+Estás a desfrutar desse
+coo-coo robótico?
+
+227
+00:22:50,736 --> 00:22:53,204
+Uns tipos perguntam
+por Praia Paraíso.
+
+228
+00:22:53,206 --> 00:22:55,042
+- Viste-os antes?
+- Não. Não aqui.
+
+229
+00:22:56,810 --> 00:22:59,143
+Esses garotos apareceram
+em umas motos brilhantes.
+
+230
+00:22:59,145 --> 00:23:00,981
+Claro que não são de por aqui.
+
+231
+00:23:01,281 --> 00:23:03,050
+Não te esqueces de algo?
+
+232
+00:23:04,184 --> 00:23:05,849
+Sento-o, Papi, ia dizer-te o...
+
+233
+00:23:07,086 --> 00:23:09,119
+Achas-te muito pronta, verdade, puta?
+
+234
+00:23:09,121 --> 00:23:11,402
+Tenho olhos ao redor deste
+filho de puta. Agora mo dá.
+
+235
+00:23:13,293 --> 00:23:15,229
+Agora patea rochas
+e lhes serve bebidas.
+
+236
+00:23:17,297 --> 00:23:19,031
+Estão prontos para dar
+as boas-vindas às novas putas?
+
+237
+00:23:19,033 --> 00:23:20,753
+- Sim, senhor.
+- Bom, então vamos aisso.
+
+238
+00:23:21,835 --> 00:23:23,304
+És uma garota má.
+
+239
+00:23:29,110 --> 00:23:30,946
+Sabes, a minha família morreu de febre.
+
+240
+00:23:32,979 --> 00:23:34,259
+Não tinha nada que pudesse fazer.
+
+241
+00:23:37,150 --> 00:23:40,020
+Que alguém morra não
+significa que não esteja contigo.
+
+242
+00:23:41,822 --> 00:23:43,222
+Estão a desfrutar das suas cervejas?
+
+243
+00:23:43,724 --> 00:23:45,257
+Também queres um baile erótico,
+garoto lindo?
+
+244
+00:23:45,259 --> 00:23:47,026
+Não, estamos bem,
+estamos bem, estamos bem.
+
+245
+00:23:47,028 --> 00:23:49,240
+Nossas putas não são o
+suficientemente bonitas para ti?
+
+246
+00:23:49,264 --> 00:23:51,163
+Talvez prefiras ter
+uma polla que chupar.
+
+247
+00:23:51,165 --> 00:23:52,832
+Não queremos problemas!
+
+248
+00:23:52,834 --> 00:23:54,668
+Pelo geral,
+cobramos um cargo sem abrangência,
+
+249
+00:23:54,670 --> 00:23:56,669
+mas vocês podem nos dar
+o dinheiro diretamente.
+
+250
+00:23:57,472 --> 00:23:59,706
+- Ouve, deixa-nos em paz, de acordo?
+- Cala-te a puta boca!
+
+251
+00:23:59,708 --> 00:24:00,974
+Guarda a faca!
+
+252
+00:24:00,976 --> 00:24:03,409
+Se encontro algo que quero,
+o tomo, de acordo?
+
+253
+00:24:03,411 --> 00:24:04,646
+De acordo?
+
+254
+00:24:05,147 --> 00:24:06,649
+Que carajos vais
+fazer ao respeito?
+
+255
+00:24:11,253 --> 00:24:12,888
+Não tens os caralho...
+
+256
+00:24:15,158 --> 00:24:16,724
+- Atrás!
+- Ouve!
+
+257
+00:24:16,726 --> 00:24:18,092
+Atrás,
+ou também tenho uma para ti!
+
+258
+00:24:18,094 --> 00:24:19,693
+De onde diabos
+sacaram a munição?
+
+259
+00:24:19,695 --> 00:24:21,063
+Já ninguém tem balas.
+
+260
+00:24:26,068 --> 00:24:27,269
+Vamo-nos de aqui.
+
+261
+00:24:30,073 --> 00:24:32,342
+Vocês sim que sabem como
+fazer uma apresentação.
+
+262
+00:24:32,741 --> 00:24:34,141
+E gosto dessa merda, homem.
+
+263
+00:24:34,143 --> 00:24:35,476
+Mas podes baixar a arma.
+
+264
+00:24:35,478 --> 00:24:37,047
+Este é um local de paz!
+
+265
+00:24:37,747 --> 00:24:39,082
+Voltemos aos negócios, todos!
+
+266
+00:24:41,217 --> 00:24:44,656
+Não só sou o proprietário
+deste bom estabelecimento,
+
+267
+00:24:45,189 --> 00:24:48,226
+senão sou o que poder-se-ia
+chamar um proxeneta amistoso.
+
+268
+00:24:48,459 --> 00:24:50,491
+Então, só és um chulo?
+
+269
+00:24:50,493 --> 00:24:52,928
+Dizes isso como se fosse
+algo mau ou algo assim.
+
+270
+00:24:52,930 --> 00:24:54,462
+Vamo-nos.
+
+271
+00:24:54,464 --> 00:24:56,904
+O proxeneta é o filho de puta
+mais solitário deste páramo.
+
+272
+00:24:57,267 --> 00:24:59,037
+Não posso confiar em nenhuma
+destas putas.
+
+273
+00:25:00,104 --> 00:25:03,007
+Estão a tratar de molhar
+os seus pollas ou que?
+
+274
+00:25:03,807 --> 00:25:05,507
+Em realidade estamos
+a procurar a Praia Paraíso.
+
+275
+00:25:05,509 --> 00:25:06,877
+ouvimos que há medicina ali.
+
+276
+00:25:07,076 --> 00:25:09,143
+Cidade da Droga, sei-o.
+
+277
+00:25:09,145 --> 00:25:10,845
+Podes levar-nos/levá-nos ali?
+
+278
+00:25:10,847 --> 00:25:12,887
+Olha, homem, essa merda é
+um negócio sujo, garoto.
+
+279
+00:25:13,049 --> 00:25:16,120
+Se ajudo-os, diabos, é como
+se estivesse a cometer perjurio.
+
+280
+00:25:16,855 --> 00:25:18,424
+Quanto vale para vocês,
+vaqueiros?
+
+281
+00:25:26,798 --> 00:25:28,358
+De modo que,
+basicamente somos sócios agora.
+
+282
+00:25:29,200 --> 00:25:31,003
+E conheço a alguém que
+pode os levar ali.
+
+283
+00:25:31,301 --> 00:25:32,501
+Se sabem ao que me refiro.
+
+284
+00:25:32,503 --> 00:25:34,263
+Ouve, estás seguro de que
+queres fazer isto?
+
+285
+00:25:35,039 --> 00:25:36,372
+Vejamos que tem que dizer.
+
+286
+00:25:36,374 --> 00:25:37,774
+Acalma-o e vamo-nos.
+
+287
+00:25:37,776 --> 00:25:39,344
+Vamos, homem. Segue-me.
+
+288
+00:25:51,056 --> 00:25:53,093
+Vês, homem,
+deveriam sentir-se muito especiais.
+
+289
+00:25:53,325 --> 00:25:55,128
+Nunca trago a ninguém aqui.
+
+290
+00:25:55,394 --> 00:25:57,931
+Chamo aisto o meu Salão da
+Fama das putas.
+
+291
+00:25:59,030 --> 00:26:00,110
+Tu és o homem, verdade?
+
+292
+00:26:01,367 --> 00:26:02,965
+Vingam aqui, seguam-me.
+
+293
+00:26:02,967 --> 00:26:04,127
+Tenho algo especial para...
+
+294
+00:26:05,003 --> 00:26:06,923
+Esperem um maldito minuto.
+
+295
+00:26:06,972 --> 00:26:09,239
+Ouçam, putas, lárguense de aqui!
+
+296
+00:26:10,276 --> 00:26:11,811
+Que carajos lhes passa?
+
+297
+00:26:13,346 --> 00:26:14,749
+Não posso achar esta merda.
+
+298
+00:26:15,381 --> 00:26:17,080
+Tenho que te pedir
+que te vás também.
+
+299
+00:26:17,082 --> 00:26:18,883
+O garoto precisa estar à minha vista.
+
+300
+00:26:18,885 --> 00:26:20,820
+Ouve, homem, a minha garota é tímida.
+
+301
+00:26:21,154 --> 00:26:22,823
+Se querem ir a Praia Paraíso,
+
+302
+00:26:23,056 --> 00:26:25,760
+vai ter que falar
+com ela pela sua conta.
+
+303
+00:26:26,225 --> 00:26:27,357
+Rico...
+
+304
+00:26:27,359 --> 00:26:28,395
+Não há problema.
+
+305
+00:26:31,263 --> 00:26:32,299
+Quedate esta.
+
+306
+00:26:32,566 --> 00:26:34,769
+Vais dar-lhe uma arma ao pequeñín?
+
+307
+00:26:35,001 --> 00:26:36,361
+Também tens um cobertor para ele?
+
+308
+00:26:37,137 --> 00:26:39,005
+És um vaqueiro chamativo, não?
+
+309
+00:26:39,872 --> 00:26:41,307
+Disse-te que gosto dessa merda?
+
+310
+00:26:42,008 --> 00:26:43,509
+Agora tu, amiguito, olha isto.
+
+311
+00:26:43,511 --> 00:26:45,211
+Preciso que te divirtas.
+
+312
+00:26:45,213 --> 00:26:46,848
+Relaxa-te, porque estás
+em boas mãos.
+
+313
+00:26:47,548 --> 00:26:48,884
+Bem-vindos ao Paraíso.
+
+314
+00:26:50,217 --> 00:26:51,852
+Sim, uma coisa mais.
+
+315
+00:26:53,253 --> 00:26:54,889
+Não te afastes do perigo.
+
+316
+00:26:55,455 --> 00:26:56,925
+Porque está a ponto de cair.
+
+317
+00:27:10,103 --> 00:27:11,138
+Em que posso te ajudar?
+
+318
+00:27:11,472 --> 00:27:13,341
+Estou a procurar Praia Paraíso.
+
+319
+00:27:14,443 --> 00:27:15,545
+Praia Paraíso?
+
+320
+00:27:16,578 --> 00:27:17,580
+Sim.
+
+321
+00:27:18,412 --> 00:27:20,282
+Sim, a minha mamãe está muito doente.
+
+322
+00:27:21,315 --> 00:27:22,351
+Ela está em problemas.
+
+323
+00:27:25,419 --> 00:27:27,223
+Sim, e não tenho muito tempo.
+
+324
+00:27:28,991 --> 00:27:30,092
+Quero ajudar-te.
+
+325
+00:27:35,197 --> 00:27:36,232
+És muito amável.
+
+326
+00:27:37,198 --> 00:27:38,500
+Posso ver nos teus olhos.
+
+327
+00:27:40,235 --> 00:27:41,270
+Quem és?
+
+328
+00:27:41,536 --> 00:27:42,573
+Sou Ash.
+
+329
+00:27:45,207 --> 00:27:46,243
+Os teus olhos...
+
+330
+00:27:47,576 --> 00:27:49,176
+<i>Cala-te e segue adiante.</i>
+
+331
+00:27:49,178 --> 00:27:50,214
+Sim.
+
+332
+00:27:53,515 --> 00:27:54,551
+Não és humana?
+
+333
+00:27:56,018 --> 00:27:57,186
+Sou tão humana como tu.
+
+334
+00:28:00,156 --> 00:28:01,191
+Que é o que vês?
+
+335
+00:28:02,425 --> 00:28:03,460
+Vejo-te a ti.
+
+336
+00:28:06,329 --> 00:28:07,364
+Podes sentir?
+
+337
+00:28:13,336 --> 00:28:14,372
+Sento-te.
+
+338
+00:29:11,096 --> 00:29:13,532
+- Merda!
+- Olha a essa velha puta.
+
+339
+00:29:14,033 --> 00:29:15,068
+Traz-mo!
+
+340
+00:29:15,300 --> 00:29:19,004
+Merda...
+Acho que quero um puta robô.
+
+341
+00:29:27,747 --> 00:29:29,182
+Tragam-no aqui!
+
+342
+00:29:33,764 --> 00:29:35,282
+Soltem-me!
+
+343
+00:29:36,654 --> 00:29:37,691
+Tira-te!
+
+344
+00:29:38,089 --> 00:29:39,124
+Vai à merda!
+
+345
+00:29:39,592 --> 00:29:40,594
+Vamos.
+
+346
+00:29:41,294 --> 00:29:42,330
+Rico!
+
+347
+00:29:42,762 --> 00:29:44,595
+- Rico!
+- Pendurem-no!
+
+348
+00:29:44,597 --> 00:29:45,633
+Rico!
+
+349
+00:29:47,701 --> 00:29:49,334
+Por que mataste a Rico?
+
+350
+00:29:49,336 --> 00:29:50,438
+Traz-me a arma!
+
+351
+00:29:55,275 --> 00:29:56,711
+De onde sacaste estas balas?
+
+352
+00:29:58,144 --> 00:29:59,579
+De onde és, garoto?
+
+353
+00:30:02,449 --> 00:30:03,484
+Sobe-o.
+
+354
+00:30:05,618 --> 00:30:07,355
+- Que estás a fazer?
+- Sobe-o!
+
+355
+00:30:14,428 --> 00:30:15,463
+Vais falar?
+
+356
+00:30:21,269 --> 00:30:22,304
+Baixa-o!
+
+357
+00:30:26,441 --> 00:30:28,143
+De onde és, garoto?
+
+358
+00:30:31,078 --> 00:30:32,114
+Sobe-o!
+
+359
+00:30:35,849 --> 00:30:37,718
+Será melhor que cantes, pássaro!
+
+360
+00:30:39,554 --> 00:30:40,722
+Será melhor que cantes!
+
+361
+00:30:43,325 --> 00:30:44,627
+Muito bem, o baixa.
+
+362
+00:30:46,395 --> 00:30:47,430
+Aí.
+
+363
+00:30:50,499 --> 00:30:51,534
+O Oásis.
+
+364
+00:30:52,367 --> 00:30:53,368
+O Oásis?
+
+365
+00:30:53,801 --> 00:30:55,704
+- Sim.
+- Tens mais balas aí?
+
+366
+00:30:56,504 --> 00:30:57,671
+Sim.
+
+367
+00:30:57,673 --> 00:30:59,175
+Vais levar-nos/levá-nos ali?
+
+368
+00:31:00,642 --> 00:31:01,677
+Vai à merda.
+
+369
+00:31:02,211 --> 00:31:03,343
+Sobe-o!
+
+370
+00:31:06,415 --> 00:31:09,074
+Será melhor que comeces a cantar,
+pajarito!
+
+371
+00:31:11,179 --> 00:31:13,205
+Acaba-se-te o tempo!
+
+372
+00:31:18,328 --> 00:31:19,363
+Falarei.
+
+373
+00:31:20,362 --> 00:31:21,497
+Baixa-o!
+
+374
+00:31:28,670 --> 00:31:30,173
+És uma puta má.
+
+375
+00:31:44,455 --> 00:31:46,191
+Aqui vamos.
+
+376
+00:31:46,523 --> 00:31:47,559
+Levanta-te. Levanta-te!
+
+377
+00:31:58,502 --> 00:31:59,671
+Vamos, neno.
+
+378
+00:32:02,473 --> 00:32:03,704
+Vamo-nos!
+
+379
+00:32:32,870 --> 00:32:34,910
+<i>Montamos para o Sul,
+à pátria do Príncipe.</i>
+
+380
+00:32:39,911 --> 00:32:43,150
+<i>O Senhor da Guerra violaria
+e mataria a todos no Oásis.</i>
+
+381
+00:32:45,717 --> 00:32:49,355
+<i>Foi nesse momento quando me dí conta
+do diferente que era exatamente.</i>
+
+382
+00:32:52,458 --> 00:32:53,493
+<i>Mas primeiro...</i>
+
+383
+00:32:54,694 --> 00:32:56,363
+<i>Tinha que arranjar as coisas.</i>
+
+384
+00:32:59,431 --> 00:33:00,431
+Que estás a fazer?
+
+385
+00:33:37,604 --> 00:33:38,707
+Regressa!
+
+386
+00:33:40,642 --> 00:33:41,774
+Regressa!
+
+387
+00:33:47,481 --> 00:33:49,617
+Regressa, maldita puta!
+
+388
+00:33:50,751 --> 00:33:51,831
+Maldita seja!
+
+389
+00:34:41,337 --> 00:34:42,372
+Vamos, vamos!
+
+390
+00:34:49,946 --> 00:34:50,981
+Vamos!
+
+391
+00:35:16,639 --> 00:35:19,610
+Ali abaixo! Vê por ela!
+Vê por ela!
+
+392
+00:35:26,016 --> 00:35:27,052
+Parem-nos!
+
+393
+00:35:37,162 --> 00:35:38,397
+Por aqui!
+
+394
+00:35:52,743 --> 00:35:54,010
+Onde coño estão?
+
+395
+00:35:54,012 --> 00:35:55,046
+Joder!
+
+396
+00:35:59,484 --> 00:36:00,519
+Regressa!
+
+397
+00:36:02,988 --> 00:36:04,089
+Regressa!
+
+398
+00:36:06,958 --> 00:36:09,730
+Regressa, maldita puta robótica!
+
+399
+00:36:16,969 --> 00:36:18,538
+Regressa, joder!
+
+400
+00:37:35,918 --> 00:37:37,019
+Por que me salvaste?
+
+401
+00:37:39,021 --> 00:37:40,055
+Não o sei.
+
+402
+00:37:41,990 --> 00:37:43,492
+És o seu robô, verdade?
+
+403
+00:37:46,195 --> 00:37:47,229
+Sim.
+
+404
+00:37:48,197 --> 00:37:49,932
+Então, por que não o escutaste?
+
+405
+00:37:52,534 --> 00:37:53,769
+Talvez esteja a funcionar mau.
+
+406
+00:39:27,332 --> 00:39:28,667
+Que é este local?
+
+407
+00:39:29,935 --> 00:39:30,935
+Acho que é uma Igreja.
+
+408
+00:39:32,270 --> 00:39:34,207
+A minha mãe falou-me de locais
+como este.
+
+409
+00:39:35,775 --> 00:39:38,175
+A gente viria aqui quando
+as suas almas precisavam se limpar.
+
+410
+00:39:38,645 --> 00:39:39,646
+"Almas"?
+
+411
+00:39:42,047 --> 00:39:43,149
+Que são as almas?
+
+412
+00:39:44,884 --> 00:39:45,918
+Alma?
+
+413
+00:39:47,219 --> 00:39:50,189
+É difícil de explicar.
+É algo dentro de ti.
+
+414
+00:39:51,157 --> 00:39:52,326
+Faz-te quem és.
+
+415
+00:39:55,228 --> 00:39:56,229
+De acordo.
+
+416
+00:39:56,929 --> 00:39:57,965
+Aí estás.
+
+417
+00:40:06,439 --> 00:40:08,809
+A gente costumava vir aqui para
+tratar de falar com Deus.
+
+418
+00:40:10,176 --> 00:40:11,845
+Limpar-se dos seus pecados.
+
+419
+00:40:12,912 --> 00:40:13,947
+Que são os "pecados"?
+
+420
+00:40:15,281 --> 00:40:17,050
+Pecado? Vais a...
+
+421
+00:40:17,850 --> 00:40:19,620
+Coisas más que nos fazemos
+o um ao outro.
+
+422
+00:40:21,088 --> 00:40:22,290
+Como o que te fiz a ti.
+
+423
+00:40:25,258 --> 00:40:26,760
+Não quero o fazer mais.
+
+424
+00:40:27,961 --> 00:40:28,997
+Não quero pecar.
+
+425
+00:40:33,400 --> 00:40:34,902
+Achas que tenha uma alma?
+
+426
+00:40:36,036 --> 00:40:37,071
+Sim.
+
+427
+00:40:37,739 --> 00:40:38,874
+Sim, acho que sim.
+
+428
+00:40:39,306 --> 00:40:40,308
+Mas não sou humana.
+
+429
+00:40:48,083 --> 00:40:51,787
+Uma vez, um viajante tocou-me
+o seu guitarra no Oásis.
+
+430
+00:40:53,887 --> 00:40:55,991
+Nunca tinha ouvido nada igual. Era...
+
+431
+00:40:58,259 --> 00:41:00,362
+Foi... Foi incrível.
+
+432
+00:41:02,932 --> 00:41:05,164
+Era como de outro mundo.
+
+433
+00:41:05,166 --> 00:41:07,403
+Perguntei-lhe:
+"Como tocas esta música?"
+
+434
+00:41:08,303 --> 00:41:12,175
+E disse-me que o seu propósito na Terra
+era revelar que a guitarra tinha alma.
+
+435
+00:41:12,508 --> 00:41:14,711
+Podes ensinar-me
+a falar com Deus?
+
+436
+00:41:16,878 --> 00:41:17,913
+Sim.
+
+437
+00:41:22,785 --> 00:41:24,020
+Ponhamo-nos de joelhos.
+
+438
+00:41:31,392 --> 00:41:32,429
+E...
+
+439
+00:41:34,330 --> 00:41:35,365
+fecha os olhos.
+
+440
+00:41:40,536 --> 00:41:41,906
+A tua cabeça só...
+
+441
+00:41:44,207 --> 00:41:45,442
+Vai ajudar-nos/ajudá-nos.
+
+442
+00:41:52,315 --> 00:41:53,350
+Ash?
+
+443
+00:41:55,152 --> 00:41:56,187
+Ash!
+
+444
+00:41:58,955 --> 00:41:59,989
+Ash, estás bem?
+
+445
+00:42:02,293 --> 00:42:03,327
+Ash, levanta-te!
+
+446
+00:42:06,831 --> 00:42:07,932
+Ash.
+
+447
+00:42:09,066 --> 00:42:10,102
+Ash!
+
+448
+00:42:28,519 --> 00:42:29,755
+De acordo.
+
+449
+00:45:08,451 --> 00:45:09,486
+É real.
+
+450
+00:45:11,154 --> 00:45:12,188
+É real.
+
+451
+00:45:14,023 --> 00:45:15,058
+Ash.
+
+452
+00:45:24,400 --> 00:45:25,435
+Ash, é real.
+
+453
+00:45:27,237 --> 00:45:28,271
+Conseguimo-lo.
+
+454
+00:45:43,454 --> 00:45:45,356
+Quem és? De joelhos!
+
+455
+00:46:23,661 --> 00:46:24,696
+Boo!
+
+456
+00:46:25,397 --> 00:46:27,433
+Assustei-te?
+
+457
+00:46:28,568 --> 00:46:29,602
+Quem és?
+
+458
+00:46:30,637 --> 00:46:31,803
+Onde está Ash?
+
+459
+00:46:31,805 --> 00:46:33,271
+Queres jogar um jueguito? Sim!
+
+460
+00:46:33,273 --> 00:46:34,704
+Aos garotos gostam dos jogos,
+não?
+
+461
+00:46:34,706 --> 00:46:37,075
+Não, não o sei. Quero...
+
+462
+00:46:37,077 --> 00:46:38,277
+De modo que, estás são as regras:
+
+463
+00:46:38,711 --> 00:46:40,014
+Fazes uma pergunta,
+
+464
+00:46:40,579 --> 00:46:41,681
+e eu faço uma pergunta.
+
+465
+00:46:42,548 --> 00:46:43,717
+Soa divertido, não?
+
+466
+00:46:44,617 --> 00:46:45,686
+De modo que...
+
+467
+00:46:46,452 --> 00:46:47,487
+Quem és?
+
+468
+00:46:49,389 --> 00:46:50,389
+Sou Prince.
+
+469
+00:46:51,523 --> 00:46:53,726
+Espera um minuto. Em sério?
+És um Príncipe?
+
+470
+00:46:54,626 --> 00:46:56,029
+Quero dizer!
+
+471
+00:46:56,361 --> 00:46:57,798
+Estou em presença da realeza!
+
+472
+00:46:58,265 --> 00:47:00,100
+- Quem és tu?
+- Bom, já sabes...
+
+473
+00:47:00,433 --> 00:47:03,437
+<i>Esta é a minha casa e eu sou a Chefa,
+isso é o que sou.</i>
+
+474
+00:47:03,636 --> 00:47:05,506
+Leste é o Templo da Vida, não?
+
+475
+00:47:08,408 --> 00:47:09,842
+Amigo.
+
+476
+00:47:09,844 --> 00:47:11,312
+Praia Paraíso!
+
+477
+00:47:12,178 --> 00:47:13,498
+Deus, é tão jodidamente bonita!
+
+478
+00:47:14,681 --> 00:47:18,118
+Mas desafortunadamente para ti,
+jovenzinho, isto não é o paraíso.
+
+479
+00:47:18,786 --> 00:47:19,821
+Esta...
+
+480
+00:47:20,420 --> 00:47:21,455
+Esta!
+
+481
+00:47:22,288 --> 00:47:23,408
+É a Cidade da Droga!
+
+482
+00:47:38,405 --> 00:47:39,441
+És bonita.
+
+483
+00:47:50,885 --> 00:47:52,253
+Que temos aqui?
+
+484
+00:47:53,854 --> 00:47:55,454
+Templo da Vida, tenho que dizer,
+
+485
+00:47:55,456 --> 00:47:57,256
+que funciona, realmente funciona,
+
+486
+00:47:57,258 --> 00:47:59,460
+mas, já sabes,
+isto é melhor que a vida, homem!
+
+487
+00:47:59,462 --> 00:48:00,797
+Quero dizer, não há dor aqui.
+
+488
+00:48:01,330 --> 00:48:03,429
+Só é uma bênção!
+
+489
+00:48:03,431 --> 00:48:06,145
+Quero dizer, onde mais vais encontrar
+isso neste jodido mundo, verdade?
+
+490
+00:48:06,169 --> 00:48:09,239
+De modo que, estás a fazer todo isso
+de ser turista no páramo ou?
+
+491
+00:48:09,738 --> 00:48:11,207
+Procuras algo mais?
+
+492
+00:48:13,209 --> 00:48:14,542
+Bom, ouvi que tens curas.
+
+493
+00:48:14,544 --> 00:48:16,480
+Sim! Temos um montão de curas.
+
+494
+00:48:17,413 --> 00:48:18,448
+Muitas.
+
+495
+00:48:19,381 --> 00:48:21,317
+A minha mamãe está muito doente.
+
+496
+00:48:21,884 --> 00:48:23,417
+Tem a febre vermelha.
+
+497
+00:48:23,419 --> 00:48:24,785
+É uma terrível,
+terrível doença.
+
+498
+00:48:24,787 --> 00:48:25,888
+Sento-o por ti.
+
+499
+00:48:27,623 --> 00:48:29,590
+Mas essa cura designadamente,
+já sabes,
+
+500
+00:48:29,592 --> 00:48:31,528
+é um pouco difícil de conseguir
+nestes dias.
+
+501
+00:48:32,362 --> 00:48:33,528
+Então, não a tens.
+
+502
+00:48:35,031 --> 00:48:36,367
+Temo-la. Vamos!
+
+503
+00:48:39,469 --> 00:48:40,936
+Isto é tudo, de acordo?
+
+504
+00:48:40,938 --> 00:48:44,338
+Aqui é onde vais conseguir
+a tua medicina, Prince.
+
+505
+00:48:44,340 --> 00:48:45,375
+Aqui dentro?
+
+506
+00:48:45,842 --> 00:48:47,512
+Bom, olha, sei que é um pouco...
+
+507
+00:48:48,579 --> 00:48:49,778
+não há muito que ver,
+de acordo?
+
+508
+00:48:49,780 --> 00:48:51,849
+Mas temos todo o que precisas.
+
+509
+00:48:53,483 --> 00:48:54,519
+Primeiro.
+
+510
+00:48:57,622 --> 00:48:59,821
+Tens que te converter
+em um de nós!
+
+511
+00:48:59,823 --> 00:49:00,823
+Que?
+
+512
+00:49:01,392 --> 00:49:02,426
+Ouve.
+
+513
+00:49:02,627 --> 00:49:04,326
+Queres a medicina para a tua mãe?
+
+514
+00:49:04,328 --> 00:49:05,828
+Assim é como a vais conseguir.
+
+515
+00:49:05,830 --> 00:49:07,495
+- Por que?
+- Cedo...
+
+516
+00:49:07,497 --> 00:49:09,232
+- Espera, espera! Espera, espera!
+- Os teus problemas...
+
+517
+00:49:09,234 --> 00:49:10,633
+serão coisa do passado!
+
+518
+00:49:10,635 --> 00:49:12,567
+De acordo,
+espera um segundo porque...
+
+519
+00:49:12,569 --> 00:49:13,569
+Entras-lhe?
+
+520
+00:49:14,439 --> 00:49:15,473
+Bem-vindo ao meu mundo.
+
+521
+00:49:26,819 --> 00:49:28,855
+Sente que a medicina
+flui através de ti.
+
+522
+00:49:29,922 --> 00:49:31,958
+Deixa que se apodere de ti, sim.
+
+523
+00:49:32,858 --> 00:49:34,661
+Sim, verdade? É tão bonito.
+
+524
+00:49:36,795 --> 00:49:37,963
+É genial, verdade?
+
+525
+00:50:01,321 --> 00:50:03,324
+Averiguemos que te passa.
+
+526
+00:50:08,662 --> 00:50:10,794
+Estás sangrando como um macaco.
+
+527
+00:50:10,796 --> 00:50:12,565
+Sim.
+
+528
+00:50:12,932 --> 00:50:14,767
+Merda, merda.
+
+529
+00:50:20,939 --> 00:50:21,975
+De acordo.
+
+530
+00:50:26,514 --> 00:50:28,346
+Sim.
+
+531
+00:50:36,991 --> 00:50:38,426
+Sentes isso?
+
+532
+00:50:38,958 --> 00:50:39,994
+Se?
+
+533
+00:50:40,560 --> 00:50:41,793
+Sim, sente-lo.
+
+534
+00:50:41,795 --> 00:50:43,235
+Vou revisar aqui mesmo.
+
+535
+00:50:52,905 --> 00:50:53,940
+Vamos, neno.
+
+536
+00:50:54,774 --> 00:50:56,443
+- Sim.
+- Sente o prazer.
+
+537
+00:50:57,410 --> 00:50:59,343
+Sim, o magnifica tudo,
+
+538
+00:50:59,345 --> 00:51:01,345
+essa coisa que arde através
+da tua torrente sanguíneo,
+
+539
+00:51:01,347 --> 00:51:03,283
+e tudo se magnifica!
+
+540
+00:51:04,417 --> 00:51:07,488
+Alegria, amor, lujuria.
+
+541
+00:51:08,455 --> 00:51:09,490
+Ciúmes!
+
+542
+00:51:10,423 --> 00:51:11,488
+Maldito ódio!
+
+543
+00:51:14,559 --> 00:51:15,962
+Ódio no páramo!
+
+544
+00:51:33,977 --> 00:51:35,546
+Agora é o momento da verdade.
+
+545
+00:51:37,615 --> 00:51:38,616
+Olá?
+
+546
+00:51:39,116 --> 00:51:40,419
+Registaste-te?
+
+547
+00:51:41,718 --> 00:51:42,753
+Onde estou?
+
+548
+00:51:43,388 --> 00:51:45,790
+Não te preocupes.
+Estás em um local seguro.
+
+549
+00:51:51,796 --> 00:51:53,461
+Sim...
+
+550
+00:51:53,463 --> 00:51:55,764
+Sento-o,
+isso é difícil de arranjar,
+
+551
+00:51:55,766 --> 00:51:57,126
+e estavas sangrando como um porco.
+
+552
+00:51:58,402 --> 00:51:59,436
+Tu me salvaste.
+
+553
+00:52:03,173 --> 00:52:04,875
+Bom, sim, mais ou menos.
+
+554
+00:52:07,878 --> 00:52:08,913
+Obrigado.
+
+555
+00:52:15,683 --> 00:52:16,720
+És uma prisioneira?
+
+556
+00:52:21,122 --> 00:52:22,689
+Eu não chamar-me-ia assim.
+
+557
+00:52:22,691 --> 00:52:24,861
+Então,
+podes ir-te quando queiras?
+
+558
+00:52:26,562 --> 00:52:27,931
+Não entendê-lo-ias.
+
+559
+00:52:29,665 --> 00:52:31,835
+Mas se pudesse eleger,
+ficaria onde estou.
+
+560
+00:52:34,802 --> 00:52:36,838
+O páramo está cheio
+de gente horrível.
+
+561
+00:52:38,072 --> 00:52:39,441
+Sim que o entendo.
+
+562
+00:52:47,949 --> 00:52:49,117
+Assim é como me fizeram isto.
+
+563
+00:53:00,594 --> 00:53:01,696
+Que é o que pensas?
+
+564
+00:53:06,799 --> 00:53:08,169
+Isto é todo o que sempre quis.
+
+565
+00:53:10,002 --> 00:53:11,037
+Isto...
+
+566
+00:53:11,737 --> 00:53:13,540
+mais que nada em Oásis.
+
+567
+00:53:14,741 --> 00:53:16,776
+Oásis? Que é isso, carinho?
+
+568
+00:53:18,510 --> 00:53:19,545
+Oásis?
+
+569
+00:53:23,048 --> 00:53:24,083
+É vida.
+
+570
+00:53:29,921 --> 00:53:31,690
+A minha mãe não queria que me fosse.
+
+571
+00:53:33,959 --> 00:53:35,461
+Ela pensou que era perfeito.
+
+572
+00:53:38,897 --> 00:53:42,034
+Não é um desastre completo e
+total como o resto do mundo.
+
+573
+00:53:43,534 --> 00:53:44,636
+É uma bênção.
+
+574
+00:53:44,835 --> 00:53:46,906
+Sim, soa quase perfeito.
+
+575
+00:53:47,172 --> 00:53:48,206
+Vês isso?
+
+576
+00:53:49,107 --> 00:53:50,208
+O água aqui está morrida.
+
+577
+00:53:51,476 --> 00:53:55,181
+Não temos nada, não temos nada,
+nada, nada dentro de nós.
+
+578
+00:53:56,513 --> 00:53:58,513
+Sabes, encantar-me-ia ver uma árvore,
+
+579
+00:53:58,515 --> 00:53:59,981
+ver uma flor na minha vida.
+
+580
+00:53:59,983 --> 00:54:02,149
+Quero dizer, é triste, não?
+Não é tão jodidamente triste?
+
+581
+00:54:02,151 --> 00:54:04,155
+Por que tens que me pôr
+tão jodidamente triste?
+
+582
+00:54:04,888 --> 00:54:05,923
+Tomada.
+
+583
+00:54:07,725 --> 00:54:08,760
+Prova isto.
+
+584
+00:54:11,896 --> 00:54:14,666
+Só o faz...
+
+585
+00:54:21,637 --> 00:54:24,007
+Então,
+a tua colega de viagem, Ash?
+
+586
+00:54:25,007 --> 00:54:26,641
+É a mulher perfeita, verdade?
+
+587
+00:54:26,643 --> 00:54:28,009
+Incorruptible no tempo.
+
+588
+00:54:28,011 --> 00:54:30,581
+Não de carne e osso,
+senão de algo puro.
+
+589
+00:54:31,179 --> 00:54:32,748
+Sim, Deus, encanta-me isso.
+
+590
+00:54:33,916 --> 00:54:35,685
+Pureza, pureza, é só...
+
+591
+00:54:36,985 --> 00:54:38,145
+É o que tenho estado procurando.
+
+592
+00:54:48,863 --> 00:54:50,031
+Doces sonhos.
+
+593
+00:55:19,692 --> 00:55:20,727
+<i>Filho meu...</i>
+
+594
+00:55:21,294 --> 00:55:22,294
+<i>O meu Príncipe...</i>
+
+595
+00:55:24,763 --> 00:55:25,798
+<i>Vêem a casa.</i>
+
+596
+00:56:05,268 --> 00:56:06,305
+Merda!
+
+597
+00:56:07,237 --> 00:56:08,573
+Levanta-te! Levanta-te!
+
+598
+00:56:58,319 --> 00:57:00,389
+És um bebé muito doce, não?
+
+599
+00:57:02,823 --> 00:57:05,126
+O meu doce, pequena bebé.
+
+600
+00:57:07,028 --> 00:57:08,093
+Que?
+
+601
+00:57:08,095 --> 00:57:09,764
+Não, não, não.
+
+602
+00:57:10,432 --> 00:57:12,734
+Não estejas triste. Não estejas triste.
+
+603
+00:57:13,300 --> 00:57:14,902
+Porque vou querer-te...
+
+604
+00:57:16,303 --> 00:57:18,072
+e eu vou sacar o melhor de ti.
+
+605
+00:57:19,106 --> 00:57:20,807
+E depois... E...
+
+606
+00:57:20,809 --> 00:57:22,206
+E vais sacar o
+melhor de mim também.
+
+607
+00:57:22,208 --> 00:57:23,208
+Verdade?
+
+608
+00:57:29,750 --> 00:57:30,851
+Obrigado.
+
+609
+00:57:32,219 --> 00:57:33,354
+Obrigado.
+
+610
+00:59:15,951 --> 00:59:17,253
+O jogo é simples, Prince.
+
+611
+00:59:17,919 --> 00:59:18,954
+O que queres...
+
+612
+00:59:21,489 --> 00:59:23,290
+está na barriga
+desse Sasquatch.
+
+613
+00:59:24,825 --> 00:59:26,227
+Agora vamos fazer um trato.
+
+614
+00:59:26,860 --> 00:59:29,430
+Vai ser divertido,
+como uma briga a morte.
+
+615
+00:59:30,264 --> 00:59:31,089
+De acordo?
+
+616
+00:59:31,165 --> 00:59:33,934
+Se vontades, recebes as curas.
+Se perdes, morres.
+
+617
+00:59:34,501 --> 00:59:35,536
+Diversão!
+
+618
+00:59:42,943 --> 00:59:44,179
+Aqui está o curinga.
+
+619
+01:00:43,333 --> 01:00:44,869
+Agora o curinga.
+
+620
+01:01:41,356 --> 01:01:42,390
+Não posso o achar.
+
+621
+01:01:43,223 --> 01:01:44,593
+Não sabia que o tinhas dentro.
+
+622
+01:01:45,125 --> 01:01:47,094
+O que queres está no
+estômago desse homem.
+
+623
+01:02:39,478 --> 01:02:40,646
+Tens-ta ganhado, garoto.
+
+624
+01:02:54,658 --> 01:02:55,694
+Ash.
+
+625
+01:02:56,326 --> 01:02:57,462
+Vamo-nos de aqui.
+
+626
+01:03:03,067 --> 01:03:04,536
+Pediste uma cura...
+
+627
+01:03:06,569 --> 01:03:07,569
+não um robô.
+
+628
+01:03:08,772 --> 01:03:09,823
+Não.
+
+629
+01:03:10,558 --> 01:03:13,785
+- Não irei a nenhuma parte sem ela.
+- Te dí a tua medicina.
+
+630
+01:03:13,809 --> 01:03:15,510
+Salve a vida da tua amiga.
+
+631
+01:03:15,512 --> 01:03:17,715
+Ela fica... Comigo.
+
+632
+01:03:18,347 --> 01:03:20,316
+Não, jódete e que se joda isto.
+
+633
+01:03:20,582 --> 01:03:22,417
+Vamo-nos.
+
+634
+01:03:22,419 --> 01:03:24,739
+Olha, podes ir-te agora,
+ou poderíamos o terminar aqui mesmo.
+
+635
+01:03:28,358 --> 01:03:29,492
+Não ir-me-ei sem ela.
+
+636
+01:03:30,826 --> 01:03:32,061
+Vai-te.
+
+637
+01:03:32,728 --> 01:03:33,763
+O tempo acaba-se.
+
+638
+01:03:38,500 --> 01:03:39,534
+Ash...
+
+639
+01:03:40,601 --> 01:03:41,636
+Vai-te.
+
+640
+01:03:55,383 --> 01:03:56,417
+Rompem-me o meu coração.
+
+641
+01:05:51,360 --> 01:05:52,680
+Disse-te que eu elejo o que faço.
+
+642
+01:05:52,893 --> 01:05:54,129
+Vou sacar-te de aqui.
+
+643
+01:06:06,875 --> 01:06:08,841
+Merda! E se vêm?
+
+644
+01:06:08,843 --> 01:06:10,275
+- Está bem.
+- Merda.
+
+645
+01:06:10,277 --> 01:06:11,346
+Lei, está bem.
+
+646
+01:06:12,913 --> 01:06:15,553
+Como podes estar tão tranquila
+quando todo se foi à merda?
+
+647
+01:06:18,952 --> 01:06:20,188
+Detente.
+
+648
+01:06:25,226 --> 01:06:26,260
+É o que é.
+
+649
+01:06:28,561 --> 01:06:29,630
+É o que é?
+
+650
+01:06:32,765 --> 01:06:34,400
+Oxalá pudesse ser como tu.
+
+651
+01:06:35,335 --> 01:06:36,436
+Oxalá pudesse...
+
+652
+01:06:36,835 --> 01:06:38,915
+não sentir os meus sentimentos
+e preocupações tanto.
+
+653
+01:06:52,351 --> 01:06:54,750
+Deverias apreciar os teus sentimentos,
+sejam bons ou maus.
+
+654
+01:06:59,323 --> 01:07:00,358
+Podes sentir isto?
+
+655
+01:07:09,501 --> 01:07:10,535
+E isto?
+
+656
+01:07:16,773 --> 01:07:17,808
+Sim.
+
+657
+01:07:21,779 --> 01:07:23,344
+Sento-o,
+não deveria estar a fazer isto.
+
+658
+01:07:23,346 --> 01:07:24,682
+Não deveria me aproveitar de ti.
+
+659
+01:07:30,688 --> 01:07:31,723
+Lei...
+
+660
+01:07:35,425 --> 01:07:36,526
+Gosto deste sentimento.
+
+661
+01:08:25,105 --> 01:08:26,575
+<i>Foi neste momento...</i>
+
+662
+01:08:29,376 --> 01:08:30,678
+<i>que fiz uma conexão.</i>
+
+663
+01:08:32,913 --> 01:08:33,948
+<i>Sento algo.</i>
+
+664
+01:08:35,883 --> 01:08:37,317
+<i>Algo puro.</i>
+
+665
+01:08:40,754 --> 01:08:42,423
+Nunca tive esta
+sensação antes.
+
+666
+01:08:44,691 --> 01:08:46,559
+É tão diferente a todas as demais.
+
+667
+01:08:48,661 --> 01:08:49,761
+Sento-o.
+
+668
+01:08:49,763 --> 01:08:50,798
+Não o sintas.
+
+669
+01:08:53,400 --> 01:08:54,434
+Queria fazê-lo.
+
+670
+01:08:57,369 --> 01:08:58,889
+Podia sentir os
+latidos do teu coração.
+
+671
+01:08:59,972 --> 01:09:01,007
+A tua energia.
+
+672
+01:09:04,075 --> 01:09:05,844
+E já nem sequer sê que é isso.
+
+673
+01:09:10,548 --> 01:09:12,951
+Separaram-me da minha família
+quando era uma criança.
+
+674
+01:09:14,018 --> 01:09:15,722
+Um grupo de Ginetes levou-me.
+
+675
+01:09:17,588 --> 01:09:18,756
+Eu era tão pequena.
+
+676
+01:09:20,859 --> 01:09:23,696
+E aprendi o horrível
+que pode ser a gente.
+
+677
+01:09:30,635 --> 01:09:31,804
+Depois fiz-me maior.
+
+678
+01:09:33,404 --> 01:09:35,506
+Já não me precisavam, de modo que...
+
+679
+01:09:36,740 --> 01:09:38,842
+só me venderam.
+
+680
+01:09:39,777 --> 01:09:41,346
+Assim é como terminei aqui.
+
+681
+01:09:41,778 --> 01:09:43,547
+Estou muito contente de que
+me tenhas arranjado.
+
+682
+01:09:49,153 --> 01:09:50,419
+Eu também.
+
+683
+01:09:54,157 --> 01:09:57,594
+Supunha-se que era
+a mulher perfeita.
+
+684
+01:10:00,563 --> 01:10:01,732
+É pura, verdade?
+
+685
+01:10:04,700 --> 01:10:06,036
+Tão jodidamente pura.
+
+686
+01:10:09,505 --> 01:10:10,738
+Te dí...
+
+687
+01:10:10,740 --> 01:10:12,440
+To dí tudo, no entanto.
+
+688
+01:10:12,442 --> 01:10:14,378
+Eu te criei, te dí respeito.
+
+689
+01:10:15,445 --> 01:10:16,476
+Não o entendes.
+
+690
+01:10:17,180 --> 01:10:20,916
+Tiraste-me a única coisa
+que se supunha que era minha.
+
+691
+01:10:22,851 --> 01:10:23,886
+Corrompeste-a, joder!
+
+692
+01:10:26,588 --> 01:10:27,690
+És um...
+
+693
+01:10:28,757 --> 01:10:30,893
+És... És um vírus.
+
+694
+01:10:32,561 --> 01:10:33,596
+És um...
+
+695
+01:10:34,562 --> 01:10:37,896
+asqueroso, furtivo,
+pequeno vírus.
+
+696
+01:10:37,898 --> 01:10:38,832
+Não digas isso!
+
+697
+01:10:38,834 --> 01:10:43,538
+Fecha a tua maldita boca.
+
+698
+01:10:46,140 --> 01:10:48,142
+Sabes que?
+Tudo vai sair bem.
+
+699
+01:10:48,575 --> 01:10:50,645
+Não, não, não, sim.
+Vamos arranjar isto.
+
+700
+01:10:51,945 --> 01:10:52,946
+De modo que...
+
+701
+01:10:53,847 --> 01:10:55,015
+O que vamos fazer é...
+
+702
+01:10:55,682 --> 01:10:57,051
+Vais limpar o seu disco duro.
+
+703
+01:10:57,784 --> 01:10:58,952
+Vais limpá-lo.
+
+704
+01:10:59,486 --> 01:11:00,750
+Boom. Facto.
+
+705
+01:11:00,752 --> 01:11:02,622
+Fresco maldito começo, verdadeiro?
+Se.
+
+706
+01:11:03,222 --> 01:11:06,527
+Quando se acorde,
+não lembrar-te-á...
+
+707
+01:11:10,529 --> 01:11:14,692
+ou a nada desta merda.
+
+708
+01:11:16,502 --> 01:11:17,703
+Quando se acorde...
+
+709
+01:11:19,171 --> 01:11:20,740
+ela me vai ver a mim.
+
+710
+01:11:30,816 --> 01:11:31,850
+Ela vai a...
+
+711
+01:11:33,852 --> 01:11:34,886
+Ela me vai adorar.
+
+712
+01:12:29,104 --> 01:12:30,938
+Estão justo aí! Atrapem-nos!
+
+713
+01:12:30,940 --> 01:12:32,305
+Depressa! Por aqui!
+
+714
+01:12:32,307 --> 01:12:34,577
+Apressem-se, joder! Estão justo aí!
+
+715
+01:12:35,978 --> 01:12:37,012
+Atrapem-nos!
+
+716
+01:12:58,065 --> 01:12:59,100
+Que carajos...?
+
+717
+01:13:38,937 --> 01:13:39,972
+Não!
+
+718
+01:14:02,026 --> 01:14:04,661
+<i>O meu maldito palácio.
+Sou o maldito Chefe.</i>
+
+719
+01:14:07,430 --> 01:14:09,000
+Lárguense à merda!
+
+720
+01:14:25,081 --> 01:14:26,280
+Se!
+
+721
+01:14:26,282 --> 01:14:27,414
+Vai à merda!
+
+722
+01:14:35,425 --> 01:14:37,728
+Nada de dor, filho de puta!
+
+723
+01:15:23,337 --> 01:15:25,674
+Gostas disto? Gostas disto?
+
+724
+01:15:35,347 --> 01:15:37,077
+Maldita puta.
+
+725
+01:15:49,862 --> 01:15:50,897
+Olá.
+
+726
+01:15:51,462 --> 01:15:52,698
+Detente.
+
+727
+01:15:54,366 --> 01:15:55,401
+Levem-lhos.
+
+728
+01:16:02,507 --> 01:16:05,243
+Tentaram levar à minha noiva.
+
+729
+01:16:06,778 --> 01:16:07,945
+Ela é minha!
+
+730
+01:16:10,514 --> 01:16:12,416
+Tentaram fazer-se amigos com ela.
+
+731
+01:16:13,785 --> 01:16:15,153
+Afastá-la de mim!
+
+732
+01:16:16,487 --> 01:16:17,723
+Ela é minha!
+
+733
+01:16:19,557 --> 01:16:20,989
+Ponham-nos aí abaixo.
+
+734
+01:16:20,991 --> 01:16:22,393
+Vamos, Ash. Ash.
+
+735
+01:16:30,033 --> 01:16:31,134
+Corta-lhes a cabeça.
+
+736
+01:16:35,838 --> 01:16:37,006
+Essa não és tu, Ash.
+
+737
+01:16:49,118 --> 01:16:50,253
+Não o escutes, Ash.
+
+738
+01:16:51,820 --> 01:16:52,855
+Não és tu.
+
+739
+01:16:53,855 --> 01:16:54,957
+Não és tu.
+
+740
+01:16:55,591 --> 01:16:56,926
+Não és tu.
+
+741
+01:16:58,493 --> 01:16:59,528
+Mata-os.
+
+742
+01:17:00,162 --> 01:17:01,498
+- Mata-os agora.
+- Não.
+
+743
+01:17:10,438 --> 01:17:12,341
+Pára, puta demoníaca!
+
+744
+01:17:30,456 --> 01:17:33,294
+Matem-nos!
+
+745
+01:17:45,272 --> 01:17:46,908
+Não!
+
+746
+01:18:27,177 --> 01:18:28,243
+- Detente!
+- Que?
+
+747
+01:18:28,245 --> 01:18:29,345
+- Pára a moto!
+- Por que?
+
+748
+01:18:29,347 --> 01:18:30,646
+- Detente!
+- Por que?
+
+749
+01:18:30,648 --> 01:18:32,608
+- Ash, que estás a fazer?
+- Detente! Baixa-te!
+
+750
+01:18:37,488 --> 01:18:38,489
+Que estás a fazer?
+
+751
+01:18:39,590 --> 01:18:40,590
+Ash!
+
+752
+01:20:05,672 --> 01:20:07,007
+<i>O Senhor da Guerra morreu.</i>
+
+753
+01:20:10,275 --> 01:20:11,678
+<i>Mas outro substitui-lo-á.</i>
+
+754
+01:20:19,050 --> 01:20:20,485
+<i>Este mundo não tem memória.</i>
+
+755
+01:20:42,305 --> 01:20:43,674
+Todos, o Príncipe voltou!
+
+756
+01:20:45,042 --> 01:20:46,344
+Tenho que ir fazer algo.
+
+757
+01:20:47,512 --> 01:20:48,546
+Que?
+
+758
+01:20:49,147 --> 01:20:50,182
+Aonde vais ir?
+
+759
+01:20:54,683 --> 01:20:56,119
+Deste-me uma alma.
+
+760
+01:21:37,725 --> 01:21:38,761
+Mamãe.
+
+761
+01:21:40,360 --> 01:21:41,396
+Mamãe!
+
+762
+01:21:43,430 --> 01:21:44,599
+Tenho a medicina.
+
+763
+01:22:23,669 --> 01:22:24,704
+Filho meu...
+
+764
+01:22:47,859 --> 01:22:49,628
+<i>Seguimos adiante...</i>
+
+765
+01:22:52,297 --> 01:22:53,799
+<i>procurando a outros como eu.</i>
+
+766
+01:22:55,700 --> 01:22:58,736
+<i>Temos que os encontrar e
+lhes mostrar o que aprendemos.</i>
+
+767
+01:23:00,604 --> 01:23:03,740
+<i>Que para além de todo intelecto e
+conhecimento existe algo maior,</i>
+
+768
+01:23:05,775 --> 01:23:08,245
+<i>algo mais poderoso que
+qualquer pessoa,</i>
+
+769
+01:23:09,913 --> 01:23:11,148
+<i>que qualquer arma.</i>
+
+770
+01:23:14,685 --> 01:23:15,982
+<i>A esperança.</i>
+
+771
+01:24:11,272 --> 01:24:13,775
+Amigo, por que demoras
+tanto com a minha comida?
+
+772
+01:24:14,508 --> 01:24:16,811
+Pode um chulo comer algo
+cerca deste filho de puta?
+
+773
+01:24:17,611 --> 01:24:19,376
+Merda, se tenho que esperar mais,
+
+774
+01:24:19,378 --> 01:24:21,938
+juro que vou pôr o meu pé no
+cu de uma de vocês, putas.
+
+775
+01:24:22,748 --> 01:24:23,783
+Joder!
+
+776
+01:24:25,604 --> 01:24:27,486
+Maldita puta!
+
+777
+01:24:29,489 --> 01:24:30,755
+São livres agora!
+
+778
+01:24:30,757 --> 01:24:32,293
+Que carajos estás a fazer?
+
+779
+01:24:36,396 --> 01:24:38,199
+Merda! Rosie!
+
+780
+01:24:39,530 --> 01:24:40,530
+Rosie!
+
+781
+01:24:42,033 --> 01:24:44,970
+Joder! Auxílio!
+Que alguém me ajude!
+
+782
+01:24:45,470 --> 01:24:46,749
+Joder!
+
+783
+01:24:46,750 --> 01:24:48,717
+<i>AMOR</i>
+
+										
+ 
+ 
+ 
+
+
+
+
+ 
+  
+   
+
+
+  
+
+     							

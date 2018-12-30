@@ -1,0 +1,631 @@
+﻿1
+00:00:38,672 --> 00:00:43,099
+<b>DIA 89</b>
+
+2
+00:01:03,505 --> 00:01:06,738
+<b>DESAPARECIDOS
+CONTACTAR A POLÍCIA</b>
+
+3
+00:02:04,618 --> 00:02:07,162
+<b>FARMÁCIA</b>
+
+4
+00:03:14,772 --> 00:03:16,269
+<i><b>Ele está bem.</b></i>
+
+5
+00:03:50,038 --> 00:03:51,917
+<i><b>Foguetão.</b></i>
+
+6
+00:03:53,065 --> 00:03:55,377
+<i><b>Muito bem feito!</b></i>
+
+7
+00:03:57,094 --> 00:04:01,197
+<i><b>É assim
+que vamos fugir deste planeta.</b></i>
+
+8
+00:05:11,014 --> 00:05:14,205
+<i><b>Vai para a tua mãe.</b></i>
+
+9
+00:05:24,287 --> 00:05:26,742
+<i><b>É para o rádio?</b></i>
+
+10
+00:05:28,041 --> 00:05:30,020
+<i><b>Talvez nos ajude
+a amplificar o sinal.</b></i>
+
+11
+00:05:41,026 --> 00:05:42,327
+<i><b>Para ti.</b></i>
+
+12
+00:05:42,547 --> 00:05:43,914
+<i><b>Obrigado.</b></i>
+
+13
+00:05:46,358 --> 00:05:49,291
+<i><b>Vai escurecer em breve.</b></i>
+
+14
+00:06:30,082 --> 00:06:31,599
+<i><b>Ouve-me.</b></i>
+
+15
+00:06:33,437 --> 00:06:35,865
+<i><b>É muito barulhento.</b></i>
+
+16
+00:06:59,523 --> 00:07:02,734
+<i><b>NEW YORK POST:
+É O SOM!</b></i>
+
+17
+00:10:11,794 --> 00:10:14,863
+<b>UM LUGAR SILENCIOSO</b>
+
+18
+00:10:18,165 --> 00:10:21,909
+<b>DIA 472</b>
+
+19
+00:11:42,778 --> 00:11:44,094
+<b>CONSEGUEM OUVI-LO</b>
+
+20
+00:11:44,095 --> 00:11:46,093
+<b>O QUE PRECISA DE SABER
+PARA SOBREVIVER</b>
+
+21
+00:12:08,977 --> 00:12:10,277
+<b>COLOCADO EM TERRA</b>
+
+22
+00:12:10,278 --> 00:12:11,578
+<u>CRIATURAS</u>
+
+23
+00:12:11,579 --> 00:12:13,531
+<b>CEGAS - ATACAM PELO SOM
+TÊM ARMADURA</b>
+
+24
+00:12:13,532 --> 00:12:15,511
+<b>QUANTAS ESTÃO NA ZONA?
+CONFIRMADAS: 3</b>
+
+25
+00:12:34,740 --> 00:12:37,113
+<b>S.O.S.</b>
+
+26
+00:12:37,489 --> 00:12:39,827
+<b>S.O.S.</b>
+
+27
+00:17:37,848 --> 00:17:39,378
+<i><b>Jantar.</b></i>
+
+28
+00:17:40,665 --> 00:17:41,983
+<i><b>Obrigado.</b></i>
+
+29
+00:22:03,163 --> 00:22:04,886
+<b>O OUVIDO HUMANO</b>
+
+30
+00:23:19,900 --> 00:23:21,369
+<i><b>Linda.</b></i>
+
+31
+00:23:25,818 --> 00:23:27,368
+<i><b>Eu não disse nada...</b></i>
+
+32
+00:25:09,372 --> 00:25:13,237
+<b>DIA 473</b>
+
+33
+00:26:04,099 --> 00:26:06,199
+<b>DATA DE NASCIMENTO</b>
+
+34
+00:27:50,512 --> 00:27:53,420
+<i><b>- Não podes ir lá abaixo!
+- Porquê?</b></i>
+
+35
+00:27:54,135 --> 00:27:58,069
+<i><b>- Sabes porquê.
+- Não faço barulho nenhum!</b></i>
+
+36
+00:27:58,735 --> 00:28:01,706
+<i><b>Não vás lá.</b></i>
+
+37
+00:28:01,707 --> 00:28:03,151
+<i><b>Por favor...</b></i>
+
+38
+00:28:12,691 --> 00:28:16,982
+<i><b>Desta vez, usei os pequenos
+amplificadores estéreo.</b></i>
+
+39
+00:28:17,246 --> 00:28:19,818
+<i><b>Não vai funcionar.</b></i>
+
+40
+00:28:20,565 --> 00:28:23,260
+<i><b>Não, isto deve amplificar
+a frequência para...</b></i>
+
+41
+00:28:23,261 --> 00:28:26,145
+<i><b>Nunca... funcionou!</b></i>
+
+42
+00:28:26,146 --> 00:28:27,473
+<i><b>Mas...</b></i>
+
+43
+00:28:28,061 --> 00:28:32,948
+<i><b>Continuamos a tentar
+até que funcione.</b></i>
+
+44
+00:28:46,563 --> 00:28:50,178
+<i><b>Chega! Chega!</b></i>
+
+45
+00:28:50,578 --> 00:28:52,144
+<i><b>Já...</b></i>
+
+46
+00:28:52,145 --> 00:28:54,506
+<i><b>...chega!</b></i>
+
+47
+00:29:16,847 --> 00:29:20,036
+<i><b>Lembra-te,
+tens de dividir.</b></i>
+
+48
+00:29:28,964 --> 00:29:32,629
+<i><b>Nós temos três.</b></i>
+
+49
+00:29:39,987 --> 00:29:41,727
+<i><b>Incrível!</b></i>
+
+50
+00:29:50,897 --> 00:29:52,819
+<i><b>Está na altura de ir.</b></i>
+
+51
+00:30:00,685 --> 00:30:03,029
+<i><b>Não me obrigue a ir.</b></i>
+
+52
+00:30:03,030 --> 00:30:04,866
+<i><b>Estarás bem.</b></i>
+
+53
+00:30:04,867 --> 00:30:09,133
+<i><b>O teu pai vai proteger-te.
+Sempre.</b></i>
+
+54
+00:30:18,131 --> 00:30:19,450
+<i><b>Ouve-me.</b></i>
+
+55
+00:30:19,451 --> 00:30:23,573
+<i><b>É importante que aprendas
+estas coisas.</b></i>
+
+56
+00:30:26,370 --> 00:30:30,090
+<i><b>Ele só quer que sejas capaz
+de tomares conta de ti...</b></i>
+
+57
+00:30:32,732 --> 00:30:35,199
+<i><b>...e também de mim...</b></i>
+
+58
+00:30:37,046 --> 00:30:41,476
+<i><b>...quando ficar velha...
+e grisalha...</b></i>
+
+59
+00:30:44,110 --> 00:30:46,448
+<i><b>...e já não tiver dentes.</b></i>
+
+60
+00:30:54,443 --> 00:30:56,068
+<i><b>Não te preocupes.</b></i>
+
+61
+00:31:10,675 --> 00:31:14,064
+<i><b>- Não quero ir.
+- Não há nada a temer.</b></i>
+
+62
+00:31:14,065 --> 00:31:15,822
+<i><b>Claro que há!</b></i>
+
+63
+00:31:17,842 --> 00:31:19,151
+<i><b>Eu vou!</b></i>
+
+64
+00:31:21,750 --> 00:31:26,272
+<i><b>Preciso que fiques
+e ajudes a tua mãe.</b></i>
+
+65
+00:31:39,424 --> 00:31:40,907
+<i><b>Eu quero ir!</b></i>
+
+66
+00:31:41,268 --> 00:31:43,363
+<i><b>Ficas aqui.</b></i>
+
+67
+00:31:43,364 --> 00:31:45,360
+<i><b>Estarás segura aqui.</b></i>
+
+68
+00:31:59,871 --> 00:32:01,268
+<i><b>Ela vai da próxima vez.</b></i>
+
+69
+00:35:28,679 --> 00:35:31,861
+<i><b>Eles vão ouvi-lo!</b></i>
+
+70
+00:35:33,997 --> 00:35:36,567
+<i><b>Olha para mim.</b></i>
+
+71
+00:35:40,969 --> 00:35:42,646
+<i><b>Ouve.</b></i>
+
+72
+00:35:44,710 --> 00:35:46,407
+<i><b>O rio... é barulhento.</b></i>
+
+73
+00:35:49,350 --> 00:35:51,791
+<i><b>Os ruídos suaves...
+são seguros.</b></i>
+
+74
+00:35:53,625 --> 00:35:56,749
+<i><b>Os barulhos altos...
+Não são.</b></i>
+
+75
+00:35:57,919 --> 00:35:59,761
+<i><b>A menos que...</b></i>
+
+76
+00:36:04,656 --> 00:36:08,439
+<i><b>Haja outro barulho por perto...
+Mais forte...</b></i>
+
+77
+00:36:11,185 --> 00:36:12,926
+<i><b>Estás seguro.</b></i>
+
+78
+00:36:19,293 --> 00:36:21,821
+<i><b>Vou ensinar-te uma coisa.</b></i>
+
+79
+00:38:01,656 --> 00:38:03,054
+Está tudo bem.
+
+80
+00:38:04,960 --> 00:38:06,280
+Está tudo bem.
+
+81
+00:38:10,014 --> 00:38:11,340
+Eu prometo.
+
+82
+00:39:31,687 --> 00:39:33,596
+Porque não a deixou vir?
+
+83
+00:39:43,664 --> 00:39:47,143
+Está a culpá-la?
+Por aquilo que aconteceu?
+
+84
+00:40:00,344 --> 00:40:01,645
+Não...
+
+85
+00:40:05,806 --> 00:40:08,064
+Porque ela culpa-se.
+
+86
+00:40:39,428 --> 00:40:41,279
+A culpa não é de ninguém.
+
+87
+00:41:00,139 --> 00:41:02,061
+Ainda a ama, não é?
+
+88
+00:41:04,136 --> 00:41:05,881
+Claro que amo.
+
+89
+00:41:20,749 --> 00:41:22,390
+Devia contar-lhe.
+
+90
+00:49:41,717 --> 00:49:43,174
+<i><b>O fogo-de-artifício.</b></i>
+
+91
+00:49:44,844 --> 00:49:46,902
+<i><b>A tua mãe precisa da tua ajuda.</b></i>
+
+92
+00:49:46,903 --> 00:49:49,386
+<i><b>Quero que faças barulho,
+bem alto.</b></i>
+
+93
+00:49:51,270 --> 00:49:54,782
+<i><b>A tua mãe precisa da tua ajuda.</b></i>
+
+94
+00:49:56,012 --> 00:49:58,387
+<i><b>Tu consegues.</b></i>
+
+95
+00:57:27,438 --> 00:57:29,580
+Está tudo bem.
+Está tudo bem.
+
+96
+00:57:30,776 --> 00:57:32,105
+Estás segura.
+
+97
+00:57:32,795 --> 00:57:34,470
+Não nos conseguem ouvir.
+
+98
+00:57:37,419 --> 00:57:38,907
+Funcionou?
+
+99
+00:57:41,171 --> 00:57:43,237
+Agora só precisas
+de descansar.
+
+100
+00:57:53,109 --> 00:57:54,677
+Onde é que eles estão?
+
+101
+00:57:56,762 --> 00:57:58,169
+Onde é que eles estão?
+
+102
+00:57:59,549 --> 00:58:01,276
+Vou procurá-los.
+
+103
+00:58:05,336 --> 00:58:06,655
+Ela estava comigo...
+
+104
+00:58:06,656 --> 00:58:08,179
+Ela estava comigo
+
+105
+00:58:08,180 --> 00:58:10,729
+e depois tive de descer
+para lavar a roupa.
+
+106
+00:58:11,986 --> 00:58:13,986
+Ele estava contigo, não estava?
+
+107
+00:58:14,260 --> 00:58:15,564
+No fogo-de-artifício.
+
+108
+00:58:19,923 --> 00:58:22,441
+- Então ele ainda está lá?
+- De certeza que sim.
+
+109
+00:58:22,442 --> 00:58:26,339
+Ele sabe que deve esperar
+por ti. E ela...
+
+110
+00:58:26,773 --> 00:58:29,545
+É inteligente...
+Vai encontrar o lugar...
+
+111
+00:58:29,809 --> 00:58:31,463
+Eles sabem o que fazer.
+
+112
+00:58:50,502 --> 00:58:52,060
+É um menino?
+
+113
+00:58:54,536 --> 00:58:55,884
+É um menino.
+
+114
+00:59:00,257 --> 00:59:02,066
+Não consegui transportá-lo.
+
+115
+00:59:09,540 --> 00:59:11,752
+É muito pesado, não é?
+
+116
+00:59:17,355 --> 00:59:18,737
+Ainda assim...
+
+117
+00:59:20,477 --> 00:59:23,519
+Consigo sentir o peso dele
+nos meus braços.
+
+118
+00:59:25,087 --> 00:59:28,972
+Pequeno, mas...
+tão pesado.
+
+119
+00:59:37,012 --> 00:59:39,775
+E as minhas mãos
+estavam livres.
+
+120
+00:59:44,569 --> 00:59:47,583
+Estava a carregar o saco, mas
+as minhas mãos estavam livres.
+
+121
+00:59:47,584 --> 00:59:48,965
+Tens de parar.
+
+122
+00:59:51,671 --> 00:59:54,051
+Desculpa,
+não consegui transportá-lo.
+
+123
+00:59:56,833 --> 00:59:58,607
+Deveria tê-lo transportado.
+
+124
+01:00:05,659 --> 01:00:07,091
+Quem somos nós?
+
+125
+01:00:09,186 --> 01:00:11,209
+Se não conseguimos protegê-los?
+
+126
+01:00:13,318 --> 01:00:14,696
+Quem somos nós?
+
+127
+01:00:17,784 --> 01:00:19,799
+Tens de protegê-los.
+
+128
+01:00:21,426 --> 01:00:23,315
+Promete-me...
+
+129
+01:00:24,185 --> 01:00:26,161
+Que vais protegê-los.
+
+130
+01:02:47,708 --> 01:02:51,345
+<i><b>Não te preocupes.
+Ele vem buscar-nos.</b></i>
+
+131
+01:06:31,931 --> 01:06:35,263
+<i><b>Não podemos ficar aqui.
+Temos de ir.</b></i>
+
+132
+01:06:35,989 --> 01:06:37,995
+<i><b>Ele vem buscar-nos.</b></i>
+
+133
+01:06:39,603 --> 01:06:41,952
+<i><b>Ele vem buscar-nos.</b></i>
+
+134
+01:06:42,871 --> 01:06:44,700
+<i><b>Ele vem buscar-te!</b></i>
+
+135
+01:06:45,107 --> 01:06:48,059
+<i><b>Não, estás enganada.
+Ele disse-me...</b></i>
+
+136
+01:07:13,574 --> 01:07:14,899
+<i><b>Não te mexas.</b></i>
+
+137
+01:07:20,468 --> 01:07:21,816
+<i><b>Pára!</b></i>
+
+138
+01:11:42,498 --> 01:11:43,828
+<i><b>Estão bem?</b></i>
+
+139
+01:11:44,401 --> 01:11:45,761
+<i><b>Estão bem?</b></i>
+
+140
+01:12:15,282 --> 01:12:17,908
+<i><b>Temos de ir para o camião.</b></i>
+
+141
+01:13:18,617 --> 01:13:20,488
+Pai!
+
+142
+01:14:45,681 --> 01:14:49,705
+<i><b>Eu amo-te.</b></i>
+
+143
+01:14:54,236 --> 01:15:00,913
+<i><b>Sempre te amei.</b></i>
+
+144
+01:17:18,639 --> 01:17:19,941
+<u>SOBREVIVER:</u>
+
+145
+01:17:19,942 --> 01:17:21,955
+<b>SUPRIMENTOS MÉDICOS</b>
+<b>À PROVA DE SOM</b>
+
+146
+01:17:21,956 --> 01:17:23,601
+<b>QUAL É A SUA FRAQUEZA?</b>
+
+147
+01:20:26,951 --> 01:20:30,820
+<b>QUAL É A SUA FRAQUEZA?</b>
+
+148
+01:23:44,256 --> 01:23:51,156
+<font color=#ff0000><b><i>imfreemozart</i></b></font>
+<font color=#ffff00><b><i>CC</i></b></font>

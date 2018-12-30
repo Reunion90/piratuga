@@ -1,0 +1,3103 @@
+﻿1
+00:00:00,410 --> 00:00:04,355
+<i>Chamo-me Barry Allen, e sou
+o homem mais rápido do mundo.</i>
+
+2
+00:00:04,571 --> 00:00:07,557
+<i>Para o mundo exterior,
+sou um cientista forense normal,</i>
+
+3
+00:00:07,567 --> 00:00:10,417
+<i>mas em segredo, com a ajuda dos
+meus amigos nos Laboratórios S.T.A.R.,</i>
+
+4
+00:00:10,427 --> 00:00:13,275
+<i>combato o crime e encontro
+outros meta-humanos como eu.</i>
+
+5
+00:00:13,688 --> 00:00:15,596
+<i>Mas perdi-me no tempo.</i>
+
+6
+00:00:15,606 --> 00:00:18,425
+<i>Os meus amigos fizeram de tudo
+para trazer-me de volta,</i>
+
+7
+00:00:18,435 --> 00:00:21,662
+<i>mas ao fazê-lo, o mundo ficou
+aberto a novas ameaças.</i>
+
+8
+00:00:21,672 --> 00:00:24,304
+<i>E sou o único suficientemente
+rápido para as parar.</i>
+
+9
+00:00:24,379 --> 00:00:26,710
+<i>Sou... O Flash.</i>
+
+10
+00:00:27,555 --> 00:00:29,294
+<i>Anteriormente em "The Flash"...</i>
+
+11
+00:00:29,304 --> 00:00:31,799
+É isso que pensas que sou?
+Uma espécie de secretária do mal?
+
+12
+00:00:31,809 --> 00:00:33,107
+- Diga-me a Senhora.
+- Sou agora
+
+13
+00:00:33,215 --> 00:00:35,690
+e para sempre a parceira do meu marido.
+
+14
+00:00:35,709 --> 00:00:38,029
+É um prazer conhecê-lo, Dominic Lance.
+
+15
+00:00:40,956 --> 00:00:42,682
+- Olá, Sr. Allen.
+- DeVoe.
+
+16
+00:00:42,692 --> 00:00:46,086
+<i>- Se magoar a minha família...</i>
+- Não tenho interesse na tua família.
+
+17
+00:00:46,096 --> 00:00:48,599
+<i>E vais precisar de alguém que tenha
+saudades tuas quando estiveres ausente.</i>
+
+18
+00:00:48,609 --> 00:00:50,970
+- O que fizeste?
+- Deixei algo para ti.
+
+19
+00:00:50,980 --> 00:00:52,982
+<i>Já não preciso mais disso.</i>
+
+20
+00:00:52,992 --> 00:00:55,607
+Barry Allen, estás preso
+pelo homicídio do Clifford DeVoe.
+
+21
+00:00:56,939 --> 00:00:58,739
+<i>Chamo-me Barry Allen.</i>
+
+22
+00:00:59,983 --> 00:01:00,983
+<i>E...</i>
+
+23
+00:01:01,977 --> 00:01:03,227
+<i>estou inocente.</i>
+
+24
+00:01:05,517 --> 00:01:09,067
+<i>Sei que vão encontrar as minhas
+impressões digitais no seu corpo.</i>
+
+25
+00:01:10,898 --> 00:01:11,898
+<i>E...</i>
+
+26
+00:01:12,234 --> 00:01:15,484
+<i>sei que vão encontrar
+o ADN dele no meu corpo.</i>
+
+27
+00:01:17,120 --> 00:01:21,400
+<i>Mas não sei quem o esfaqueou.</i>
+
+28
+00:01:23,465 --> 00:01:25,515
+<i>Ou como veio parar ao meu apartamento.</i>
+
+29
+00:01:28,217 --> 00:01:31,417
+<i>Tudo o que vos posso dizer
+é que fui tramado...</i>
+
+30
+00:01:32,414 --> 00:01:33,992
+<i>por algo que não fiz.</i>
+
+31
+00:01:35,849 --> 00:01:38,332
+Não matei o Clifford DeVoe.
+
+32
+00:01:46,432 --> 00:01:47,682
+Muito bem, Allen.
+
+33
+00:01:48,402 --> 00:01:51,356
+Vamos recuar até ao princípio.
+
+34
+00:01:51,378 --> 00:01:53,269
+<font color=#FF0000><b>The Flash S04E10
+"The Trial of the Flash"</b></font>
+
+35
+00:01:53,279 --> 00:01:56,381
+<b>Sincronização</b>: <u>Italian Subs Addicted</u>
+<b>Tradução e revisão</b>: <u>Maston</u>
+
+36
+00:01:56,470 --> 00:01:57,855
+<i>Foi tudo um plano do DeVoe.</i>
+
+37
+00:01:58,215 --> 00:02:01,621
+Caímos todos no seu jogo,
+sobretudo eu.
+
+38
+00:02:01,809 --> 00:02:03,704
+Porque é que o DeVoe quereria
+orquestrar tudo isto?
+
+39
+00:02:03,901 --> 00:02:07,490
+Não sei, mas sabemos que tudo começou
+quando ainda estava na Força da Velocidade.
+
+40
+00:02:07,500 --> 00:02:08,874
+Mas porquê o Dominic ser o alvo?
+
+41
+00:02:09,121 --> 00:02:12,708
+O poder do Dominic permitiu ao DeVoe
+trocar de corpo. Já devíamos ter percebido.
+
+42
+00:02:13,765 --> 00:02:16,467
+E quanto aos outros metas
+no autocarro? Porquê criá-los?
+
+43
+00:02:17,796 --> 00:02:19,334
+Parte de um plano maior?
+
+44
+00:02:23,610 --> 00:02:26,215
+Como é que estás aqui, Allen?
+Não estás em detenção domiciliária?
+
+45
+00:02:26,390 --> 00:02:27,978
+- Pois, bem...
+- Ele está na casa do Joe.
+
+46
+00:02:27,988 --> 00:02:29,351
+Ou isso ou no tribunal.
+
+47
+00:02:29,361 --> 00:02:32,222
+Consegui piratear
+o GPS de tornozelo.
+
+48
+00:02:33,175 --> 00:02:35,658
+Mas não foi a única coisa
+que o Cisco pirateou.
+
+49
+00:02:35,668 --> 00:02:38,177
+Quando saíste da Força da Velocidade,
+dizias coisas sem sentido na esquadra.
+
+50
+00:02:38,187 --> 00:02:40,512
+Disseste algo sobre não quereres
+matar ninguém.
+
+51
+00:02:40,522 --> 00:02:42,111
+Não deixei rastos do vídeo.
+
+52
+00:02:42,212 --> 00:02:45,617
+A última coisa que queremos é que alguém
+ouça algo que não queremos.
+
+53
+00:02:45,627 --> 00:02:47,577
+<i>Meritíssimo, estou inocente.</i>
+
+54
+00:02:47,764 --> 00:02:48,893
+<i>Não fiz isto.</i>
+
+55
+00:02:49,402 --> 00:02:50,674
+<i>Não matei ninguém.</i>
+
+56
+00:02:50,684 --> 00:02:52,332
+Sim, mas não me lembro
+de dizer nada disso.
+
+57
+00:02:53,144 --> 00:02:54,694
+- Não te lembras?
+- Não.
+
+58
+00:02:55,593 --> 00:02:58,166
+Devíamos verificar o resto que ele disse
+quando ele saiu da Força da Velocidade.
+
+59
+00:02:58,176 --> 00:03:00,101
+- Pode dar-nos uma pista.
+- Óptima ideia.
+
+60
+00:03:00,111 --> 00:03:03,335
+Mas lembrem-se, com todas
+as provas que têm contra mim,
+
+61
+00:03:03,345 --> 00:03:05,181
+este julgamento não vai durar muito.
+
+62
+00:03:05,191 --> 00:03:08,296
+Mas com a Cecile com uma licença
+sem vencimento para representar-te,
+
+63
+00:03:08,306 --> 00:03:10,368
+tens a melhor advogada da cidade.
+- Sim.
+
+64
+00:03:10,378 --> 00:03:13,659
+Mesmo que te considerem culpado,
+não existe uma prisão que te trave.
+
+65
+00:03:14,873 --> 00:03:16,018
+Não vou fugir.
+
+66
+00:03:16,989 --> 00:03:20,106
+Não vou ser um fugitivo. Se for
+condenado, tenho de ir para a prisão.
+
+67
+00:03:20,435 --> 00:03:21,696
+Não vamos deixar que isso aconteça.
+
+68
+00:03:23,487 --> 00:03:24,493
+Pronto.
+
+69
+00:03:24,891 --> 00:03:26,192
+Vamos trabalhar.
+
+70
+00:03:32,167 --> 00:03:34,817
+- É melhor irmos para o tribunal.
+- Sim.
+
+71
+00:03:35,236 --> 00:03:37,229
+- Como estás?
+- Dizem que o primeiro ano de casamento
+
+72
+00:03:37,239 --> 00:03:39,539
+é sempre o mais difícil, mas...
+
+73
+00:03:40,014 --> 00:03:42,559
+nunca pensei que o meu marido
+estar a ser julgado por homicídio
+
+74
+00:03:42,569 --> 00:03:45,648
+seria um dos desafios.
+- Já passámos por tanto.
+
+75
+00:03:45,658 --> 00:03:46,761
+Também vamos superar isto.
+
+76
+00:03:48,306 --> 00:03:49,466
+Vamos mesmo, Barry?
+
+77
+00:03:49,721 --> 00:03:52,965
+Sei que a Força da Velocidade deu-te
+uma nova perspectiva da vida, mas...
+
+78
+00:03:53,426 --> 00:03:56,883
+não sei se ser positiva basta.
+- Estou a tentar ser forte
+
+79
+00:03:56,893 --> 00:03:58,593
+pela equipa e por ti.
+
+80
+00:03:59,345 --> 00:04:01,471
+Lembra-te, nós somos o Flash.
+
+81
+00:04:03,688 --> 00:04:04,884
+Nós somos o Flash.
+
+82
+00:04:06,188 --> 00:04:07,438
+Ralph, espera.
+
+83
+00:04:07,552 --> 00:04:09,458
+Ouve, não vou deixar que
+o Barry vá parar à prisão.
+
+84
+00:04:09,468 --> 00:04:12,213
+Desiludi o pai dele, não vou desiludi-lo.
+Preciso da tua ajuda.
+
+85
+00:04:12,223 --> 00:04:14,189
+A minha ajuda?
+Do género de alongar?
+
+86
+00:04:14,199 --> 00:04:16,465
+Não, como investigador
+privado clandestino.
+
+87
+00:04:17,624 --> 00:04:19,040
+Não considerei uma ofensa.
+
+88
+00:04:19,050 --> 00:04:20,050
+Anda.
+
+89
+00:04:20,847 --> 00:04:23,038
+A ciência há muito que pondera
+
+90
+00:04:23,364 --> 00:04:26,853
+no que seria necessário para
+transferir com sucesso a consciência
+
+91
+00:04:26,863 --> 00:04:28,963
+de um ser vivo para outro.
+
+92
+00:04:30,830 --> 00:04:35,330
+Mas alcançámos muito para além de uma
+simples transferência de consciência.
+
+93
+00:04:35,466 --> 00:04:38,523
+Extraímos as coisas
+que elevam a humanidade
+
+94
+00:04:38,533 --> 00:04:40,068
+e adicionámos à transferência.
+
+95
+00:04:40,489 --> 00:04:43,554
+Sou quem eu era antes...
+
+96
+00:04:45,410 --> 00:04:47,260
+e quem desejo ser.
+
+97
+00:04:48,900 --> 00:04:51,684
+Pois és, meu amor.
+
+98
+00:04:53,491 --> 00:04:56,129
+A minha mão ainda te parece estranha
+na tua pele.
+
+99
+00:04:58,763 --> 00:04:59,861
+E não gostas.
+
+100
+00:05:01,141 --> 00:05:02,191
+Não, gosto.
+
+101
+00:05:02,971 --> 00:05:07,371
+Como eu disse, herdei as capacidades
+do meu hospedeiro de ler pensamentos.
+
+102
+00:05:08,980 --> 00:05:11,398
+Nunca mentimos um ao outro.
+
+103
+00:05:11,408 --> 00:05:12,555
+Não comecemos agora.
+
+104
+00:05:14,412 --> 00:05:15,419
+Está bem.
+
+105
+00:05:17,286 --> 00:05:18,286
+Marlize,
+
+106
+00:05:19,587 --> 00:05:20,687
+meu amor...
+
+107
+00:05:22,438 --> 00:05:24,238
+vê para além deste corpo.
+
+108
+00:05:25,032 --> 00:05:26,832
+Vê para além destes olhos.
+
+109
+00:05:29,188 --> 00:05:30,288
+Vê-me a mim,
+
+110
+00:05:31,284 --> 00:05:32,284
+o Clifford.
+
+111
+00:05:35,190 --> 00:05:38,051
+Não sou nada sem ti.
+
+112
+00:05:51,732 --> 00:05:54,532
+<i>Meritíssimo, senhores
+e senhoras do júri,</i>
+
+113
+00:05:55,218 --> 00:05:58,798
+se não perceberem o que estou prestes
+a dizer-vos hoje, têm de fazer algo.
+
+114
+00:05:59,430 --> 00:06:02,276
+Preciso que acreditem no impossível.
+
+115
+00:06:03,494 --> 00:06:04,544
+Em crianças,
+
+116
+00:06:04,994 --> 00:06:07,932
+somos ensinados que a polícia
+existe para proteger-nos, para servir.
+
+117
+00:06:07,942 --> 00:06:11,112
+Foi-nos dito que as taxas
+são usadas para treiná-los,
+
+118
+00:06:11,122 --> 00:06:13,222
+para serem os campeões da cidade.
+
+119
+00:06:13,916 --> 00:06:15,321
+Mas para alguns de nós,
+
+120
+00:06:15,331 --> 00:06:16,817
+ainda parece impossível
+
+121
+00:06:16,827 --> 00:06:19,951
+que um investigador da polícia,
+um dos melhores de Central City,
+
+122
+00:06:19,961 --> 00:06:21,496
+possa trair essa confiança.
+
+123
+00:06:21,779 --> 00:06:23,769
+E ainda pior, com a desculpa
+de fazer respeitar a lei,
+
+124
+00:06:23,779 --> 00:06:27,309
+para cometer o acho mais horrendo que
+uma pessoa pode fazer a outra.
+
+125
+00:06:27,319 --> 00:06:30,481
+Mas foi exactamente isso
+que o Barry Allen fez.
+
+126
+00:06:31,214 --> 00:06:33,614
+A acusação vai provar sem sombra de dúvidas
+
+127
+00:06:34,017 --> 00:06:36,848
+que se escondeu entre nós
+como um lobo vestido de ovelha.
+
+128
+00:06:37,520 --> 00:06:38,556
+Mas eis o que se passa,
+
+129
+00:06:39,057 --> 00:06:40,722
+o Barry Allen usa uma máscara.
+
+130
+00:06:41,352 --> 00:06:45,309
+Usou a sua ligação à lei,
+a sua experiência como investigador,
+
+131
+00:06:45,319 --> 00:06:47,479
+especialmente como técnico
+de cenas do crime,
+
+132
+00:06:47,489 --> 00:06:49,483
+para perseguir um amado professor
+
+133
+00:06:50,029 --> 00:06:51,029
+e marido.
+
+134
+00:06:52,199 --> 00:06:54,049
+Para matar o Clifford Devoe
+
+135
+00:06:54,260 --> 00:06:55,367
+a sangue frio.
+
+136
+00:06:59,090 --> 00:07:03,264
+Sr. Borwin, assine na linha com pontos
+e a sua conta poupança fica pronta.
+
+137
+00:07:03,274 --> 00:07:05,591
+Agradeço por me ajudar,
+quero fazer as coisas bem.
+
+138
+00:07:05,601 --> 00:07:07,075
+É a minha primeira conta poupança.
+
+139
+00:07:10,197 --> 00:07:11,214
+A Mna. está bem?
+
+140
+00:07:11,662 --> 00:07:14,580
+Sim, acho que só um pouco atordoada
+antes do almoço.
+
+141
+00:07:15,651 --> 00:07:17,092
+Tenha um bom dia.
+
+142
+00:07:29,744 --> 00:07:32,346
+Senhoras e senhores,
+o documento na minha mão,
+
+143
+00:07:32,579 --> 00:07:35,048
+é uma providência cautelar
+emitida pelo tribunal.
+
+144
+00:07:35,058 --> 00:07:38,490
+Emitida a favor da Marlize Devoe, a esposa
+da vítima, em nome do marido,
+
+145
+00:07:38,860 --> 00:07:42,450
+contra um Sr. Bartholomew Henry Allen.
+
+146
+00:07:43,675 --> 00:07:46,076
+Se quiserem ver melhor,
+tenho uma cópia maior.
+
+147
+00:07:46,086 --> 00:07:50,162
+Permitam-me ler o que está escrito em baixo
+"motivo pela providência cautelar",
+
+148
+00:07:50,355 --> 00:07:51,411
+assédio.
+
+149
+00:07:52,460 --> 00:07:55,267
+O réu foi visto poucos dias antes
+
+150
+00:07:55,304 --> 00:07:58,017
+a entrar ilegalmente
+na casa da vítima,
+
+151
+00:07:58,047 --> 00:08:00,168
+a procurar nos pertences
+da vítima.
+
+152
+00:08:00,178 --> 00:08:01,767
+Um homem obcecado.
+
+153
+00:08:01,796 --> 00:08:05,721
+As células da pele do Barry Allen
+foram encontradas debaixo das unhas
+
+154
+00:08:05,731 --> 00:08:06,931
+da vítima.
+
+155
+00:08:07,263 --> 00:08:11,048
+Agora tentem imaginar: o Sr. Devoe,
+um homem em cadeira de rodas,
+
+156
+00:08:11,058 --> 00:08:12,901
+que tenta desesperadamente defender-se
+
+157
+00:08:13,127 --> 00:08:15,174
+enquanto o Sr. Allen
+tenta superá-lo.
+
+158
+00:08:15,184 --> 00:08:18,691
+E finalmente, esta é a faca
+usada para matar
+
+159
+00:08:19,153 --> 00:08:20,403
+o Clifford Devoe.
+
+160
+00:08:21,899 --> 00:08:24,886
+Se parece nova, é porque é.
+
+161
+00:08:25,962 --> 00:08:27,999
+Era uma prenda de casamento
+para o Sr. Allen.
+
+162
+00:08:28,009 --> 00:08:30,088
+Pensemos nisso por um momento.
+
+163
+00:08:31,789 --> 00:08:35,589
+Isto devia festejar o momento
+mais belo na vida de um casal.
+
+164
+00:08:35,826 --> 00:08:39,926
+Mas em vez disso, o Sr. Allen usou-a
+para separar para sempre um casal.
+
+165
+00:08:40,217 --> 00:08:42,978
+Usou uma prenda de casamento
+como arma do crime.
+
+166
+00:08:42,988 --> 00:08:45,479
+É um tipo especial de maldade.
+
+167
+00:08:46,142 --> 00:08:48,226
+O réu mostrou
+um autêntico desprezo...
+
+168
+00:08:48,236 --> 00:08:49,236
+Cisco,
+
+169
+00:08:49,699 --> 00:08:51,601
+há um ataque meta na baixa.
+Temos de ir.
+
+170
+00:08:53,543 --> 00:08:55,143
+Eu fico aqui com o Barry.
+
+171
+00:09:03,800 --> 00:09:06,134
+Quando terminares, podes
+verificar os postos de trabalho?
+
+172
+00:09:06,144 --> 00:09:08,848
+Detective, pode recolher
+um testemunho, por favor?
+
+173
+00:09:08,858 --> 00:09:10,751
+- Sr. Ramon.
+- Capitão.
+
+174
+00:09:10,761 --> 00:09:13,427
+- O que aconteceu aqui?
+- Bem, a Central City habitual.
+
+175
+00:09:13,437 --> 00:09:14,833
+Ou seja, outra cena estranha.
+
+176
+00:09:15,138 --> 00:09:19,330
+Não há violação de dados, nada foi roubado,
+as pessoas simplesmente desmaiaram.
+
+177
+00:09:19,340 --> 00:09:21,665
+Tenho de momento agentes
+a interrogar pessoas,
+
+178
+00:09:21,675 --> 00:09:23,333
+mas até agora, ninguém sabe nada.
+
+179
+00:09:25,282 --> 00:09:26,926
+Cidade de matéria negra.
+
+180
+00:09:26,936 --> 00:09:28,808
+Sim, sem dúvida alguma que
+estamos a lidar com um meta.
+
+181
+00:09:29,023 --> 00:09:31,438
+Queres ver com que género
+de perímetro estamos a lidar?
+
+182
+00:09:31,448 --> 00:09:32,465
+Leste-me a mente.
+
+183
+00:09:34,200 --> 00:09:36,237
+Joe, de certeza que
+queres seguir o caso?
+
+184
+00:09:37,107 --> 00:09:40,284
+Porque percebo completamente se precisares
+de um pouco mais de tempo...
+
+185
+00:09:41,426 --> 00:09:42,826
+Estou bem, a sério.
+
+186
+00:09:43,420 --> 00:09:45,156
+Talvez tenha de ir
+ao tribunal mais tarde.
+
+187
+00:09:45,946 --> 00:09:46,946
+Sim, eu...
+
+188
+00:09:48,436 --> 00:09:49,875
+Na verdade, vou para lá agora.
+
+189
+00:09:52,038 --> 00:09:54,197
+A acusação chamou-me para testemunhar.
+
+190
+00:09:54,982 --> 00:09:56,024
+Desculpa, Joe.
+
+191
+00:09:56,034 --> 00:09:57,375
+Sabes o quanto me preocupo
+com o Barry,
+
+192
+00:09:57,376 --> 00:09:59,601
+mas tenho de dizer-lhes o que sei.
+
+193
+00:10:02,923 --> 00:10:05,004
+Eu percebo. Tens de fazer
+o que está certo.
+
+194
+00:10:05,346 --> 00:10:06,353
+Sim.
+
+195
+00:10:09,744 --> 00:10:11,594
+Tenho de repetir a pergunta?
+
+196
+00:10:11,922 --> 00:10:13,272
+Não, eu ouvi.
+
+197
+00:10:14,162 --> 00:10:17,805
+A pessoa ao lado do corpo
+do Clifford DeVoe era o Barry Allen.
+
+198
+00:10:19,473 --> 00:10:21,723
+Não tenho mais perguntas, Meritíssimo.
+
+199
+00:10:24,552 --> 00:10:25,902
+Capitão Singh,
+
+200
+00:10:26,288 --> 00:10:28,755
+afirmou que entrevistou o
+o Barry Allen durante
+
+201
+00:10:28,765 --> 00:10:31,050
+cinco anos, pelo trabalho
+de investigador forense.
+
+202
+00:10:31,060 --> 00:10:33,860
+Pergunto-me, qual foi
+a sua primeira impressão?
+
+203
+00:10:34,792 --> 00:10:35,799
+Ele era jovem.
+
+204
+00:10:36,375 --> 00:10:38,870
+Tinha metade da experiência
+de todos os outros candidatos.
+
+205
+00:10:39,851 --> 00:10:41,016
+Porque o contratou?
+
+206
+00:10:41,026 --> 00:10:43,344
+Foi por causa de algo que
+ele disse na entrevista.
+
+207
+00:10:43,761 --> 00:10:47,311
+Todos falam sempre de apanhar
+o criminoso, o culpado.
+
+208
+00:10:48,391 --> 00:10:50,799
+Mas o Allen disse que queria
+ajudar as vítimas.
+
+209
+00:10:51,143 --> 00:10:52,343
+Os inocentes.
+
+210
+00:10:54,710 --> 00:10:58,086
+Achava que Central City
+merecia alguém assim.
+
+211
+00:10:59,234 --> 00:11:00,395
+O Allen é um dos bons.
+
+212
+00:11:03,747 --> 00:11:04,947
+Um dos bons.
+
+213
+00:11:08,278 --> 00:11:10,528
+Não tenho mais perguntas, Meritíssimo.
+
+214
+00:11:14,283 --> 00:11:15,984
+Gostaria de continuar,
+Meritíssimo.
+
+215
+00:11:17,309 --> 00:11:18,309
+Prossiga.
+
+216
+00:11:18,465 --> 00:11:22,169
+Protegeria o Sr. Allen
+se fosse preciso?
+
+217
+00:11:22,831 --> 00:11:23,956
+Não, claro que não.
+
+218
+00:11:24,143 --> 00:11:24,687
+Não.
+
+219
+00:11:25,056 --> 00:11:29,610
+Diz aqui no ficheiro pessoal que tirou
+seis meses sabáticos para a República Checa.
+
+220
+00:11:29,620 --> 00:11:31,837
+Ele teve primeiro a sua aprovação?
+
+221
+00:11:31,847 --> 00:11:33,147
+Não exactamente.
+
+222
+00:11:33,575 --> 00:11:36,670
+Ele disse que era para algo pessoal,
+de certeza que teve uma boa razão.
+
+223
+00:11:36,680 --> 00:11:39,030
+Salvar o mundo é uma boa razão?
+
+224
+00:11:39,467 --> 00:11:43,369
+Também diz aqui que chegou
+atrasado 72 vezes
+
+225
+00:11:43,527 --> 00:11:45,002
+nos últimos dois anos.
+
+226
+00:11:45,003 --> 00:11:47,702
+Perguntou-lhe porquê?
+
+227
+00:11:47,897 --> 00:11:48,897
+Não...
+
+228
+00:11:49,314 --> 00:11:52,674
+porque independentemente da hora a que
+chegava, fez sempre o seu trabalho.
+
+229
+00:11:53,298 --> 00:11:55,658
+Estava só curioso para imaginar
+o que ele faz com o seu tempo livre
+
+230
+00:11:55,659 --> 00:11:59,688
+em vez de estar no trabalho.
+É quase como se tivesse
+
+231
+00:11:59,746 --> 00:12:00,896
+uma vida secreta.
+
+232
+00:12:01,648 --> 00:12:03,662
+Portanto, apesar de todas estas infracções,
+
+233
+00:12:03,917 --> 00:12:05,638
+nunca pensou em repreendê-lo?
+
+234
+00:12:06,075 --> 00:12:07,082
+O que está a insinuar?
+
+235
+00:12:07,344 --> 00:12:10,201
+Que, quer que se tenhas apercebido
+ou não,
+
+236
+00:12:10,211 --> 00:12:13,080
+tem escondido a dura verdade
+sobre o Sr. Allen durante anos.
+
+237
+00:12:13,090 --> 00:12:14,449
+Não é verdade.
+
+238
+00:12:14,639 --> 00:12:17,998
+É verdade que estava a focar-se
+e a incomodar o Sr. DeVoe?
+
+239
+00:12:18,356 --> 00:12:20,008
+Sim ou não?
+
+240
+00:12:22,509 --> 00:12:23,509
+Sim.
+
+241
+00:12:24,134 --> 00:12:26,503
+É por isso que permiti
+ao DeVoe a ordem judicial
+
+242
+00:12:26,513 --> 00:12:29,264
+e disse ao Allen para manter-se longe.
+- Mas isso não o impediu, pois não?
+
+243
+00:12:29,274 --> 00:12:32,199
+Ele continuou a ir atrás dele até à noite
+em que o Sr. DeVoe foi morto.
+
+244
+00:12:32,209 --> 00:12:33,209
+Objecção.
+
+245
+00:12:33,430 --> 00:12:35,484
+- É uma conjectura.
+- Retire a pergunta.
+
+246
+00:12:35,823 --> 00:12:38,793
+Capitão, disse que o Sr. Allen
+
+247
+00:12:38,794 --> 00:12:41,487
+quer ajudar as vítimas,
+ou os inocentes.
+
+248
+00:12:41,525 --> 00:12:44,779
+Mas desaparecer durante meses
+e atrasar-se 72 vezes
+
+249
+00:12:45,171 --> 00:12:48,121
+não parece querer ajudar,
+nem importar-se com ninguém
+
+250
+00:12:48,131 --> 00:12:49,431
+para além dele próprio.
+
+251
+00:12:49,895 --> 00:12:53,210
+Ainda pensa que ele é um dos bons?
+
+252
+00:13:01,590 --> 00:13:02,597
+Espero que tenhas razão.
+
+253
+00:13:03,438 --> 00:13:06,653
+Acredita, sou muito bom
+a ler a linguagem corporal.
+
+254
+00:13:06,663 --> 00:13:08,430
+De momento, estás tenso.
+
+255
+00:13:08,440 --> 00:13:09,780
+Agora estás aborrecido.
+
+256
+00:13:11,346 --> 00:13:12,346
+Aqui vamos.
+
+257
+00:13:16,292 --> 00:13:17,926
+- Bingo.
+- Apanhaste?
+
+258
+00:13:18,782 --> 00:13:19,827
+O Ralphie apanhou.
+
+259
+00:13:20,968 --> 00:13:22,818
+Sinto o cheiro a absolvição.
+
+260
+00:13:27,197 --> 00:13:30,319
+Como pensávamos que podia acontecer,
+estamos em sarilhos.
+
+261
+00:13:30,329 --> 00:13:33,466
+O testemunho do David prejudica-nos,
+mas ainda temos algumas opções.
+
+262
+00:13:33,476 --> 00:13:34,526
+Quais?
+
+263
+00:13:34,580 --> 00:13:37,784
+Posso falar com o Slater, pedir um
+acordo judicial, talvez reduzir a pena.
+
+264
+00:13:38,854 --> 00:13:41,231
+Ou podemos alegar
+insanidade mental.
+
+265
+00:13:41,673 --> 00:13:45,238
+Não, ambas as opções admitem
+que sou culpado, e não sou.
+
+266
+00:13:45,433 --> 00:13:46,433
+Está bem.
+
+267
+00:13:46,630 --> 00:13:48,864
+Então só há uma maneira de sair disto,
+testemunhares.
+
+268
+00:13:49,035 --> 00:13:50,858
+Cecile, desculpa, não o vou fazer.
+
+269
+00:13:50,990 --> 00:13:53,898
+Todas as provas, todos
+os bocados, apontam para ti.
+
+270
+00:13:54,154 --> 00:13:56,167
+Se não estás disposto a sentar-te no banco
+de testemunhas e defender-te,
+
+271
+00:13:56,168 --> 00:13:58,334
+então este é um caso impossível.
+
+272
+00:13:59,215 --> 00:14:00,565
+Não vou testemunhar.
+
+273
+00:14:00,605 --> 00:14:03,609
+Barry, mesmo que signifique dar a volta
+ao caso e não ires parar à prisão?
+
+274
+00:14:03,619 --> 00:14:05,869
+Iris, se eu testemunhar, tenho de mentir.
+
+275
+00:14:06,278 --> 00:14:09,277
+Cometerei perjúrio, torno-me
+exactamente quem pensam que sou.
+
+276
+00:14:09,287 --> 00:14:10,297
+Então não mintas.
+
+277
+00:14:10,801 --> 00:14:12,249
+- O quê?
+- Diz a verdade.
+
+278
+00:14:13,854 --> 00:14:15,181
+Diz a todos que és o Flash.
+
+279
+00:14:16,996 --> 00:14:20,702
+Barry, se o tribunal souber
+que és o Flash,
+
+280
+00:14:20,703 --> 00:14:23,388
+então podes explicar tudo
+e acreditarão em ti.
+
+281
+00:14:24,427 --> 00:14:26,177
+A acusação vai acabar em breve.
+
+282
+00:14:26,449 --> 00:14:27,862
+Preciso da tua resposta hoje.
+
+283
+00:14:28,534 --> 00:14:29,978
+Esta é a única maneira, Barry.
+
+284
+00:14:30,324 --> 00:14:31,737
+Diz à cidade que és o Flash.
+
+285
+00:14:37,003 --> 00:14:38,503
+<i>É tudo o que temos?</i>
+
+286
+00:14:39,080 --> 00:14:40,772
+Não é muito com o qual trabalhar.
+
+287
+00:14:40,782 --> 00:14:43,311
+Eu sei. Temos sorte
+em ter estas imagens.
+
+288
+00:14:43,321 --> 00:14:45,599
+- Porquê?
+- Todas as câmaras estavam avariadas.
+
+289
+00:14:45,609 --> 00:14:47,582
+Pessoal, estive no hospital
+
+290
+00:14:47,592 --> 00:14:50,183
+a ver os registos médicos
+de todos que estavam no banco.
+
+291
+00:14:50,193 --> 00:14:52,418
+- Eu sei o porquê de terem desmaiado.
+- Porquê?
+
+292
+00:14:52,694 --> 00:14:56,298
+Sofreram todos de fadiga,
+vómito, dor abdominal...
+
+293
+00:14:56,308 --> 00:14:57,369
+erupções cutâneas.
+
+294
+00:14:57,379 --> 00:14:59,610
+Comeram todos burritos estragados?
+
+295
+00:14:59,620 --> 00:15:00,620
+Não.
+
+296
+00:15:00,759 --> 00:15:02,659
+Envenenamento por radiação.
+
+297
+00:15:03,060 --> 00:15:05,544
+É por isso que as câmaras
+de vigilância estão avariadas.
+
+298
+00:15:05,554 --> 00:15:07,441
+Temos de encontrá-lo antes
+que envenene toda a cidade.
+
+299
+00:15:07,451 --> 00:15:08,901
+Sim, ou pior.
+
+300
+00:15:10,314 --> 00:15:14,036
+Pessoal, se este meta consegue causar
+estes níveis de radiação, significa
+
+301
+00:15:14,046 --> 00:15:15,310
+que este meta é semelhante
+
+302
+00:15:16,015 --> 00:15:19,237
+a uma bomba nuclear.
+- Suficiente para explodir-nos a todos?
+
+303
+00:15:19,247 --> 00:15:22,019
+- Do que estamos a falar?
+- A radiação de uma explosão nuclear
+
+304
+00:15:22,020 --> 00:15:23,163
+pode ser catastrófica.
+
+305
+00:15:23,302 --> 00:15:24,402
+Exactamente.
+
+306
+00:15:24,954 --> 00:15:26,446
+- Radioactivo.
+- Belo nome.
+
+307
+00:15:26,948 --> 00:15:28,448
+Mas um poder terrível.
+
+308
+00:15:28,705 --> 00:15:32,705
+Vou ver se o satélite consegue
+localizar a sua assinatura radioactiva.
+
+309
+00:15:32,744 --> 00:15:36,736
+Sra. DeVoe, quando conheceu
+o Sr. Allen?
+
+310
+00:15:39,638 --> 00:15:42,512
+O Sr. Allen apareceu
+na minha casa há dois meses.
+
+311
+00:15:43,853 --> 00:15:47,139
+Disse que andava a investigar
+um dos ex-colegas do Clifford.
+
+312
+00:15:47,771 --> 00:15:51,871
+Assegurámos-lhe que não tínhamos
+informações para ajudá-lo.
+
+313
+00:15:52,335 --> 00:15:55,642
+Mas o Sr. Allen insistiu,
+e continuou a assediar o meu marido.
+
+314
+00:15:55,652 --> 00:15:58,229
+E o que causou a ordem judicial?
+
+315
+00:15:59,175 --> 00:16:00,675
+O meu marido tem...
+
+316
+00:16:02,314 --> 00:16:05,265
+tinha ELA em estado avançado.
+
+317
+00:16:05,556 --> 00:16:07,322
+Eu estava sozinha com o Kevin
+a maior parte do tempo.
+
+318
+00:16:09,132 --> 00:16:13,292
+Mas algo na maneira agressiva do
+Sr. Allen fez-me sentir insegura,
+
+319
+00:16:13,302 --> 00:16:15,652
+Portanto fomos às autoridades.
+
+320
+00:16:16,978 --> 00:16:20,678
+E achávamos que a queixa
+iria dissuadir o Sr. Allen.
+
+321
+00:16:21,128 --> 00:16:22,143
+Mas isso não aconteceu.
+
+322
+00:16:30,572 --> 00:16:35,567
+Podia descrever ao tribunal a última vez
+que viu o seu marido, por favor?
+
+323
+00:16:36,996 --> 00:16:38,170
+Era Natal.
+
+324
+00:16:39,305 --> 00:16:41,789
+E o Clifford queria confrontar
+o Sr. Allen.
+
+325
+00:16:42,247 --> 00:16:47,078
+Ele esperava convencê-lo a deixar-nos
+em paz, em nome do espírito natalício.
+
+326
+00:16:48,223 --> 00:16:49,223
+E eu...
+
+327
+00:16:49,826 --> 00:16:51,926
+Implorei ao Clifford para não ir.
+
+328
+00:16:52,990 --> 00:16:57,640
+Mas, apesar da sua incapacidade,
+o Clifford insistiu ser o seu trabalho,
+
+329
+00:16:57,758 --> 00:17:00,953
+como marido, proteger-nos,
+proteger-me.
+
+330
+00:17:03,639 --> 00:17:06,139
+Ele não queria viver no medo, portanto...
+
+331
+00:17:08,213 --> 00:17:09,815
+Ele saiu...
+
+332
+00:17:11,690 --> 00:17:16,672
+E quem me dera tê-lo impedido,
+convencê-lo a não fazer isto.
+
+333
+00:17:18,637 --> 00:17:20,337
+Mas deixei-o ir.
+
+334
+00:17:32,616 --> 00:17:34,866
+Sem mais perguntas, Meritíssimo.
+
+335
+00:17:35,747 --> 00:17:38,854
+Meritíssimo, gostaria de apresentar
+este documento como prova.
+
+336
+00:17:38,864 --> 00:17:42,016
+Objecção, Meritíssimo. Porque não foi
+apresentado juntamente com as outras provas?
+
+337
+00:17:42,026 --> 00:17:44,072
+Recebi esta nova prova há pouco tempo.
+
+338
+00:17:44,082 --> 00:17:45,632
+Podemos aproximar-nos?
+
+339
+00:17:45,783 --> 00:17:48,560
+Meritíssimo, existem protocolos
+que têm de ser respeitados.
+
+340
+00:17:48,751 --> 00:17:52,221
+Esta é a minha sala de audiências,
+Sr. Slater. Giro como eu quero.
+
+341
+00:17:55,587 --> 00:17:56,644
+Documento aprovado.
+
+342
+00:17:57,719 --> 00:18:00,519
+As fotografias foram tiradas
+hoje de manhã.
+
+343
+00:18:01,505 --> 00:18:02,805
+Sra. DeVoe.
+
+344
+00:18:06,028 --> 00:18:09,074
+Podia dizer-me quem é o homem que está
+a beijar na foto, por favor?
+
+345
+00:18:09,084 --> 00:18:12,216
+Sem dúvida alguma que não é
+o seu marido, certo?
+
+346
+00:18:15,307 --> 00:18:16,497
+Chama-se Dominic Lance.
+
+347
+00:18:16,721 --> 00:18:18,781
+E há quanto tempo
+conhece o Sr. Lance?
+
+348
+00:18:18,791 --> 00:18:19,998
+Há alguns meses.
+
+349
+00:18:20,008 --> 00:18:24,044
+Parece-me que o seu casamento
+não estava tão perfeito
+
+350
+00:18:24,105 --> 00:18:25,533
+como descreveu.
+
+351
+00:18:25,543 --> 00:18:28,890
+Talvez estivesse pronta
+para uma vida sem o seu marido.
+
+352
+00:18:29,130 --> 00:18:31,112
+Portanto foi a correr para os braços
+de outro homem.
+
+353
+00:18:31,122 --> 00:18:34,317
+Outro homem que convenceu
+a matar o seu marido.
+
+354
+00:18:41,592 --> 00:18:44,362
+Eu e o Clifford conhecemos
+o Dominic Lance...
+
+355
+00:18:44,372 --> 00:18:46,464
+numa gala de beneficência
+para a ELA, há meses.
+
+356
+00:18:47,269 --> 00:18:51,070
+Ele estava lá para homenagear o seu pai,
+falecido recentemente pela doença.
+
+357
+00:18:53,148 --> 00:18:57,645
+O Clifford reparou no laço
+que eu e o Dominic partilhávamos,
+
+358
+00:18:57,970 --> 00:19:00,032
+muito antes do que eu.
+
+359
+00:19:00,619 --> 00:19:03,508
+O meu marido ficou feliz por eu ter
+encontrado alguém com quem falar,
+
+360
+00:19:04,343 --> 00:19:08,143
+ele insistiu para eu ir ter com o Dominic
+para as necessidades
+
+361
+00:19:08,908 --> 00:19:11,958
+e atenção que ele não podia mais
+satisfazer.
+
+362
+00:19:14,675 --> 00:19:17,075
+O meu marido queria que eu fosse feliz.
+
+363
+00:19:20,781 --> 00:19:25,222
+O Clifford não via a relação
+entre mim e o Dominic como divisória,
+
+364
+00:19:26,196 --> 00:19:28,546
+mas para aproximar-nos.
+
+365
+00:19:28,576 --> 00:19:29,576
+E foi o que aconteceu.
+
+366
+00:19:31,564 --> 00:19:34,843
+O meu coração vai sempre
+pertencer ao Clifford.
+
+367
+00:19:39,366 --> 00:19:41,616
+Não tenho mais perguntas, Meritíssimo.
+
+368
+00:19:44,975 --> 00:19:46,025
+Pode ir.
+
+369
+00:19:47,652 --> 00:19:49,252
+Não correu bem.
+
+370
+00:19:49,532 --> 00:19:50,559
+O que vais fazer, Barry?
+
+371
+00:19:53,152 --> 00:19:54,252
+Não vou fazer.
+
+372
+00:20:02,813 --> 00:20:03,813
+Marlize.
+
+373
+00:20:05,294 --> 00:20:08,944
+Sra. West-Allen, não acho que seja
+apropriado nós as duas falarmos.
+
+374
+00:20:08,979 --> 00:20:10,179
+Por favor.
+
+375
+00:20:10,822 --> 00:20:14,631
+Ninguém está a ver,
+pode deixar-se disso.
+
+376
+00:20:17,219 --> 00:20:18,333
+Se insiste.
+
+377
+00:20:23,172 --> 00:20:24,342
+Porque está a fazer isto?
+
+378
+00:20:25,796 --> 00:20:26,925
+Que se passa consigo?
+
+379
+00:20:27,340 --> 00:20:29,354
+Não é o que se passa comigo.
+
+380
+00:20:29,786 --> 00:20:31,501
+Mas sim com o mundo.
+
+381
+00:20:31,661 --> 00:20:34,498
+Há problemas mais importantes
+que o seu marido.
+
+382
+00:20:34,508 --> 00:20:35,515
+Como o quê?
+
+383
+00:20:41,449 --> 00:20:43,849
+Seja lá o que estiver a tramar,
+
+384
+00:20:44,034 --> 00:20:45,865
+vai terminar.
+
+385
+00:20:47,166 --> 00:20:48,466
+Tanta paixão.
+
+386
+00:20:49,274 --> 00:20:52,037
+Também a tinha quando
+casei-me com o Clifford.
+
+387
+00:20:52,404 --> 00:20:55,119
+Mas a paixão desaparece,
+e o que permanece,
+
+388
+00:20:55,641 --> 00:20:58,597
+se tiver sorte tal como
+eu e o Clifford tivemos,
+
+389
+00:20:58,607 --> 00:21:01,865
+é uma paixão tão profunda
+que não pode ser destruída.
+
+390
+00:21:02,041 --> 00:21:04,956
+E porque está tão determinada
+a destruir as nossas vidas?
+
+391
+00:21:05,232 --> 00:21:08,831
+Faço o que devo pelo meu marido,
+Sra. West-Allen.
+
+392
+00:21:10,284 --> 00:21:12,384
+A questão que devia fazer
+
+393
+00:21:13,195 --> 00:21:15,544
+é o que está disposta a fazer pelo seu.
+
+394
+00:21:18,614 --> 00:21:20,690
+Espero que desfrute o resto
+do espectáculo.
+
+395
+00:21:28,937 --> 00:21:30,351
+<i>Ainda não há notícias do tribunal.</i>
+
+396
+00:21:30,586 --> 00:21:32,465
+São boas notícias, não?
+Não haver são boas notícias?
+
+397
+00:21:32,475 --> 00:21:36,201
+Não, boas notícias são boas. Não haver
+é um problema de comunicação.
+
+398
+00:21:38,092 --> 00:21:41,333
+O satélite localizou um pico
+de radiação na baixa, na Main Street.
+
+399
+00:21:41,343 --> 00:21:43,289
+- Encontrámo-lo.
+- O Radioactivo está em movimento.
+
+400
+00:21:43,299 --> 00:21:45,852
+- Temos de ir para lá.
+- Vou monitorizá-lo a partir daqui.
+
+401
+00:21:46,054 --> 00:21:47,997
+- Harry, está na hora.
+- Sim.
+
+402
+00:21:53,537 --> 00:21:55,470
+Tenho um sinal de dois rads.
+
+403
+00:21:58,404 --> 00:21:59,754
+Pare! Pare!
+
+404
+00:22:00,163 --> 00:22:01,163
+Pare!
+
+405
+00:22:01,224 --> 00:22:02,224
+Pare!
+
+406
+00:22:04,522 --> 00:22:06,222
+O que se passa aí?
+
+407
+00:22:06,454 --> 00:22:08,305
+{\an8}UNIDADE DE ELIMINAÇÃO
+DE RESÍDULOS NUCLEARES
+
+408
+00:22:09,037 --> 00:22:10,441
+Um camião de resíduos nucleares.
+
+409
+00:22:11,073 --> 00:22:12,073
+Desculpa!
+
+410
+00:22:13,084 --> 00:22:15,026
+- Idiotas.
+- Está bem.
+
+411
+00:22:15,056 --> 00:22:16,356
+Toca a mexer.
+
+412
+00:22:25,895 --> 00:22:26,963
+<i>Sr. Slater,</i>
+
+413
+00:22:27,544 --> 00:22:29,183
+chame a sua próxima testemunha.
+
+414
+00:22:29,193 --> 00:22:30,743
+Obrigado, Meritíssimo.
+
+415
+00:22:31,752 --> 00:22:32,902
+Meritíssimo,
+
+416
+00:22:33,674 --> 00:22:37,679
+há algo que tem de saber neste momento,
+que influenciará o resultado deste caso.
+
+417
+00:22:38,996 --> 00:22:40,008
+Sra. West-Allen,
+
+418
+00:22:40,268 --> 00:22:42,886
+não faço ideia o que
+pensa que está a fazer.
+
+419
+00:22:42,896 --> 00:22:45,184
+A explicar o que o meu marido
+não explica.
+
+420
+00:22:50,316 --> 00:22:51,415
+O Barry Allen é...
+
+421
+00:22:53,225 --> 00:22:54,242
+O Barry Allen é...
+
+422
+00:22:55,114 --> 00:22:56,114
+O Fla...
+
+423
+00:22:59,553 --> 00:23:01,053
+O que se passa?
+
+424
+00:23:01,344 --> 00:23:04,044
+Mexemo-nos tão rápido
+que os outros estão parados.
+
+425
+00:23:04,054 --> 00:23:05,656
+Como consegues fazer isto comigo?
+
+426
+00:23:05,666 --> 00:23:07,466
+Na verdade, não sei.
+
+427
+00:23:08,230 --> 00:23:09,230
+Iris.
+
+428
+00:23:11,234 --> 00:23:14,146
+Já decidi não contar
+a mais ninguém quem sou.
+
+429
+00:23:14,156 --> 00:23:18,222
+Barry, se o juiz soubesse que eras o Flash,
+nunca te condenariam.
+
+430
+00:23:18,232 --> 00:23:20,132
+Estou a tentar proteger-te.
+
+431
+00:23:20,703 --> 00:23:24,143
+Se todos soubessem o meu segredo,
+nunca pararíamos de fugir.
+
+432
+00:23:24,153 --> 00:23:26,603
+Preferia fugir contigo para sempre,
+
+433
+00:23:26,874 --> 00:23:28,974
+do que ficar quieta sem ti.
+
+434
+00:23:29,028 --> 00:23:30,960
+Não seríamos só nós a fugir.
+
+435
+00:23:31,214 --> 00:23:33,493
+Todos os que têm estado ao nosso lado
+nos últimos quatro anos
+
+436
+00:23:33,503 --> 00:23:35,996
+têm um alvo nas costas.
+
+437
+00:23:36,006 --> 00:23:39,371
+Se os criminosos soubesse o meu nome,
+saberiam a minha fraqueza.
+
+438
+00:23:41,266 --> 00:23:44,166
+- Estou a tentar ser forte, Barry.
+- Eu sei.
+
+439
+00:23:45,372 --> 00:23:46,772
+Já não consigo.
+
+440
+00:23:49,284 --> 00:23:50,332
+Como consegues?
+
+441
+00:23:50,596 --> 00:23:51,596
+O meu pai.
+
+442
+00:23:53,055 --> 00:23:54,681
+Também passou por isto.
+
+443
+00:23:57,174 --> 00:23:59,274
+O julgamento não terminou, Barry.
+
+444
+00:23:59,802 --> 00:24:00,852
+Terminou, sim.
+
+445
+00:24:01,674 --> 00:24:03,574
+Todas as provas apontam para mim.
+
+446
+00:24:04,582 --> 00:24:06,482
+Não podes dizer-lhes, está bem?
+
+447
+00:24:09,857 --> 00:24:10,857
+Está bem.
+
+448
+00:24:19,362 --> 00:24:21,013
+Sim, Sra. West-Allen?
+
+449
+00:24:23,617 --> 00:24:24,767
+Meritíssimo,
+
+450
+00:24:25,546 --> 00:24:26,746
+o Barry Allen...
+
+451
+00:24:28,164 --> 00:24:29,264
+é inocente.
+
+452
+00:24:29,526 --> 00:24:30,526
+E...
+
+453
+00:24:31,156 --> 00:24:32,956
+achei que todos deviam saber.
+
+454
+00:24:34,644 --> 00:24:36,627
+Obrigada pelo vosso tempo.
+
+455
+00:24:46,400 --> 00:24:48,631
+Se existisse um prémio pelas melhores
+lágrimas de crocodilo
+
+456
+00:24:48,641 --> 00:24:50,471
+para a viúva mais emotivamente
+manipuladora,
+
+457
+00:24:50,675 --> 00:24:53,205
+a Marlize estaria no top três.
+
+458
+00:24:53,215 --> 00:24:55,095
+Vamos fazer <i>snap</i> de algo mais
+incriminatório do que um beijo prolongado.
+
+459
+00:24:55,105 --> 00:24:56,855
+Não estamos aqui para isso.
+
+460
+00:24:58,042 --> 00:25:00,315
+Podes fazer aquela cena
+nojenta de te alongares,
+
+461
+00:25:00,316 --> 00:25:02,542
+e abrires a porta?
+
+462
+00:25:04,791 --> 00:25:05,971
+Isso são fibras de carpete.
+
+463
+00:25:08,614 --> 00:25:11,014
+São do apartamento do Allen,
+não são?
+
+464
+00:25:13,471 --> 00:25:15,743
+Vais plantar provas
+para incriminar a Marlize.
+
+465
+00:25:17,662 --> 00:25:19,921
+Ela era a única que podia ter
+plantado o corpo do DeVoe.
+
+466
+00:25:20,737 --> 00:25:24,658
+As fibras nos fios dos sapatos dela
+colocam-na na cena do crime.
+
+467
+00:25:24,668 --> 00:25:27,118
+Isto é a coisa certa a fazer, Ralph.
+
+468
+00:25:28,085 --> 00:25:29,718
+Abre a porta. Eu faço o resto.
+
+469
+00:25:33,493 --> 00:25:34,493
+Está bem.
+
+470
+00:25:35,437 --> 00:25:37,034
+É um plano sólido, Joe.
+
+471
+00:25:37,108 --> 00:25:40,003
+Subtil, mas é engenhoso
+com um toque de drama.
+
+472
+00:25:40,705 --> 00:25:43,330
+Depois disto, vais relaxar
+com os pés no ar
+
+473
+00:25:43,340 --> 00:25:46,206
+e dormir como uma criança
+após o Homem Ardente,
+
+474
+00:25:46,359 --> 00:25:47,882
+porque fizeste a coisa certa.
+
+475
+00:25:47,892 --> 00:25:49,970
+Derrotaste uma miúda verdadeiramente má.
+
+476
+00:25:49,980 --> 00:25:52,028
+- Ralph, podes despachar-te?
+- E vai ser uma grande emoção,
+
+477
+00:25:52,038 --> 00:25:54,004
+que te vai levar sempre em frente.
+
+478
+00:25:54,014 --> 00:25:58,235
+E depois, quando te apanharem
+e te tirarem o distintivo e arma,
+
+479
+00:25:58,621 --> 00:26:02,152
+o ressentimento hipócrita vai manter o teu
+peito inchado e o teu queixo para cima,
+
+480
+00:26:02,162 --> 00:26:03,925
+porque fizeste a coisa certa.
+
+481
+00:26:04,138 --> 00:26:08,135
+Claro, vais ficar chateado durante
+alguns anos, mas isso desvanece.
+
+482
+00:26:08,145 --> 00:26:09,145
+Evolui,
+
+483
+00:26:09,951 --> 00:26:11,345
+transforma-se em autocomiseração.
+
+484
+00:26:11,711 --> 00:26:12,820
+Mais alguns anos e...
+
+485
+00:26:14,133 --> 00:26:16,808
+a tua vida vai ser uma carapaça
+do que foi em tempos.
+
+486
+00:26:17,232 --> 00:26:18,783
+E depois, uma noite,
+
+487
+00:26:19,612 --> 00:26:21,462
+vai parecer-te evidente que
+
+488
+00:26:21,965 --> 00:26:23,404
+fizeste a coisa errada.
+
+489
+00:26:24,360 --> 00:26:25,610
+Vai arruinar tudo.
+
+490
+00:26:26,384 --> 00:26:30,234
+os teus colegas não vão falar contigo,
+os teus amigos desapareceram.
+
+491
+00:26:30,613 --> 00:26:32,013
+E a tua família?
+
+492
+00:26:33,531 --> 00:26:34,631
+Será como...
+
+493
+00:26:36,766 --> 00:26:38,146
+Como se nunca tivesses nascido.
+
+494
+00:26:40,027 --> 00:26:44,527
+Porque tornaste-te na própria coisa
+do qual juraste protegê-los.
+
+495
+00:26:54,020 --> 00:26:55,270
+Adiante...
+
+496
+00:26:58,003 --> 00:26:59,353
+Boa sorte com isso.
+
+497
+00:27:13,528 --> 00:27:14,728
+Sr. Slater?
+
+498
+00:27:14,837 --> 00:27:16,382
+A acusação concluiu, Meritíssimo.
+
+499
+00:27:18,023 --> 00:27:21,073
+Mna. Horton, está pronta
+para apresentar o seu caso?
+
+500
+00:27:23,813 --> 00:27:25,278
+A defesa concluiu, Meritíssimo.
+
+501
+00:27:33,371 --> 00:27:35,560
+Deviam ter alegado insanidade mental.
+
+502
+00:28:10,492 --> 00:28:11,509
+Peço desculpa.
+
+503
+00:28:14,417 --> 00:28:15,434
+O que é?
+
+504
+00:28:24,491 --> 00:28:26,237
+O que se passa?
+
+505
+00:28:34,101 --> 00:28:37,442
+Há um grande aumento da radiação
+na baixa, entre a Prentice e a Rawlins.
+
+506
+00:28:39,374 --> 00:28:41,205
+O condutor do camião
+com os desperdícios nucleares.
+
+507
+00:28:41,215 --> 00:28:44,739
+A assinatura radioactiva já chegou
+aos 3000 rads e está a aumentar.
+
+508
+00:28:44,749 --> 00:28:46,719
+Temos de travá-lo antes
+que chegue aos 10.000.
+
+509
+00:28:46,729 --> 00:28:48,220
+O que acontece aos 10.000 rads?
+
+510
+00:28:48,604 --> 00:28:49,604
+Hiroxima.
+
+511
+00:28:52,075 --> 00:28:54,475
+O Barry Allen dedicou a sua vida
+
+512
+00:28:55,186 --> 00:28:56,895
+ao serviço de Central City.
+
+513
+00:28:58,069 --> 00:28:59,924
+Ajudou-nos a resolver
+inúmeros crimes.
+
+514
+00:28:59,934 --> 00:29:04,889
+O seu testemunho levou à condenação
+de dezenas de criminosos.
+
+515
+00:29:05,721 --> 00:29:07,821
+O Barry Allen é boa pessoa.
+
+516
+00:29:09,714 --> 00:29:10,814
+É inocente.
+
+517
+00:29:12,098 --> 00:29:14,992
+E, sinceramente, Central City
+tem sorte em tê-lo.
+
+518
+00:29:16,890 --> 00:29:19,371
+Atrevo-me a dizer que
+poucas pessoas nesta cidade
+
+519
+00:29:20,155 --> 00:29:22,625
+são tão honestas,
+
+520
+00:29:23,429 --> 00:29:25,838
+respeitáveis e confiáveis.
+
+521
+00:29:28,382 --> 00:29:29,532
+Sr. Allen?
+
+522
+00:29:30,993 --> 00:29:32,243
+Meritíssimo, eu...
+
+523
+00:29:32,860 --> 00:29:33,960
+Tenho de ir.
+
+524
+00:29:38,208 --> 00:29:40,091
+- Barry, que estás a fazer?
+- Tenho de o fazer.
+
+525
+00:29:43,601 --> 00:29:46,722
+Peço desculpa, Meritíssimo, é uma
+emergência. Alguém precisa de mim.
+
+526
+00:29:46,882 --> 00:29:48,941
+E eu preciso que o senhor
+respeite a minha sala de audiências.
+
+527
+00:29:48,951 --> 00:29:51,447
+Interrupções teatrais como esta
+não serão toleradas.
+
+528
+00:29:52,370 --> 00:29:55,593
+Meritíssimo, o meu cliente ainda é
+um homem livre sobre caução,
+
+529
+00:29:55,603 --> 00:29:58,827
+e não há leis que digam que seja necessária
+a presença dele durante a intervenção final.
+
+530
+00:30:01,300 --> 00:30:03,150
+Tenha atenção, Sr. Allen.
+
+531
+00:30:03,395 --> 00:30:06,800
+É obrigado por lei a estar presente
+na leitura da sentença.
+
+532
+00:30:08,467 --> 00:30:09,817
+Sim, Meritíssimo.
+
+533
+00:30:23,134 --> 00:30:24,484
+Fique onde está!
+
+534
+00:30:24,953 --> 00:30:27,062
+O que me está a acontecer?
+
+535
+00:30:28,872 --> 00:30:29,872
+Quieto!
+
+536
+00:30:31,281 --> 00:30:32,570
+Eu não fiz nada!
+
+537
+00:30:43,271 --> 00:30:45,506
+- Tem de parar.
+- Não quero magoar ninguém.
+
+538
+00:30:45,894 --> 00:30:49,344
+Percebo, mas a sua radioactividade
+é perigosa.
+
+539
+00:30:56,658 --> 00:30:58,652
+<i>- Pessoal?</i>
+- 7.500 rads!
+
+540
+00:30:58,662 --> 00:30:59,881
+Barry, não te aproximes demasiado dele.
+
+541
+00:30:59,891 --> 00:31:02,734
+A radiação que está a emitir
+é demasiado quente que te permita curar.
+
+542
+00:31:02,744 --> 00:31:04,194
+Obrigado pelo aviso.
+
+543
+00:31:04,546 --> 00:31:06,318
+O que faço? Como o travo?
+
+544
+00:31:11,383 --> 00:31:12,654
+Não consigo travar isto!
+
+545
+00:31:12,983 --> 00:31:14,983
+Caraças. Temos de refrescá-lo.
+
+546
+00:31:15,990 --> 00:31:17,140
+Killer Frost.
+
+547
+00:31:17,938 --> 00:31:20,238
+- Fantástico.
+- Força, transforma-te!
+
+548
+00:31:20,417 --> 00:31:21,922
+Não funciona assim.
+
+549
+00:31:21,952 --> 00:31:24,021
+Não posso estalar os dedos
+e fazê-la aparecer.
+
+550
+00:31:24,031 --> 00:31:25,775
+Só acontece quando
+estou assustada ou chateada.
+
+551
+00:31:25,785 --> 00:31:27,497
+- Por amor de Deus, Caitlin!
+- Caitlin!
+
+552
+00:31:27,507 --> 00:31:29,105
+A cidade está prestes a explodir!
+
+553
+00:31:29,115 --> 00:31:31,513
+Todas as pessoas, tudo o que
+conheces e amas,
+
+554
+00:31:31,523 --> 00:31:33,673
+os pássaros, as árvores, os peixes,
+
+555
+00:31:33,738 --> 00:31:34,788
+os cachorrinhos!
+
+556
+00:31:34,859 --> 00:31:36,653
+Os cachorrinhos vão morrer
+porque não querias...
+
+557
+00:31:36,663 --> 00:31:38,863
+aparecer para trabalhar!
+- Aparecer para trabalhar!
+
+558
+00:31:40,615 --> 00:31:41,615
+Obrigada.
+
+559
+00:31:43,274 --> 00:31:45,350
+- Não foi nada mau, pois não?
+- Não foi nada mau. Agora vai!
+
+560
+00:31:45,360 --> 00:31:46,360
+Está bem.
+
+561
+00:31:47,127 --> 00:31:48,560
+Isso mesmo.
+
+562
+00:31:49,813 --> 00:31:50,910
+Que se passa?
+
+563
+00:31:50,920 --> 00:31:53,208
+É uma chamada de negócios ou social?
+
+564
+00:31:53,523 --> 00:31:55,073
+Já percebi, negócios.
+
+565
+00:32:13,182 --> 00:32:15,371
+- Ela está bem?
+- Vai ficar bem, sim.
+
+566
+00:32:15,717 --> 00:32:16,914
+Tens mais alguma ideia?
+
+567
+00:32:18,122 --> 00:32:20,153
+- Onde crio uma fenda?
+- Ramon, não,
+
+568
+00:32:20,163 --> 00:32:21,888
+se o lançares por uma fenda,
+<i>ele pode explodir</i>.
+
+569
+00:32:21,898 --> 00:32:23,728
+E a radiação do Radioactivo
+matar-nos-ia a todos.
+
+570
+00:32:24,084 --> 00:32:25,084
+Achas?
+
+571
+00:32:25,157 --> 00:32:27,416
+Espera, e se eu criar
+um vácuo à volta dele?
+
+572
+00:32:27,426 --> 00:32:30,022
+Assim, mesmo que ela exploda,
+pelo menos contemos a explosão.
+
+573
+00:32:30,032 --> 00:32:32,964
+Sim, Allen, sim, pode funcionar,
+pode contê-la.
+
+574
+00:32:32,974 --> 00:32:34,587
+Seja o que faças,
+<i>fá-lo rápido</i>.
+
+575
+00:32:34,597 --> 00:32:37,197
+<i>O Radioactivo ultrapassou
+os 8.000 rads.</i>
+
+576
+00:32:46,210 --> 00:32:48,289
+O vácuo está a conter
+a sua energia.
+
+577
+00:32:48,299 --> 00:32:49,299
+<i>Óptimo.</i>
+
+578
+00:32:49,587 --> 00:32:51,537
+Mas continua a tornar-se mais forte.
+
+579
+00:32:51,822 --> 00:32:55,194
+<i>Allen, não sei quanto tempo aguentas
+esta quantidade de radiação.</i>
+
+580
+00:32:55,204 --> 00:32:56,404
+Não tenho alternativa.
+
+581
+00:32:57,183 --> 00:32:58,755
+Temos de conter a sua energia.
+
+582
+00:32:58,765 --> 00:33:00,185
+Allen, 9.000 rads.
+
+583
+00:33:06,246 --> 00:33:07,802
+10.000 rads, massa crítica!
+
+584
+00:33:07,812 --> 00:33:09,703
+Ramon, <i>tens de enviar
+a energia para algum lado</i>.
+
+585
+00:33:09,713 --> 00:33:10,863
+O quê? Para onde?
+
+586
+00:33:11,103 --> 00:33:14,153
+Para a Terra-15. É uma Terra morta.
+Abre uma fenda para lá agora!
+
+587
+00:33:52,298 --> 00:33:53,548
+Conseguiste.
+
+588
+00:33:53,607 --> 00:33:55,257
+Meu, conseguiste.
+
+589
+00:33:57,163 --> 00:33:58,563
+Salvaste o dia.
+
+590
+00:34:04,943 --> 00:34:06,443
+<i>Senhoras e senhores do júri,</i>
+
+591
+00:34:06,713 --> 00:34:08,416
+já chegaram a um veredicto?
+
+592
+00:34:08,426 --> 00:34:09,637
+Já, Meritíssimo.
+
+593
+00:34:09,647 --> 00:34:10,647
+De pé.
+
+594
+00:34:14,754 --> 00:34:17,398
+Para o caso número 5677-B,
+
+595
+00:34:18,126 --> 00:34:21,554
+na causa do povo contra
+o Bartholomew Henry Allen,
+
+596
+00:34:22,294 --> 00:34:24,083
+nós, o júri, declaramos o réu
+
+597
+00:34:24,810 --> 00:34:27,434
+acusado de homicídio de primeiro grau.
+
+598
+00:34:41,881 --> 00:34:44,181
+Graças ao teu meta metabolismo,
+as queimaduras de radiação
+
+599
+00:34:44,191 --> 00:34:46,201
+devem desaparecer nos próximos minutos.
+
+600
+00:34:46,211 --> 00:34:48,470
+- E quanto ao Radioactivo?
+- Está instável,
+
+601
+00:34:48,480 --> 00:34:51,690
+mas enviámo-lo para o laboratório da Tracy.
+Vai analisar o ADN dele,
+
+602
+00:34:51,700 --> 00:34:54,344
+para ver se é o mesmo dos outros metas
+e depois conseguiremos neutralizá-lo.
+
+603
+00:34:54,354 --> 00:34:55,875
+<i>O Tribunal de última instância onde,
+há alguns minutos,</i>
+
+604
+00:34:56,160 --> 00:34:58,499
+<i>o júri declarou o Bartholomew
+Henry Allen culpado</i>
+
+605
+00:34:59,098 --> 00:35:01,282
+<i>do homicídio do Professor
+Clifford DeVoe.</i>
+
+606
+00:35:01,292 --> 00:35:04,367
+<i>O Sr. Allen tem sido polícia científico
+da Polícia de Central City</i>
+
+607
+00:35:04,377 --> 00:35:06,127
+<i>nos últimos cinco anos.</i>
+
+608
+00:35:06,255 --> 00:35:10,689
+<i>Daqui a poucas horas o juiz
+vai anunciar a sentença do Sr. Allen.</i>
+
+609
+00:35:10,699 --> 00:35:13,217
+<i>O procurador da República Anton Slater
+fez uma declaração.</i>
+
+610
+00:35:13,227 --> 00:35:15,244
+<i>Ele esperava que o Sr. Allen
+recebesse a perpétua,</i>
+
+611
+00:35:15,254 --> 00:35:16,688
+<i>dada a natureza cruel da cri...</i>
+
+612
+00:35:17,758 --> 00:35:19,608
+Queria ser eu a dizer-te.
+
+613
+00:35:19,626 --> 00:35:21,394
+Não acredito que isto está a acontecer.
+
+614
+00:35:21,626 --> 00:35:24,926
+Vá lá, pessoal, acabámos
+de salvar a cidade hoje.
+
+615
+00:35:24,968 --> 00:35:27,318
+Sabíamos que isto não ia
+correr bem em tribunal.
+
+616
+00:35:27,328 --> 00:35:29,099
+O que não significa
+que o DeVoe tenha vencido.
+
+617
+00:35:29,109 --> 00:35:30,703
+Independentemente do que aconteça,
+vamos continuar a lutar.
+
+618
+00:35:30,965 --> 00:35:31,965
+Eu sei.
+
+619
+00:35:33,011 --> 00:35:35,911
+Temos de levar-te de volta.
+Tens de estar lá para a sentença.
+
+620
+00:35:37,714 --> 00:35:38,714
+Sim.
+
+621
+00:35:41,512 --> 00:35:43,362
+Vemo-nos mais tarde.
+
+622
+00:35:45,224 --> 00:35:46,474
+Vou ficar bem.
+
+623
+00:35:48,108 --> 00:35:49,108
+Vamos.
+
+624
+00:35:53,605 --> 00:35:57,361
+Sabes que obtiveste a tua força
+de ver o teu pai como tua rocha?
+
+625
+00:35:57,371 --> 00:35:58,971
+Obtive a minha porque...
+
+626
+00:36:00,496 --> 00:36:01,696
+tu és a minha.
+
+627
+00:36:04,067 --> 00:36:05,467
+Serei forte por ti.
+
+628
+00:36:07,697 --> 00:36:08,697
+Amo-te.
+
+629
+00:36:09,364 --> 00:36:10,371
+Também te amo.
+
+630
+00:36:11,603 --> 00:36:12,603
+Vamos.
+
+631
+00:36:24,065 --> 00:36:25,915
+Preciso de um minuto.
+
+632
+00:36:28,907 --> 00:36:30,907
+<i>Sra. Allen, esperava isto?</i>
+
+633
+00:36:34,258 --> 00:36:35,408
+Sr. Allen.
+
+634
+00:36:38,094 --> 00:36:39,094
+DeVoe.
+
+635
+00:36:39,914 --> 00:36:44,564
+Sabias que havia 12% de hipóteses
+de dizeres ao mundo que és o Flash?
+
+636
+00:36:44,769 --> 00:36:46,887
+Eu verificaria os seus cálculos.
+
+637
+00:36:46,897 --> 00:36:48,347
+Não é preciso.
+
+638
+00:36:48,777 --> 00:36:53,082
+Independentemente do caminho que escolhas,
+todas as avenidas levam ao meu triunfo.
+
+639
+00:36:53,294 --> 00:36:55,044
+Porque nos quer distraídos?
+
+640
+00:36:55,182 --> 00:36:57,096
+Porque me quer fora de jogo?
+
+641
+00:36:57,106 --> 00:36:58,123
+O que está a planear?
+
+642
+00:36:58,478 --> 00:37:02,953
+Achares que consegues perceber a amplitude
+do que estou prestes a fazer é hilariante.
+
+643
+00:37:07,802 --> 00:37:08,802
+Sim,
+
+644
+00:37:08,914 --> 00:37:10,320
+acho que vais sentir saudades
+da Iris.
+
+645
+00:37:12,244 --> 00:37:13,757
+Isso mesmo, Sr. Allen.
+
+646
+00:37:13,927 --> 00:37:16,160
+Não tirei só o corpo do Dominic.
+
+647
+00:37:16,170 --> 00:37:17,257
+Também tirei a sua habilidade.
+
+648
+00:37:18,764 --> 00:37:21,601
+Sei o que estás a pensar
+neste momento.
+
+649
+00:37:25,196 --> 00:37:27,346
+Bem, quero que me ouça dizê-lo.
+
+650
+00:37:28,396 --> 00:37:30,392
+Encontrarei uma solução para isto.
+
+651
+00:37:31,444 --> 00:37:32,794
+E quando o fizer,
+
+652
+00:37:33,284 --> 00:37:34,998
+não me importa que cara
+esteja a usar.
+
+653
+00:37:35,582 --> 00:37:36,982
+Vou atrás de si.
+
+654
+00:37:37,684 --> 00:37:38,987
+Ainda não nos venceu.
+
+655
+00:37:40,678 --> 00:37:41,678
+Não?
+
+656
+00:37:48,488 --> 00:37:50,788
+Tem uma bela vida, Sr. Allen.
+
+657
+00:38:05,391 --> 00:38:07,341
+Meritíssimo, estou inocente.
+
+658
+00:38:07,734 --> 00:38:10,334
+Eu não fiz isto,
+não matei ninguém.
+
+659
+00:38:11,069 --> 00:38:14,384
+E sei que um dia a verdade
+vai saber-se.
+
+660
+00:38:15,068 --> 00:38:16,068
+Obrigado.
+
+661
+00:38:17,354 --> 00:38:19,104
+De pé para a sentença.
+
+662
+00:38:23,672 --> 00:38:26,130
+Nos meus 30 anos como juiz,
+
+663
+00:38:26,399 --> 00:38:28,749
+já vi a minha dose de criminosos.
+
+664
+00:38:28,961 --> 00:38:32,868
+Mas confesso que este réu
+se distingue.
+
+665
+00:38:33,178 --> 00:38:36,578
+Obrigado a todos por terem vindo
+com tão pouco tempo de aviso.
+
+666
+00:38:37,428 --> 00:38:38,678
+Há algumas horas,
+
+667
+00:38:38,840 --> 00:38:42,679
+a própria existência da nossa cidade foi
+ameaçada por uma destruição nuclear.
+
+668
+00:38:43,116 --> 00:38:45,713
+Mas um homem chegou-se à frente
+para enfrentar esse desafio.
+
+669
+00:38:46,043 --> 00:38:49,513
+O réu estava numa posição
+de autoridade.
+
+670
+00:38:49,954 --> 00:38:51,895
+A nossa cidade confiou nele
+
+671
+00:38:52,282 --> 00:38:54,806
+para entregar o culpado à justiça.
+
+672
+00:38:54,816 --> 00:38:56,616
+Ele correu em direcção ao perigo,
+
+673
+00:38:57,022 --> 00:38:59,454
+sabendo que iria sofrer
+queimaduras por todo o corpo.
+
+674
+00:38:59,464 --> 00:39:03,090
+Ele usou essa confiança para tirar
+uma vida inocente e vulnerável.
+
+675
+00:39:03,100 --> 00:39:05,715
+Este homem não estava
+a pensar em si próprio.
+
+676
+00:39:05,725 --> 00:39:07,275
+<i>Estava a pensar em vocês.</i>
+
+677
+00:39:07,298 --> 00:39:09,343
+As equipas de primeira intervenção
+nas linhas da frente.
+
+678
+00:39:09,353 --> 00:39:13,507
+Nunca vi um réu mais insensível.
+
+679
+00:39:13,508 --> 00:39:15,817
+Nunca vi um homem mais corajoso.
+
+680
+00:39:15,827 --> 00:39:18,013
+Nunca vi tal desumanidade.
+
+681
+00:39:18,023 --> 00:39:19,218
+Tal heroísmo.
+
+682
+00:39:19,258 --> 00:39:21,964
+Tanta falta de consideração
+pela vida humana.
+
+683
+00:39:22,607 --> 00:39:25,640
+É uma grande honra para mim
+apresentar
+
+684
+00:39:25,782 --> 00:39:28,987
+o Prémio de Valor da Polícia
+de Central City
+
+685
+00:39:28,997 --> 00:39:31,147
+para o melhor herói desta cidade.
+
+686
+00:39:31,431 --> 00:39:33,281
+O homem mais rápido do mundo,
+
+687
+00:39:33,554 --> 00:39:34,554
+o Flash!
+
+688
+00:39:36,593 --> 00:39:39,734
+O tribunal ordena
+que o Bartholomew Henry Allen
+
+689
+00:39:39,764 --> 00:39:42,779
+seja encarcerado
+para o resto da sua vida,
+
+690
+00:39:43,344 --> 00:39:45,900
+sem possibilidade
+de liberdade condicional,
+
+691
+00:39:45,910 --> 00:39:49,423
+e que o Sr. Allen
+seja imediatamente enviado
+
+692
+00:39:49,657 --> 00:39:51,807
+para a penitenciária de Iron Heights.
+
+693
+00:39:52,346 --> 00:39:55,046
+E que Deus tenha piedade
+da sua alma.
+
+694
+00:40:16,844 --> 00:40:18,444
+Vemo-nos por aí, B!
+
+695
+00:40:45,878 --> 00:40:47,128
+Põe-te confortável.
+
+696
+00:41:14,670 --> 00:41:17,630
+<b>O HENRY ALLEN
+ESTEVE AQUI</b>
+

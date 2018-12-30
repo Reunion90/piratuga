@@ -1,0 +1,5688 @@
+
+1
+00:00:35,327 --> 00:00:39,790
+Um filme de
+
+2
+00:00:42,719 --> 00:00:48,947
+<b>DIVERGENTE
+
+3
+00:02:18,023 --> 00:02:20,788
+Produção
+
+4
+00:02:21,151 --> 00:02:23,791
+Baseado na obra de
+
+5
+00:02:25,196 --> 00:02:28,379
+Argumento
+
+6
+00:02:28,616 --> 00:02:31,591
+Realização
+
+7
+00:02:32,662 --> 00:02:35,122
+<i>Somos afortunados</i>
+<i>por viver na Cidade.</i>
+
+8
+00:02:35,123 --> 00:02:39,932
+<i>Dizem que a guerra foi horrível,</i>
+<i>que o resto do mundo ficou destruído.</i>
+
+9
+00:02:40,337 --> 00:02:43,422
+<i>Os nossos fundadores construíram</i>
+<i>o muro para nos proteger</i>
+
+10
+00:02:43,423 --> 00:02:48,441
+<i>e dividiram-nos em cinco grupos,</i>
+<i>ou facções, para assegurar a paz.</i>
+
+11
+00:02:50,513 --> 00:02:54,572
+<i>Os inteligentes, os que valorizam</i>
+<i>o conhecimento e a lógica,</i>
+
+12
+00:02:55,060 --> 00:02:57,325
+<i>fazem parte dos Eruditos.</i>
+
+13
+00:02:57,687 --> 00:02:59,661
+<i>Sabem tudo.</i>
+
+14
+00:03:00,482 --> 00:03:03,067
+<i>Os Cordiais trabalham a terra.</i>
+
+15
+00:03:03,068 --> 00:03:05,611
+<i>Cultivam a bondade e a harmonia...</i>
+
+16
+00:03:05,612 --> 00:03:07,752
+<i>Estão sempre felizes.</i>
+
+17
+00:03:09,032 --> 00:03:12,173
+<i>Os Cândidos advogam</i>
+<i>a honestidade e a ordem.</i>
+
+18
+00:03:12,243 --> 00:03:14,119
+<i>Dizem sempre a verdade,</i>
+
+19
+00:03:14,120 --> 00:03:16,469
+<i>mesmo quando preferíamos</i>
+<i>que não o fizessem.</i>
+
+20
+00:03:16,998 --> 00:03:18,916
+<i>Depois, há os Intrépidos.</i>
+
+21
+00:03:18,917 --> 00:03:23,393
+<i>São os nossos protectores,</i>
+<i>os nossos soldados, a nossa Polícia.</i>
+
+22
+00:03:23,922 --> 00:03:26,271
+<i>Sempre os achei espantosos.</i>
+
+23
+00:03:27,968 --> 00:03:30,608
+<i>Corajosos, destemidos...</i>
+
+24
+00:03:30,762 --> 00:03:32,819
+<i>... e livres.</i>
+
+25
+00:03:33,723 --> 00:03:38,241
+<i>Há quem os julgue loucos</i>
+<i>e, de certo modo, até são.</i>
+
+26
+00:03:39,270 --> 00:03:40,562
+Anda, Beatrice.
+
+27
+00:03:40,563 --> 00:03:42,815
+<i>A minha facção são os Abnegados.</i>
+
+28
+00:03:42,816 --> 00:03:45,123
+<i>Os outros chamam-nos Empatas.</i>
+
+29
+00:03:45,735 --> 00:03:47,403
+<i>Temos uma vida simples.</i>
+
+30
+00:03:47,404 --> 00:03:50,739
+<i>Somos altruístas</i>
+<i>e dedicamo-nos a ajudar o próximo.</i>
+
+31
+00:03:50,740 --> 00:03:52,992
+<i>Até alimentamos os sem-facção,</i>
+
+32
+00:03:52,993 --> 00:03:55,591
+<i>os que não se integram</i>
+<i>em lado nenhum.</i>
+
+33
+00:03:56,371 --> 00:04:00,138
+<i>Como somos funcionários públicos,</i>
+<i>confiam-nos o governo.</i>
+
+34
+00:04:01,334 --> 00:04:05,101
+<i>O meu pai trabalha</i>
+<i>com o nosso líder, o Marcus.</i>
+
+35
+00:04:08,049 --> 00:04:11,441
+<i>Tudo funciona,</i>
+<i>todos sabem o seu lugar.</i>
+
+36
+00:04:12,137 --> 00:04:14,068
+<i>Excepto eu.</i>
+
+37
+00:04:24,607 --> 00:04:27,915
+<i>A minha mãe diz que esquecermo-nos</i>
+<i>de nós mesmos é uma arte.</i>
+
+38
+00:04:30,822 --> 00:04:32,990
+<i>Mas ainda não a domino.</i>
+
+39
+00:04:32,991 --> 00:04:37,300
+<i>O meu dever é nunca pensar em mim</i>
+<i>e ajudar sempre o próximo.</i>
+
+40
+00:04:39,456 --> 00:04:41,846
+<i>Não devo demorar-me ao espelho.</i>
+
+41
+00:04:45,420 --> 00:04:47,185
+Estás nervosa?
+
+42
+00:04:48,173 --> 00:04:49,979
+Não.
+
+43
+00:04:50,717 --> 00:04:53,093
+Tu estavas, quando fizeste a prova?
+
+44
+00:04:53,094 --> 00:04:55,068
+Não.
+
+45
+00:04:55,555 --> 00:04:57,445
+Estava aterrorizada.
+
+46
+00:04:58,141 --> 00:05:01,240
+Mas não tinha motivos para isso,
+nem tu.
+
+47
+00:05:10,195 --> 00:05:11,876
+Já chega.
+
+48
+00:05:14,115 --> 00:05:16,381
+As regras são para cumprir.
+
+49
+00:05:22,207 --> 00:05:24,973
+<i>Hoje, vou fazer a prova.</i>
+
+50
+00:05:27,671 --> 00:05:30,728
+<i>Tenho medo</i>
+<i>de não ficar nos Abnegados</i>
+
+51
+00:05:31,007 --> 00:05:33,648
+<i>e ter de deixar a minha família.</i>
+
+52
+00:05:35,220 --> 00:05:38,444
+<i>Mas tenho ainda mais receio</i>
+<i>de ficar na facção.</i>
+
+53
+00:05:40,183 --> 00:05:41,976
+<i>Para o meu irmão Caleb, é fácil.</i>
+
+54
+00:05:41,977 --> 00:05:43,435
+Deixe-me ajudá-la.
+
+55
+00:05:43,436 --> 00:05:45,243
+<i>É um Abnegado nato.</i>
+
+56
+00:05:46,481 --> 00:05:49,900
+- Trazes os outros sacos, Beatrice?
+- Desculpa.
+
+57
+00:05:49,901 --> 00:05:52,569
+Tê-la-ias ajudado
+se fosse cega ou amputada?
+
+58
+00:05:52,570 --> 00:05:56,004
+- Estava a pensar ajudá-la.
+- Não é assim tão difícil.
+
+59
+00:05:56,032 --> 00:05:58,006
+Para ti, talvez não.
+
+60
+00:05:58,118 --> 00:06:01,551
+Acalma-te, Beatrice.
+Respira fundo e confia na prova.
+
+61
+00:06:02,414 --> 00:06:04,345
+<i>Confiar na prova...</i>
+
+62
+00:06:04,582 --> 00:06:08,099
+<i>A prova dir-me-á quem sou,</i>
+<i>qual é o meu lugar.</i>
+
+63
+00:06:10,171 --> 00:06:12,020
+<i>Serei inteligente?</i>
+
+64
+00:06:13,258 --> 00:06:15,092
+<i>Amável?</i>
+
+65
+00:06:15,093 --> 00:06:17,025
+<i>Serei honesta?</i>
+
+66
+00:06:17,304 --> 00:06:19,193
+<i>Altruísta?</i>
+
+67
+00:06:20,098 --> 00:06:21,640
+<i>Ou corajosa?</i>
+
+68
+00:06:21,641 --> 00:06:22,975
+Ouçam.
+
+69
+00:06:22,976 --> 00:06:27,730
+É verdade que dão toda a comida
+que não recebemos aos sem-facção?
+
+70
+00:06:27,731 --> 00:06:29,732
+- É verdade?
+- Sim.
+
+71
+00:06:29,733 --> 00:06:32,484
+Mentiroso.
+Porque estás a mentir-me?
+
+72
+00:06:32,485 --> 00:06:36,044
+Toda a gente sabe que ficam com ela.
+Porque não admitem?
+
+73
+00:06:38,491 --> 00:06:41,591
+Estou a falar convosco.
+São surdos ou fazem-se?
+
+74
+00:06:42,787 --> 00:06:44,677
+Beatrice
+
+75
+00:06:45,373 --> 00:06:47,096
+Não.
+
+76
+00:06:59,054 --> 00:07:01,069
+Vamos lá, pessoal!
+
+77
+00:07:10,690 --> 00:07:13,122
+INTRÉPIDOS
+
+78
+00:07:18,782 --> 00:07:22,743
+Há cem anos, depois da guerra,
+os fundadores criaram um sistema
+
+79
+00:07:22,744 --> 00:07:26,552
+que criam poder evitar conflitos
+e assegurar uma paz perene,
+
+80
+00:07:26,915 --> 00:07:30,250
+Hoje, as provas de aptidão
+baseadas na vossa personalidade
+
+81
+00:07:30,251 --> 00:07:32,670
+atribuir-vos-ão uma das facções.
+
+82
+00:07:32,671 --> 00:07:36,048
+Apesar de crermos que a escolha
+da facção indicada pela prova
+
+83
+00:07:36,049 --> 00:07:39,635
+é a melhor garantia de sucesso
+dentro do sistema de facções,
+
+84
+00:07:39,636 --> 00:07:42,805
+amanhã, terão o direito de escolher,
+na Cerimónia da Escolha,
+
+85
+00:07:42,806 --> 00:07:46,781
+<i>uma das cinco facções,</i>
+<i>independentemente dos resultados.</i>
+
+86
+00:07:47,018 --> 00:07:52,620
+<i>Contudo, uma vez feita a escolha,</i>
+<i>não vos será permitido mudar.</i>
+
+87
+00:08:10,709 --> 00:08:14,017
+Qual é a cena dos Abnegados
+com os espelhos?
+
+88
+00:08:14,045 --> 00:08:16,352
+Repudiamos a vaidade.
+
+89
+00:08:16,631 --> 00:08:18,771
+Eu sei. Senta-te.
+
+90
+00:08:31,563 --> 00:08:34,162
+Sou a Tori e vou conduzir a tua prova.
+
+91
+00:08:34,482 --> 00:08:38,625
+Farás uma série de escolhas para
+testar a tua aptidão para cada facção,
+
+92
+00:08:38,653 --> 00:08:41,127
+até chegares a um resultado.
+
+93
+00:08:41,489 --> 00:08:43,240
+Eu não me preocuparia.
+
+94
+00:08:43,241 --> 00:08:47,550
+95% fica na facção de origem
+e olhando para ti
+
+95
+00:08:51,458 --> 00:08:54,098
+- O que é isto?
+- Bota abaixo.
+
+96
+00:10:15,166 --> 00:10:17,181
+Escolhe.
+
+97
+00:10:17,669 --> 00:10:20,685
+Agora,
+antes que seja demasiado tarde.
+
+98
+00:10:21,089 --> 00:10:24,008
+- Porquê? Para que servem?
+- Escolhe.
+
+99
+00:10:24,009 --> 00:10:25,648
+Diz-me.
+
+100
+00:11:05,258 --> 00:11:07,273
+Cãozinho!
+
+101
+00:11:27,989 --> 00:11:32,076
+Levanta-te. Vamos sair pelas traseiras,
+antes que apareça um supervisor.
+
+102
+00:11:32,077 --> 00:11:34,036
+- Qual foi o resultado?
+- Anda.
+
+103
+00:11:34,037 --> 00:11:35,635
+O que aconteceu?
+
+104
+00:11:37,082 --> 00:11:40,626
+Diz à tua família que o soro te fez mal
+e que te mandei para casa.
+
+105
+00:11:40,627 --> 00:11:42,767
+Mas qual foi o resultado?
+
+106
+00:11:43,463 --> 00:11:45,436
+Abnegados,
+
+107
+00:11:46,424 --> 00:11:49,190
+Eruditos e Intrépidos.
+
+108
+00:11:50,261 --> 00:11:51,637
+Intrépidos
+
+109
+00:11:51,638 --> 00:11:55,557
+- O teu resultado foi inconclusivo.
+- Impossível, não faz sentido.
+
+110
+00:11:55,558 --> 00:11:59,367
+Não é impossível,
+mas é extremamente raro.
+
+111
+00:12:01,231 --> 00:12:03,579
+Chamam a isso ser Divergente.
+
+112
+00:12:04,651 --> 00:12:07,027
+Não contes a ninguém,
+nem aos teus pais.
+
+113
+00:12:07,028 --> 00:12:10,072
+Para todos os efeitos,
+ficaste colocada nos Abnegados,
+
+114
+00:12:10,073 --> 00:12:12,783
+porque é o resultado
+que inseri manualmente.
+
+115
+00:12:12,784 --> 00:12:15,216
+O que faço na Cerimónia da Escolha?
+
+116
+00:12:15,370 --> 00:12:17,079
+Hoje, ia saber o que fazer.
+
+117
+00:12:17,080 --> 00:12:19,999
+A prova devia dizer-me
+qual é a minha facção.
+
+118
+00:12:20,000 --> 00:12:23,891
+- Devíamos confiar na prova.
+- A prova não funcionou contigo.
+
+119
+00:12:25,672 --> 00:12:27,729
+Terás de confiar em ti mesma.
+
+120
+00:13:15,472 --> 00:13:17,612
+O que te aconteceu?
+
+121
+00:13:17,682 --> 00:13:19,864
+Onde te meteste depois da prova?
+
+122
+00:13:19,893 --> 00:13:22,992
+Senti-me mal
+e dispensaram-me mais cedo.
+
+123
+00:13:23,021 --> 00:13:25,078
+Terminaste a prova?
+
+124
+00:13:29,069 --> 00:13:31,376
+Qual foi o teu resultado?
+
+125
+00:13:33,114 --> 00:13:34,796
+Qual foi o teu?
+
+126
+00:13:36,743 --> 00:13:39,411
+Porque te foste embora
+sem avisar ninguém?
+
+127
+00:13:39,412 --> 00:13:41,344
+Senti-me mal.
+
+128
+00:13:41,539 --> 00:13:46,683
+Beatrice, acho que não compreendes
+o escrutínio a que estamos sujeitos.
+
+129
+00:13:46,878 --> 00:13:50,186
+Estão a fazer de tudo
+para nos desacreditar.
+
+130
+00:13:50,924 --> 00:13:53,564
+- Quem?
+- Os Eruditos.
+
+131
+00:13:53,760 --> 00:13:56,679
+Acham que deviam ser eles
+a facção governante e não nós.
+
+132
+00:13:56,680 --> 00:14:01,016
+- Tens de ter cuidado, percebes?
+- Até o Marcus está a ser visado.
+
+133
+00:14:01,017 --> 00:14:02,865
+Porquê?
+
+134
+00:14:04,270 --> 00:14:06,577
+É uma acusação antiga.
+
+135
+00:14:07,065 --> 00:14:09,330
+Dizem que maltratou o filho
+
+136
+00:14:09,609 --> 00:14:12,194
+e que foi por isso
+que o rapaz deixou a facção.
+
+137
+00:14:12,195 --> 00:14:13,612
+- É verdade?
+- Não.
+
+138
+00:14:13,613 --> 00:14:15,155
+Claro que não.
+
+139
+00:14:15,156 --> 00:14:18,423
+Há imensos motivos
+para as crianças mudarem de facção.
+
+140
+00:14:25,291 --> 00:14:28,391
+Não fiquem muito tempo,
+precisam de dormir bem.
+
+141
+00:14:29,462 --> 00:14:31,436
+Para amanhã.
+
+142
+00:14:35,010 --> 00:14:36,983
+Eu
+
+143
+00:14:40,932 --> 00:14:42,739
+Adoramos-vos.
+
+144
+00:14:55,280 --> 00:14:57,128
+Boa noite.
+
+145
+00:14:58,408 --> 00:15:01,049
+Estou muito orgulhosa de ti, querida.
+
+146
+00:15:11,713 --> 00:15:13,937
+- Beatrice,
+- O que foi.
+
+147
+00:15:14,716 --> 00:15:17,148
+Amanhã, quando escolhermos
+
+148
+00:15:19,179 --> 00:15:22,570
+- Tens de pensar na nossa família.
+- Sim.
+
+149
+00:15:22,641 --> 00:15:26,074
+Mas tens de pensar em ti também.
+
+150
+00:15:27,812 --> 00:15:32,455
+<i>Sabes que podemos escapar</i>
+
+151
+00:15:34,110 --> 00:15:36,709
+<i>Porque estou a chamar</i>
+
+152
+00:15:36,905 --> 00:15:39,754
+<i>O teu nome</i>
+
+153
+00:15:40,575 --> 00:15:44,133
+<i>Não</i>
+
+154
+00:15:44,913 --> 00:15:51,057
+<i>Não consigo continuar a agarrar-me</i>
+
+155
+00:15:53,296 --> 00:15:55,979
+<i>A nós os dois</i>
+
+156
+00:15:58,551 --> 00:16:01,136
+<i>Não sei</i>
+
+157
+00:16:01,137 --> 00:16:06,364
+<i>O que está mal</i>
+
+158
+00:16:07,310 --> 00:16:09,770
+<i>Connosco</i>
+
+159
+00:16:09,771 --> 00:16:13,705
+<i>Facções, instalem-se nas áreas</i>
+<i>que vos foram atribuídas.</i>
+
+160
+00:16:19,614 --> 00:16:21,240
+Bom dia, Jeanine.
+
+161
+00:16:21,241 --> 00:16:25,133
+Bom dia, Andrew.
+Como está o Marcus a aguentar-se?
+
+162
+00:16:25,203 --> 00:16:27,246
+O melhor que pode.
+
+163
+00:16:27,247 --> 00:16:29,707
+Temos de descobrir
+quem lançou os boatos.
+
+164
+00:16:29,708 --> 00:16:32,098
+Creio que já todos sabemos.
+
+165
+00:16:32,961 --> 00:16:37,186
+Se for um membro dos Eruditos,
+prometo que descobrirei quem é.
+
+166
+00:16:37,716 --> 00:16:40,634
+São os vossos filhos.
+Não sabia que iam escolher hoje.
+
+167
+00:16:40,635 --> 00:16:43,470
+- Como te chamas?
+- Sou o Caleb, Prazer em conhecê-la.
+
+168
+00:16:43,471 --> 00:16:46,446
+Jeanine Matthews.
+E tu, como te chamas.
+
+169
+00:16:46,933 --> 00:16:48,781
+Esta é a Beatrice.
+
+170
+00:16:49,769 --> 00:16:52,521
+Têm de tomar
+uma decisão importante, hoje.
+
+171
+00:16:52,522 --> 00:16:55,983
+De certeza que os vossos pais
+vos apoiarão incondicionalmente.
+
+172
+00:16:55,984 --> 00:16:58,249
+Não é propriamente uma escolha.
+
+173
+00:16:58,945 --> 00:17:01,878
+A prova indica-nos o que fazer.
+
+174
+00:17:02,115 --> 00:17:05,451
+- Têm liberdade de escolha,
+- Mas não é isso que quer.
+
+175
+00:17:05,452 --> 00:17:07,342
+Beatrice!
+
+176
+00:17:09,372 --> 00:17:13,806
+Quero que escolhas quem és
+e a facção a que realmente pertences.
+
+177
+00:17:14,044 --> 00:17:17,546
+Não por capricho
+ou porque desejas ser algo que não és.
+
+178
+00:17:17,547 --> 00:17:20,688
+mas porque te conheces
+verdadeiramente.
+
+179
+00:17:20,759 --> 00:17:23,316
+Quero que escolhas com sensatez
+
+180
+00:17:23,970 --> 00:17:25,985
+e sei que o farás.
+
+181
+00:17:32,562 --> 00:17:36,663
+O sistema de facções é um ser vivo
+composto por células,
+
+182
+00:17:36,900 --> 00:17:38,567
+que são todos vocês.
+
+183
+00:17:38,568 --> 00:17:41,403
+O sistema só poderá
+sobreviver e medrar
+
+184
+00:17:41,404 --> 00:17:44,796
+se cada um de vocês
+ocupar o seu devido lugar.
+
+185
+00:17:45,533 --> 00:17:50,677
+O futuro pertence
+a quem sabe qual é o seu lugar.
+
+186
+00:17:54,876 --> 00:17:57,294
+Quando sairmos desta sala,
+
+187
+00:17:57,295 --> 00:18:00,130
+fá-lo-ão não como dependentes,
+
+188
+00:18:00,131 --> 00:18:03,425
+mas como membros plenos
+da nossa sociedade.
+
+189
+00:18:03,426 --> 00:18:06,095
+A facção acima do sangue.
+
+190
+00:18:06,096 --> 00:18:08,736
+A facção acima do sangue.
+
+191
+00:18:12,185 --> 00:18:14,158
+Amo-te.
+
+192
+00:18:15,021 --> 00:18:17,287
+Aconteça o que acontecer.
+
+193
+00:18:18,441 --> 00:18:20,456
+Jonathan Ziegler.
+
+194
+00:18:36,334 --> 00:18:38,182
+Eruditos.
+
+195
+00:18:39,754 --> 00:18:41,853
+Jeffrey Yates.
+
+196
+00:18:43,925 --> 00:18:45,690
+Intrépidos.
+
+197
+00:18:46,344 --> 00:18:48,526
+Morgan Stokes.
+
+198
+00:18:51,057 --> 00:18:53,156
+Cordiais.
+
+199
+00:18:57,689 --> 00:18:59,565
+Claire Satron.
+
+200
+00:18:59,566 --> 00:19:01,400
+Cândidos.
+
+201
+00:19:01,401 --> 00:19:03,527
+Sam Robertson.
+
+202
+00:19:03,528 --> 00:19:05,585
+Abnegados.
+
+203
+00:19:05,739 --> 00:19:07,754
+Caleb Prior.
+
+204
+00:19:28,053 --> 00:19:29,817
+Eruditos.
+
+205
+00:19:41,274 --> 00:19:43,456
+Silêncio, por favor.
+
+206
+00:19:44,110 --> 00:19:46,042
+Beatrice Prior.
+
+207
+00:20:43,753 --> 00:20:45,435
+Intrépidos.
+
+208
+00:20:53,388 --> 00:20:55,361
+Boa!
+
+209
+00:20:58,268 --> 00:21:00,366
+És uma de nós!
+
+210
+00:21:01,521 --> 00:21:03,453
+Bem-vinda.
+
+211
+00:21:24,669 --> 00:21:26,684
+Sim!
+
+212
+00:21:27,422 --> 00:21:29,270
+Vamos lá!
+
+213
+00:22:23,144 --> 00:22:25,159
+Está a chegar?
+
+214
+00:22:41,371 --> 00:22:43,261
+Vamos lá!
+
+215
+00:23:04,352 --> 00:23:06,159
+Anda!
+
+216
+00:23:15,905 --> 00:23:17,587
+Desculpa.
+
+217
+00:23:18,033 --> 00:23:20,006
+Caramba
+
+218
+00:23:20,910 --> 00:23:23,843
+- Chamo-me Christina.
+- Beatrice.
+
+219
+00:23:25,373 --> 00:23:28,973
+É impressão minha
+ou eles querem matar-nos?
+
+220
+00:23:41,598 --> 00:23:43,571
+Preparem-se.
+
+221
+00:23:58,990 --> 00:24:01,005
+Saltem!
+
+222
+00:24:02,619 --> 00:24:04,509
+Sim!
+
+223
+00:24:05,038 --> 00:24:07,595
+- Estão a saltar.
+- O quê?
+
+224
+00:24:09,876 --> 00:24:11,627
+E se não saltarmos?
+
+225
+00:24:11,628 --> 00:24:14,727
+O que achas que acontece?
+Tornas-te um sem-facção.
+
+226
+00:24:14,798 --> 00:24:16,646
+Boa sorte, Al.
+
+227
+00:24:25,558 --> 00:24:28,116
+- Saltamos juntas?
+- Sim.
+
+228
+00:24:29,562 --> 00:24:31,661
+Um, dois, três!
+
+229
+00:24:46,538 --> 00:24:48,511
+Prestem atenção!
+
+230
+00:24:48,957 --> 00:24:51,848
+Sou o Eric,
+um dos vossos chefes.
+
+231
+00:24:52,127 --> 00:24:55,087
+Se querem entrar nos Intrépidos,
+esta é a porta.
+
+232
+00:24:55,088 --> 00:24:59,049
+Se não tiverem coragem de saltar,
+o vosso lugar não é nos Intrépidos.
+
+233
+00:24:59,050 --> 00:25:02,525
+- Há água lá em baixo ou assim?
+- Logo vês.
+
+234
+00:25:04,014 --> 00:25:05,514
+Ou não.
+
+235
+00:25:05,515 --> 00:25:08,058
+Acabámos de saltar
+e temos de saltar outra vez?
+
+236
+00:25:08,059 --> 00:25:10,783
+Alguém tem de ser o primeiro.
+Quem se oferece?
+
+237
+00:25:20,739 --> 00:25:22,587
+Eu.
+
+238
+00:25:45,722 --> 00:25:48,196
+Isso, Empata, despe-te!
+
+239
+00:25:48,808 --> 00:25:50,990
+Pensando bem, veste-te.
+
+240
+00:26:13,541 --> 00:26:15,682
+Ainda hoje, iniciada.
+
+241
+00:26:48,910 --> 00:26:52,135
+- Empurraram-te?
+- Não.
+
+242
+00:26:55,208 --> 00:26:58,182
+- Como te chamas?
+- Chamo-me Bea
+
+243
+00:26:59,379 --> 00:27:01,380
+É uma pergunta difícil?
+
+244
+00:27:01,381 --> 00:27:03,716
+Podes escolher outro nome,
+mas pensa bem.
+
+245
+00:27:03,717 --> 00:27:05,732
+Só podes escolher um.
+
+246
+00:27:07,387 --> 00:27:10,737
+Está bem Chamo-me Tris.
+
+247
+00:27:11,683 --> 00:27:14,768
+- A primeira a saltar foi a Tris.
+- Boa, Tris!
+
+248
+00:27:14,769 --> 00:27:16,895
+Bem-vinda aos Intrépidos.
+
+249
+00:27:16,896 --> 00:27:18,870
+Muito bem!
+
+250
+00:27:31,953 --> 00:27:35,539
+Os Intrépidos vão com a Lauren,
+as transferências ficam comigo.
+
+251
+00:27:35,540 --> 00:27:37,931
+- Vão lá.
+- Por aqui.
+
+252
+00:27:39,794 --> 00:27:41,879
+Costumo trabalhar na sala de controlo,
+
+253
+00:27:41,880 --> 00:27:44,979
+mas serei o vosso instrutor
+durante o treino.
+
+254
+00:27:45,175 --> 00:27:46,717
+Chamo-me Quatro.
+
+255
+00:27:46,718 --> 00:27:48,691
+Como o número?
+
+256
+00:27:49,179 --> 00:27:50,888
+Exactamente.
+
+257
+00:27:50,889 --> 00:27:53,655
+Já tinham escolhido
+o um, o dois e o três?
+
+258
+00:27:58,355 --> 00:28:01,120
+- Como te chamas?
+- Christina.
+
+259
+00:28:05,737 --> 00:28:08,711
+Bom, Christina
+
+260
+00:28:08,782 --> 00:28:12,951
+A primeira coisa que te vou ensinar
+é que, se queres sobreviver aqui,
+
+261
+00:28:12,952 --> 00:28:15,218
+tens de ficar de bico calado.
+
+262
+00:28:15,330 --> 00:28:18,680
+- Estamos entendidos?
+- Sim.
+
+263
+00:28:20,460 --> 00:28:22,433
+Óptimo.
+
+264
+00:28:24,631 --> 00:28:26,562
+Venham comigo.
+
+265
+00:29:07,090 --> 00:29:09,188
+Isto é o Fosso.
+
+266
+00:29:09,801 --> 00:29:12,275
+O coração
+do quartel-general dos Intrépidos.
+
+267
+00:29:24,733 --> 00:29:27,707
+Vão dormir aqui
+nas próximas dez semanas.
+
+268
+00:29:28,069 --> 00:29:30,168
+Raparigas ou rapazes?
+
+269
+00:29:30,238 --> 00:29:31,989
+Todos.
+
+270
+00:29:31,990 --> 00:29:33,490
+- Boa.
+- Pode ser.
+
+271
+00:29:33,491 --> 00:29:36,424
+Se gostaram do dormitório,
+vão adorar o balneário.
+
+272
+00:29:36,745 --> 00:29:38,635
+Que maravilha.
+
+273
+00:29:40,624 --> 00:29:43,917
+- Isto é a sério?
+- Não há outra área?
+
+274
+00:29:43,918 --> 00:29:46,045
+Estão a gozar connosco?
+
+275
+00:29:46,046 --> 00:29:49,687
+Vais sentir-te em casa, Cândida,
+está tudo à vista.
+
+276
+00:29:50,050 --> 00:29:52,009
+Isto é uma piada?
+
+277
+00:29:52,010 --> 00:29:54,275
+- Mudem de roupa.
+- Que nojo.
+
+278
+00:29:54,971 --> 00:29:57,403
+Certo
+Alguém quer tomar banho?
+
+279
+00:30:00,810 --> 00:30:02,728
+Quero lá saber.
+
+280
+00:30:02,729 --> 00:30:05,036
+Belas pernas, Empata.
+
+281
+00:30:41,101 --> 00:30:43,616
+- Olá.
+- Olá. Tudo bem?
+
+282
+00:30:44,854 --> 00:30:47,120
+Sentamo-nos ali?
+
+283
+00:31:06,626 --> 00:31:09,309
+Nunca tinhas visto um hambúrguer?
+
+284
+00:31:09,337 --> 00:31:12,673
+Não Ver, já tinha visto,
+mas nunca comi.
+
+285
+00:31:12,674 --> 00:31:14,383
+Os Abnegados têm comida simples,
+
+286
+00:31:14,384 --> 00:31:17,678
+uma dieta vegetariana, sem molhos
+e com o mínimo de temperos.
+
+287
+00:31:17,679 --> 00:31:19,986
+Engoliste um manual escolar?
+
+288
+00:31:20,181 --> 00:31:22,057
+Prazer em conhecer-te também.
+
+289
+00:31:22,058 --> 00:31:25,658
+- Chamo-me Will, sou Erudito.
+- Pois claro.
+
+290
+00:31:26,062 --> 00:31:28,814
+Não leves a mal,
+mas admira-me que comam, sequer.
+
+291
+00:31:28,815 --> 00:31:31,358
+Não é egoísmo?
+Não admira que tenhas saído.
+
+292
+00:31:31,359 --> 00:31:34,028
+É preciso ser auto confiante
+para ter amigos Cândidos.
+
+293
+00:31:34,029 --> 00:31:35,696
+O que queres dizer com isso?
+
+294
+00:31:35,697 --> 00:31:38,365
+Não têm filtros, dizem tudo
+o que vos vem à cabeça.
+
+295
+00:31:38,366 --> 00:31:40,367
+Estilo "és um imbecil"?
+
+296
+00:31:40,368 --> 00:31:42,870
+Boa, Al.
+Ao menos, dizemos a verdade.
+
+297
+00:31:42,871 --> 00:31:45,247
+Os Eruditos dizem a verdade
+porque sabem os factos.
+
+298
+00:31:45,248 --> 00:31:48,222
+Não quero que falem
+das vossas antigas facções.
+
+299
+00:31:48,335 --> 00:31:50,475
+Agora, são Intrépidos.
+
+300
+00:31:51,421 --> 00:31:55,688
+Também vieste de outra facção
+ou já nasceste Intrépido?
+
+301
+00:31:57,052 --> 00:32:00,026
+- Estás a brincar comigo?
+- Não.
+
+302
+00:32:02,515 --> 00:32:05,365
+O que te faz pensar
+que podes falar comigo?
+
+303
+00:32:09,856 --> 00:32:12,288
+Deve ser porque és tão acessível.
+
+304
+00:32:20,909 --> 00:32:22,840
+Cuidado.
+
+305
+00:32:24,704 --> 00:32:27,053
+- Quatro.
+- Sim?
+
+306
+00:32:27,165 --> 00:32:30,390
+Tu, minha amiga,
+gostas de brincar com o fogo.
+
+307
+00:32:30,627 --> 00:32:32,795
+Ele foi o melhor do curso dele.
+
+308
+00:32:32,796 --> 00:32:36,312
+Tentaram promovê-lo a chefe
+duas vezes, mas ele recusou.
+
+309
+00:32:47,394 --> 00:32:49,409
+Iniciados
+
+310
+00:32:49,813 --> 00:32:51,869
+Levantem-se.
+
+311
+00:32:56,236 --> 00:32:59,154
+Escolheram juntar-se
+à facção dos guerreiros.
+
+312
+00:32:59,155 --> 00:33:03,117
+encarregada de defender a cidade
+e todos os seus habitantes.
+
+313
+00:33:03,118 --> 00:33:06,287
+Acreditamos
+em actos de coragem quotidianos
+
+314
+00:33:06,288 --> 00:33:11,681
+e na valentia que leva
+uma pessoa a defender outra.
+
+315
+00:33:12,127 --> 00:33:14,225
+Respeitem isso.
+
+316
+00:33:14,421 --> 00:33:16,561
+Encham-nos de orgulho.
+
+317
+00:34:01,468 --> 00:34:04,651
+Quero toda a gente no Fosso
+daqui a dois minutos.
+
+318
+00:34:05,930 --> 00:34:08,029
+Mexam-se!
+
+319
+00:34:12,354 --> 00:34:14,855
+O treino está dividido em duas fases.
+
+320
+00:34:14,856 --> 00:34:16,913
+A primeira é o treino físico.
+
+321
+00:34:16,941 --> 00:34:20,194
+Vão levar o vosso corpo ao limite
+e dominar a arte do combate.
+
+322
+00:34:20,195 --> 00:34:24,281
+A segunda é o treino mental.
+Mais uma vez, serão levados ao limite.
+
+323
+00:34:24,282 --> 00:34:26,867
+Vão enfrentar os vossos
+piores medos e conquistá-los,
+
+324
+00:34:26,868 --> 00:34:28,535
+a menos que eles levem a melhor.
+
+325
+00:34:28,536 --> 00:34:32,262
+Não treinam com os iniciados-Intrépidos
+mas são avaliados juntos.
+
+326
+00:34:32,332 --> 00:34:36,307
+Após a iniciação, as classificações
+determinarão os cargos que ocupam.
+
+327
+00:34:36,836 --> 00:34:39,519
+Liderança,
+protecção da vedação
+
+328
+00:34:39,839 --> 00:34:41,840
+ou impedir
+que os sem-facção se matem.
+
+329
+00:34:41,841 --> 00:34:44,607
+A classificação também
+determina quem é excluído.
+
+330
+00:34:46,972 --> 00:34:48,263
+Excluído?
+
+331
+00:34:48,264 --> 00:34:52,240
+No final de cada fase, os iniciados
+com piores notas têm de deixar-nos.
+
+332
+00:34:52,727 --> 00:34:54,687
+E depois?
+
+333
+00:34:54,688 --> 00:34:58,246
+Como não podem voltar para casa,
+tornam-se sem-facção.
+
+334
+00:34:59,985 --> 00:35:02,611
+- Porque não nos avisaram?
+- É uma regra nova.
+
+335
+00:35:02,612 --> 00:35:04,405
+Uma regra nova? Deviam ter dito.
+
+336
+00:35:04,406 --> 00:35:07,422
+Porquê? Terias escolhido outra facção?
+
+337
+00:35:08,118 --> 00:35:10,244
+Por medo?
+
+338
+00:35:10,245 --> 00:35:13,636
+Se for esse o caso,
+mais vale irem já embora.
+
+339
+00:35:14,040 --> 00:35:17,557
+Se são realmente dos nossos,
+não pensarão no fracasso.
+
+340
+00:35:18,503 --> 00:35:20,768
+Vocês escolheram-nos.
+
+341
+00:35:21,631 --> 00:35:23,896
+Agora, é a nossa vez de escolher-vos.
+
+342
+00:35:46,948 --> 00:35:51,090
+Estatisticamente, devias ter acertado
+no alvo pelo menos uma vez.
+
+343
+00:35:51,119 --> 00:35:53,134
+Nem que fosse sem querer.
+
+344
+00:35:58,877 --> 00:36:00,252
+Olá.
+
+345
+00:36:00,253 --> 00:36:02,880
+- O que se passa?
+- Os sem-facção.
+
+346
+00:36:02,881 --> 00:36:04,757
+Estão para ali sem fazer nada.
+
+347
+00:36:04,758 --> 00:36:07,649
+Olha, Empata, é a tua família nova.
+
+348
+00:36:11,056 --> 00:36:13,071
+Vai lá cumprimentá-los.
+
+349
+00:36:19,314 --> 00:36:23,164
+- Preparado para uma luta a sério?
+- Nem por sombras.
+
+350
+00:36:23,276 --> 00:36:25,458
+Primeira a saltar!
+
+351
+00:36:26,696 --> 00:36:28,753
+Vai para o ringue.
+
+352
+00:36:29,824 --> 00:36:31,965
+Última a saltar.
+
+353
+00:36:32,702 --> 00:36:35,009
+Está na hora de lutar.
+
+354
+00:36:42,003 --> 00:36:45,381
+- Quanto tempo dura o combate?
+- Até uma de vocês não aguentar.
+
+355
+00:36:45,382 --> 00:36:48,773
+- Ou até uma ceder.
+- Isso era antigamente.
+
+356
+00:36:49,135 --> 00:36:52,485
+Segundo as regras novas,
+não há desistências.
+
+357
+00:36:52,764 --> 00:36:54,765
+Queres perdê-las
+no primeiro combate?
+
+358
+00:36:54,766 --> 00:36:56,725
+Um homem corajoso nunca se rende.
+
+359
+00:36:56,726 --> 00:37:00,285
+Felizmente para ti, as regras
+eram outras quando lutámos.
+
+360
+00:37:00,313 --> 00:37:03,121
+Vão ser avaliadas,
+por isso, esmerem-se.
+
+361
+00:37:05,819 --> 00:37:07,625
+Força!
+
+362
+00:37:26,464 --> 00:37:28,605
+Não tenhas medo, Empata!
+
+363
+00:37:32,804 --> 00:37:34,652
+Boa, Tris!
+
+364
+00:37:47,736 --> 00:37:49,834
+- Boa!
+- Isso.
+
+365
+00:37:57,078 --> 00:37:59,385
+Venham cá, meninos.
+
+366
+00:38:00,290 --> 00:38:01,582
+Prestem atenção.
+
+367
+00:38:01,583 --> 00:38:03,473
+CLASSIFICAÇÃO DOS INICIADOS
+
+368
+00:38:05,211 --> 00:38:07,435
+Sabem que quadro é este?
+
+369
+00:38:07,672 --> 00:38:11,105
+É a vossa vida.
+São avaliados todos os dias.
+
+370
+00:38:11,926 --> 00:38:15,568
+Se estiverem entre os últimos
+no fim da primeira fase, estão fora.
+
+371
+00:38:17,015 --> 00:38:20,239
+- Não vou conseguir.
+- Vais, sim.
+
+372
+00:38:20,477 --> 00:38:24,369
+- Sou a mais fraca.
+- Então, és a que vai melhorar mais.
+
+373
+00:38:25,565 --> 00:38:27,608
+És dos Cândidos, não devias mentir.
+
+374
+00:38:27,609 --> 00:38:31,250
+<i>Fui</i> dos Cândidos
+e não estou a mentir.
+
+375
+00:38:31,404 --> 00:38:34,156
+Se sair, acho que os meus pais
+me aceitam de volta.
+
+376
+00:38:34,157 --> 00:38:36,256
+Não é assim que funciona.
+
+377
+00:38:37,369 --> 00:38:40,245
+Mesmo que quisessem,
+a facção não permitiria.
+
+378
+00:38:40,246 --> 00:38:43,221
+Mesmo que os meus pais
+me aceitassem
+
+379
+00:38:44,125 --> 00:38:46,516
+ já não seria o meu lugar.
+
+380
+00:38:47,420 --> 00:38:49,838
+- Isto está a tornar-se deprimente.
+- Sim.
+
+381
+00:38:49,839 --> 00:38:52,563
+Sabem o que devíamos fazer?
+Uma tatuagem.
+
+382
+00:38:59,099 --> 00:39:01,239
+Queres tatuar a cara?
+
+383
+00:39:02,185 --> 00:39:04,019
+- Gostas desta?
+- Sim.
+
+384
+00:39:04,020 --> 00:39:07,495
+- Onde a farias?
+- Não sei, O que sugeres?
+
+385
+00:39:07,983 --> 00:39:10,067
+Faz onde quiseres.
+
+386
+00:39:10,068 --> 00:39:12,152
+Está algures por aqui.
+
+387
+00:39:12,153 --> 00:39:14,252
+É esta.
+
+388
+00:39:29,879 --> 00:39:32,562
+Lembra-se de mim, não lembra?
+
+389
+00:39:33,258 --> 00:39:36,190
+- Gostava de saber se podia
+- Não.
+
+390
+00:39:36,845 --> 00:39:39,193
+Sou apenas tatuadora.
+
+391
+00:39:42,392 --> 00:39:44,449
+Está bem.
+
+392
+00:39:54,696 --> 00:39:57,045
+Gostava de fazer esta.
+
+393
+00:39:57,282 --> 00:39:59,297
+Por favor.
+
+394
+00:40:06,625 --> 00:40:10,516
+- Posso fazer-lhe uma pergunta?
+- Escolher os Intrépidos foi um erro.
+
+395
+00:40:10,837 --> 00:40:13,394
+- Eles vão descobrir-te.
+- Quem?
+
+396
+00:40:14,090 --> 00:40:17,009
+- Quem vai descobrir-me?
+- As pessoas que ameaças.
+
+397
+00:40:17,010 --> 00:40:20,179
+- Mas quem? Os Intrépidos?
+- Não, a sociedade.
+
+398
+00:40:20,180 --> 00:40:23,446
+Se não te enquadras numa categoria,
+és incontrolável.
+
+399
+00:40:24,184 --> 00:40:26,185
+Não compreendo.
+
+400
+00:40:26,186 --> 00:40:30,078
+Sou dos Intrépidos,
+Vou ser dos Intrépidos, escolhi-os.
+
+401
+00:40:31,858 --> 00:40:33,790
+Para o teu bem
+
+402
+00:40:34,277 --> 00:40:36,125
+ espero que sim.
+
+403
+00:41:43,638 --> 00:41:46,946
+És fraca, não tens músculo.
+
+404
+00:41:50,895 --> 00:41:54,189
+- Assim, nunca vais ganhar.
+- Folgo em saber.
+
+405
+00:41:54,190 --> 00:41:56,331
+Tens de usar o corpo todo.
+
+406
+00:41:56,818 --> 00:41:59,000
+Mantêm esta parte tensa.
+
+407
+00:42:01,156 --> 00:42:03,657
+- Está bem.
+- Opta pela ofensiva.
+
+408
+00:42:03,658 --> 00:42:07,383
+Como és rápida, podes vencer
+se fores a primeira a atacar.
+
+409
+00:42:08,038 --> 00:42:11,054
+Invade o espaço do adversário
+e acerta na garganta.
+
+410
+00:42:11,166 --> 00:42:13,014
+Quatro!
+
+411
+00:42:13,293 --> 00:42:15,099
+Continua.
+
+412
+00:42:23,720 --> 00:42:25,443
+Desculpa lá.
+
+413
+00:42:34,064 --> 00:42:35,787
+Vá lá, Chris
+
+414
+00:42:42,030 --> 00:42:43,530
+Para.
+
+415
+00:42:43,531 --> 00:42:45,463
+Para!
+
+416
+00:42:46,076 --> 00:42:48,202
+Desisto, desisto.
+
+417
+00:42:48,203 --> 00:42:50,301
+Precisas de parar?
+
+418
+00:42:51,873 --> 00:42:53,763
+Muito bem.
+
+419
+00:42:53,875 --> 00:42:55,890
+Deixa-me ajudar-te.
+
+420
+00:43:03,510 --> 00:43:05,010
+Obrigada.
+
+421
+00:43:05,011 --> 00:43:07,318
+Vamos fazer um intervalo!
+
+422
+00:43:15,021 --> 00:43:19,247
+- Já te sentes um pouco melhor?
+- Sim, estou bem.
+
+423
+00:43:23,780 --> 00:43:25,920
+Agarra-te à beira.
+
+424
+00:43:26,449 --> 00:43:28,423
+Ou não.
+
+425
+00:43:29,619 --> 00:43:31,787
+Tens três opções.
+
+426
+00:43:31,788 --> 00:43:34,290
+Aguenta-te
+e esqueço que foste cobarde,
+
+427
+00:43:34,291 --> 00:43:36,347
+cai e morre,
+
+428
+00:43:36,459 --> 00:43:38,600
+ou então, desiste.
+
+429
+00:43:39,379 --> 00:43:41,811
+Mas, se desistires, és expulsa.
+
+430
+00:43:51,391 --> 00:43:53,114
+Força, Chris.
+
+431
+00:44:08,158 --> 00:44:09,923
+Acabou o tempo!
+
+432
+00:44:17,959 --> 00:44:21,017
+Os Intrépidos nunca desistem.
+
+433
+00:44:27,052 --> 00:44:31,611
+Como Intrépidos, lutamos para proteger
+todas as vidas no interior da vedação.
+
+434
+00:44:32,599 --> 00:44:35,281
+É por isso que vos damos este treino.
+
+435
+00:44:36,561 --> 00:44:38,952
+Para vos ensinar a não desistir
+
+436
+00:44:41,358 --> 00:44:43,831
+ e descobrir quem é apto
+para a facção.
+
+437
+00:44:46,655 --> 00:44:50,755
+<i>O exterior está calmo há anos, mas</i>
+<i>isso pode mudar a qualquer momento.</i>
+
+438
+00:44:51,242 --> 00:44:53,633
+<i>Temos de estar preparados para tudo.</i>
+
+439
+00:45:10,512 --> 00:45:13,319
+- O que há lá fora?
+- Monstros.
+
+440
+00:45:13,932 --> 00:45:17,518
+- As quintas dos Cordiais.
+- Eu sei, mas para lá das quintas.
+
+441
+00:45:17,519 --> 00:45:20,076
+Sítios que não recuperaram da guerra.
+
+442
+00:45:20,230 --> 00:45:21,563
+Sabes o que há?
+
+443
+00:45:21,564 --> 00:45:24,580
+Digamos que a vedação
+foi construída por um motivo.
+
+444
+00:45:41,084 --> 00:45:42,765
+Bolas!
+
+445
+00:45:52,137 --> 00:45:53,985
+Tens jeito para isto.
+
+446
+00:46:01,730 --> 00:46:03,745
+Isso foi ridículo.
+
+447
+00:46:05,692 --> 00:46:07,609
+Escorregou-me da mão.
+
+448
+00:46:07,610 --> 00:46:09,542
+Então, vai buscá-la!
+
+449
+00:46:13,408 --> 00:46:16,452
+- Com eles a atirar?
+- Tens medo?
+
+450
+00:46:16,453 --> 00:46:18,621
+De ser atingido por uma faca? Sim.
+
+451
+00:46:18,622 --> 00:46:20,553
+Parem todos.
+
+452
+00:46:24,669 --> 00:46:26,809
+Põe-te à frente do alvo.
+
+453
+00:46:35,513 --> 00:46:37,654
+Quatro, dá-me uma ajudinha.
+
+454
+00:46:39,059 --> 00:46:42,742
+Vais ficar aí
+enquanto ele atira as facas.
+
+455
+00:46:44,397 --> 00:46:46,663
+Se te vir estremecer,
+
+456
+00:46:46,733 --> 00:46:48,414
+és expulso.
+
+457
+00:46:48,902 --> 00:46:53,795
+Se há algo que vão aprender aqui
+é que as ordens não são facultativas.
+
+458
+00:47:10,048 --> 00:47:12,063
+Para.
+
+459
+00:47:14,844 --> 00:47:18,555
+Qualquer um pode pôr-se à frente
+de um alvo, não prova nada.
+
+460
+00:47:18,556 --> 00:47:21,364
+Então, não te custa
+tomar o lugar dele.
+
+461
+00:47:31,653 --> 00:47:33,876
+As regras são as mesmas.
+
+462
+00:47:41,955 --> 00:47:44,095
+Então, Quatro?
+
+463
+00:47:56,886 --> 00:47:59,068
+Consegues aproximar-te mais.
+
+464
+00:47:59,556 --> 00:48:03,364
+- Queres que lhe corte as pontas?
+- Sim, um pouquinho no cocuruto.
+
+465
+00:48:17,616 --> 00:48:19,783
+Ganhaste pontos
+pela coragem, Empata,
+
+466
+00:48:19,784 --> 00:48:23,009
+mas perdeste mais
+por teres aberto a boca.
+
+467
+00:48:26,499 --> 00:48:28,389
+Tem tento.
+
+468
+00:48:29,002 --> 00:48:31,809
+Treinamos soldados, não rebeldes.
+
+469
+00:48:33,298 --> 00:48:35,480
+Por hoje, é tudo. Saiam.
+
+470
+00:48:41,681 --> 00:48:43,557
+- Estás bem?
+- Cortaste-me.
+
+471
+00:48:43,558 --> 00:48:45,531
+Foi de propósito.
+
+472
+00:48:46,645 --> 00:48:48,020
+Foi de propósito?
+
+473
+00:48:48,021 --> 00:48:50,731
+Achas que ele te deixava
+ficar incólume?
+
+474
+00:48:50,732 --> 00:48:53,539
+Se não te tivesse cortado,
+ainda ali estarias.
+
+475
+00:48:54,819 --> 00:48:57,210
+Então, devia agradecer-te?
+
+476
+00:48:59,532 --> 00:49:01,631
+Devias ser esperta.
+
+477
+00:49:02,577 --> 00:49:04,717
+Se te quisesse magoar...
+
+478
+00:49:05,205 --> 00:49:07,053
+... tê-lo-ia feito.
+
+479
+00:49:15,715 --> 00:49:17,091
+Boa!
+
+480
+00:49:17,092 --> 00:49:19,190
+Lá vem ela!
+
+481
+00:49:21,262 --> 00:49:23,180
+Gostas mesmo de brincar com o fogo.
+
+482
+00:49:23,181 --> 00:49:25,599
+Nem acredito no que disseste ao Eric.
+
+483
+00:49:25,600 --> 00:49:27,601
+Foste a primeira a fazer-lhe frente.
+
+484
+00:49:27,602 --> 00:49:30,618
+- Essa orelha... Vamos lá tratar disso.
+- Tris.
+
+485
+00:49:31,648 --> 00:49:33,538
+Estiveste bem.
+
+486
+00:49:33,650 --> 00:49:35,373
+Obrigada.
+
+487
+00:49:35,652 --> 00:49:37,750
+O que foi aquilo?
+
+488
+00:49:38,947 --> 00:49:42,032
+Impressionante, Empata. Parabéns.
+
+489
+00:49:42,033 --> 00:49:45,202
+- Cala-te.
+- O que foi? És famosa.
+
+490
+00:49:45,203 --> 00:49:49,373
+Mas não por causa da cena com o Eric,
+apareceste nas notícias. Ouve só.
+
+491
+00:49:49,374 --> 00:49:52,960
+"As transferências recentes
+de Beatrice e Caleb Prior,
+
+492
+00:49:52,961 --> 00:49:55,212
+"filhos de Andrew Prior,
+
+493
+00:49:55,213 --> 00:49:59,814
+"põem em causa os ensinamentos
+e os valores dos Abnegados.
+
+494
+00:50:00,010 --> 00:50:02,317
+"O que os motivou a sair?
+
+495
+00:50:02,512 --> 00:50:06,223
+"A resposta pode residir no ideal
+corrompido de uma facção inteira,
+
+496
+00:50:06,224 --> 00:50:09,268
+"no roubo de recursos,
+na incompetência generalizada,
+
+497
+00:50:09,269 --> 00:50:11,395
+nos maus-tratos
+infligidos às crianças."
+
+498
+00:50:11,396 --> 00:50:14,412
+Batiam-te, como batiam
+ao filho do Marcus Eaton?
+
+499
+00:50:15,233 --> 00:50:18,360
+Eles não batiam em ninguém,
+são boas pessoas.
+
+500
+00:50:18,361 --> 00:50:21,502
+Pois...
+Foi por isso que te foste embora?
+
+501
+00:50:26,328 --> 00:50:28,259
+Disse alguma coisa de mal?
+
+502
+00:50:28,663 --> 00:50:30,873
+- Ele é esquisito.
+- Sim.
+
+503
+00:50:30,874 --> 00:50:32,639
+Não faz mal.
+
+504
+00:50:38,340 --> 00:50:40,605
+O que faz ela no quartel-general?
+
+505
+00:50:44,554 --> 00:50:46,527
+Prior.
+
+506
+00:50:46,681 --> 00:50:49,906
+És a filha do Andrew Prior, não és?
+
+507
+00:50:50,560 --> 00:50:54,146
+- A Beatrice.
+- Agora, chamo-me só Tris.
+
+508
+00:50:54,147 --> 00:50:56,287
+Gosto de Tris.
+
+509
+00:51:00,445 --> 00:51:03,948
+Fizeste uma escolha impressionante,
+Tris, apesar dos teus pais
+
+510
+00:51:03,949 --> 00:51:06,172
+e do resultado da tua prova.
+
+511
+00:51:06,451 --> 00:51:09,884
+- Viu o resultado da minha prova?
+- Claro que vi.
+
+512
+00:51:10,705 --> 00:51:14,264
+Ainda bem que tiveste a esperteza
+de seguir a tua cabeça.
+
+513
+00:51:14,876 --> 00:51:17,350
+Se precisares de alguma coisa, diz.
+
+514
+00:51:26,721 --> 00:51:28,778
+Isto foi estranho.
+
+515
+00:51:29,224 --> 00:51:30,863
+Sim.
+
+516
+00:51:32,978 --> 00:51:34,770
+O que acham que se passa?
+
+517
+00:51:34,771 --> 00:51:37,287
+Aposto que andam
+à caça de Divergentes.
+
+518
+00:51:37,399 --> 00:51:40,581
+Ultimamente, os Eruditos
+não falam de outra coisa.
+
+519
+00:51:42,195 --> 00:51:45,962
+- Espera, os Divergentes existem?
+- Ora, Al...
+
+520
+00:51:53,331 --> 00:51:57,098
+Primeiro combate,
+Peter contra Tris.
+
+521
+00:51:58,461 --> 00:52:00,310
+O quê?
+
+522
+00:52:02,424 --> 00:52:04,314
+É o Eric.
+
+523
+00:52:04,342 --> 00:52:06,482
+Quer vingar-se de ti.
+
+524
+00:52:10,140 --> 00:52:12,405
+- Ouve.
+- O que foi?
+
+525
+00:52:12,934 --> 00:52:15,199
+Lembras-te do que te ensinei?
+
+526
+00:52:15,312 --> 00:52:17,604
+Primeiro golpe, em cheio na garganta.
+
+527
+00:52:17,605 --> 00:52:21,998
+E observa-o. Ele avança sempre
+antes de dar um murro.
+
+528
+00:52:22,110 --> 00:52:23,875
+Está bem?
+
+529
+00:52:30,660 --> 00:52:32,634
+Está tudo bem, Empata?
+
+530
+00:52:32,829 --> 00:52:34,802
+Pareces à beira das lágrimas.
+
+531
+00:52:35,206 --> 00:52:38,473
+- Se chorares, talvez seja meiguinho.
+- Força, Tris.
+
+532
+00:52:40,754 --> 00:52:42,560
+Boa, Tris.
+
+533
+00:52:42,714 --> 00:52:44,604
+Isso.
+
+534
+00:52:47,677 --> 00:52:49,484
+Dá-lhe.
+
+535
+00:53:02,150 --> 00:53:03,915
+Boa!
+
+536
+00:53:04,069 --> 00:53:07,460
+- Levanta-te.
+- Vá, deixem-se de brincadeiras.
+
+537
+00:53:52,158 --> 00:53:54,132
+Caramba, estás...
+
+538
+00:53:54,661 --> 00:53:56,843
+Estás com mau aspecto.
+
+539
+00:53:58,790 --> 00:54:01,014
+Há quanto tempo estou aqui?
+
+540
+00:54:01,459 --> 00:54:04,183
+- Há coisa de um dia.
+- Um dia?
+
+541
+00:54:04,713 --> 00:54:08,632
+Viram o quadro das classificações?
+Em que lugar estou?
+
+542
+00:54:08,633 --> 00:54:10,857
+Ficaste abaixo da linha.
+
+543
+00:54:13,013 --> 00:54:15,236
+Que coletes são esses?
+
+544
+00:54:17,559 --> 00:54:19,616
+Jogos de guerra.
+
+545
+00:54:20,145 --> 00:54:22,021
+- O que estás a fazer?
+- Vou convosco.
+
+546
+00:54:22,022 --> 00:54:24,440
+- Não podes.
+- O Eric diz que estás fora.
+
+547
+00:54:24,441 --> 00:54:27,206
+- O quê?
+- Disse que foste excluída.
+
+548
+00:54:29,279 --> 00:54:33,296
+O teu pai está no Conselho, Tris.
+Talvez abram uma excepção para ti.
+
+549
+00:54:35,285 --> 00:54:37,342
+Sinto muito, Tris.
+
+550
+00:54:38,038 --> 00:54:40,956
+Temos de ir.
+Vamos perder o comboio.
+
+551
+00:54:40,957 --> 00:54:42,722
+Está bem.
+
+552
+00:54:47,505 --> 00:54:50,104
+- Adeus.
+- Adeus.
+
+553
+00:54:50,342 --> 00:54:52,357
+- Adeus.
+- Adeus.
+
+554
+00:55:36,304 --> 00:55:38,027
+Obrigada.
+
+555
+00:55:44,521 --> 00:55:46,313
+- Olá.
+- Olá.
+
+556
+00:55:46,314 --> 00:55:50,150
+- O que fazes aqui?
+- Achei que tinha de apanhar o comboio.
+
+557
+00:55:50,151 --> 00:55:52,083
+Quem te deixou sair?
+
+558
+00:55:52,696 --> 00:55:54,405
+Eu.
+
+559
+00:55:54,406 --> 00:55:56,421
+Tu?
+
+560
+00:56:02,622 --> 00:56:04,679
+Muito bem.
+
+561
+00:56:16,261 --> 00:56:18,234
+Anda sentar-te.
+
+562
+00:56:18,430 --> 00:56:21,529
+O jogo é simples.
+É como o "apanha a bandeira".
+
+563
+00:56:22,976 --> 00:56:24,949
+A arma de eleição...
+
+564
+00:56:25,603 --> 00:56:27,702
+Aquilo é uma arma?
+
+565
+00:56:37,115 --> 00:56:41,577
+Dardo neuroestimulador.
+Simula a dor de um ferimento de bala.
+
+566
+00:56:41,578 --> 00:56:43,579
+Dura apenas uns minutos.
+
+567
+00:56:43,580 --> 00:56:46,457
+Teremos duas equipas.
+O Quatro e eu somos os capitães.
+
+568
+00:56:46,458 --> 00:56:49,710
+- Escolhe primeiro.
+- Muito bem.
+
+569
+00:56:49,711 --> 00:56:51,726
+Edward.
+
+570
+00:56:52,255 --> 00:56:54,131
+Eu fico com a Empata.
+
+571
+00:56:54,132 --> 00:56:58,066
+Vais escolher os mais fracos
+para os culpares da derrota?
+
+572
+00:56:58,845 --> 00:57:00,693
+Algo do género.
+
+573
+00:57:10,106 --> 00:57:11,774
+Onde se meteu a equipa do Eric?
+
+574
+00:57:11,775 --> 00:57:13,915
+Devem ter ido para o fundo do pontão.
+
+575
+00:57:17,656 --> 00:57:21,130
+Muito bem, desliguem as lanternas
+e juntem-se. Vamos lá.
+
+576
+00:57:21,993 --> 00:57:25,287
+- Qual é a vossa estratégia?
+- Escondemos bem a bandeira.
+
+577
+00:57:25,288 --> 00:57:27,706
+Localizamo-los
+e procuramos a bandeira.
+
+578
+00:57:27,707 --> 00:57:30,125
+Um ataque surpresa.
+Derrotamo-los pela força.
+
+579
+00:57:30,126 --> 00:57:32,836
+- Assim perdemos logo.
+- Atraímo-los até nós.
+
+580
+00:57:32,837 --> 00:57:34,421
+Mas não sabemos onde estão.
+
+581
+00:57:34,422 --> 00:57:36,507
+Formamos dois grupos,
+defesa e ataque.
+
+582
+00:57:36,508 --> 00:57:38,759
+- Agora és a líder?
+- Temos de decidir.
+
+583
+00:57:38,760 --> 00:57:41,901
+- Temos de ser agressivo.
+- Temos de ser espertos.
+
+584
+00:57:51,189 --> 00:57:53,190
+Não vais saltar, pois não?
+
+585
+00:57:53,191 --> 00:57:56,749
+Não, vou tentar arranjar
+uma boa posição estratégica.
+
+586
+00:57:58,280 --> 00:58:00,086
+Boa ideia.
+
+587
+00:58:02,200 --> 00:58:04,118
+Não tens de vir comigo.
+
+588
+00:58:04,119 --> 00:58:06,537
+Devias ter calma,
+levaste um enxerto.
+
+589
+00:58:06,538 --> 00:58:09,707
+Admira-me que tenhas reparado.
+Saíste a meio do combate.
+
+590
+00:58:09,708 --> 00:58:12,515
+Bem, não era algo
+que me apetecesse ver.
+
+591
+00:58:29,561 --> 00:58:31,367
+Estás bem?
+
+592
+00:58:32,731 --> 00:58:35,955
+- Sentes-te bem?
+- Sim, estou óptima.
+
+593
+00:58:40,488 --> 00:58:42,503
+Está bem assim.
+
+594
+00:58:43,867 --> 00:58:46,090
+Não, temos de subir mais.
+
+595
+00:58:47,412 --> 00:58:49,385
+Pronto...
+
+596
+00:58:49,623 --> 00:58:51,721
+Estás bem?
+
+597
+00:58:54,544 --> 00:58:56,768
+Tens medo das alturas.
+
+598
+00:58:57,380 --> 00:59:00,188
+Toda a gente
+tem medo de alguma coisa.
+
+599
+00:59:01,217 --> 00:59:03,733
+Pensava que não tinhas medo de nada.
+
+600
+00:59:13,730 --> 00:59:15,745
+Vá lá, Tris...
+
+601
+00:59:19,611 --> 00:59:21,584
+A sério?
+
+602
+00:59:24,574 --> 00:59:26,506
+És humana?
+
+603
+00:59:41,716 --> 00:59:43,982
+Isto não é mau de todo.
+
+604
+00:59:45,553 --> 00:59:47,944
+Pois.
+
+605
+00:59:52,227 --> 00:59:54,200
+Olha!
+
+606
+00:59:54,729 --> 00:59:56,689
+Ali está a bandeira.
+
+607
+00:59:56,690 --> 00:59:59,733
+<i>- Muito bem, qual é o plano?</i>
+<i>- Dividimo-nos em dois grupos.</i>
+
+608
+00:59:59,734 --> 01:00:02,834
+<i>Nós subimos por aqui</i>
+<i>e os restantes atacam o Eric.</i>
+
+609
+01:00:12,956 --> 01:00:15,305
+- Estou a vê-los!
+- Avancem!
+
+610
+01:00:16,251 --> 01:00:18,182
+Disparem os <i>very-lights!</i>
+
+611
+01:00:19,212 --> 01:00:21,088
+- Baixem-se!
+- Vamos.
+
+612
+01:00:21,089 --> 01:00:23,173
+Há mais dois, vou aproximar-me!
+
+613
+01:00:23,174 --> 01:00:25,398
+Venham comigo. Vamos,
+
+614
+01:00:27,345 --> 01:00:29,777
+- Vejam por onde andam!
+- Baixem-se!
+
+615
+01:00:30,849 --> 01:00:32,725
+- Avancem!
+- Christina.
+
+616
+01:00:32,726 --> 01:00:35,033
+- Vamos!
+- Apanhem-nos!
+
+617
+01:00:35,937 --> 01:00:37,952
+Vamos lá!
+
+618
+01:00:40,108 --> 01:00:42,109
+- Por aqui!
+- Está bem.
+
+619
+01:00:42,110 --> 01:00:44,125
+Protege-me.
+
+620
+01:00:51,870 --> 01:00:54,677
+- Diz-me se dói.
+- Diz-me tu.
+
+621
+01:00:56,333 --> 01:00:57,958
+Sua cabra!
+
+622
+01:00:57,959 --> 01:00:59,933
+Imbecil.
+
+623
+01:01:01,796 --> 01:01:03,728
+Foi brutal!
+
+624
+01:01:05,383 --> 01:01:07,357
+Abriguem-se!
+
+625
+01:01:15,977 --> 01:01:17,909
+Vai, vai!
+
+626
+01:01:33,203 --> 01:01:35,218
+Vai, Tris, eu fico de vigia.
+
+627
+01:01:57,686 --> 01:01:59,520
+Tris!
+
+628
+01:01:59,521 --> 01:02:01,619
+Boa! Excelente!
+
+629
+01:02:03,566 --> 01:02:06,082
+Tragam a bandeira!
+
+630
+01:02:06,945 --> 01:02:08,876
+Boa, Tris!
+
+631
+01:02:09,906 --> 01:02:12,366
+- Foi demais.
+- Eu sei.
+
+632
+01:02:12,367 --> 01:02:13,784
+Tenho o coração aos pulos.
+
+633
+01:02:13,785 --> 01:02:15,828
+- Tris.
+- Sim?
+
+634
+01:02:15,829 --> 01:02:18,303
+- Vem connosco.
+- Aonde vão?
+
+635
+01:02:18,498 --> 01:02:20,124
+Vamos voltar por um atalho.
+
+636
+01:02:20,125 --> 01:02:23,349
+É um ritual de iniciação
+ao estilo dos Intrépidos.
+
+637
+01:02:25,797 --> 01:02:27,729
+Despachem-se.
+
+638
+01:02:31,594 --> 01:02:33,943
+- Vamos lá a isto.
+- Sim.
+
+639
+01:02:48,612 --> 01:02:50,668
+Ena...
+
+640
+01:03:04,961 --> 01:03:06,879
+Pronto, vamos lá a isto.
+
+641
+01:03:06,880 --> 01:03:08,130
+Vamos.
+
+642
+01:03:08,131 --> 01:03:09,757
+- Estás preparado?
+- Sim.
+
+643
+01:03:09,758 --> 01:03:12,231
+- Segura-te bem!
+- Vai lá, lindo.
+
+644
+01:03:13,803 --> 01:03:15,137
+Boa!
+
+645
+01:03:15,138 --> 01:03:16,945
+É a tua vez.
+
+646
+01:03:17,724 --> 01:03:19,864
+Força, Tris!
+
+647
+01:03:21,561 --> 01:03:23,576
+Vai, miúda.
+
+648
+01:03:24,606 --> 01:03:27,538
+- Força nisso!
+- Força, Tris!
+
+649
+01:03:29,527 --> 01:03:31,501
+É como voar!
+
+650
+01:03:32,697 --> 01:03:35,713
+- Não te esqueças de travar no fim.
+- Está bem.
+
+651
+01:03:36,618 --> 01:03:38,967
+Boa! Isso mesmo!
+
+652
+01:03:39,079 --> 01:03:41,580
+- Tudo a postos?
+- O arnês está bem preso.
+
+653
+01:03:41,581 --> 01:03:43,763
+Sim!
+
+654
+01:03:43,792 --> 01:03:48,851
+<i>Afinal, há um motivo</i>
+
+655
+01:03:50,090 --> 01:03:55,191
+<i>Para ter percorrido aqueles campos</i>
+
+656
+01:03:56,554 --> 01:04:01,447
+<i>Deixa o sangue correr</i>
+<i>Deixa andar</i>
+
+657
+01:04:03,019 --> 01:04:08,204
+<i>Leva-me para longe</i>
+
+658
+01:04:16,658 --> 01:04:21,759
+<i>Vê tudo</i>
+
+659
+01:04:21,997 --> 01:04:27,223
+<i>Faz-te à estrada</i>
+<i>E resolve tudo</i>
+
+660
+01:04:42,392 --> 01:04:44,991
+- Puxa o freio!
+- Trava!
+
+661
+01:05:03,872 --> 01:05:05,789
+Boa!
+
+662
+01:05:05,790 --> 01:05:07,889
+Sim!
+
+663
+01:05:17,177 --> 01:05:18,983
+Tris.
+
+664
+01:05:25,477 --> 01:05:27,450
+- Olá.
+- Olá.
+
+665
+01:05:27,896 --> 01:05:29,786
+Parabéns.
+
+666
+01:05:29,814 --> 01:05:31,621
+Obrigada.
+
+667
+01:05:31,983 --> 01:05:35,291
+Queria só dizer-te
+que estiveste muito bem.
+
+668
+01:05:35,487 --> 01:05:37,460
+Foste corajosa.
+
+669
+01:05:39,324 --> 01:05:41,381
+Sim.
+
+670
+01:05:43,578 --> 01:05:46,636
+Enfim, devias voltar
+para junto dos teus amigos.
+
+671
+01:05:48,124 --> 01:05:50,014
+Está bem.
+
+672
+01:06:01,096 --> 01:06:05,933
+Se ficarem acima da linha vermelha,
+passam à segunda fase do treino.
+
+673
+01:06:05,934 --> 01:06:09,701
+Se ficarem abaixo,
+não perderemos mais tempo convosco.
+
+674
+01:06:10,230 --> 01:06:12,287
+Aqui estão as classificações.
+
+675
+01:06:15,068 --> 01:06:16,860
+Sim!
+
+676
+01:06:16,861 --> 01:06:18,751
+Boa!
+
+677
+01:06:20,073 --> 01:06:21,699
+Sim!
+
+678
+01:06:21,700 --> 01:06:23,464
+Muito bem!
+
+679
+01:06:25,745 --> 01:06:28,553
+- Conseguiste!
+- Conseguiste, Tris!
+
+680
+01:06:34,087 --> 01:06:36,644
+Estou a segurar. Obrigado.
+
+681
+01:06:42,887 --> 01:06:44,944
+Toma. Próximo.
+
+682
+01:06:45,849 --> 01:06:47,530
+Leva.
+
+683
+01:06:51,229 --> 01:06:53,202
+Toma.
+
+684
+01:06:53,315 --> 01:06:56,442
+Passamos à segunda fase
+e esta é a nossa recompensa.
+
+685
+01:06:56,443 --> 01:06:57,985
+Atira!
+
+686
+01:06:57,986 --> 01:06:59,834
+Muito glamoroso.
+
+687
+01:07:03,408 --> 01:07:05,340
+Põe lá ao fundo.
+
+688
+01:07:07,162 --> 01:07:09,135
+Toma.
+
+689
+01:07:41,154 --> 01:07:42,835
+Mãe?
+
+690
+01:07:43,114 --> 01:07:44,963
+Mãe...
+
+691
+01:07:46,493 --> 01:07:49,175
+- A minha menina!
+- Mãe...
+
+692
+01:07:50,080 --> 01:07:53,082
+- O que fazes aqui?
+- Sabia que te mandariam para aqui.
+
+693
+01:07:53,083 --> 01:07:56,683
+Olha para ti!
+Meu Deus, estás tão forte e bonita.
+
+694
+01:07:57,587 --> 01:08:00,965
+- Mãe, não podes estar aqui.
+- Eu sei, mas corres perigo.
+
+695
+01:08:00,966 --> 01:08:03,773
+- O quê?
+- Tenho de fazer-te uma pergunta.
+
+696
+01:08:03,969 --> 01:08:07,568
+Não ficaste doente no dia
+da prova de aptidão, pois não?
+
+697
+01:08:07,639 --> 01:08:10,029
+- Eu...
+- Qual foi o resultado?
+
+698
+01:08:11,518 --> 01:08:14,409
+Não há problema, querida,
+podes dizer-me.
+
+699
+01:08:19,276 --> 01:08:22,250
+O resultado foi inconclusivo.
+
+700
+01:08:22,529 --> 01:08:24,419
+Divergente?
+
+701
+01:08:25,031 --> 01:08:28,117
+Não podes contar a ninguém.
+Nem aos teus amigos e instrutores.
+
+702
+01:08:28,118 --> 01:08:30,758
+- Não confies em ninguém,.- Não confio.
+
+703
+01:08:31,037 --> 01:08:34,290
+As pessoas sempre se sentiram
+ameaçadas pelos Divergentes,
+
+704
+01:08:34,291 --> 01:08:37,209
+mas agora os Eruditos andam
+à procura deles por todo o lado.
+
+705
+01:08:37,210 --> 01:08:40,045
+Porquê? O que sou eu, mãe?
+
+706
+01:08:40,046 --> 01:08:45,189
+Não te enquadras, a tua mente segue
+milhões de direcções, Têm medo de ti.
+
+707
+01:08:45,218 --> 01:08:48,595
+A segunda fase do treino
+é a mais perigosa.
+
+708
+01:08:48,596 --> 01:08:51,223
+Vão entrar na tua cabeça
+e ver como reages ao medo.
+
+709
+01:08:51,224 --> 01:08:55,311
+Mas podes passar, podes sobreviver
+nos Intrépidos, Já vi acontecer.
+
+710
+01:08:55,312 --> 01:08:58,314
+Como sabes tanto sobre isto,
+sobre os Intrépidos?
+
+711
+01:08:58,315 --> 01:09:00,774
+Eu não venho ao caso,
+não podem saber quem és.
+
+712
+01:09:00,775 --> 01:09:03,374
+- Espera... És uma Intrépida?
+- Ouve-me.
+
+713
+01:09:05,655 --> 01:09:07,754
+O que estás a fazer?
+
+714
+01:09:12,078 --> 01:09:14,844
+Já carregámos o camião,
+Vamos embora.
+
+715
+01:09:34,476 --> 01:09:36,449
+O que lhe fizeram?
+
+716
+01:09:38,146 --> 01:09:39,994
+Tris.
+
+717
+01:09:51,034 --> 01:09:52,840
+Senta-te.
+
+718
+01:09:56,873 --> 01:10:01,043
+Vou dar-te um soro que estimula a zona
+do cérebro que processa o medo.
+
+719
+01:10:01,044 --> 01:10:02,850
+Fantástico.
+
+720
+01:10:02,963 --> 01:10:04,838
+Provoca uma alucinação
+
+721
+01:10:04,839 --> 01:10:08,258
+e os transmissores permitem-me
+ver as tuas imagens mentais.
+
+722
+01:10:08,259 --> 01:10:10,566
+Vês o que vai na minha mente?
+
+723
+01:10:15,266 --> 01:10:17,156
+Recosta-te.
+
+724
+01:10:34,369 --> 01:10:37,329
+Vais enfrentar
+os teus piores medos, Tris.
+
+725
+01:10:37,330 --> 01:10:40,888
+A maioria das pessoas tem
+entre 10 e 15 medos graves.
+
+726
+01:10:41,376 --> 01:10:43,377
+Tens de ter calma.
+
+727
+01:10:43,378 --> 01:10:47,937
+Tens de abrandar o ritmo cardíaco
+e a respiração e enfrentar a situação.
+
+728
+01:10:51,011 --> 01:10:52,859
+Sê corajosa.
+
+729
+01:10:53,346 --> 01:10:55,403
+<i>Sê corajosa...</i>
+
+730
+01:11:52,656 --> 01:11:54,671
+Não!
+
+731
+01:11:55,367 --> 01:11:57,298
+Parem!
+
+732
+01:11:58,787 --> 01:12:00,843
+Parem!
+
+733
+01:12:08,964 --> 01:12:10,853
+Isto não é real.
+
+734
+01:12:24,854 --> 01:12:27,078
+Pronto, está tudo bem.
+
+735
+01:12:27,107 --> 01:12:28,955
+Estás bem?
+
+736
+01:12:43,832 --> 01:12:46,973
+Quanto tempo achas
+que durou a alucinação, Tris?
+
+737
+01:12:47,752 --> 01:12:50,310
+- Vinte minutos?
+- Três.
+
+738
+01:12:51,006 --> 01:12:53,938
+Foste quatro vezes mais rápida
+do que a média.
+
+739
+01:12:55,260 --> 01:12:58,443
+Nunca vi ninguém
+sair-se tão bem à primeira.
+
+740
+01:12:58,722 --> 01:13:02,614
+Como te livraste dos pássaros?
+A imagem não era nítida.
+
+741
+01:13:03,810 --> 01:13:05,909
+Mergulhei na água.
+
+742
+01:13:07,939 --> 01:13:09,648
+Bem...
+
+743
+01:13:09,649 --> 01:13:11,859
+Para a próxima,
+vai ser bem mais fácil.
+
+744
+01:13:11,860 --> 01:13:13,319
+Tenho de repetir?
+
+745
+01:13:13,320 --> 01:13:16,488
+Tens de treinar para a prova final,
+mas és dotada.
+
+746
+01:13:16,489 --> 01:13:18,546
+Não tens com que te preocupar.
+
+747
+01:13:21,077 --> 01:13:23,912
+Tinha o corpo coberto
+de insectos minúsculos.
+
+748
+01:13:23,913 --> 01:13:27,180
+Entraram-me para os ouvidos
+e a garganta...
+
+749
+01:13:27,334 --> 01:13:28,834
+Não conseguia respirar.
+
+750
+01:13:28,835 --> 01:13:31,629
+Ouvi dizer que um rapaz,
+há dois anos,
+
+751
+01:13:31,630 --> 01:13:34,673
+ficou de tal modo em pânico
+que ia morrendo com um enfarte.
+
+752
+01:13:34,674 --> 01:13:37,649
+- O quê?
+- Já temos algo por que ansiar
+
+753
+01:13:37,927 --> 01:13:40,929
+.- Tu não tiveste problema nenhum.
+- Eu?
+
+754
+01:13:40,930 --> 01:13:43,265
+Não... Meu Deus, foi horrível.
+
+755
+01:13:43,266 --> 01:13:46,435
+Ora, ninguém se aproximou
+do teu tempo, Foste espantosa.
+
+756
+01:13:46,436 --> 01:13:50,356
+- Tão espantosa que vai correr contigo.
+- Não vai nada correr comigo.
+
+757
+01:13:50,357 --> 01:13:54,749
+Passou da pior para uma das melhores.
+Alguém tem de tomar o lugar dela.
+
+758
+01:13:54,819 --> 01:13:56,570
+E quem vai ser?
+
+759
+01:13:56,571 --> 01:13:57,738
+Tu.
+
+760
+01:13:57,739 --> 01:14:01,005
+- Mas tu nunca te calas?
+- Só quero saber como o faz.
+
+761
+01:14:01,952 --> 01:14:04,954
+- Qual é o teu truque?
+- Não tenho truque nenhum.
+
+762
+01:14:04,955 --> 01:14:08,304
+Ninguém é assim tão rápido.
+Explica-nos como consegues.
+
+763
+01:14:10,168 --> 01:14:12,433
+Diz aos teus amigos, ao menos.
+
+764
+01:14:13,296 --> 01:14:15,436
+De que está ele a falar?
+
+765
+01:14:15,507 --> 01:14:18,314
+- Há um truque para facilitar a prova?
+- Não.
+
+766
+01:14:21,262 --> 01:14:24,612
+Não, não faço nada de especial.
+
+767
+01:14:27,060 --> 01:14:28,825
+Não sei...
+
+768
+01:14:29,229 --> 01:14:32,287
+- Não acredito.
+- Sim, eu sei.
+
+769
+01:14:41,700 --> 01:14:44,090
+Parece totalmente a leste.
+
+770
+01:14:54,921 --> 01:14:56,769
+Ajudem-me!
+
+771
+01:15:29,247 --> 01:15:31,387
+<i>Isto não é real.</i>
+
+772
+01:15:51,978 --> 01:15:54,035
+Como fizeste aquilo?
+
+773
+01:15:54,940 --> 01:15:56,788
+O quê?
+
+774
+01:15:57,192 --> 01:15:59,332
+Como partiste o vidro?
+
+775
+01:16:00,779 --> 01:16:03,253
+Sei lá. Parti e pronto.
+
+776
+01:16:03,740 --> 01:16:05,588
+Partiste e pronto?
+
+777
+01:16:16,920 --> 01:16:19,269
+Qual foi o resultado da tua prova?
+
+778
+01:16:20,215 --> 01:16:22,355
+Da prova de aptidão.
+
+779
+01:16:23,259 --> 01:16:25,275
+Abnegados.
+
+780
+01:16:25,553 --> 01:16:28,528
+- Não me parece.
+- O quê?
+
+781
+01:16:29,099 --> 01:16:31,447
+Acho que estás a mentir-me.
+
+782
+01:16:32,269 --> 01:16:34,534
+Porque te mentiria?
+
+783
+01:16:37,565 --> 01:16:39,789
+Vou perguntar outra vez.
+
+784
+01:16:41,236 --> 01:16:43,710
+Qual foi o resultado da tua prova?
+
+785
+01:16:46,283 --> 01:16:48,256
+Abnegados.
+
+786
+01:16:50,662 --> 01:16:52,427
+Podes ir.
+
+787
+01:16:58,461 --> 01:17:00,351
+Tris.
+
+788
+01:17:01,131 --> 01:17:05,648
+Só para que saibas,
+os Intrépidos não partem o vidro assim.
+
+789
+01:17:11,266 --> 01:17:13,684
+O meu irmão era como tu.
+
+790
+01:17:13,685 --> 01:17:16,812
+Na segunda fase,
+melhorou a um ritmo galopante.
+
+791
+01:17:16,813 --> 01:17:20,747
+No último dia das simulações,
+um dos chefes foi observá-lo.
+
+792
+01:17:22,652 --> 01:17:26,488
+Na manhã seguinte, encontrámos
+o corpo dele no fundo do abismo.
+
+793
+01:17:26,489 --> 01:17:28,588
+Livraram-se dele.
+
+794
+01:17:28,700 --> 01:17:30,242
+Quem?
+
+795
+01:17:30,243 --> 01:17:34,052
+A chefia dos Intrépidos.
+Não os deixes descobrir o que és.
+
+796
+01:17:35,498 --> 01:17:37,513
+E se já souberem?
+
+797
+01:17:38,084 --> 01:17:40,266
+Então, já estás morta.
+
+798
+01:18:14,120 --> 01:18:16,135
+Beatrice.
+
+799
+01:18:22,629 --> 01:18:24,769
+O que fazes aqui?
+
+800
+01:18:25,090 --> 01:18:27,105
+Estou em apuros.
+
+801
+01:18:31,137 --> 01:18:32,805
+O que aconteceu?
+
+802
+01:18:32,806 --> 01:18:36,308
+Não vou safar-me nos Intrépidos.
+Não me enquadro lá.
+
+803
+01:18:36,309 --> 01:18:39,200
+- Tem de ser.
+- Não consigo.
+
+804
+01:18:43,733 --> 01:18:47,041
+Não sou como eles.
+
+805
+01:18:47,237 --> 01:18:49,669
+Ninguém é, eles são doidos.
+
+806
+01:18:51,324 --> 01:18:53,450
+Talvez possa voltar
+para os Abnegados.
+
+807
+01:18:53,451 --> 01:18:55,452
+- Não podes voltar.
+- Eu sei, mas...
+
+808
+01:18:55,453 --> 01:18:57,719
+Jamais te deixariam fazer isso.
+
+809
+01:18:58,164 --> 01:19:00,249
+- Quem?
+- Os Eruditos.
+
+810
+01:19:00,250 --> 01:19:03,558
+Não vão permitir que os Abnegados
+quebrem mais regras.
+
+811
+01:19:03,920 --> 01:19:06,297
+Convenceram-se
+de que estão no governo?
+
+812
+01:19:06,298 --> 01:19:08,438
+Pode estar para breve.
+
+813
+01:19:08,883 --> 01:19:10,134
+A sério?
+
+814
+01:19:10,135 --> 01:19:13,262
+Os Eruditos deviam governar-nos.
+Os Abnegados é que não.
+
+815
+01:19:13,263 --> 01:19:16,223
+Espera, Caleb.
+Como podes dizer isso?
+
+816
+01:19:16,224 --> 01:19:19,351
+É o que as facções querem,
+agora que os Abnegados fracassaram.
+
+817
+01:19:19,352 --> 01:19:22,896
+- Não, isso é o que te dizem.
+- É verdade.
+
+818
+01:19:22,897 --> 01:19:24,440
+Não é nada verdade!
+
+819
+01:19:24,441 --> 01:19:29,278
+Não é. Há mentirosos nesta facção,
+pessoas que sabem manipular-nos.
+
+820
+01:19:29,279 --> 01:19:31,920
+- Tens de perceber isso.
+- Beatrice...
+
+821
+01:19:34,784 --> 01:19:36,883
+Acho melhor ires embora.
+
+822
+01:19:40,540 --> 01:19:43,306
+A facção acima do sangue, certo?
+
+823
+01:19:48,131 --> 01:19:50,104
+Já percebi.
+
+824
+01:19:56,681 --> 01:19:58,905
+Preciso que venha comigo.
+
+825
+01:20:00,644 --> 01:20:02,492
+Parem!
+
+826
+01:20:03,647 --> 01:20:05,703
+Estás bem?
+
+827
+01:20:06,483 --> 01:20:08,414
+Sim, estou óptima.
+
+828
+01:20:23,667 --> 01:20:25,765
+Senta-te, por favor.
+
+829
+01:20:30,048 --> 01:20:32,021
+Obrigada.
+
+830
+01:20:32,217 --> 01:20:35,427
+- Fico feliz por teres aparecido.
+- Ai sim?
+
+831
+01:20:35,428 --> 01:20:37,944
+Estás satisfeita com a tua facção nova?
+
+832
+01:20:38,223 --> 01:20:39,848
+Sim.
+
+833
+01:20:39,849 --> 01:20:42,240
+Mas vieste ver o teu irmão.
+
+834
+01:20:42,435 --> 01:20:44,645
+Só queria falar com ele.
+
+835
+01:20:44,646 --> 01:20:46,995
+Voltaste a ver os teus pais?
+
+836
+01:20:47,607 --> 01:20:49,539
+Não.
+
+837
+01:20:51,278 --> 01:20:53,459
+É difícil esquecer.
+
+838
+01:20:54,364 --> 01:20:56,740
+A facção acima do sangue.
+
+839
+01:20:56,741 --> 01:21:00,369
+É um ideal importante,
+mas difícil de concretizar, por vezes.
+
+840
+01:21:00,370 --> 01:21:03,261
+Vai contra a natureza humana.
+
+841
+01:21:03,415 --> 01:21:07,307
+Mas é precisamente essa fraqueza
+que temos de subjugar.
+
+842
+01:21:07,585 --> 01:21:10,546
+Acha que a natureza humana
+é uma fraqueza?
+
+843
+01:21:10,547 --> 01:21:13,646
+Acho que a natureza humana
+é o inimigo.
+
+844
+01:21:14,217 --> 01:21:17,928
+Ter segredos, mentir e roubar
+faz parte da natureza humana.
+
+845
+01:21:17,929 --> 01:21:19,805
+Quero erradicar isso.
+
+846
+01:21:19,806 --> 01:21:24,532
+Só assim conseguiremos ter
+uma sociedade estável e pacífica.
+
+847
+01:21:26,938 --> 01:21:29,412
+Ajudar-me-ias a fazer isso, certo'
+
+848
+01:21:29,899 --> 01:21:31,915
+Como posso ajudá-la?
+
+849
+01:21:32,193 --> 01:21:36,739
+Tens noção de que os Abnegados
+andam a minar o sistema, a violar leis
+
+850
+01:21:36,740 --> 01:21:38,963
+e a proteger Divergentes?
+
+851
+01:21:41,703 --> 01:21:43,718
+Não sabia disso.
+
+852
+01:21:45,206 --> 01:21:49,807
+Mas, se isso for verdade,
+fico feliz por ter saído.
+
+853
+01:21:52,005 --> 01:21:56,147
+Preciso de saber que posso
+contar contigo para impor a lei,
+
+854
+01:21:56,259 --> 01:21:59,219
+mesmo que o transgressor
+seja alguém próximo,
+
+855
+01:21:59,220 --> 01:22:01,110
+um ente querido.
+
+856
+01:22:02,599 --> 01:22:04,572
+Claro que sim.
+
+857
+01:22:05,602 --> 01:22:07,533
+Óptimo.
+
+858
+01:22:09,064 --> 01:22:12,038
+O meu motorista
+leva-te ao quartel-general.
+
+859
+01:22:57,028 --> 01:22:59,127
+Vamos lá! Empurra-a!
+
+860
+01:23:01,283 --> 01:23:03,492
+Vá, empurra-a! Empurra-a!
+
+861
+01:23:03,493 --> 01:23:05,341
+Então?
+
+862
+01:23:26,891 --> 01:23:28,865
+Estás bem?
+
+863
+01:23:28,935 --> 01:23:31,784
+- Sim.
+- Anda, vamos embora.
+
+864
+01:23:44,284 --> 01:23:46,174
+Veste isto.
+
+865
+01:23:46,828 --> 01:23:48,704
+Obrigada.
+
+866
+01:23:48,705 --> 01:23:51,262
+- Aqui, estás segura.
+- Está bem.
+
+867
+01:24:03,637 --> 01:24:06,110
+- Desculpa.
+- Não faz mal.
+
+868
+01:24:12,562 --> 01:24:14,563
+Nem acredito que o Al...
+
+869
+01:24:14,564 --> 01:24:17,622
+Estás a subir na classificação
+e ele a descer.
+
+870
+01:24:18,485 --> 01:24:20,778
+Isso fá-lo odiar-se e odiar-te.
+
+871
+01:24:20,779 --> 01:24:24,128
+Está com medo, só isso.
+
+872
+01:24:24,616 --> 01:24:26,283
+Toda a gente tem medo.
+
+873
+01:24:26,284 --> 01:24:30,134
+Eu sei, mas o medo tem um efeito
+estranho sobre pessoas como ele.
+
+874
+01:24:30,163 --> 01:24:32,220
+Mas não sobre ti.
+
+875
+01:24:32,958 --> 01:24:35,848
+O medo não te paralisa, desperta-te.
+
+876
+01:24:37,379 --> 01:24:39,394
+Já o vi.
+
+877
+01:24:52,978 --> 01:24:55,076
+Devias deitar-te.
+
+878
+01:24:56,189 --> 01:24:58,955
+- Tenta dormir.
+- Sim.
+
+879
+01:24:59,025 --> 01:25:01,165
+Eu durmo no chão.
+
+880
+01:25:25,385 --> 01:25:28,109
+- Como te sentes?
+- Melhor.
+
+881
+01:25:28,680 --> 01:25:30,486
+Ainda bem.
+
+882
+01:25:32,642 --> 01:25:34,782
+Onde foste, ontem?
+
+883
+01:25:35,812 --> 01:25:38,036
+Fui ver o meu irmão.
+
+884
+01:25:40,358 --> 01:25:43,207
+Estás a ficar entediada aqui, é isso?
+
+885
+01:25:44,529 --> 01:25:47,003
+O meu irmão disse que...
+
+886
+01:25:47,449 --> 01:25:51,507
+Acha que os Eruditos estão a planear
+derrubar os Abnegados.
+
+887
+01:25:52,329 --> 01:25:54,594
+Achas que fariam isso?
+
+888
+01:25:55,624 --> 01:25:58,097
+Sim, acho que é possível.
+
+889
+01:25:59,586 --> 01:26:02,560
+Depende do que estiverem
+dispostos a fazer.
+
+890
+01:26:04,299 --> 01:26:06,564
+Estou preocupada com os meus pais.
+
+891
+01:26:09,846 --> 01:26:11,861
+Pois...
+
+892
+01:26:12,849 --> 01:26:16,241
+Mas acho que devias
+preocupar-te com outras coisas.
+
+893
+01:26:16,770 --> 01:26:18,868
+Não achas?
+
+894
+01:26:19,898 --> 01:26:21,746
+Sim.
+
+895
+01:26:26,237 --> 01:26:28,086
+É melhor ir andando.
+
+896
+01:26:40,835 --> 01:26:42,558
+Olá.
+
+897
+01:26:43,254 --> 01:26:45,228
+Olá.
+
+898
+01:26:45,298 --> 01:26:48,425
+- Essa camisola é tua?
+- Não.
+
+899
+01:26:48,426 --> 01:26:51,679
+- O que te aconteceu, ontem?
+- Tris, posso falar contigo?
+
+900
+01:26:51,680 --> 01:26:54,765
+Ouve, só quero pedir-te desculpa.
+
+901
+01:26:54,766 --> 01:26:58,950
+Não sei o que me deu.
+Achas que consegues perdoar-me?
+
+902
+01:27:01,231 --> 01:27:04,275
+Se voltares a aproximar-te de mim,
+mato-te.
+
+903
+01:27:04,276 --> 01:27:07,250
+- Tris.
+- Afasta-te de mim!
+
+904
+01:27:07,946 --> 01:27:10,086
+És um cobarde.
+
+905
+01:27:22,627 --> 01:27:26,644
+Nem acredito no que ele fez.
+Não é nada dele.
+
+906
+01:27:26,673 --> 01:27:28,340
+Anda.
+
+907
+01:27:28,341 --> 01:27:30,315
+O que se passa?
+
+908
+01:27:32,971 --> 01:27:34,986
+Vamos lá.
+
+909
+01:27:38,602 --> 01:27:40,742
+Meu Deus!
+
+910
+01:27:41,062 --> 01:27:43,286
+Acho que se atirou.
+
+911
+01:27:58,413 --> 01:28:00,386
+Tris.
+
+912
+01:28:00,457 --> 01:28:03,473
+- Tris!
+- Deixa-me em paz.
+
+913
+01:28:04,294 --> 01:28:06,476
+Sinto muito pelo Al.
+
+914
+01:28:06,755 --> 01:28:08,422
+Ele morreu por minha causa.
+
+915
+01:28:08,423 --> 01:28:11,689
+A culpa não foi tua.
+Foi uma opção dele.
+
+916
+01:28:11,885 --> 01:28:15,652
+Ia tornar-se um sem-facção.
+Ia chumbar a prova final.
+
+917
+01:28:16,097 --> 01:28:18,112
+E eu também vou.
+
+918
+01:28:21,144 --> 01:28:23,368
+Porque dizes isso?
+
+919
+01:28:27,901 --> 01:28:29,958
+Sabes bem porquê
+
+920
+01:28:32,447 --> 01:28:35,991
+E mal os outros descobrirem,
+vão matar-me.
+
+921
+01:28:35,992 --> 01:28:38,549
+Não permitirei que isso aconteça.
+
+922
+01:28:48,755 --> 01:28:50,728
+Fecha a porta.
+
+923
+01:28:51,758 --> 01:28:54,677
+- Vais treinar.
+- Na minha paisagem dos medos?
+
+924
+01:28:54,678 --> 01:28:56,943
+Não, na minha.
+
+925
+01:28:57,847 --> 01:29:00,015
+Vamos fazer isto juntos.
+
+926
+01:29:00,016 --> 01:29:02,156
+Já fizeste isto?
+
+927
+01:29:03,687 --> 01:29:05,827
+Não, nunca.
+
+928
+01:29:08,358 --> 01:29:10,498
+De certeza que queres?
+
+929
+01:29:11,194 --> 01:29:13,376
+Porque não quereria?
+
+930
+01:29:14,614 --> 01:29:19,799
+Sei lá, não sei nada sobre ti
+e vais deixar-me entrar na tua mente?
+
+931
+01:29:19,911 --> 01:29:23,136
+- Tens medo disso?
+- Tu não tens?
+
+932
+01:29:24,708 --> 01:29:26,472
+Não.
+
+933
+01:30:07,292 --> 01:30:09,265
+Medo das alturas...
+
+934
+01:30:09,419 --> 01:30:11,225
+Não me surpreende.
+
+935
+01:30:15,925 --> 01:30:17,801
+Isto não é real.
+
+936
+01:30:17,802 --> 01:30:19,762
+- Podemos saltar.
+- Não,
+
+937
+01:30:19,763 --> 01:30:23,265
+Um Divergente saltaria,
+um Intrépido iria até àquele edifício.
+
+938
+01:30:23,266 --> 01:30:25,684
+Se queres passar
+e evitar ser descoberta,
+
+939
+01:30:25,685 --> 01:30:28,395
+tens de fazer as coisas
+à maneira dos Intrépidos.
+
+940
+01:30:28,396 --> 01:30:32,372
+Tens de encontrar uma ferramenta,
+um mecanismo de sobrevivência.
+
+941
+01:31:01,846 --> 01:31:03,611
+Claustrofobia
+
+942
+01:31:03,682 --> 01:31:06,948
+Tens de travar isto.
+O que faria um Intrépido?
+
+943
+01:31:08,061 --> 01:31:10,118
+Muito bem.
+
+944
+01:31:16,278 --> 01:31:17,945
+Não tenhas pressa.
+
+945
+01:31:17,946 --> 01:31:20,795
+É divertido estar
+numa caixa minguante.
+
+946
+01:31:36,298 --> 01:31:40,565
+Por vezes, um soldado Intrépido tem
+de seguir ordens das quais discorda.
+
+947
+01:31:43,305 --> 01:31:45,320
+Quem é ela?
+
+948
+01:31:48,018 --> 01:31:50,033
+É uma inocente.
+
+949
+01:31:52,606 --> 01:31:54,746
+Tenho de matá-la.
+
+950
+01:32:02,490 --> 01:32:04,797
+Mas nunca sou capaz...
+
+951
+01:32:05,619 --> 01:32:08,009
+... a menos que desvie o olhar.
+
+952
+01:32:25,639 --> 01:32:28,488
+Porque estamos
+na zona dos Abnegados?
+
+953
+01:32:30,644 --> 01:32:33,701
+O nosso pior medo
+surge sempre em último.
+
+954
+01:32:34,564 --> 01:32:37,372
+Está nas profundezas
+da nossa mente.
+
+955
+01:32:45,951 --> 01:32:48,299
+O Marcus tinha um filho,
+
+956
+01:32:49,079 --> 01:32:51,761
+- Como se chamava?
+- Tobias.
+
+957
+01:32:52,082 --> 01:32:54,055
+<i>Tobias.</i>
+
+958
+01:32:57,295 --> 01:32:59,310
+<i>Tobias.</i>
+
+959
+01:33:00,048 --> 01:33:02,105
+<i>Tobias.</i>
+
+960
+01:33:04,970 --> 01:33:09,779
+Tobias, só quero ajudar-te
+a ser uma pessoa melhor.
+
+961
+01:33:12,519 --> 01:33:14,409
+Não!
+
+962
+01:33:14,980 --> 01:33:16,953
+Não!
+
+963
+01:33:39,337 --> 01:33:41,144
+Quatro...
+
+964
+01:33:41,506 --> 01:33:45,481
+- Quatro medos?
+- Quatro na altura e quatro agora.
+
+965
+01:33:46,970 --> 01:33:51,070
+Insisto em entrar na paisagem,
+mas acho que nunca os eliminamos.
+
+966
+01:34:01,985 --> 01:34:04,208
+Posso fazer-te uma pergunta?
+
+967
+01:34:04,779 --> 01:34:06,530
+Claro.
+
+968
+01:34:06,531 --> 01:34:08,630
+Como é a tua tatuagem?
+
+969
+01:34:13,496 --> 01:34:15,470
+Queres vê-la?
+
+970
+01:34:30,263 --> 01:34:32,111
+É incrível.
+
+971
+01:34:44,110 --> 01:34:46,042
+As facções...
+
+972
+01:34:50,200 --> 01:34:52,548
+Porque as tatuaste todas?
+
+973
+01:34:52,786 --> 01:34:54,968
+Não quero ser apenas uma coisa.
+
+974
+01:34:55,914 --> 01:34:57,929
+Não consigo.
+
+975
+01:34:58,875 --> 01:35:02,642
+Quero ser corajoso e altruísta,
+
+976
+01:35:02,712 --> 01:35:05,687
+inteligente, honesto e gentil.
+
+977
+01:35:08,051 --> 01:35:10,817
+Mas ainda estou a esforçar-me
+por ser gentil.
+
+978
+01:35:24,943 --> 01:35:29,919
+<i>Estou paralisada</i>
+
+979
+01:35:30,407 --> 01:35:35,091
+<i>Continuo à tua procura</i>
+
+980
+01:35:35,578 --> 01:35:39,873
+<i>Estou paralisada</i>
+
+981
+01:35:39,874 --> 01:35:42,098
+<i>Não percebes?</i>
+
+982
+01:35:43,461 --> 01:35:46,185
+Não quero avançar
+demasiado depressa.
+
+983
+01:35:47,674 --> 01:35:49,564
+Não faz mal.
+
+984
+01:35:50,719 --> 01:35:53,234
+Já tenho o meu cantinho no chão.
+
+985
+01:36:11,948 --> 01:36:14,255
+- Bom dia.
+- Olá.
+
+986
+01:36:15,869 --> 01:36:18,176
+Anda, quero mostrar-te uma coisa.
+
+987
+01:36:19,289 --> 01:36:21,095
+Está bem.
+
+988
+01:36:34,930 --> 01:36:36,736
+Olha.
+
+989
+01:36:41,227 --> 01:36:43,576
+- Os Eruditos.
+- Sim.
+
+990
+01:36:43,647 --> 01:36:47,121
+Vêm todas as manhãs.
+Ando a observá-los há semanas.
+
+991
+01:36:47,567 --> 01:36:51,960
+- O que fazem no quartel-general?
+- Trazem provisões, computadores...
+
+992
+01:36:53,281 --> 01:36:55,255
+E isto.
+
+993
+01:36:57,243 --> 01:36:58,577
+O que é isso?
+
+994
+01:36:58,578 --> 01:37:02,414
+Acho que é um transmissor cognitivo,
+é injectável como os soros.
+
+995
+01:37:02,415 --> 01:37:03,540
+Porquê?
+
+996
+01:37:03,541 --> 01:37:06,460
+Torna-nos mais susceptíveis
+à sugestão, mas...
+
+997
+01:37:06,461 --> 01:37:10,603
+Com a quantidade que têm,
+podiam criar um exército.
+
+998
+01:37:17,389 --> 01:37:21,684
+<i>Atenção! Todos os iniciados devem</i>
+<i>apresentar-se para a prova final.</i>
+
+999
+01:37:21,685 --> 01:37:24,909
+<i>Iniciados, apresentem-se</i>
+<i>para a prova final.</i>
+
+1000
+01:37:31,861 --> 01:37:33,835
+Estás preparada.
+
+1001
+01:37:34,030 --> 01:37:36,087
+Vais conseguir.
+
+1002
+01:37:57,762 --> 01:38:00,570
+Eles veem as tuas alucinações no ecrã.
+
+1003
+01:38:00,682 --> 01:38:04,685
+Ultrapassa os teus medos
+como um Intrépido, mas sê rápida.
+
+1004
+01:38:04,686 --> 01:38:05,978
+Certo.
+
+1005
+01:38:05,979 --> 01:38:09,815
+Se me sair demasiado bem, matam-me.
+Se for demasiado lenta, morro.
+
+1006
+01:38:09,816 --> 01:38:11,275
+Exacto.
+
+1007
+01:38:11,276 --> 01:38:13,291
+Boa sorte.
+
+1008
+01:38:21,536 --> 01:38:23,593
+Boa sorte, Tris.
+
+1009
+01:38:24,289 --> 01:38:26,304
+Espero que passes.
+
+1010
+01:40:27,871 --> 01:40:29,802
+Parabéns.
+
+1011
+01:40:37,922 --> 01:40:39,173
+Quatro...
+
+1012
+01:40:39,174 --> 01:40:41,147
+Quatro!
+
+1013
+01:40:42,218 --> 01:40:44,178
+Para, Quatro!
+
+1014
+01:40:44,179 --> 01:40:46,319
+Não és uma Intrépida?
+
+1015
+01:41:05,158 --> 01:41:07,785
+Por favor,
+diz-me que não viste aquilo.
+
+1016
+01:41:07,786 --> 01:41:10,510
+Sentir-te-ias melhor
+se dissesse que não?
+
+1017
+01:41:13,166 --> 01:41:14,973
+Saíste-te bem.
+
+1018
+01:41:15,293 --> 01:41:17,225
+E agora...
+
+1019
+01:41:18,171 --> 01:41:20,520
+Uma última prova.
+
+1020
+01:41:26,930 --> 01:41:30,446
+- Sabes o que tens de fazer.
+- O quê?
+
+1021
+01:41:31,309 --> 01:41:34,659
+- Se queres ficar nos Intrépidos...
+- Não.
+
+1022
+01:41:35,981 --> 01:41:37,829
+Fá-lo.
+
+1023
+01:41:49,911 --> 01:41:51,801
+Estás bem?
+
+1024
+01:41:55,583 --> 01:41:57,724
+Acho que correu tudo bem.
+
+1025
+01:41:58,378 --> 01:42:00,296
+Anda, vamos embora.
+
+1026
+01:42:00,297 --> 01:42:02,270
+Parabéns...
+
+1027
+01:42:02,590 --> 01:42:04,800
+... novos membros dos Intrépidos!
+
+1028
+01:42:04,801 --> 01:42:06,552
+Boa!
+
+1029
+01:42:06,553 --> 01:42:08,568
+Sim!
+
+1030
+01:42:09,764 --> 01:42:12,308
+Intrépidos! Intrépidos! Intrépidos!
+
+1031
+01:42:12,309 --> 01:42:14,810
+- Conseguimos!
+- Assim é que é, conseguimos!
+
+1032
+01:42:14,811 --> 01:42:16,409
+Somos Intrépidos!
+
+1033
+01:42:16,646 --> 01:42:18,870
+Vamos, formem filas.
+
+1034
+01:42:18,982 --> 01:42:20,663
+Formem filas, pessoal.
+
+1035
+01:42:20,817 --> 01:42:22,401
+O que se passa?
+
+1036
+01:42:22,402 --> 01:42:26,210
+<i>Iniciados, apresentem-se</i>
+<i>ao vosso comandante.</i>
+
+1037
+01:42:26,531 --> 01:42:28,588
+Prestem atenção!
+
+1038
+01:42:29,743 --> 01:42:32,911
+Antes de partirem,
+quero que formem quatro filas.
+
+1039
+01:42:32,912 --> 01:42:35,414
+Toda a gente receberá um localizador.
+
+1040
+01:42:35,415 --> 01:42:38,723
+Não façam perguntas,
+é apenas uma medida preventiva.
+
+1041
+01:42:46,259 --> 01:42:48,233
+Avancem!
+
+1042
+01:42:50,680 --> 01:42:52,737
+Vês o Quatro?
+
+1043
+01:42:53,850 --> 01:42:56,226
+- Não.
+- Próximo!
+
+1044
+01:42:56,227 --> 01:42:58,493
+- O que se passa?
+- Meu Deus.
+
+1045
+01:42:59,356 --> 01:43:01,454
+Parabéns.
+
+1046
+01:43:02,359 --> 01:43:06,501
+Devias ser a primeira da fila,
+mas... vou facilitar-te a vida.
+
+1047
+01:43:10,241 --> 01:43:12,548
+Dói como o caraças, não dói?
+
+1048
+01:43:12,869 --> 01:43:15,260
+Agora, és mesmo uma de nós.
+
+1049
+01:43:35,183 --> 01:43:37,240
+O que...
+
+1050
+01:43:46,236 --> 01:43:48,668
+<i>A facção acima do sangue.</i>
+
+1051
+01:43:51,074 --> 01:43:53,200
+<i>A facção acima do sangue.</i>
+
+1052
+01:43:53,201 --> 01:43:55,258
+Meu Deus.
+
+1053
+01:44:10,594 --> 01:44:14,305
+Eles vêem e ouvem-nos,
+só não processam da mesma forma.
+
+1054
+01:44:14,306 --> 01:44:17,155
+As ordens são emitidas
+pelo transmissor.
+
+1055
+01:44:25,775 --> 01:44:27,707
+O que se passa?
+
+1056
+01:44:29,029 --> 01:44:31,252
+O que estamos a fazer?
+
+1057
+01:44:35,160 --> 01:44:36,966
+Um Divergente.
+
+1058
+01:44:41,374 --> 01:44:43,167
+Ouve.
+
+1059
+01:44:43,168 --> 01:44:45,475
+Está tudo bem, não te preocupes.
+
+1060
+01:47:15,904 --> 01:47:17,877
+Depressa, mexam-se!
+
+1061
+01:47:19,699 --> 01:47:22,242
+Não estou a resistir! Não estou!
+
+1062
+01:47:22,243 --> 01:47:24,161
+Não! Não!
+
+1063
+01:47:24,162 --> 01:47:26,261
+Temos de encontrar os meus pais.
+
+1064
+01:47:26,665 --> 01:47:29,847
+Estou só a fazer uma pergunta.
+Temos o direito...
+
+1065
+01:47:30,919 --> 01:47:33,629
+Continua a andar.
+Onde é a tua casa?
+
+1066
+01:47:33,630 --> 01:47:35,965
+<i>Queremos apenas informações.</i>
+
+1067
+01:47:35,966 --> 01:47:38,342
+<i>Todas as casas serão revistadas.</i>
+
+1068
+01:47:38,343 --> 01:47:41,568
+<i>Se não resistirem,</i>
+<i>nada vos acontecerá.</i>
+
+1069
+01:47:48,186 --> 01:47:50,451
+Mãe! Pai!
+
+1070
+01:47:51,773 --> 01:47:53,913
+Para onde terão ido?
+
+1071
+01:47:55,485 --> 01:47:57,027
+Não sei.
+
+1072
+01:47:57,028 --> 01:47:59,127
+Por favor...
+
+1073
+01:47:59,364 --> 01:48:02,714
+Não podem fazer isto! Parem!
+
+1074
+01:48:03,243 --> 01:48:05,508
+Não! Larguem-me!
+
+1075
+01:48:08,498 --> 01:48:10,680
+<i>Não resistam.</i>
+
+1076
+01:48:13,795 --> 01:48:16,922
+<i>Todos os Abnegados</i>
+<i>serão interrogados.</i>
+
+1077
+01:48:16,923 --> 01:48:21,260
+O lendário Quatro transformado
+num autómato acéfalo.
+
+1078
+01:48:21,261 --> 01:48:24,068
+Foste o melhor do curso
+e, agora, és...
+
+1079
+01:48:24,639 --> 01:48:26,613
+Nada.
+
+1080
+01:48:31,646 --> 01:48:34,996
+- Saiam todos!
+- O que foi que eu disse?
+
+1081
+01:48:41,823 --> 01:48:43,755
+O que foi?
+
+1082
+01:48:43,783 --> 01:48:46,007
+Achas que ele pode ser...
+
+1083
+01:48:46,745 --> 01:48:48,968
+Só há uma maneira de descobrir.
+
+1084
+01:48:50,915 --> 01:48:53,431
+- Diz "adeus", minha besta.
+- Adeus.
+
+1085
+01:48:53,543 --> 01:48:55,502
+Mexe-te e morres!
+
+1086
+01:48:55,503 --> 01:48:57,644
+A Empata?
+
+1087
+01:48:59,633 --> 01:49:01,550
+Dois Empatas.
+
+1088
+01:49:01,551 --> 01:49:03,260
+Dois Empatas mortos.
+
+1089
+01:49:03,261 --> 01:49:06,388
+Não podemos deixar escapar
+um único Divergente.
+
+1090
+01:49:06,389 --> 01:49:09,725
+- É nisto que dá.
+- Ela não me mata.
+
+1091
+01:49:09,726 --> 01:49:12,617
+Acho que estás a sobrestimar
+o meu caráter.
+
+1092
+01:49:14,981 --> 01:49:16,955
+Foge!
+
+1093
+01:49:22,447 --> 01:49:24,671
+- Atingiu-te?
+- Sim.
+
+1094
+01:49:25,075 --> 01:49:27,090
+Não se mexam!
+
+1095
+01:49:27,118 --> 01:49:29,133
+Larguem as armas.
+
+1096
+01:49:37,128 --> 01:49:38,935
+Parem!
+
+1097
+01:49:49,391 --> 01:49:51,531
+Tobias Eaton?
+
+1098
+01:49:53,436 --> 01:49:56,244
+E tu, Beatrice...
+
+1099
+01:49:57,232 --> 01:49:59,984
+Pensava que o que sentia em ti
+era intelecto.
+
+1100
+01:49:59,985 --> 01:50:02,736
+Se calhar,
+não é tão esperta como julga.
+
+1101
+01:50:02,737 --> 01:50:05,155
+Porque estão a atacar
+pessoas inocentes?
+
+1102
+01:50:05,156 --> 01:50:06,782
+Pessoas inocentes?
+
+1103
+01:50:06,783 --> 01:50:10,869
+Se não os controlarmos, os Abnegados
+destruirão o sistema de facções.
+
+1104
+01:50:10,870 --> 01:50:13,622
+E o mesmo se aplica a vocês os dois.
+
+1105
+01:50:13,623 --> 01:50:15,416
+Alguém tem de travar-vos.
+
+1106
+01:50:15,417 --> 01:50:17,668
+Se não o fizermos,
+a paz ficará perdida.
+
+1107
+01:50:17,669 --> 01:50:20,602
+Já está. Vocês destruíram-na.
+
+1108
+01:50:20,672 --> 01:50:23,187
+Foi a natureza humana.
+
+1109
+01:50:23,300 --> 01:50:28,318
+Quem tem a capacidade de ver isso
+tem o dever de proteger os outros.
+
+1110
+01:50:28,638 --> 01:50:30,987
+Vamos restaurar a paz.
+
+1111
+01:50:31,308 --> 01:50:33,642
+E, desta vez, será para sempre.
+
+1112
+01:50:33,643 --> 01:50:36,034
+E se estiver enganada?
+
+1113
+01:50:42,527 --> 01:50:44,417
+Vamos levá-lo.
+
+1114
+01:50:48,116 --> 01:50:52,258
+Ela está ferida.
+Não podemos garantir os resultados.
+
+1115
+01:50:53,371 --> 01:50:55,803
+- Livrem-se dela.
+- Muito bem.
+
+1116
+01:51:00,837 --> 01:51:02,936
+Imobilizem-no!
+
+1117
+01:51:08,637 --> 01:51:10,401
+Vamos lá, anda!
+
+1118
+01:51:15,226 --> 01:51:16,852
+<i>Equipas de segurança,</i>
+
+1119
+01:51:16,853 --> 01:51:20,119
+<i>apresentem-se ao comando móvel,</i>
+<i>Nível 5.</i>
+
+1120
+01:51:57,227 --> 01:51:59,158
+Beatrice!
+
+1121
+01:51:59,688 --> 01:52:00,938
+- Mãe?
+- Beatrice.
+
+1122
+01:52:00,939 --> 01:52:02,606
+Mãe!
+
+1123
+01:52:02,607 --> 01:52:04,455
+Pronto.
+
+1124
+01:52:09,531 --> 01:52:11,462
+Temos de fugir.
+
+1125
+01:52:22,752 --> 01:52:24,809
+Eras Intrépida.
+
+1126
+01:52:25,547 --> 01:52:27,478
+Deu-me jeito, hoje.
+
+1127
+01:52:28,633 --> 01:52:30,634
+- O pai está bem?
+- Sim.
+
+1128
+01:52:30,635 --> 01:52:33,387
+Levou um grupo para a Monroe
+com a State, Vamos lá ter.
+
+1129
+01:52:33,388 --> 01:52:35,236
+Ali estão elas!
+
+1130
+01:52:35,515 --> 01:52:37,363
+Vamos!
+
+1131
+01:53:11,760 --> 01:53:14,108
+Will! Will!
+
+1132
+01:53:17,933 --> 01:53:19,183
+Will!
+
+1133
+01:53:19,184 --> 01:53:21,185
+Para, por favor...
+
+1134
+01:53:21,186 --> 01:53:23,034
+Para!
+
+1135
+01:53:25,732 --> 01:53:27,622
+Pronto...
+
+1136
+01:53:34,741 --> 01:53:35,991
+Muito bem.
+
+1137
+01:53:35,992 --> 01:53:38,383
+Anda, querida, temos de ir.
+
+1138
+01:53:53,093 --> 01:53:55,066
+Matei-o.
+
+1139
+01:53:55,262 --> 01:53:58,027
+Matei-o. Matei-o...
+
+1140
+01:53:58,265 --> 01:54:00,280
+Chega aqui.
+
+1141
+01:54:04,729 --> 01:54:06,536
+Pronto.
+
+1142
+01:54:07,190 --> 01:54:09,455
+Vamos ter com o teu pai.
+
+1143
+01:54:12,279 --> 01:54:14,405
+- Protege-me.
+- Não.
+
+1144
+01:54:14,406 --> 01:54:16,379
+Eu vou.
+
+1145
+01:54:22,622 --> 01:54:25,013
+- Encontrei-a!
+- Vamos lá!
+
+1146
+01:54:27,961 --> 01:54:29,809
+Vamos!
+
+1147
+01:54:30,088 --> 01:54:31,714
+Vai!
+
+1148
+01:54:31,715 --> 01:54:33,646
+Estou a vê-la.
+
+1149
+01:54:36,636 --> 01:54:38,735
+- Estás bem?
+- Sim, estou.
+
+1150
+01:54:45,270 --> 01:54:47,785
+Vamos embora. Já podemos ir.
+
+1151
+01:54:47,981 --> 01:54:49,440
+Mãe?
+
+1152
+01:54:49,441 --> 01:54:51,706
+Mãe, o que se passa?
+
+1153
+01:54:54,904 --> 01:54:56,628
+Isso é... Mãe!
+
+1154
+01:54:56,990 --> 01:54:58,407
+Mãe!
+
+1155
+01:54:58,408 --> 01:54:59,783
+Mãe!
+
+1156
+01:54:59,784 --> 01:55:01,327
+Mãe! Não!
+
+1157
+01:55:01,328 --> 01:55:03,843
+Mãe! Mãe!
+
+1158
+01:55:04,956 --> 01:55:06,999
+Mãe, mãe...
+
+1159
+01:55:07,000 --> 01:55:09,140
+Mãe, acorda!
+
+1160
+01:55:10,003 --> 01:55:11,976
+Mãe!
+
+1161
+01:55:12,964 --> 01:55:15,230
+Anda cá, mãe...
+
+1162
+01:55:21,890 --> 01:55:23,988
+Parem! Parem!
+
+1163
+01:55:25,977 --> 01:55:28,034
+Pronto...
+
+1164
+01:55:28,063 --> 01:55:30,245
+Adoro-te, mãe.
+
+1165
+01:55:34,694 --> 01:55:36,542
+Meu Deus...
+
+1166
+01:56:33,253 --> 01:56:36,936
+- Onde está o meu pai?
+- Beatrice?
+
+1167
+01:56:43,930 --> 01:56:45,945
+A tua mãe?
+
+1168
+01:57:06,077 --> 01:57:08,176
+Ela salvou-me.
+
+1169
+01:57:09,205 --> 01:57:11,304
+Ela salvou-me.
+
+1170
+01:57:12,083 --> 01:57:14,432
+Então, não morreu em vão.
+
+1171
+01:57:16,212 --> 01:57:18,394
+Temos de ir embora.
+
+1172
+01:57:19,132 --> 01:57:21,439
+Há soldados lá fora?
+
+1173
+01:57:25,639 --> 01:57:27,904
+Não, a costa está livre.
+
+1174
+01:57:29,142 --> 01:57:31,268
+Devia ter acreditado em ti.
+
+1175
+01:57:31,269 --> 01:57:33,701
+Parti mal me apercebi.
+
+1176
+01:57:33,897 --> 01:57:36,871
+Porque está isto a acontecer?
+Não compreendo.
+
+1177
+01:57:37,776 --> 01:57:40,194
+Porque estão os Intrépidos
+a lutar pelos Eruditos?
+
+1178
+01:57:40,195 --> 01:57:43,503
+Não sabem o que estão a fazer,
+estão em simulação.
+
+1179
+01:57:44,115 --> 01:57:47,368
+Temos de acordá-los.
+Tenho de entrar no quartel-general.
+
+1180
+01:57:47,369 --> 01:57:49,286
+É uma fortaleza.
+
+1181
+01:57:49,287 --> 01:57:51,302
+É impossível.
+
+1182
+01:57:52,582 --> 01:57:54,722
+Consigo infiltrar-nos.
+
+1183
+01:58:02,342 --> 01:58:04,440
+Preparem-se.
+
+1184
+01:58:04,678 --> 01:58:06,609
+O que vamos fazer agora?
+
+1185
+01:58:06,721 --> 01:58:08,653
+Não vão gostar.
+
+1186
+01:58:29,160 --> 01:58:31,161
+Há uma rede lá em baixo.
+
+1187
+01:58:31,162 --> 01:58:33,094
+Não pensem, saltem.
+
+1188
+01:58:44,175 --> 01:58:45,926
+Estás bem?
+
+1189
+01:58:45,927 --> 01:58:47,942
+Estão bem?
+
+1190
+01:58:48,972 --> 01:58:50,778
+Vamos.
+
+1191
+01:58:56,730 --> 01:58:58,620
+Esperem aqui.
+
+1192
+01:59:05,655 --> 01:59:07,114
+Encostado à parede.
+
+1193
+01:59:07,115 --> 01:59:09,255
+Encosta-te à parede!
+
+1194
+01:59:12,579 --> 01:59:14,246
+Porque estás consciente?
+
+1195
+01:59:14,247 --> 01:59:17,833
+Porque sou mais esperto do que tu
+e eles precisam de mim.
+
+1196
+01:59:17,834 --> 01:59:20,169
+Onde é a sala de comando?
+
+1197
+01:59:20,170 --> 01:59:22,504
+Porque te diria?
+Não vais dar-me um tiro.
+
+1198
+01:59:22,505 --> 01:59:24,729
+Porque dizem todos isso?
+
+1199
+01:59:27,677 --> 01:59:30,360
+Onde é a sala de comando?
+
+1200
+01:59:36,728 --> 01:59:39,160
+Tinhas mesmo de alvejá-lo?
+
+1201
+01:59:39,564 --> 01:59:41,982
+Cada minuto perdido
+é um Abnegado morto
+
+1202
+01:59:41,983 --> 01:59:44,485
+e um Intrépido
+que se torna um assassino.
+
+1203
+01:59:44,486 --> 01:59:46,459
+Vamos, Peter.
+
+1204
+02:00:02,087 --> 02:00:04,630
+- É ali, não é?
+- Sim.
+
+1205
+02:00:04,631 --> 02:00:06,674
+Vi a Jeanine entrar.
+
+1206
+02:00:06,675 --> 02:00:08,940
+É dali que os controla.
+
+1207
+02:00:20,772 --> 02:00:22,606
+É como disseste...
+
+1208
+02:00:22,607 --> 02:00:24,914
+... não há tempo a perder.
+
+1209
+02:00:29,572 --> 02:00:31,421
+Pai, não!
+
+1210
+02:00:32,367 --> 02:00:33,534
+Pai!
+
+1211
+02:00:33,535 --> 02:00:35,411
+Espere...
+
+1212
+02:00:35,412 --> 02:00:37,343
+Alto!
+
+1213
+02:01:15,952 --> 02:01:19,510
+Fique de olho no Caleb.
+Vou entrar.
+
+1214
+02:02:11,258 --> 02:02:13,106
+Olá.
+
+1215
+02:02:27,774 --> 02:02:29,539
+Quatro...
+
+1216
+02:02:30,277 --> 02:02:33,320
+Quatro, sou eu.
+Estás em simulação.
+
+1217
+02:02:33,321 --> 02:02:35,378
+Ele não te ouve.
+
+1218
+02:02:37,075 --> 02:02:38,826
+É espantoso, não é?
+
+1219
+02:02:38,827 --> 02:02:44,707
+Tudo o que constitui uma pessoa,
+pensamentos, sentimentos, passado...
+
+1220
+02:02:44,708 --> 02:02:47,001
+Tudo apagado por químicos.
+
+1221
+02:02:47,002 --> 02:02:49,767
+- Quatro...
+- Ele já não está cá.
+
+1222
+02:02:50,338 --> 02:02:51,964
+E ficámos todos mais seguros.
+
+1223
+02:02:51,965 --> 02:02:54,842
+Mais seguros?
+Acha que estamos mais seguros?
+
+1224
+02:02:54,843 --> 02:02:58,512
+A genialidade do sistema de facções
+é que a sujeição à facção
+
+1225
+02:02:58,513 --> 02:03:02,739
+elimina a ameaça de alguém
+exercer o seu livre-arbítrio.
+
+1226
+02:03:02,892 --> 02:03:05,783
+Os Divergentes ameaçam esse sistema.
+
+1227
+02:03:08,106 --> 02:03:10,204
+Não me entendas mal,
+
+1228
+02:03:10,692 --> 02:03:13,736
+há uma certa beleza
+na vossa resistência,
+
+1229
+02:03:13,737 --> 02:03:16,655
+na forma como desafiam
+a categorização.
+
+1230
+02:03:16,656 --> 02:03:19,589
+Mas não podemos
+dar-nos o luxo dessa beleza.
+
+1231
+02:03:31,546 --> 02:03:34,882
+Quatro, sou eu. Sou eu,
+
+1232
+02:03:34,883 --> 02:03:36,926
+Olha para mim, por favor,
+
+1233
+02:03:36,927 --> 02:03:38,900
+Quatro!
+
+1234
+02:03:58,073 --> 02:04:00,088
+Quatro, sou eu!
+
+1235
+02:04:28,979 --> 02:04:31,119
+Para, Quatro!
+
+1236
+02:04:31,564 --> 02:04:33,454
+Para!
+
+1237
+02:04:34,150 --> 02:04:36,207
+Para...
+
+1238
+02:04:36,695 --> 02:04:39,002
+Quatro, por favor...
+
+1239
+02:04:43,994 --> 02:04:45,869
+Está tudo bem...
+
+1240
+02:04:45,870 --> 02:04:48,094
+Amo-te. Não faz mal.
+
+1241
+02:04:51,918 --> 02:04:53,933
+Não faz mal.
+
+1242
+02:04:54,379 --> 02:04:57,061
+Amo-te. Não faz mal.
+
+1243
+02:05:02,137 --> 02:05:04,736
+Quatro, olha para mim,
+
+1244
+02:05:06,516 --> 02:05:08,559
+Sou eu, sou eu...
+
+1245
+02:05:08,560 --> 02:05:11,326
+Sou eu, sou eu,
+
+1246
+02:05:20,822 --> 02:05:22,712
+Tris.
+
+1247
+02:05:27,370 --> 02:05:29,177
+Força.
+
+1248
+02:05:32,584 --> 02:05:34,349
+Acabem com isto.
+
+1249
+02:06:10,080 --> 02:06:12,178
+Socorro!
+
+1250
+02:06:25,762 --> 02:06:27,569
+Desligue isto.
+
+1251
+02:06:27,597 --> 02:06:29,320
+Não.
+
+1252
+02:06:43,238 --> 02:06:47,032
+Não volto a pedir, faça-o!
+Desligue o sistema!
+
+1253
+02:06:47,033 --> 02:06:50,369
+Admiro-te por estares disposta
+a morrer pelas tuas crenças,
+
+1254
+02:06:50,370 --> 02:06:52,343
+mas eu também estou.
+
+1255
+02:06:55,000 --> 02:06:57,015
+Não és capaz, pois não?
+
+1256
+02:07:31,286 --> 02:07:34,705
+Se calhar,
+não és tão Intrépida como julgavas.
+
+1257
+02:07:34,706 --> 02:07:36,596
+Tem razão.
+
+1258
+02:07:37,876 --> 02:07:39,724
+Não sou.
+
+1259
+02:07:39,794 --> 02:07:41,851
+Sou Divergente.
+
+1260
+02:07:51,306 --> 02:07:54,906
+Desligue o sistema
+e apague o programa.
+
+1261
+02:08:03,151 --> 02:08:05,458
+CÓDIGO ACEITE
+
+1262
+02:08:17,707 --> 02:08:19,166
+Estás bem?
+
+1263
+02:08:19,167 --> 02:08:21,085
+Sentem-se bem?
+
+1264
+02:08:21,086 --> 02:08:22,892
+Vamos.
+
+1265
+02:08:23,838 --> 02:08:28,064
+<i>Simulação interrompida.</i>
+<i>Sistema em encerramento.</i>
+
+1266
+02:08:37,352 --> 02:08:39,284
+Não!
+
+1267
+02:08:40,772 --> 02:08:42,579
+Não!
+
+1268
+02:08:47,112 --> 02:08:48,237
+Tu...
+
+1269
+02:08:48,238 --> 02:08:49,905
+Não, não!
+
+1270
+02:08:49,906 --> 02:08:52,088
+Não me entenda mal...
+
+1271
+02:08:52,367 --> 02:08:54,994
+Há uma certa beleza
+na sua resistência.
+
+1272
+02:08:54,995 --> 02:08:57,051
+Tu!
+
+1273
+02:09:03,169 --> 02:09:04,420
+Tris.
+
+1274
+02:09:04,421 --> 02:09:06,895
+<i>Aviso, encerramento em curso.</i>
+
+1275
+02:09:07,090 --> 02:09:08,980
+Mexam-se!
+
+1276
+02:09:10,051 --> 02:09:12,525
+Temos de ir, já.
+
+1277
+02:09:18,059 --> 02:09:20,158
+Tobias.
+
+1278
+02:09:21,813 --> 02:09:23,953
+Temos de avançar.
+
+1279
+02:09:32,616 --> 02:09:34,547
+Despachem-se.
+
+1280
+02:09:48,256 --> 02:09:50,271
+Filho!
+
+1281
+02:10:00,226 --> 02:10:03,117
+- Eu consigo.
+- Eu sei.
+
+1282
+02:10:19,079 --> 02:10:21,553
+Os meus pais morreram hoje.
+
+1283
+02:10:24,876 --> 02:10:27,725
+- Foram-se.
+- Eu sei.
+
+1284
+02:10:27,921 --> 02:10:30,687
+Mas eles amavam-te, Tris.
+
+1285
+02:10:32,008 --> 02:10:35,108
+Para eles,
+foi a maior prova que podiam dar-te.
+
+1286
+02:10:40,767 --> 02:10:45,076
+Ficámos sem nada.
+Não temos lar, nem facção.
+
+1287
+02:10:50,151 --> 02:10:52,542
+Já nem sei quem sou.
+
+1288
+02:10:58,952 --> 02:11:01,467
+Eu sei exactamente quem és.
+
+1289
+02:11:02,497 --> 02:11:04,512
+Tens a certeza?
+
+1290
+02:11:05,959 --> 02:11:08,516
+Sim, tenho a certeza absoluta.
+
+1291
+02:11:11,172 --> 02:11:13,062
+Chega aqui.
+
+1292
+02:11:25,854 --> 02:11:28,188
+<i>Agora, somos como os sem-fação.</i>
+
+1293
+02:11:28,189 --> 02:11:30,663
+<i>Deixámos tudo para trâs.</i>
+
+1294
+02:11:31,151 --> 02:11:34,918
+<i>Mas encontrámo-nos a nós mesmos</i>
+<i>e um ao outro.</i>
+
+1295
+02:11:36,239 --> 02:11:39,213
+<i>Amanhã, talvez tenhamos</i>
+<i>de lutar novamente.</i>
+
+1296
+02:11:39,743 --> 02:11:43,245
+<i>Mas, por enquanto,</i>
+<i>seguiremos até ao fim da linha</i>
+
+1297
+02:11:43,246 --> 02:11:44,955
+<i>e, depois...</i>
+
+1298
+02:11:44,956 --> 02:11:46,846
+<i>... saltaremos.</i>
+
+1299
+02:11:49,669 --> 02:11:56,231
+<i>Ripadas por:</i>
+n0Te
+
+1300
+02:12:04,184 --> 02:12:10,745
+<b>Tradução e Legendagem
+Luísa Ferreira / CRISTBET, Lda,
+
+

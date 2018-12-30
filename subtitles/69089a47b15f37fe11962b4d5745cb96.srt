@@ -1,0 +1,2403 @@
+﻿1
+00:00:00,000 --> 00:00:02,064
+<i>Anteriormente...</i>
+
+2
+00:00:02,074 --> 00:00:03,955
+<i>Apresento-vos a Eligius Quatro</i>.
+
+3
+00:00:04,206 --> 00:00:06,279
+"Passagem interdita a presos."
+
+4
+00:00:06,289 --> 00:00:08,537
+<i>- Os prisioneiros ainda cá estão.
+- É um exército.</i>
+
+5
+00:00:08,547 --> 00:00:10,697
+Arranjas forma
+de os matar à distância?
+
+6
+00:00:10,707 --> 00:00:12,357
+- É possível. Porquê?
+- Uma vantagem...
+
+7
+00:00:12,367 --> 00:00:14,267
+"Baixem as armas
+ou desligamos a tomada."
+
+8
+00:00:14,277 --> 00:00:17,614
+Desligá-las a partir do solo não é opção.
+Alguém tem de ficar.
+
+9
+00:00:17,624 --> 00:00:18,974
+Eu também fico.
+
+10
+00:00:19,900 --> 00:00:21,569
+<i>Coronel,
+temos mais cinco inimigos.</i>
+
+11
+00:00:21,579 --> 00:00:24,879
+O que disse
+que aconteceria se me mentisses?
+
+12
+00:00:25,649 --> 00:00:26,649
+Bellamy?
+
+13
+00:00:27,386 --> 00:00:29,636
+<i>A Clarke sabia que virias.</i>
+
+14
+00:00:30,172 --> 00:00:31,754
+<i>Vocês são wonkrus,</i>
+
+15
+00:00:31,764 --> 00:00:34,407
+<i>ou são inimigos dos wonkrus.</i>
+
+16
+00:00:34,899 --> 00:00:35,899
+<i>Escolham.</i>
+
+17
+00:00:36,221 --> 00:00:39,606
+<i>Cada um de vós...
+cometeu crimes contra os wonkrus.</i>
+
+18
+00:00:39,616 --> 00:00:42,134
+<i>Vençam o combate,
+e salvam a vossa vida.</i>
+
+19
+00:00:42,144 --> 00:00:44,444
+Façam entrar os próximos combatentes.
+
+20
+00:01:12,814 --> 00:01:16,567
+Estes quatro combatentes
+são culpados de crimes contra os <i>wonkrus</i>.
+
+21
+00:01:16,577 --> 00:01:18,496
+São nossos inimigos.
+
+22
+00:01:18,988 --> 00:01:20,811
+Traíram o nosso povo.
+
+23
+00:01:20,821 --> 00:01:25,171
+Traíram o nosso código de força,
+união e honra.
+
+24
+00:01:25,779 --> 00:01:28,200
+Hoje, um de vós terá a oportunidade
+
+25
+00:01:28,210 --> 00:01:31,054
+de voltar a ser considerado como irmão.
+
+26
+00:01:31,064 --> 00:01:32,414
+Para que isso aconteça,
+
+27
+00:01:32,424 --> 00:01:33,974
+primeiro terão de sobreviver.
+
+28
+00:01:34,392 --> 00:01:38,142
+Nesta arena, a única regra é ser o último.
+
+29
+00:01:39,958 --> 00:01:41,047
+Como sempre,
+
+30
+00:01:41,057 --> 00:01:43,807
+ao convidar a morte...
+
+31
+00:01:43,961 --> 00:01:45,061
+... honramo-la.
+
+32
+00:01:51,350 --> 00:01:53,350
+<i>Tudo de mim por nós todos.</i>
+
+33
+00:02:00,553 --> 00:02:02,003
+Sejam o último.
+
+34
+00:02:45,237 --> 00:02:46,737
+Onde raio está a Abby?
+
+35
+00:02:47,784 --> 00:02:48,784
+<i>Por favor.</i>
+
+36
+00:02:50,678 --> 00:02:52,428
+Ele não merece morrer.
+
+37
+00:02:53,485 --> 00:02:54,835
+Digam à Octavia.
+
+38
+00:02:55,433 --> 00:02:57,583
+Digam à Octavia que fui eu.
+
+39
+00:03:01,211 --> 00:03:02,411
+Fui eu.
+
+41
+00:03:56,419 --> 00:03:57,719
+Vai perdê-los.
+
+42
+00:04:05,931 --> 00:04:07,131
+Marcus Kane.
+
+43
+00:04:07,763 --> 00:04:10,163
+Ao roubares medicamentos aos <i>wonkrus</i>,
+
+44
+00:04:10,300 --> 00:04:13,250
+cometeste um crime contra o nosso povo.
+
+45
+00:04:13,570 --> 00:04:15,370
+Mas foste o último.
+
+46
+00:04:16,542 --> 00:04:18,942
+Conquistou a liberdade, <i>Blodreina</i>?
+
+47
+00:04:29,226 --> 00:04:30,226
+Não.
+
+48
+00:04:32,014 --> 00:04:33,864
+Volta a combater amanhã.
+
+49
+00:04:49,461 --> 00:04:52,061
+<b>The 100: Temporada 5, Episódio 4
+Pandora's Box</b>
+
+54
+00:05:31,536 --> 00:05:32,886
+<i>Coronel, sou eu.</i>
+
+55
+00:05:32,896 --> 00:05:34,131
+<i>Está a dizer a verdade.</i>
+
+56
+00:05:34,141 --> 00:05:38,193
+<i>Conseguiram bloquear
+o acesso à sala das cápsulas criónicas.</i>
+
+57
+00:05:38,203 --> 00:05:39,977
+<i>Não podemos acordá-los.</i>
+
+58
+00:05:39,987 --> 00:05:41,987
+Já vais ouvir, agora?
+
+59
+00:05:42,283 --> 00:05:44,829
+Não sei como é que vocês
+entraram na minha nave.
+
+60
+00:05:44,839 --> 00:05:47,086
+Mas se acontece algo a algum dos...
+
+61
+00:05:47,096 --> 00:05:48,919
+Nada lhes acontecerá.
+
+62
+00:05:48,929 --> 00:05:51,129
+Desde que cheguemos a acordo.
+
+63
+00:05:52,180 --> 00:05:54,080
+Proponho matá-los já.
+
+64
+00:06:03,418 --> 00:06:04,479
+O que queres?
+
+65
+00:06:04,489 --> 00:06:06,839
+Precisamos de ajuda para abrir um <i>bunker</i>.
+
+66
+00:06:07,093 --> 00:06:08,521
+Vocês são mineiros.
+
+67
+00:06:08,531 --> 00:06:11,031
+Não terão dificuldades.
+
+68
+00:06:11,116 --> 00:06:12,366
+Se o fizerem,
+
+69
+00:06:13,074 --> 00:06:14,974
+libertá-los-ei.
+
+70
+00:06:15,736 --> 00:06:16,736
+E depois?
+
+71
+00:06:17,424 --> 00:06:20,704
+- Felizes para sempre?
+- Depois dividimos o vale.
+
+72
+00:06:20,714 --> 00:06:22,392
+Se ficam ou não satisfeitos,
+
+73
+00:06:22,402 --> 00:06:23,752
+o problema é vosso.
+
+74
+00:06:24,727 --> 00:06:27,927
+Mas quero acreditar que
+há maneira de coexistirmos.
+
+75
+00:06:32,000 --> 00:06:35,279
+Ameaçar matar 283 pessoas
+
+76
+00:06:35,289 --> 00:06:37,989
+é uma excelente forma
+de começar uma amizade.
+
+77
+00:06:38,145 --> 00:06:39,695
+Estamos de acordo ou não?
+
+78
+00:07:10,412 --> 00:07:11,712
+Estás mesmo aqui.
+
+79
+00:07:19,855 --> 00:07:21,505
+- A Madi?
+- Está a salvo.
+
+80
+00:07:22,614 --> 00:07:24,414
+Está na floresta com os outros.
+
+81
+00:07:24,543 --> 00:07:28,093
+A Diyoza não irá procurá-los
+enquanto controlarmos a situação.
+
+82
+00:07:28,913 --> 00:07:30,813
+Estão todos vivos?
+
+83
+00:07:31,450 --> 00:07:33,331
+O Murphy, o Monty, a Raven?
+
+84
+00:07:33,341 --> 00:07:34,841
+A Echo e a Emori.
+
+85
+00:07:35,396 --> 00:07:36,396
+Sim.
+
+86
+00:07:36,794 --> 00:07:39,094
+Clarke, salvaste-nos a todos.
+
+87
+00:07:40,074 --> 00:07:41,524
+E agora estão de volta a casa.
+
+88
+00:07:51,024 --> 00:07:52,024
+Espera,
+
+89
+00:07:52,530 --> 00:07:54,580
+porque é que ela me libertou?
+
+90
+00:07:55,848 --> 00:07:57,498
+Negociámos.
+
+91
+00:07:58,327 --> 00:08:00,477
+Ela concordou em abrir o <i>bunker</i>.
+
+92
+00:08:07,993 --> 00:08:09,943
+Ainda estão todos a dormir.
+
+93
+00:08:10,221 --> 00:08:13,645
+Eu disse-te. Não tens de ir lá abaixo.
+Podes ver daqui.
+
+94
+00:08:13,655 --> 00:08:16,915
+Os que dormem estão a verde.
+Como diz o Monty, verde é bom.
+
+95
+00:08:16,925 --> 00:08:19,626
+As cápsulas vazias estão a vermelho.
+
+96
+00:08:19,636 --> 00:08:21,169
+- E vermelho é...
+- Morto.
+
+97
+00:08:21,179 --> 00:08:24,198
+Sim. O que inclui
+o nosso amigo Kodiak.
+
+98
+00:08:24,208 --> 00:08:25,983
+Está tudo sob controlo.
+
+99
+00:08:25,993 --> 00:08:27,825
+Só eu os posso acordar.
+
+100
+00:08:27,835 --> 00:08:32,349
+Se está tudo sob controlo, porque estás
+com essa cara de Raven a matutar?
+
+101
+00:08:32,359 --> 00:08:34,153
+Porque enquanto andavas a passear,
+
+102
+00:08:34,163 --> 00:08:36,941
+estive a tentar
+perceber com quem estamos a lidar.
+
+103
+00:08:37,034 --> 00:08:38,284
+Conheces?
+
+104
+00:08:38,512 --> 00:08:42,233
+- É a mulher do vídeo do Capitão.
+- Coronel Charmaine Diyoza.
+
+105
+00:08:42,263 --> 00:08:44,502
+Pertencia a algo chamado SEAL.
+
+106
+00:08:44,532 --> 00:08:46,454
+Recebeu três condecorações por bravura.
+
+107
+00:08:46,484 --> 00:08:50,454
+Como é que uma heroína de guerra acaba
+a liderar uma insurreição numa nave prisão?
+
+108
+00:08:50,484 --> 00:08:51,684
+Boa pergunta.
+
+109
+00:08:52,414 --> 00:08:53,804
+Tornou-se terrorista.
+
+110
+00:08:53,834 --> 00:08:55,921
+Bombas, assassinatos.
+
+111
+00:08:56,234 --> 00:09:00,734
+Na altura em que foi presa,
+era a criminosa mais procurada do mundo.
+
+112
+00:09:00,936 --> 00:09:03,834
+E nós ameaçamos matar o pessoal dela.
+Que mal pode acontecer?
+
+113
+00:09:03,864 --> 00:09:04,948
+<i>Raven,</i>
+
+114
+00:09:05,196 --> 00:09:07,096
+<i>estás a ouvir? Responde.</i>
+
+115
+00:09:12,396 --> 00:09:15,268
+- Diz-me que estão todos bem.
+<i>- Estamos todos bem.</i>
+
+116
+00:09:15,536 --> 00:09:17,552
+<i>Conseguimos negociar
+com as pessoas da nave.</i>
+
+117
+00:09:17,582 --> 00:09:20,164
+<i>E, já agora, a comunicação está aberta.</i>
+
+118
+00:09:20,194 --> 00:09:22,364
+<i>Ouvem tudo o que dizemos.</i>
+
+119
+00:09:22,394 --> 00:09:24,634
+Prazer em conhecer-vos.
+Não somos gente má...
+
+120
+00:09:24,664 --> 00:09:27,626
+<i>- Raven, afasta-o do rádio.</i>
+- Entendido.
+
+121
+00:09:27,656 --> 00:09:30,275
+<i>Já sabem as regras.
+Só para termos a certeza,</i>
+
+122
+00:09:30,305 --> 00:09:32,417
+<i>Coronel Diyoza, aqui vai mais uma vez.</i>
+
+123
+00:09:32,447 --> 00:09:35,142
+<i>Se tentarem contornar a segurança, desliga-as.</i>
+
+124
+00:09:35,172 --> 00:09:38,442
+<i>Se tentarem algo que não tenha sido falado,
+desligas as cápsulas.</i>
+
+125
+00:09:38,472 --> 00:09:41,783
+<i>Se não tiveres notícias minhas
+de hora a hora,</i>
+
+126
+00:09:41,813 --> 00:09:43,163
+<i>desligas as cápsulas.</i>
+
+127
+00:09:44,054 --> 00:09:45,165
+- É tudo?
+
+128
+00:09:45,195 --> 00:09:46,314
+<i>Não.</i>
+
+129
+00:09:46,344 --> 00:09:47,444
+<i>Não é tudo.</i>
+
+130
+00:09:47,835 --> 00:09:49,985
+Está aqui alguém que vos quer cumprimentar.
+
+131
+00:09:52,426 --> 00:09:53,426
+Raven?
+
+132
+00:09:53,565 --> 00:09:54,565
+Murphy?
+
+133
+00:09:55,946 --> 00:09:58,746
+<i>Que bom ouvir-vos.</i>
+
+134
+00:09:58,916 --> 00:09:59,916
+Clarke?
+
+135
+00:10:01,563 --> 00:10:02,713
+Não acredito.
+
+136
+00:10:03,635 --> 00:10:06,485
+Meu Deus! E dizem que eu é que sou a barata.
+
+137
+00:10:08,274 --> 00:10:10,524
+Tenham cuidado, sim?
+
+138
+00:10:11,606 --> 00:10:14,656
+Falamos depois, quando isto acabar.
+
+139
+00:10:14,945 --> 00:10:16,445
+Quero saber tudo.
+
+140
+00:10:16,996 --> 00:10:18,269
+Está bem, mas primeiro...
+
+141
+00:10:19,983 --> 00:10:21,783
+... obrigada por nos teres salvado.
+
+142
+00:10:24,016 --> 00:10:25,516
+Tenho saudades vossas.
+
+143
+00:10:27,061 --> 00:10:28,641
+Temos de ir.
+
+144
+00:10:31,415 --> 00:10:33,973
+Raven, fica bem.
+Já voltamos a falar.
+
+145
+00:10:34,414 --> 00:10:35,925
+<i>Sim, de hora a hora.</i>
+
+146
+00:10:35,955 --> 00:10:37,415
+Diz-me o que pretendes,
+
+147
+00:10:37,445 --> 00:10:41,395
+porque parece-me
+que estamos a negociar com terroristas.
+
+148
+00:10:41,836 --> 00:10:44,086
+O feitiço virou-se contra o feiticeiro.
+
+149
+00:10:44,545 --> 00:10:47,476
+Quero estar no ar
+dentro de 90 segundos.
+
+150
+00:10:47,506 --> 00:10:49,356
+Faltam 90 segundos.
+
+151
+00:10:50,262 --> 00:10:53,533
+Detesto admiti-lo, mas a escuteira tem razão.
+
+152
+00:10:54,084 --> 00:10:56,354
+Devias saber isso melhor do que ninguém.
+
+153
+00:10:56,384 --> 00:10:58,844
+Proponho matá-los,
+voltarmos à <i>Eligius</i>
+
+154
+00:10:58,874 --> 00:11:00,474
+e reunirmos o nosso pessoal.
+
+155
+00:11:00,834 --> 00:11:04,004
+Quanto tempo precisa essa Raven
+para matar quem está nas cápsulas?
+
+156
+00:11:04,034 --> 00:11:06,442
+Supondo que desligou todas as seguranças?
+
+157
+00:11:06,472 --> 00:11:07,522
+Três minutos.
+
+158
+00:11:08,452 --> 00:11:10,152
+Apertem os cintos.
+
+159
+00:11:16,823 --> 00:11:18,525
+Não confias em mim?
+
+160
+00:11:18,926 --> 00:11:20,961
+Não confio em ninguém.
+
+161
+00:11:21,434 --> 00:11:23,944
+Há uma médica no <i>bunker</i>.
+
+162
+00:11:25,617 --> 00:11:27,444
+A mãe da Clarke, ao que parece.
+
+163
+00:11:27,474 --> 00:11:30,926
+Pegamos na médica,
+matamos o sequestrador e a namorada.
+
+164
+00:11:30,956 --> 00:11:33,256
+Vamos para casa e descobrimos uma cura.
+
+165
+00:11:34,034 --> 00:11:35,634
+Agora já confias?
+
+166
+00:11:47,624 --> 00:11:49,024
+Prontos para descolar.
+
+167
+00:11:49,104 --> 00:11:51,185
+Três, dois, um.
+
+168
+00:12:42,216 --> 00:12:45,166
+Podias ter saído em liberdade ontem.
+
+169
+00:12:46,455 --> 00:12:48,505
+Tinhas o público do teu lado.
+
+170
+00:12:48,994 --> 00:12:52,444
+Mas perdeste-os
+quando mostraste a tua fraqueza.
+
+171
+00:12:55,694 --> 00:12:58,794
+Sei que não roubaste os medicamentos, Kane.
+
+172
+00:12:59,444 --> 00:13:00,444
+Admite-o.
+
+173
+00:13:01,485 --> 00:13:03,035
+Diz-me quem foi.
+
+174
+00:13:03,957 --> 00:13:05,457
+E deixo-te ir.
+
+175
+00:13:05,722 --> 00:13:08,404
+Só os culpados devem combater na arena.
+
+176
+00:13:08,434 --> 00:13:11,725
+- Somos todos culpados.
+- Não estou aqui para filosofar,
+
+177
+00:13:11,755 --> 00:13:13,916
+mas para te dar
+uma segunda oportunidade.
+
+178
+00:13:13,946 --> 00:13:16,246
+E eu estou a fazer o mesmo.
+
+179
+00:13:16,735 --> 00:13:18,153
+Mantiveste-nos unidos, Octavia.
+
+180
+00:13:18,183 --> 00:13:19,833
+É verdade. Os <i>wonkrus </i>são fortes.
+
+181
+00:13:20,204 --> 00:13:22,518
+Ter-nos-íamos destruído
+
+182
+00:13:22,658 --> 00:13:23,504
+ao longo do ano sombrio.
+
+183
+00:13:23,534 --> 00:13:25,634
+Mais uma palavra acerca do ano sombrio,
+
+184
+00:13:25,934 --> 00:13:27,264
+e mando-te para a arena
+
+185
+00:13:27,294 --> 00:13:29,444
+nem que digas a verdade.
+
+186
+00:13:30,084 --> 00:13:32,884
+- Conheces a lei.
+- Não vou combater.
+
+187
+00:13:35,425 --> 00:13:36,675
+Então vais morrer.
+
+188
+00:13:38,663 --> 00:13:40,313
+Desviaste-te do caminho.
+
+189
+00:13:42,484 --> 00:13:44,084
+Todos nós.
+
+190
+00:13:45,414 --> 00:13:46,776
+Fiquei calado
+
+191
+00:13:46,806 --> 00:13:48,156
+por demasiado tempo.
+
+192
+00:13:48,939 --> 00:13:50,557
+Achas que a arena...
+
+193
+00:13:50,587 --> 00:13:52,887
+- ... significa justiça?
+- Sei que sim.
+
+194
+00:13:52,917 --> 00:13:54,017
+A tua mãe...
+
+195
+00:13:54,977 --> 00:13:56,527
+A tua mãe foi lançada ao espaço
+
+196
+00:13:56,597 --> 00:13:59,373
+por ter um segundo filho.
+Por te ter a ti.
+
+197
+00:13:59,403 --> 00:14:01,103
+Tomei parte nisso.
+
+198
+00:14:01,305 --> 00:14:02,605
+E em muito mais.
+
+199
+00:14:03,901 --> 00:14:06,551
+Temos a oportunidade
+de fazer algo melhor aqui.
+
+200
+00:14:10,075 --> 00:14:11,825
+Estamos a desperdiçá-la.
+
+201
+00:14:12,700 --> 00:14:14,890
+Octavia, por favor.
+A força...
+
+202
+00:14:15,187 --> 00:14:17,137
+... sem misericórdia de nada serve.
+
+203
+00:14:17,448 --> 00:14:18,648
+De nada.
+
+204
+00:14:20,186 --> 00:14:22,636
+Podes pôr cobro a isto.
+
+205
+00:14:23,201 --> 00:14:24,489
+Podes salvar-nos.
+
+206
+00:14:26,585 --> 00:14:28,035
+Não é tarde demais.
+
+207
+00:14:33,805 --> 00:14:36,205
+Diz-me quem roubou os medicamentos, Kane.
+
+208
+00:14:44,042 --> 00:14:45,132
+Que assim seja.
+
+209
+00:15:02,990 --> 00:15:04,840
+Não me tentes convencer.
+
+210
+00:15:05,333 --> 00:15:06,439
+Não o farei.
+
+211
+00:15:26,786 --> 00:15:27,986
+Ontem ganhou.
+
+212
+00:15:28,371 --> 00:15:31,510
+Garanti que hoje ele teria
+um adversário mais fraco,
+
+213
+00:15:31,540 --> 00:15:33,440
+mas recusa-se a combater.
+
+214
+00:15:34,115 --> 00:15:36,265
+Talvez o faças ganhar juízo.
+
+215
+00:15:38,881 --> 00:15:39,971
+Espera.
+
+216
+00:15:40,961 --> 00:15:42,161
+Fui eu.
+
+217
+00:15:43,783 --> 00:15:45,635
+Eu roubei as drogas.
+
+218
+00:15:45,665 --> 00:15:47,515
+Não me dou bem sem elas.
+
+219
+00:15:49,430 --> 00:15:52,980
+Por favor, não o deixes morrer
+por algo que eu fiz.
+
+220
+00:15:54,497 --> 00:15:57,447
+Tinhas razão em mandar-me prendê-la.
+
+221
+00:15:57,930 --> 00:16:01,038
+Sabia que ias confessar para o tentares salvar.
+
+222
+00:16:01,068 --> 00:16:03,283
+A única maneira de se salvarem a ambos
+
+223
+00:16:03,313 --> 00:16:04,613
+é ele vencer.
+
+224
+00:16:06,103 --> 00:16:07,403
+Têm um minuto.
+
+225
+00:16:10,059 --> 00:16:11,165
+Fala com ele.
+
+226
+00:16:17,461 --> 00:16:18,533
+Abby.
+
+227
+00:16:20,118 --> 00:16:21,568
+O que fizemos?
+
+228
+00:16:23,403 --> 00:16:25,554
+O necessário para sobreviver.
+
+229
+00:16:25,584 --> 00:16:28,393
+- Quantas vezes vamos dar essa desculpa?
+- É a verdade.
+
+230
+00:16:28,423 --> 00:16:31,694
+Não.
+Dizemo-lo para justificar as atrocidades
+
+231
+00:16:31,724 --> 00:16:34,324
+que infligimos uns aos outros.
+
+232
+00:16:35,848 --> 00:16:37,155
+Não consigo continuar.
+
+233
+00:16:37,185 --> 00:16:38,770
+Marcus, tens de combater.
+
+234
+00:16:38,800 --> 00:16:41,327
+Tens de combater. Deixo
+os comprimidos. Faço qualquer coisa.
+
+235
+00:16:41,357 --> 00:16:42,807
+Não te posso perder.
+
+236
+00:16:48,686 --> 00:16:50,136
+Já me perdi.
+
+237
+00:16:55,888 --> 00:16:58,088
+- Está na hora.
+- Não, ainda não.
+
+238
+00:17:04,488 --> 00:17:06,221
+Tens de me deixar ir.
+
+239
+00:17:06,251 --> 00:17:07,851
+Tens de me deixar ir.
+
+240
+00:17:07,971 --> 00:17:10,021
+Promete que não confessas,
+
+241
+00:17:10,100 --> 00:17:12,050
+mesmo depois de eu partir.
+
+242
+00:17:12,207 --> 00:17:13,657
+Porque, se morreres,
+
+243
+00:17:13,976 --> 00:17:15,164
+o meu sacrifício
+
+244
+00:17:15,194 --> 00:17:16,494
+terá sido em vão.
+
+245
+00:17:17,706 --> 00:17:18,944
+Promete.
+
+246
+00:17:18,974 --> 00:17:21,225
+Prometo. Prometo.
+
+247
+00:17:21,255 --> 00:17:24,505
+E prometes que paras de tomar
+os comprimidos?
+
+248
+00:17:27,253 --> 00:17:28,803
+Sim. Prometo.
+
+249
+00:17:34,452 --> 00:17:35,594
+Amo-te.
+
+250
+00:17:36,251 --> 00:17:37,373
+Kane.
+
+251
+00:18:12,161 --> 00:18:14,011
+Olha o que encontrei.
+
+252
+00:18:15,950 --> 00:18:20,327
+Vá lá, podemo-nos divertir um bocado
+antes do possível genocídio.
+
+253
+00:18:20,357 --> 00:18:21,957
+Estou a brincar, como é óbvio.
+
+254
+00:18:23,097 --> 00:18:25,197
+Qual é o psicopata de hoje?
+
+255
+00:18:25,703 --> 00:18:26,793
+Nenhum.
+
+256
+00:18:26,971 --> 00:18:29,882
+São os ficheiros das missões da <i>Eligius</i>.
+Olha para isto.
+
+257
+00:18:29,912 --> 00:18:32,903
+A empresa financiou três missões
+interestelares.
+
+258
+00:18:32,933 --> 00:18:35,959
+Estamos na <i>Eligius IV.</i>
+A <i>Eligius I</i> era uma nave de exploração.
+
+259
+00:18:35,989 --> 00:18:40,207
+Descobriu uma mina de hitalódio
+no asteroide Proxima VI.
+
+260
+00:18:40,227 --> 00:18:42,287
+A <i>Eligius II</i> foi enviada
+para iniciar a extração,
+
+261
+00:18:42,307 --> 00:18:44,489
+mas falhou.
+Não tinha mão de obra suficiente.
+
+262
+00:18:44,519 --> 00:18:47,801
+Por isso, mudaram para trabalhos forçados
+na <i>Eligius IV.</i>
+
+263
+00:18:47,831 --> 00:18:49,286
+E o que aconteceu à <i>III?</i>
+
+264
+00:18:49,316 --> 00:18:50,455
+Exatamente.
+
+265
+00:18:50,882 --> 00:18:54,468
+É isso que é estranho. Tenho acesso
+à base de dados da <i>I, II</i> e <i>IV</i>,
+
+266
+00:18:54,498 --> 00:18:58,702
+mas a <i>III</i> tem um algoritmo
+de encriptação AES de 256 <i>bits.</i>
+
+268
+00:18:58,732 --> 00:19:00,693
+- Em inglês.
+- Não consigo entrar.
+
+269
+00:19:00,723 --> 00:19:03,173
+- Percebi.
+- Estou nisto há horas.
+
+270
+00:19:03,810 --> 00:19:04,950
+O que se passa?
+
+271
+00:19:05,609 --> 00:19:08,055
+- Estão a tentar entrar do solo.
+- O que estás a fazer?
+
+272
+00:19:08,085 --> 00:19:09,541
+A tentar detê-los. O que achas?
+
+273
+00:19:09,571 --> 00:19:11,472
+Tens de desligar as cápsulas.
+
+274
+00:19:11,502 --> 00:19:12,710
+Não. Eu consigo.
+
+275
+00:19:12,740 --> 00:19:14,676
+Raven. Se não conseguires
+e eles entram, morre...
+
+276
+00:19:14,706 --> 00:19:17,156
+Cala-te, Murphy. Estou quase.
+
+277
+00:19:21,688 --> 00:19:22,888
+Estamos bem.
+
+278
+00:19:23,797 --> 00:19:26,062
+Não. Não estamos.
+Temos de dizer ao Bellamy.
+
+279
+00:19:26,092 --> 00:19:27,979
+Murphy, não. Por favor, para.
+
+280
+00:19:28,009 --> 00:19:30,785
+Sabes as regras.
+É para isto que aqui estamos.
+
+281
+00:19:30,815 --> 00:19:33,888
+- E se da próxima conseguem?
+- Não conseguem. Eu trato disto.
+
+282
+00:19:33,918 --> 00:19:35,041
+Tratas?
+
+283
+00:19:35,486 --> 00:19:38,600
+Compreendo que não queiras
+matar 300 pessoas adormecidas,
+
+284
+00:19:38,630 --> 00:19:41,611
+- mas se não conseguirmos...
+- Eu disse que trato disto
+
+285
+00:19:41,641 --> 00:19:42,641
+Está bem?
+
+286
+00:19:42,842 --> 00:19:44,454
+Vai brincar com a tua bola.
+
+287
+00:19:44,464 --> 00:19:46,614
+Eu trato de tudo, como sempre.
+
+288
+00:19:51,220 --> 00:19:52,720
+Às suas ordens, Capitã.
+
+289
+00:20:04,263 --> 00:20:06,483
+Ao convidar a morte,
+
+290
+00:20:06,565 --> 00:20:07,665
+honramo-la.
+
+291
+00:20:11,141 --> 00:20:13,844
+<i>Tudo de mim por nós todos.</i>
+
+292
+00:20:15,174 --> 00:20:16,524
+E como sempre...
+
+293
+00:20:17,440 --> 00:20:18,890
+... sejam o último.
+
+294
+00:20:26,494 --> 00:20:27,844
+O que é isto?
+
+295
+00:20:28,524 --> 00:20:29,974
+Escolhe uma arma.
+
+296
+00:20:40,124 --> 00:20:41,585
+Luta comigo, raios!
+
+297
+00:20:41,595 --> 00:20:43,895
+Ou nenhum de nós sai daqui vivo.
+
+298
+00:20:53,536 --> 00:20:54,936
+Não vou lutar.
+
+299
+00:20:56,297 --> 00:20:57,996
+Não vou matar este homem.
+
+301
+00:21:03,066 --> 00:21:04,516
+Deixámos...
+
+302
+00:21:05,034 --> 00:21:07,384
+... que a justiça
+se transformasse em vingança
+
+303
+00:21:07,405 --> 00:21:09,855
+e que a vingança se tornasse num desporto.
+
+304
+00:21:10,435 --> 00:21:14,346
+Permiti a ascensão das trevas.
+
+305
+00:21:15,616 --> 00:21:18,545
+Mas a minha conivência fica por aqui.
+
+306
+00:21:18,876 --> 00:21:22,901
+És <i>wonkru</i>
+ou és inimigo dos <i>wonkrus</i>.
+
+307
+00:21:24,806 --> 00:21:25,806
+Escolhe.
+
+308
+00:21:26,900 --> 00:21:28,150
+Já escolhi.
+
+309
+00:21:38,429 --> 00:21:39,429
+Levanta-te.
+
+310
+00:21:41,991 --> 00:21:43,205
+Vamos, Kane.
+
+311
+00:21:43,215 --> 00:21:45,615
+O teu instinto de sobrevivência?
+
+312
+00:21:47,723 --> 00:21:49,373
+Para salvar o nosso povo,
+
+313
+00:21:50,247 --> 00:21:51,478
+manteres-me vivo...
+
+314
+00:21:51,768 --> 00:21:53,418
+... não basta.
+
+315
+00:21:57,428 --> 00:21:58,878
+Não é tarde demais.
+
+316
+00:22:03,610 --> 00:22:05,043
+Para ti é.
+
+317
+00:22:18,203 --> 00:22:19,657
+Para a arena.
+
+318
+00:22:19,667 --> 00:22:21,458
+Levem os prisioneiros para as celas.
+
+319
+00:22:21,468 --> 00:22:23,417
+Octavia, não estamos em segurança.
+
+320
+00:22:23,759 --> 00:22:25,296
+Não.
+
+321
+00:22:57,963 --> 00:22:59,763
+Eu sabia que virias.
+
+322
+00:22:59,947 --> 00:23:01,047
+Eu sabia...
+
+323
+00:23:39,211 --> 00:23:40,412
+Quem são?
+
+324
+00:23:41,611 --> 00:23:43,366
+Viemos socorrer-vos.
+
+325
+00:23:45,616 --> 00:23:48,484
+- Porque estão armados?
+- O, está tudo bem.
+
+326
+00:23:49,936 --> 00:23:51,386
+Temos um acordo.
+
+327
+00:23:53,257 --> 00:23:54,507
+Antes de mais,
+
+328
+00:23:54,681 --> 00:23:55,981
+onde está a minha mãe?
+
+329
+00:23:56,890 --> 00:23:58,590
+Vou levá-la à mãe.
+
+330
+00:24:04,317 --> 00:24:06,812
+Suponho que sejas irmã dele.
+
+331
+00:24:06,822 --> 00:24:10,151
+Sim, desculpem.
+Octavia, é a Coronel Diyoza.
+
+332
+00:24:10,864 --> 00:24:11,984
+Coronel?
+
+333
+00:24:11,994 --> 00:24:12,994
+Era.
+
+334
+00:24:15,255 --> 00:24:17,805
+Adoro a pintura de guerra.
+
+335
+00:24:21,156 --> 00:24:22,874
+Muito bem. Como fazemos isto?
+
+336
+00:24:22,884 --> 00:24:24,602
+Dois de cada vez.
+
+337
+00:24:25,458 --> 00:24:27,708
+Peguem nas vossas coisas
+
+338
+00:24:27,739 --> 00:24:30,408
+e começamos assim que estejamos prontos
+à superfície.
+
+339
+00:24:46,937 --> 00:24:50,597
+Quantas pessoas vamos extrair?
+
+340
+00:24:50,607 --> 00:24:51,534
+Mil e duzentas.
+
+341
+00:24:51,554 --> 00:24:53,275
+Oitocentas e catorze.
+
+342
+00:24:59,557 --> 00:25:00,557
+Entendido.
+
+343
+00:25:04,268 --> 00:25:07,190
+Vamos salvar 814 pessoas hoje.
+
+344
+00:25:07,200 --> 00:25:08,453
+Entendido, Shaw?
+
+345
+00:25:08,473 --> 00:25:09,722
+<i>Como estão as coisas aí em cima?</i>
+
+346
+00:25:09,742 --> 00:25:11,219
+Bloqueadas.
+
+347
+00:25:11,239 --> 00:25:12,675
+Seja ela quem for,
+
+348
+00:25:12,695 --> 00:25:13,695
+<i>a miúda é boa.</i>
+
+349
+00:25:14,250 --> 00:25:16,950
+Aviso-te quando conseguir entrar.
+
+350
+00:25:24,876 --> 00:25:26,126
+Que giro.
+
+351
+00:25:47,028 --> 00:25:48,028
+Murphy?
+
+352
+00:25:48,439 --> 00:25:50,939
+Achas que é um bom sítio para uma sesta?
+
+353
+00:25:52,459 --> 00:25:55,716
+Porque não?
+Há cem anos que estes gajos dormem aqui.
+
+354
+00:25:57,062 --> 00:25:59,483
+Pensaste que era um deles a acordar?
+
+355
+00:25:59,503 --> 00:26:01,873
+- Disseste que não era possível.
+- E não é.
+
+356
+00:26:04,223 --> 00:26:06,785
+Então, o que é que estás aqui a fazer,
+Raven?
+
+357
+00:26:07,518 --> 00:26:11,306
+Vieste conviver com as pessoas
+que poderás ter de matar?
+
+358
+00:26:14,683 --> 00:26:15,683
+Espera.
+
+359
+00:26:16,353 --> 00:26:17,603
+Raven, espera.
+
+360
+00:26:18,644 --> 00:26:20,962
+Não era o que eu queria dizer, está bem?
+
+361
+00:26:21,851 --> 00:26:23,548
+Sei que é difícil.
+
+362
+00:26:27,431 --> 00:26:30,781
+Desculpa ter sido uma cabra.
+É que...
+
+363
+00:26:33,583 --> 00:26:36,633
+Tenho medo de não conseguir desligar
+as cápsulas.
+
+364
+00:26:37,761 --> 00:26:38,761
+Eu sei.
+
+365
+00:26:40,317 --> 00:26:42,217
+É por isso que vou ser eu a fazê-lo.
+
+366
+00:26:43,698 --> 00:26:45,348
+- Murphy...
+- Espera.
+
+367
+00:26:45,660 --> 00:26:49,633
+Ficaram todos surpreendidos
+por eu ter ficado. Eu mais do que todos.
+
+368
+00:26:49,653 --> 00:26:52,304
+Pensava que estava a fazê-lo
+para impressionar a Emori,
+
+369
+00:26:52,314 --> 00:26:53,714
+mas quanto mais penso nisso...
+
+370
+00:26:58,179 --> 00:27:01,379
+Porque tens de ser
+sempre tu a sacrificar-te?
+
+371
+00:27:03,654 --> 00:27:05,622
+Seja como for, se tiver de ser,
+
+372
+00:27:06,282 --> 00:27:07,380
+eu trato do assunto.
+
+373
+00:27:26,672 --> 00:27:27,672
+Acabou?
+
+374
+00:27:27,692 --> 00:27:28,692
+Está vivo...
+
+375
+00:27:29,885 --> 00:27:30,885
+... por enquanto.
+
+376
+00:27:35,389 --> 00:27:36,489
+Olá, mãe.
+
+377
+00:27:39,827 --> 00:27:40,827
+Clarke.
+
+378
+00:27:52,407 --> 00:27:53,407
+Como?
+
+379
+00:27:53,920 --> 00:27:54,920
+Como?
+
+380
+00:27:56,926 --> 00:27:58,246
+Quando? Quando...?
+
+381
+00:27:58,256 --> 00:27:59,556
+Temos de ir,
+
+382
+00:27:59,682 --> 00:28:00,682
+já.
+
+383
+00:28:06,933 --> 00:28:08,283
+Vai correr tudo bem,
+
+384
+00:28:09,998 --> 00:28:12,498
+mas, primeiro,
+temos de te tirar daqui.
+
+385
+00:28:13,010 --> 00:28:14,010
+Vamos.
+
+386
+00:28:17,893 --> 00:28:19,493
+E o Marcus?
+
+387
+00:28:20,712 --> 00:28:22,249
+Vou levá-lo para cima.
+
+388
+00:28:22,259 --> 00:28:24,009
+Depois, é contigo.
+
+389
+00:28:39,390 --> 00:28:41,377
+<i>Das cinzas renasceremos.</i>
+
+398
+00:29:47,455 --> 00:29:48,455
+Obrigado.
+
+399
+00:29:49,164 --> 00:29:50,566
+É bom ver-te.
+
+400
+00:29:59,383 --> 00:30:01,014
+O acordo era nada de armas.
+
+401
+00:30:01,091 --> 00:30:02,543
+O acordo não é meu.
+
+402
+00:30:05,133 --> 00:30:06,883
+Temos de falar a sós.
+
+403
+00:30:07,319 --> 00:30:09,319
+Dá-me um instante
+e depois segue-me.
+
+404
+00:30:24,515 --> 00:30:25,865
+Muito bem. Tragam-no.
+
+405
+00:30:37,384 --> 00:30:38,484
+<i>Blodreina</i>,
+
+406
+00:30:38,933 --> 00:30:40,233
+a rainha vermelha.
+
+407
+00:30:42,430 --> 00:30:44,730
+Fala-me do recinto de combate.
+
+408
+00:30:45,339 --> 00:30:46,639
+Como é que isso aconteceu?
+
+409
+00:30:47,130 --> 00:30:49,523
+Parece que estiveram muito entretidos...
+
+410
+00:30:49,543 --> 00:30:52,475
+Seis anos é muito tempo.
+
+411
+00:30:53,317 --> 00:30:54,917
+As coisas mudaram.
+
+412
+00:30:55,139 --> 00:30:56,489
+Eu mudei.
+
+413
+00:31:01,251 --> 00:31:03,179
+Temos muito que falar, não?
+
+414
+00:31:03,209 --> 00:31:04,214
+Temos.
+
+415
+00:31:06,431 --> 00:31:07,481
+Mas agora não.
+
+416
+00:31:08,458 --> 00:31:10,739
+Não confio nesta gente, Bell.
+
+417
+00:31:10,769 --> 00:31:12,569
+Quem são? De onde vêm?
+
+418
+00:31:12,814 --> 00:31:16,264
+- Porque nos estão a ajudar?
+- Também não confio neles, está bem?
+
+419
+00:31:16,962 --> 00:31:18,976
+Mas tens de confiar em mim.
+
+420
+00:31:19,006 --> 00:31:20,356
+Temos uma vantagem.
+
+421
+00:31:21,847 --> 00:31:22,951
+Que tipo de vantagem?
+
+426
+00:31:52,410 --> 00:31:56,610
+Espera pela noite. Se fores apanhado,
+não te podemos ajudar.
+
+427
+00:32:12,864 --> 00:32:14,464
+Eis a nossa médica.
+
+428
+00:32:17,464 --> 00:32:19,939
+Shaw, porque está tão demorado?
+
+429
+00:32:19,969 --> 00:32:22,044
+Já te disse.
+A miúda é uma espécie de génio.
+
+430
+00:32:22,064 --> 00:32:24,108
+Tudo em que pensei, ela pensou primeiro.
+
+431
+00:32:24,128 --> 00:32:25,933
+Até teve tempo de me fazer um manguito.
+
+432
+00:32:25,963 --> 00:32:28,279
+Sabe que estás a tentar entrar?
+
+433
+00:32:28,433 --> 00:32:30,278
+- Talvez...
+- Disse-te para teres cuidado.
+
+434
+00:32:30,298 --> 00:32:31,965
+São os nossos homens, Shaw.
+
+435
+00:32:31,995 --> 00:32:34,213
+Calma. Eles estão bem.
+
+436
+00:32:34,243 --> 00:32:37,183
+Estás a ver?
+Confortáveis que nem vermes criminosos
+
+437
+00:32:37,213 --> 00:32:39,627
+hermeticamente fechados.
+
+438
+00:32:42,995 --> 00:32:44,545
+Hermeticamente fechados.
+
+439
+00:32:46,570 --> 00:32:47,570
+O que foi?
+
+440
+00:32:48,252 --> 00:32:51,802
+Temos acesso às portas do cais de atracagem?
+
+441
+00:32:56,240 --> 00:32:57,337
+Sim.
+
+442
+00:32:57,367 --> 00:32:58,517
+Abre-as.
+
+443
+00:32:59,689 --> 00:33:01,839
+- Isso vai matá-los.
+- O nosso pessoal, não.
+
+444
+00:33:02,319 --> 00:33:05,569
+Já encontrámos a médica.
+Vamos acabar com isto.
+
+445
+00:33:07,420 --> 00:33:09,870
+A abrir portas do cais de atracagem.
+
+446
+00:33:10,363 --> 00:33:13,213
+ESCOTILHAS A ABRIR
+VENTILAÇÃO DE OXIGÉNIO
+
+447
+00:33:13,449 --> 00:33:16,208
+O John Murphy passa a bola a si próprio,
+
+448
+00:33:16,238 --> 00:33:19,515
+finta e prossegue.
+Entretanto, a horrenda...
+
+449
+00:33:19,545 --> 00:33:21,280
+- ... guarda-redes perneta tenta defender.
+- Está bem.
+
+450
+00:33:21,310 --> 00:33:24,138
+... Consegue? Não.
+Ele é demasiado veloz.
+
+451
+00:33:24,168 --> 00:33:27,604
+Vai marcar?
+Golo! Sim!
+
+452
+00:33:27,634 --> 00:33:30,133
+Boa! Que bom!
+
+453
+00:33:31,483 --> 00:33:32,583
+O que se passa?
+
+454
+00:33:33,274 --> 00:33:35,511
+<i>Porta leste
+do cais de atracagem a abrir.</i>
+
+455
+00:33:35,541 --> 00:33:38,305
+Vão tentar matar-nos expulsando o oxigénio.
+
+456
+00:33:38,335 --> 00:33:41,090
+- Não é bom.
+- É hora de desligar as cápsulas.
+
+457
+00:33:42,769 --> 00:33:45,084
+- Quanto tempo temos?
+- Não muito.
+
+458
+00:33:45,114 --> 00:33:47,912
+- Chega para nos pôr em criónica?
+- Boa ideia. Diz-me como.
+
+459
+00:33:47,942 --> 00:33:50,018
+Tu és a génio. Descobre.
+
+460
+00:33:50,038 --> 00:33:51,038
+Murphy,
+
+461
+00:33:51,141 --> 00:33:52,141
+está na hora.
+
+462
+00:33:52,171 --> 00:33:53,321
+Puxa a alavanca.
+
+463
+00:33:55,997 --> 00:33:57,088
+Está bem. Eu puxo.
+
+464
+00:33:57,118 --> 00:33:58,546
+Espera, espera.
+
+465
+00:33:58,576 --> 00:33:59,576
+O que foi?
+
+466
+00:33:59,811 --> 00:34:01,247
+Não estou pronto para morrer.
+
+467
+00:34:01,277 --> 00:34:02,279
+Tu estás?
+
+468
+00:34:04,029 --> 00:34:05,779
+- Já está.
+- Bom trabalho.
+
+469
+00:34:05,868 --> 00:34:07,368
+Prepara-a para voar.
+
+470
+00:34:10,086 --> 00:34:11,086
+Espera.
+
+471
+00:34:12,101 --> 00:34:13,501
+O que foi, Shaw?
+
+472
+00:34:13,974 --> 00:34:16,224
+- Fala.
+- Estão a acordar.
+
+473
+00:34:17,561 --> 00:34:18,972
+Abriram as cápsulas.
+
+474
+00:34:19,002 --> 00:34:22,613
+Se não fecharmos as portas,
+o teu pessoal vai morrer também.
+
+475
+00:34:22,633 --> 00:34:25,148
+Queres dizer o nosso, não é, Tenente?
+
+476
+00:34:25,178 --> 00:34:26,928
+Quais são as ordens?
+
+477
+00:34:30,117 --> 00:34:31,417
+Fecha as portas.
+
+478
+00:34:32,929 --> 00:34:35,034
+Seja como for, recuperámos o controlo.
+
+479
+00:34:35,064 --> 00:34:36,929
+A tua amiga pode ser esperta,
+
+480
+00:34:36,949 --> 00:34:38,299
+mas é uma cobarde.
+
+481
+00:34:44,151 --> 00:34:45,501
+Uma cobarde viva.
+
+482
+00:34:59,721 --> 00:35:02,176
+O instinto de sobrevivência é uma porra.
+
+483
+00:35:24,186 --> 00:35:25,785
+É um erro, irmão.
+
+484
+00:35:25,815 --> 00:35:27,581
+Começou com os dela.
+
+485
+00:35:27,601 --> 00:35:29,192
+Sabes que tenho razão.
+
+486
+00:35:29,222 --> 00:35:30,922
+Está ali um exército.
+
+487
+00:35:31,737 --> 00:35:34,737
+Somos mais leais a ti do que a ela.
+
+488
+00:35:34,776 --> 00:35:36,726
+É só dizeres.
+
+489
+00:35:37,160 --> 00:35:38,210
+Ainda não.
+
+490
+00:35:43,078 --> 00:35:44,578
+A tua hora vai chegar.
+
+491
+00:35:45,036 --> 00:35:46,886
+Não faças nenhuma estupidez.
+
+492
+00:35:47,435 --> 00:35:48,435
+Vamos.
+
+493
+00:35:52,155 --> 00:35:53,655
+Onde está a médica?
+
+494
+00:36:06,031 --> 00:36:08,981
+Muito bem. Estamos em segurança.
+Vamos tirar as algemas.
+
+495
+00:36:09,182 --> 00:36:10,532
+Se tiveres razão
+
+496
+00:36:10,774 --> 00:36:13,073
+e o vale for o único sítio
+onde é possível sobreviver,
+
+497
+00:36:13,093 --> 00:36:14,725
+para onde iremos, eu e a tua mãe?
+
+498
+00:36:14,745 --> 00:36:17,153
+Vou falar com a Octavia,
+a ver se chegamos a acordo.
+
+499
+00:36:17,183 --> 00:36:18,533
+Não vais conseguir.
+
+500
+00:36:19,218 --> 00:36:21,668
+Seja como for, isso é para amanhã.
+
+501
+00:36:21,831 --> 00:36:25,636
+Por hoje, temos de vos manter escondidos
+até todos estarem em segurança...
+
+502
+00:36:27,288 --> 00:36:29,538
+- Que raio foi aquilo?
+- Sei o que foi.
+
+503
+00:36:29,709 --> 00:36:30,809
+Fiquem aqui.
+
+504
+00:36:33,399 --> 00:36:35,638
+Peço desculpa pela vossa bela fonte,
+
+505
+00:36:35,668 --> 00:36:37,768
+mas isto foi só metade da potência.
+
+506
+00:36:38,188 --> 00:36:40,288
+Sei que a maioria de vocês está armada.
+
+507
+00:36:40,854 --> 00:36:43,135
+Se alguém pegar numa arma,
+
+508
+00:36:43,155 --> 00:36:46,155
+verão o que a potência máxima
+faz à carne humana.
+
+509
+00:36:46,504 --> 00:36:48,175
+- Não é bonito.
+- Então?
+
+510
+00:36:48,205 --> 00:36:50,255
+O que raio estão a fazer?
+
+511
+00:36:50,416 --> 00:36:52,666
+- Uma chamada e...
+- Faz a chamada.
+
+512
+00:36:58,776 --> 00:37:00,076
+Raven, responde.
+
+513
+00:37:00,557 --> 00:37:01,557
+Estás a ouvir?
+
+514
+00:37:09,031 --> 00:37:10,283
+Acabou o acordo.
+
+515
+00:37:10,313 --> 00:37:13,313
+- Não tem de haver feridos.
+- <i>Vem aí alguém.</i>
+
+516
+00:37:14,021 --> 00:37:15,121
+Não disparem.
+
+517
+00:37:16,087 --> 00:37:17,387
+Onde está a tua mãe?
+
+518
+00:37:19,911 --> 00:37:22,361
+É a nossa médica.
+Não podem levá-la.
+
+519
+00:37:22,718 --> 00:37:24,418
+Ela fez-te uma pergunta.
+
+520
+00:37:24,748 --> 00:37:26,048
+Onde está a médica?
+
+521
+00:37:27,399 --> 00:37:29,999
+Pois é.
+Já não estás armada em dura, não é?
+
+522
+00:37:30,075 --> 00:37:31,075
+Não.
+
+523
+00:37:31,742 --> 00:37:32,842
+Esperem.
+
+524
+00:37:38,895 --> 00:37:39,895
+<i>Estou aqui.</i>
+
+525
+00:37:45,976 --> 00:37:47,076
+Não disparem.
+
+526
+00:37:49,466 --> 00:37:51,616
+Vamos sem resistir.
+
+527
+00:37:51,889 --> 00:37:53,339
+Claro que vais,
+
+528
+00:37:53,532 --> 00:37:54,582
+traidora.
+
+529
+00:37:55,853 --> 00:37:57,645
+- "Vamos"?
+- Nós os dois.
+
+530
+00:37:57,675 --> 00:37:59,675
+São as minhas condições.
+
+531
+00:38:03,113 --> 00:38:05,363
+Já vi a quem sai a tua filha.
+
+532
+00:38:05,512 --> 00:38:07,012
+Levem-nos aos dois.
+
+533
+00:38:07,214 --> 00:38:08,715
+Mãe, o que fazes?
+
+534
+00:38:08,745 --> 00:38:10,028
+Adoro-te, Clarke.
+
+536
+00:38:12,501 --> 00:38:14,696
+Muito bem. Eis as minhas condições.
+
+537
+00:38:14,726 --> 00:38:16,126
+O vale é nosso.
+
+538
+00:38:16,524 --> 00:38:20,274
+Qualquer tentativa para lá chegarem
+será veementemente impedida.
+
+539
+00:38:21,613 --> 00:38:23,163
+Enquanto aqui ficarem,
+
+540
+00:38:23,567 --> 00:38:25,267
+não haverá problema.
+
+541
+00:38:28,659 --> 00:38:30,009
+Algum problema?
+
+542
+00:38:33,346 --> 00:38:34,978
+E a Raven e o Murphy?
+
+543
+00:38:35,008 --> 00:38:37,408
+São a nossa garantia.
+
+544
+00:38:37,576 --> 00:38:38,576
+Vamos.
+
+545
+00:38:39,728 --> 00:38:40,728
+Comigo.
+
+546
+00:38:46,155 --> 00:38:48,122
+Sabunca, é uma ordem.
+
+547
+00:38:53,171 --> 00:38:54,364
+Baixem-se!
+
+548
+00:38:57,089 --> 00:38:58,439
+Sabunca, seu estúpido!
+
+549
+00:38:59,008 --> 00:39:01,901
+Para a nave! Mexam-se!
+
+550
+00:39:01,931 --> 00:39:04,481
+Preparem-se para
+uma evacuação de emergência.
+
+551
+00:39:12,768 --> 00:39:14,618
+<i>Octavia? Estás a ouvir?</i>
+
+552
+00:39:14,861 --> 00:39:15,961
+<i>Estou aqui.</i>
+
+553
+00:39:22,422 --> 00:39:24,272
+<i>Piloto automático acionado.</i>
+
+554
+00:39:25,732 --> 00:39:28,571
+- Que raio aconteceu?
+- Aconteceu que estamos em guerra.
+
+555
+00:39:28,601 --> 00:39:30,217
+Um míssil para a multidão,
+
+556
+00:39:30,247 --> 00:39:31,925
+- outro para o <i>bunker</i>.
+- Quê?
+
+557
+00:39:31,955 --> 00:39:33,180
+- Levem-nos daqui.
+- Não, espera.
+
+558
+00:39:33,210 --> 00:39:34,434
+Agora.
+
+559
+00:39:34,464 --> 00:39:36,347
+- Por favor.
+- A minha filha está ali.
+
+560
+00:39:36,377 --> 00:39:38,386
+Espera. Esta é uma nave de mineração.
+
+561
+00:39:38,416 --> 00:39:39,617
+Os mísseis foram concebidos
+
+562
+00:39:39,639 --> 00:39:41,410
+para destruir asteroides, não multidões.
+
+563
+00:39:42,280 --> 00:39:44,560
+Por causa deste idiota, não temos opção.
+
+564
+00:39:44,590 --> 00:39:45,846
+Vão retaliar.
+
+565
+00:39:45,876 --> 00:39:48,549
+- Temos de terminar isto já.
+- Coronel, pensa.
+
+566
+00:39:48,579 --> 00:39:51,399
+Segundo as minhas contas, restam menos
+de 1500 elementos
+
+567
+00:39:51,429 --> 00:39:53,125
+da raça humana.
+
+568
+00:39:53,571 --> 00:39:56,321
+- Ela deu-te uma ordem.
+- Vou pilotar a nave.
+
+569
+00:39:57,385 --> 00:39:59,285
+Se me matares, morremos todos.
+
+570
+00:39:59,493 --> 00:40:01,843
+Não vou pedir de novo, tenente.
+
+571
+00:40:06,128 --> 00:40:07,228
+É um erro.
+
+572
+00:40:16,433 --> 00:40:17,786
+CÓDIGO INVÁLIDO
+
+573
+00:40:19,136 --> 00:40:20,736
+Porque está a demorar tanto tempo?
+
+574
+00:40:23,139 --> 00:40:25,489
+- O que se passa?
+- Não sei. Está bloqueado.
+
+575
+00:40:25,563 --> 00:40:26,983
+A tua amiga Raven?
+
+576
+00:40:27,003 --> 00:40:28,103
+Tem de ser.
+
+577
+00:40:33,012 --> 00:40:34,512
+Vamos apanhá-la.
+
+578
+00:40:34,795 --> 00:40:35,795
+Entendido.
+
+579
+00:40:36,086 --> 00:40:37,686
+Apertem os cintos.
+
+580
+00:40:37,737 --> 00:40:40,537
+Propulsor principal em três, dois...
+
+581
+00:40:53,701 --> 00:40:55,507
+Temos mais 283.
+
+582
+00:41:12,142 --> 00:41:13,692
+Confiei em ti.
+
+583
+00:41:14,515 --> 00:41:15,915
+A culpa é tua.
+
+584
+00:41:17,125 --> 00:41:18,225
+<i>Blodreina</i>...
+
+585
+00:41:19,970 --> 00:41:21,470
+... o que fazemos agora?
+
+586
+00:41:22,349 --> 00:41:24,624
+Agora, entramos em guerra.
+
+587
+00:41:31,744 --> 00:41:34,344
+<i>Tradução:</i> Catarina Carvalho
+<i>Sincronização:</i> ItalianSubs
+

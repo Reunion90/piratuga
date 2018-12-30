@@ -1,0 +1,3648 @@
+
+1
+00:00:59,040 --> 00:01:02,473
+<i>A América é uma terra</i>
+<i>devastada e radioactiva.</i>
+
+2
+00:01:03,920 --> 00:01:06,394
+<i>No seu seio, há uma cidade.</i>
+
+3
+00:01:07,841 --> 00:01:11,093
+<i>No exterior dos seus</i>
+<i>muros delimitadores, um deserto.</i>
+
+4
+00:01:11,094 --> 00:01:12,942
+<i>Uma terra maldita.</i>
+
+5
+00:01:14,222 --> 00:01:17,405
+<i>Dentro dos muros,</i>
+<i>uma cidade maldita</i>
+
+6
+00:01:17,642 --> 00:01:20,867
+<i>que se estende</i>
+<i>de Boston a Washington DC.</i>
+
+7
+00:01:22,272 --> 00:01:25,079
+<i>Uma paisagem contínua de betão.</i>
+
+8
+00:01:26,818 --> 00:01:28,819
+<i>800 milhões de pessoas</i>
+
+9
+00:01:28,820 --> 00:01:31,544
+<i>que vivem nas ruínas</i>
+<i>do velho mundo</i>
+
+10
+00:01:31,656 --> 00:01:34,672
+<i>e nas megaestruturas</i>
+<i>do novo mundo.</i>
+
+11
+00:01:36,661 --> 00:01:38,426
+<i>Mega edifícios,</i>
+
+12
+00:01:38,747 --> 00:01:40,845
+<i>mega autoestradas,</i>
+
+13
+00:01:41,499 --> 00:01:43,264
+<i>Mega City One.</i>
+
+14
+00:01:52,219 --> 00:01:53,816
+<i>Turbulenta.</i>
+
+15
+00:01:54,429 --> 00:01:55,944
+<i>Sufocante.</i>
+
+16
+00:01:57,891 --> 00:02:00,657
+<i>A sucumbir sob o seu próprio peso.</i>
+
+17
+00:02:04,564 --> 00:02:07,121
+<i>Cidadãos com medo das ruas.</i>
+
+18
+00:02:07,609 --> 00:02:09,123
+<i>Das armas.</i>
+
+19
+00:02:09,986 --> 00:02:11,751
+<i>Dos gangues.</i>
+
+20
+00:02:15,909 --> 00:02:19,467
+<i>Apenas uma coisa</i>
+<i>luta pela ordem entre o caos:</i>
+
+21
+00:02:20,247 --> 00:02:23,596
+<i>os homens e mulheres</i>
+<i>do Palácio de Justiça.</i>
+
+22
+00:02:27,546 --> 00:02:28,977
+<i>Jurados.</i>
+
+23
+00:02:31,258 --> 00:02:33,022
+<i>Carrascos.</i>
+
+24
+00:02:35,679 --> 00:02:36,887
+<i>Juízes.</i>
+
+25
+00:02:36,888 --> 00:02:40,321
+<b>DREDD
+
+26
+00:02:51,444 --> 00:02:52,778
+<i>Houve disparos!</i>
+
+27
+00:02:52,779 --> 00:02:55,864
+<i>Perseguição em curso.</i>
+<i>Peço vigilância aérea.</i>
+
+28
+00:02:55,865 --> 00:02:58,993
+O avião teleguiado
+detecta três criminosos.
+
+29
+00:02:58,994 --> 00:03:02,621
+São precisos reforços no subsector 20,
+viaduto cinco.
+
+30
+00:03:02,622 --> 00:03:06,166
+Temos três suspeitos identificados,
+procurados por vários crimes.
+
+31
+00:03:06,167 --> 00:03:08,683
+Aguardo a resposta de qualquer juiz.
+
+32
+00:03:09,254 --> 00:03:10,921
+Dredd ao Controlo.
+
+33
+00:03:10,922 --> 00:03:13,897
+Estou a perseguir o veículo,
+no sector 13.
+
+34
+00:03:15,594 --> 00:03:19,360
+A condução é errática. Os suspeitos
+estão sob o efeito de narcóticos.
+
+35
+00:03:43,246 --> 00:03:44,997
+Temos um juiz
+
+36
+00:03:44,998 --> 00:03:47,263
+a seguir-nos.
+
+37
+00:03:48,752 --> 00:03:49,919
+O quê?
+
+38
+00:03:49,920 --> 00:03:54,103
+Disse que temos um juiz a seguir-nos!
+Mata-o, senão estamos feitos!
+
+39
+00:03:56,718 --> 00:03:58,066
+Foda-se!
+
+40
+00:03:59,721 --> 00:04:02,237
+- Precisa de reforços?
+- Não.
+
+41
+00:04:05,352 --> 00:04:06,908
+Cabrão!
+
+42
+00:04:12,275 --> 00:04:15,583
+Não consigo acertar-lhe!
+Estabiliza a carrinha!
+
+43
+00:04:29,543 --> 00:04:32,308
+<i>Atenção, perdemos o contacto visual.</i>
+
+44
+00:04:36,841 --> 00:04:39,566
+Foda-se, ele está mesmo
+em cima de nós!
+
+45
+00:04:39,803 --> 00:04:42,986
+Estamos feitos!
+Foda-se, estamos feitos!
+
+46
+00:04:54,192 --> 00:04:58,001
+Controlo, os suspeitos mataram
+um inocente. Vou detê-los.
+
+47
+00:05:18,049 --> 00:05:20,634
+Moto: activar controlo de multidão.
+
+48
+00:05:20,635 --> 00:05:23,178
+<i>Activado. Cidadãos, fiquem calmos.</i>
+
+49
+00:05:23,179 --> 00:05:25,347
+<i>Afastem-se do local do crime.</i>
+
+50
+00:05:25,348 --> 00:05:28,559
+<i>Qualquer interferência acarreta</i>
+<i>uma pena automática de cinco anos</i>
+
+51
+00:05:28,560 --> 00:05:30,200
+<i>nos iso-cubos.</i>
+
+52
+00:05:41,072 --> 00:05:43,004
+Vamos sair daqui!
+
+53
+00:06:02,385 --> 00:06:05,095
+Controlo, socorristas
+para o meu ponto GPS.
+
+54
+00:06:05,096 --> 00:06:07,848
+Vários feridos
+e cadáveres para a Resyk.
+
+55
+00:06:07,849 --> 00:06:09,697
+<i>Recebido, Dredd.</i>
+
+56
+00:06:10,727 --> 00:06:13,687
+<i>Os clientes devem evitar</i>
+<i>os restaurantes do piso um,</i>
+
+57
+00:06:13,688 --> 00:06:15,495
+<i>até nova informação.</i>
+
+58
+00:06:15,899 --> 00:06:19,207
+- Por favor, não me mate.
+- Cala-te, porra!
+
+59
+00:06:37,045 --> 00:06:40,144
+- Vamos falar.
+- Falar de quê, Juiz?
+
+60
+00:06:41,216 --> 00:06:43,690
+Solte a refém intacta
+
+61
+00:06:43,718 --> 00:06:46,095
+e eu garanto-lhe prisão perpétua,
+
+62
+00:06:46,096 --> 00:06:48,528
+sem condicional, num iso-cubo.
+
+63
+00:06:49,140 --> 00:06:52,184
+Perpétua sem condicional?
+É esse o acordo que oferece?
+
+64
+00:06:52,185 --> 00:06:53,825
+Só se colaborar.
+
+65
+00:06:54,020 --> 00:06:56,939
+Os seus crimes incluem
+homicídios múltiplos
+
+66
+00:06:56,940 --> 00:06:59,289
+e tentativa de assassinar um juiz.
+
+67
+00:06:59,693 --> 00:07:03,167
+Se não obedecer,
+a pena será a morte.
+
+68
+00:07:03,530 --> 00:07:05,739
+Você não é lá grande negociador.
+
+69
+00:07:05,740 --> 00:07:08,673
+Sabe porquê?
+Não tem margem de manobra.
+
+70
+00:07:08,910 --> 00:07:12,927
+O acordo é este: ou me deixa ir embora
+ou rebento os miolos dela. Certo?
+
+71
+00:07:15,709 --> 00:07:17,682
+Acabou a negociação.
+
+72
+00:07:18,003 --> 00:07:21,436
+Que está a fazer? Não me ouviu?
+Eu mato esta cabra!
+
+73
+00:07:21,923 --> 00:07:23,841
+Sim, ouvi-o, tiro certeiro.
+
+74
+00:07:23,842 --> 00:07:26,900
+- O quê?
+- Eu disse "tiro certeiro".
+
+75
+00:07:50,952 --> 00:07:53,301
+<i>Controlo a Dredd. Responda.</i>
+
+76
+00:07:53,330 --> 00:07:56,540
+- <i>A perseguição terminou?</i>
+- Afirmativo.
+
+77
+00:07:56,541 --> 00:08:00,433
+<i>Apresente-se no Palácio de Justiça.</i>
+<i>A juíza-presidente quer falar-lhe.</i>
+
+78
+00:08:03,506 --> 00:08:05,355
+Obrigada, Juiz.
+
+79
+00:08:06,426 --> 00:08:09,386
+<i>A zona de restauração do piso um</i>
+<i>reabrirá dentro de 30 minutos.</i>
+
+80
+00:08:09,387 --> 00:08:11,736
+<i>Obrigada pela vossa paciência.</i>
+
+81
+00:08:26,238 --> 00:08:28,878
+Cassandra Anderson. 21 anos.
+
+82
+00:08:29,366 --> 00:08:33,118
+Nasceu a 100 metros do muro
+da fronteira de radioactividade.
+
+83
+00:08:33,119 --> 00:08:37,248
+Aos 7 anos, os pais morreram de cancro
+provocado pelas poeiras radioactivas.
+
+84
+00:08:37,249 --> 00:08:39,375
+Como é normal com os órfãos,
+
+85
+00:08:39,376 --> 00:08:42,461
+ela foi submetida a um teste
+de aptidão para juíza aos nove anos.
+
+86
+00:08:42,462 --> 00:08:44,380
+Foi considerada inapta,
+
+87
+00:08:44,381 --> 00:08:48,064
+mas entrou para a academia
+devido a instruções especiais.
+
+88
+00:08:48,510 --> 00:08:51,887
+Na academia, o seu desempenho
+nunca passou de mediano.
+
+89
+00:08:51,888 --> 00:08:54,848
+A nota final dela na academia
+deixou-a três pontos percentuais
+
+90
+00:08:54,849 --> 00:08:58,199
+- abaixo da aprovação.
+- Então, que faz ela fardada?
+
+91
+00:09:03,483 --> 00:09:05,609
+- <i>Recruta Anderson.</i>
+- Minha senhora?
+
+92
+00:09:05,610 --> 00:09:08,334
+<i>Quantas pessoas estão a observá-la?</i>
+
+93
+00:09:10,865 --> 00:09:12,074
+Duas.
+
+94
+00:09:12,075 --> 00:09:15,383
+O que pode dizer-me
+sobre a pessoa com quem estou?
+
+95
+00:09:16,079 --> 00:09:17,594
+Homem.
+
+96
+00:09:18,164 --> 00:09:19,929
+Também juiz.
+
+97
+00:09:21,126 --> 00:09:22,932
+<i>Sinto raiva...</i>
+
+98
+00:09:23,295 --> 00:09:24,934
+<i>E controlo.</i>
+
+99
+00:09:25,881 --> 00:09:27,270
+Mas...
+
+100
+00:09:27,966 --> 00:09:29,842
+há mais alguma coisa.
+
+101
+00:09:29,843 --> 00:09:32,901
+<i>Algo para além do controlo.</i>
+<i>Algo...</i>
+
+102
+00:09:34,723 --> 00:09:37,655
+- quase...
+- Muito bem, Anderson.
+
+103
+00:09:37,934 --> 00:09:39,449
+<i>Já chega.</i>
+
+104
+00:09:40,270 --> 00:09:42,104
+Ela é uma mutante.
+
+105
+00:09:42,105 --> 00:09:45,190
+O conselho de juízes decidiu
+ignorar a condição dela.
+
+106
+00:09:45,191 --> 00:09:47,123
+Você fará o mesmo.
+
+107
+00:09:47,277 --> 00:09:51,461
+Ela é de longe a médium
+mais dotada que já encontrámos.
+
+108
+00:09:51,573 --> 00:09:54,450
+Os juízes estão a perder
+a guerra pela cidade.
+
+109
+00:09:54,451 --> 00:09:57,203
+Cremos que ela poderá ser
+uma grande mais-valia.
+
+110
+00:09:57,204 --> 00:10:00,497
+Como eu disse, a nota final dela
+ficou apenas 3% abaixo da aprovação.
+
+111
+00:10:00,498 --> 00:10:03,626
+- É negligenciável.
+- Não é. Ela chumbou.
+
+112
+00:10:03,627 --> 00:10:06,643
+A rapariga terá
+mais uma oportunidade.
+
+113
+00:10:07,088 --> 00:10:10,132
+Quero que a leve
+para um dia no terreno.
+
+114
+00:10:10,133 --> 00:10:11,467
+Supervisionada.
+
+115
+00:10:11,468 --> 00:10:13,650
+Veja se ela está apta.
+
+116
+00:10:13,803 --> 00:10:17,111
+Ou vai ou racha.
+Atire-a às feras.
+
+117
+00:10:19,601 --> 00:10:21,991
+Há feras por todo o lado.
+
+118
+00:10:23,355 --> 00:10:26,440
+<i>O pessoal deve trazer sempre</i>
+<i>a sua identificação.</i>
+
+119
+00:10:26,441 --> 00:10:29,735
+É provável que um juiz em avaliação
+se envolva em combate armado.
+
+120
+00:10:29,736 --> 00:10:32,529
+Um em cada cinco
+não sobrevive ao primeiro dia.
+
+121
+00:10:32,530 --> 00:10:34,365
+Poderá ter de executar
+
+122
+00:10:34,366 --> 00:10:36,659
+criminosos condenados no terreno.
+
+123
+00:10:36,660 --> 00:10:39,828
+A atribuição de sentenças incorrectas
+dá reprovação automática.
+
+124
+00:10:39,829 --> 00:10:42,706
+A desobediência a uma ordem directa
+do supervisor
+
+125
+00:10:42,707 --> 00:10:44,583
+dá reprovação automática.
+
+126
+00:10:44,584 --> 00:10:47,127
+Perder ou deixar que roubem
+a arma principal
+
+127
+00:10:47,128 --> 00:10:49,338
+dá reprovação automática.
+
+128
+00:10:49,339 --> 00:10:52,313
+- Está preparada, recruta?
+- Estou.
+
+129
+00:10:54,261 --> 00:10:56,651
+A sua avaliação começa agora.
+
+130
+00:12:22,307 --> 00:12:23,780
+Ma...
+
+131
+00:12:33,026 --> 00:12:34,916
+Temos sarilhos.
+
+132
+00:12:40,283 --> 00:12:43,452
+Eles estavam a vender produto
+do Sternhammer no meu piso.
+
+133
+00:12:43,453 --> 00:12:46,539
+Adverti-os com uma tareia,
+há algumas semanas.
+
+134
+00:12:46,540 --> 00:12:48,415
+Parece que não resultou.
+
+135
+00:12:48,416 --> 00:12:51,335
+- Não consegues resolver isso sozinho?
+- Consigo.
+
+136
+00:12:51,336 --> 00:12:54,644
+A dúvida é se queres
+fazer deles um exemplo.
+
+137
+00:12:58,051 --> 00:13:00,984
+Esfola-os e atira-os da varanda.
+
+138
+00:13:01,221 --> 00:13:03,611
+Primeiro dou-lhes slo-mo?
+
+139
+00:13:04,724 --> 00:13:06,072
+Claro.
+
+140
+00:13:11,523 --> 00:13:13,371
+<i>Come isto, cabrão!</i>
+
+141
+00:13:13,525 --> 00:13:15,039
+Segura-o!
+
+142
+00:14:03,575 --> 00:14:07,536
+<i>Juízes nas imediações de Peach Trees,</i>
+<i>foi participado um triplo homicídio.</i>
+
+143
+00:14:07,537 --> 00:14:10,929
+<i>Está um socorrista no local,</i>
+<i>a isolar a zona.</i>
+
+144
+00:14:19,466 --> 00:14:22,509
+São participados
+12 crimes graves por minuto.
+
+145
+00:14:22,510 --> 00:14:24,303
+17.000 por dia.
+
+146
+00:14:24,304 --> 00:14:27,862
+- Conseguimos acudir a cerca de 6%.
+- Quais 6%?
+
+147
+00:14:28,058 --> 00:14:30,907
+Você é que manda, recruta.
+Diga-me você.
+
+148
+00:14:32,103 --> 00:14:34,313
+Peach Trees. Múltiplo homicídio.
+
+149
+00:14:34,314 --> 00:14:36,982
+Dredd a Controlo,
+vamos a Peach Trees.
+
+150
+00:14:36,983 --> 00:14:38,456
+<i>Entendido.</i>
+
+151
+00:15:01,591 --> 00:15:04,274
+Joey, mostra o que sabes fazer.
+
+152
+00:15:08,723 --> 00:15:11,489
+O que sabe sobre Peach Trees?
+
+153
+00:15:11,518 --> 00:15:14,728
+Peach Trees alberga
+75.000 cidadãos registados.
+
+154
+00:15:14,729 --> 00:15:17,481
+Tem a mais alta taxa de crime
+do Sector 13.
+
+155
+00:15:17,482 --> 00:15:19,441
+Taxa de desemprego: 96%.
+
+156
+00:15:19,442 --> 00:15:22,917
+E mais de metade dos pisos residenciais
+são considerados degradados.
+
+157
+00:15:26,032 --> 00:15:27,630
+Recruta...
+
+158
+00:15:28,743 --> 00:15:29,910
+O seu parecer.
+
+159
+00:15:29,911 --> 00:15:33,497
+Mendicidade: três semanas nos iso-cubos,
+mas dar prioridade aos homicídios?
+
+160
+00:15:33,498 --> 00:15:36,500
+Correcto. Não esteja aqui
+quando voltarmos.
+
+161
+00:15:36,501 --> 00:15:38,766
+Certo. Obrigado, Juiz.
+
+162
+00:15:42,465 --> 00:15:44,967
+<i>Por favor, permaneçam</i>
+<i>atrás da fita de segurança.</i>
+
+163
+00:15:44,968 --> 00:15:47,011
+Por que quer ser juíza?
+
+164
+00:15:47,012 --> 00:15:49,972
+Quero proteger e servir a cidade.
+Marcar a diferença.
+
+165
+00:15:49,973 --> 00:15:52,808
+Marcar a diferença
+num edifício destes?
+
+166
+00:15:52,809 --> 00:15:54,643
+É teu, se quiseres.
+
+167
+00:15:54,644 --> 00:15:57,229
+Nasci e criei-me num sítio destes,
+
+168
+00:15:57,230 --> 00:15:59,690
+antes do departamento de justiça
+me ter levado.
+
+169
+00:15:59,691 --> 00:16:01,692
+Sei que há cá pessoas boas,
+
+170
+00:16:01,693 --> 00:16:04,709
+famílias boas,
+que só tentam sobreviver.
+
+171
+00:16:05,739 --> 00:16:08,630
+Sim, acredito que posso
+marcar a diferença.
+
+172
+00:16:10,118 --> 00:16:11,674
+Admirável...
+
+173
+00:16:19,878 --> 00:16:21,045
+O que tem aí?
+
+174
+00:16:21,046 --> 00:16:23,686
+Três cadáveres todos lixados.
+
+175
+00:16:25,675 --> 00:16:27,301
+<i>Tiraste uma foto?</i>
+
+176
+00:16:27,302 --> 00:16:30,512
+- Está sedeado em Peach Trees?
+- No centro clínico, piso 25.
+
+177
+00:16:30,513 --> 00:16:32,681
+- Identificou-os?
+- Quase todos.
+
+178
+00:16:32,682 --> 00:16:34,892
+Estes dois
+estão registados neste edifício.
+
+179
+00:16:34,893 --> 00:16:37,895
+- E este?
+- Terei de analisar o sangue e o ADN.
+
+180
+00:16:37,896 --> 00:16:40,370
+Se descobrir qual é o sangue dele.
+
+181
+00:16:46,363 --> 00:16:48,711
+Que acha disto, recruta?
+
+182
+00:16:49,783 --> 00:16:51,297
+Não sei.
+
+183
+00:16:56,665 --> 00:16:59,708
+É uma frieira,
+causada por um inalador de slo-mo.
+
+184
+00:16:59,709 --> 00:17:01,085
+Slo-mo?
+
+185
+00:17:01,086 --> 00:17:04,380
+Acabou de surgir,
+mas está a causar grandes sarilhos.
+
+186
+00:17:04,381 --> 00:17:06,257
+Dá ao cérebro a sensação
+
+187
+00:17:06,258 --> 00:17:09,274
+de que o tempo passa
+a 1 % da velocidade normal.
+
+188
+00:17:09,719 --> 00:17:12,986
+Deve ter parecido
+uma queda muito longa...
+
+189
+00:17:26,528 --> 00:17:28,737
+As identificações estão correctas.
+
+190
+00:17:28,738 --> 00:17:31,615
+Foram todos condenados
+por posse de narcóticos.
+
+191
+00:17:31,616 --> 00:17:33,464
+Vou enviar os dados agora.
+
+192
+00:17:34,828 --> 00:17:38,122
+Pequenos delinquentes. Drogados.
+Sem filiação em gangues.
+
+193
+00:17:38,123 --> 00:17:40,138
+Qual é a sua análise?
+
+194
+00:17:41,042 --> 00:17:44,350
+Foram drogados, esfolados,
+exibidos em público...
+
+195
+00:17:44,504 --> 00:17:48,104
+Acho que foi uma morte punitiva.
+Alguém quer enviar uma mensagem.
+
+196
+00:17:48,216 --> 00:17:49,564
+Sim.
+
+197
+00:17:49,593 --> 00:17:52,066
+Não lixem o clã da Ma-Ma.
+
+198
+00:17:52,721 --> 00:17:54,485
+Clã da Ma-Ma?
+
+199
+00:17:58,143 --> 00:18:01,186
+Temos registo dela
+desde os seus tempos de prostituta.
+
+200
+00:18:01,187 --> 00:18:02,938
+A foto é muito antiga,
+
+201
+00:18:02,939 --> 00:18:04,607
+mas é ela.
+
+202
+00:18:04,608 --> 00:18:08,068
+Madeline Madrigal,
+também conhecida por Ma-Ma.
+
+203
+00:18:08,069 --> 00:18:11,294
+Ex-prostituta
+do sector de prazer S-9.
+
+204
+00:18:11,573 --> 00:18:14,700
+Parou de trabalhar
+quando foi esfaqueada pelo chulo.
+
+205
+00:18:14,701 --> 00:18:16,160
+Mas vingou-se.
+
+206
+00:18:16,161 --> 00:18:19,677
+Consta que castrou o tipo
+à dentada.
+
+207
+00:18:19,789 --> 00:18:23,223
+Tomou conta dos negócios dele
+e nunca mais olhou para trás.
+
+208
+00:18:23,835 --> 00:18:27,060
+Se fosse outra pessoa,
+diríamos que era treta.
+
+209
+00:18:27,297 --> 00:18:30,897
+<i>Mas não com a Ma-Ma.</i>
+<i>A violência é a marca registada dela.</i>
+
+210
+00:18:34,596 --> 00:18:37,598
+<i>Há pouco tempo,</i>
+<i>havia três gangues principais</i>
+
+211
+00:18:37,599 --> 00:18:40,017
+<i>a lutar pelo controlo de Peach Trees.</i>
+
+212
+00:18:40,018 --> 00:18:42,937
+Os Peyote Kings,
+os Red Dragons
+
+213
+00:18:42,938 --> 00:18:44,521
+e os Judged.
+
+214
+00:18:44,522 --> 00:18:46,746
+<i>Depois, chegou a Ma-Ma.</i>
+
+215
+00:18:52,739 --> 00:18:54,379
+Mas que porra...?
+
+216
+00:18:55,659 --> 00:18:57,090
+Vamos!
+
+217
+00:18:58,620 --> 00:19:02,262
+<i>Tomou conta do piso de cima do edifício</i>
+<i>e veio por aí abaixo.</i>
+
+218
+00:19:03,708 --> 00:19:07,016
+Nove meses depois,
+já controlava tudo.
+
+219
+00:19:07,170 --> 00:19:09,769
+Os pisos 1 a 200...
+
+220
+00:19:10,257 --> 00:19:11,896
+são dela.
+
+221
+00:19:12,384 --> 00:19:14,218
+Como é que ela se safou?
+
+222
+00:19:14,219 --> 00:19:17,569
+Sabe com que frequência
+vemos um juiz em Peach Trees?
+
+223
+00:19:18,139 --> 00:19:20,530
+Pois, agora, têm cá um.
+
+224
+00:19:21,309 --> 00:19:24,728
+As vítimas estão registadas
+em apartamentos do piso 39.
+
+225
+00:19:24,729 --> 00:19:27,439
+Devem ter sido mortos
+por questões territoriais.
+
+226
+00:19:27,440 --> 00:19:30,290
+Por isso, os assassinos
+devem estar nas imediações.
+
+227
+00:19:30,569 --> 00:19:32,125
+Recruta...
+
+228
+00:19:32,362 --> 00:19:36,212
+Descobrir onde o clã actua nesse piso
+e atacá-los com tudo.
+
+229
+00:19:39,286 --> 00:19:40,967
+Deve ser aqui.
+
+230
+00:20:49,522 --> 00:20:52,608
+Presumo que seja
+o seu primeiro combate não simulado.
+
+231
+00:20:52,609 --> 00:20:53,998
+Correcto.
+
+232
+00:20:54,069 --> 00:20:57,321
+Estava a ver quando é que reparava
+que se esqueceu do capacete.
+
+233
+00:20:57,322 --> 00:21:00,880
+Um capacete pode interferir
+com as minhas capacidades parapsíquicas.
+
+234
+00:21:01,701 --> 00:21:04,968
+Acho que uma bala
+pode interferir ainda mais.
+
+235
+00:21:15,674 --> 00:21:18,064
+- Está pronta?
+- Sim.
+
+236
+00:21:19,761 --> 00:21:23,236
+- Não parece pronta.
+- É da adrenalina.
+
+237
+00:22:41,968 --> 00:22:43,441
+Recruta...
+
+238
+00:22:44,262 --> 00:22:46,444
+Anderson, julgamento.
+
+239
+00:22:46,848 --> 00:22:49,475
+Crime: posse e uso
+de estupefacientes.
+
+240
+00:22:49,476 --> 00:22:52,283
+Sentença: dois anos nos iso-cubos.
+
+241
+00:22:52,354 --> 00:22:55,203
+Não mo diga a mim,
+diga ao Controlo.
+
+242
+00:22:56,149 --> 00:22:58,567
+- Anderson a Controlo.
+- <i>Escuto.</i>
+
+243
+00:22:58,568 --> 00:23:01,820
+Precisamos da carroça da carne
+em Peach Trees, piso 39.
+
+244
+00:23:01,821 --> 00:23:05,880
+Temos quatro cadáveres para a Resyk
+e quatro pessoas para os iso-cubos.
+
+245
+00:23:05,909 --> 00:23:08,744
+<i>Entendido. A carroça</i>
+<i>da carne vai a caminho.</i>
+
+246
+00:23:08,745 --> 00:23:11,080
+Muito bem. Vamos algemá-los.
+
+247
+00:23:11,081 --> 00:23:13,096
+Mexam-se. De pé.
+
+248
+00:23:19,297 --> 00:23:21,688
+Este é membro de um gangue...
+
+249
+00:23:28,598 --> 00:23:30,196
+É ele.
+
+250
+00:23:30,267 --> 00:23:31,906
+Ele, quem?
+
+251
+00:23:31,977 --> 00:23:34,826
+O homem que matou
+as pessoas no átrio.
+
+252
+00:23:35,814 --> 00:23:37,495
+Tem a certeza?
+
+253
+00:23:39,693 --> 00:23:41,374
+99%.
+
+254
+00:23:44,114 --> 00:23:47,672
+Não se pode executar um suspeito
+com base em 99% de certeza.
+
+255
+00:23:51,204 --> 00:23:55,388
+Livravas-me de imensa burocracia,
+se confessasses agora.
+
+256
+00:23:58,461 --> 00:24:00,185
+Vamos detê-lo.
+
+257
+00:24:00,797 --> 00:24:04,522
+Veremos como se aguenta,
+após umas horas de interrogatório.
+
+258
+00:24:30,243 --> 00:24:31,591
+Merda.
+
+259
+00:24:33,288 --> 00:24:35,887
+Juízes. Não, não...
+
+260
+00:24:39,169 --> 00:24:40,377
+Caleb?
+
+261
+00:24:40,378 --> 00:24:42,713
+Há um problema no piso 39.
+
+262
+00:24:42,714 --> 00:24:45,716
+Os juízes atacaram o ponto
+de distribuição e arrasaram tudo.
+
+263
+00:24:45,717 --> 00:24:48,928
+- Abateram alguns rapazes.
+- E depois? Até já tardava.
+
+264
+00:24:48,929 --> 00:24:52,056
+Os juízes estão a mostrar-se, para
+lembrar os cidadãos da sua existência.
+
+265
+00:24:52,057 --> 00:24:55,059
+- Não, Ma. Eles apanharam o Kay.
+- Executaram-no?
+
+266
+00:24:55,060 --> 00:24:57,603
+Interrogatório.
+Estão a levá-lo agora.
+
+267
+00:24:57,604 --> 00:24:58,771
+Foda-se.
+
+268
+00:24:58,772 --> 00:25:00,189
+<i>Se o Kay falar...</i>
+
+269
+00:25:00,190 --> 00:25:02,539
+Se vão prendê-lo, ele falará.
+
+270
+00:25:04,611 --> 00:25:06,501
+Que vamos fazer?
+
+271
+00:25:37,561 --> 00:25:39,784
+Aquele ainda respira.
+
+272
+00:25:42,816 --> 00:25:45,206
+A sala de controlo está tomada.
+
+273
+00:25:51,658 --> 00:25:54,674
+O router está ligado.
+Podes avançar.
+
+274
+00:25:57,205 --> 00:25:59,053
+<i>Controlo de sector.</i>
+
+275
+00:25:59,583 --> 00:26:03,210
+Fala o controlo de Peach Trees,
+só quero saber se foram notificados
+
+276
+00:26:03,211 --> 00:26:06,005
+dos testes
+aos sistemas de alerta, hoje.
+
+277
+00:26:06,006 --> 00:26:09,466
+<i>Entendido. Peach Trees, não temos</i>
+<i>nenhum teste marcado para vocês.</i>
+
+278
+00:26:09,467 --> 00:26:12,859
+- Devem ter. Verifique...
+- <i>Não tenho cá nada.</i>
+
+279
+00:26:15,140 --> 00:26:17,224
+Foda-se, Sector!
+
+280
+00:26:17,225 --> 00:26:20,519
+Eu próprio enviei a notificação
+três vezes!
+
+281
+00:26:20,520 --> 00:26:22,229
+Podemos avançar já.
+
+282
+00:26:22,230 --> 00:26:25,357
+Tenho a minha supervisora
+em cima de mim.
+
+283
+00:26:25,358 --> 00:26:28,666
+<i>Aguente, Peach Trees.</i>
+<i>Deixe-me tratar disto.</i>
+
+284
+00:26:28,987 --> 00:26:31,030
+<i>Já vos meti no sistema.</i>
+
+285
+00:26:31,031 --> 00:26:34,074
+<i>O Palácio de Justiça e todos os serviços</i>
+<i>de emergência foram notificados</i>
+
+286
+00:26:34,075 --> 00:26:37,286
+<i>para ignorarem a vossa situação.</i>
+<i>Podem realizar o teste quando quiserem.</i>
+
+287
+00:26:37,287 --> 00:26:38,746
+Obrigado, Sector.
+
+288
+00:26:38,747 --> 00:26:41,012
+Salvou-me o couro.
+
+289
+00:26:41,082 --> 00:26:43,139
+<i>De nada, Peach Trees.</i>
+
+290
+00:26:52,761 --> 00:26:55,763
+Ele está a pensar
+apoderar-se da sua arma.
+
+291
+00:26:55,764 --> 00:26:57,320
+Pois.
+
+292
+00:26:58,433 --> 00:27:00,559
+Acabou de mudar de ideias.
+
+293
+00:27:00,560 --> 00:27:01,950
+Pois.
+
+294
+00:27:06,650 --> 00:27:10,124
+<i>Depois, insira a palavra-passe</i>
+<i>e deverá poder entrar.</i>
+
+295
+00:27:12,322 --> 00:27:14,879
+<i>Protocolo de segurança acedido.</i>
+
+296
+00:27:15,951 --> 00:27:18,383
+<i>Protocolo de guerra acedido.</i>
+
+297
+00:27:19,412 --> 00:27:21,719
+<i>Blindagem activada.</i>
+
+298
+00:27:26,586 --> 00:27:29,630
+Eu avisei-o.
+Levante-se, vai para os cubos.
+
+299
+00:27:29,631 --> 00:27:31,729
+<i>Afastem-se das portas.</i>
+
+300
+00:27:34,386 --> 00:27:36,943
+<i>Residentes, mantenham a calma.</i>
+
+301
+00:27:39,140 --> 00:27:41,739
+<i>Residentes, mantenham a calma.</i>
+
+302
+00:27:43,019 --> 00:27:45,493
+<i>Residentes, mantenham a calma.</i>
+
+303
+00:28:17,429 --> 00:28:19,068
+O que se passa?
+
+304
+00:28:27,480 --> 00:28:29,787
+<i>Encerramento terminado.</i>
+
+305
+00:28:42,287 --> 00:28:43,968
+Está em linha.
+
+306
+00:29:00,222 --> 00:29:01,819
+Peach Trees...
+
+307
+00:29:02,182 --> 00:29:04,030
+<i>fala a Ma-Ma.</i>
+
+308
+00:29:07,270 --> 00:29:10,370
+<i>Algures neste edifício,</i>
+<i>estão dois juízes.</i>
+
+309
+00:29:12,275 --> 00:29:14,499
+<i>Quero vê-los mortos.</i>
+
+310
+00:29:15,737 --> 00:29:19,254
+<i>Até conseguir o que quero,</i>
+<i>o edifício ficará encerrado.</i>
+
+311
+00:29:20,951 --> 00:29:25,134
+<i>Quero que todo o clã,</i>
+<i>em todos os pisos, dê caça aos juízes.</i>
+
+312
+00:29:26,706 --> 00:29:29,208
+Todos os outros
+devem sair dos corredores
+
+313
+00:29:29,209 --> 00:29:32,475
+e desimpedir a porra do caminho
+até o tiroteio acabar.
+
+314
+00:29:34,589 --> 00:29:37,174
+<i>Se souber que alguém</i>
+<i>ajuda os juízes,</i>
+
+315
+00:29:37,175 --> 00:29:39,885
+<i>matá-los-ei a eles</i>
+<i>e à próxima geração da família.</i>
+
+316
+00:29:39,886 --> 00:29:42,193
+CENTRO CLÍNICO
+ENCERRADO
+
+317
+00:29:46,518 --> 00:29:49,868
+- <i>Quanto aos juízes...</i>
+- É melhor irmos andando.
+
+318
+00:29:50,397 --> 00:29:52,996
+<i>...fiquem quietos ou fujam.</i>
+
+319
+00:29:56,486 --> 00:29:58,835
+Tanto faz, tenho-os na mão.
+
+320
+00:30:17,799 --> 00:30:21,774
+Controlo, temos um problema
+em Peach Trees. Escutam?
+
+321
+00:30:23,513 --> 00:30:26,849
+- Controlo, escutam?
+- Também estou sem comunicações.
+
+322
+00:30:26,850 --> 00:30:30,144
+A blindagem deve estar a bloquear
+as nossas transmissões.
+
+323
+00:30:30,145 --> 00:30:32,493
+Vamos para o centro clínico.
+
+324
+00:30:36,610 --> 00:30:38,291
+Eles estão aqui!
+
+325
+00:30:39,487 --> 00:30:41,238
+- Decida.
+- Desculpe?
+
+326
+00:30:41,239 --> 00:30:43,824
+Está em avaliação. Decida.
+
+327
+00:30:43,825 --> 00:30:46,869
+Vários alvos armados. Campo
+de visão obstruído. Granadas de gás?
+
+328
+00:30:46,870 --> 00:30:48,551
+Respiradores.
+
+329
+00:30:49,039 --> 00:30:51,596
+Aconselho-te a susteres a respiração.
+
+330
+00:31:50,433 --> 00:31:53,686
+Quero os corredores norte e leste
+totalmente cobertos.
+
+331
+00:31:53,687 --> 00:31:57,690
+O Sal trata do oeste e sul.
+Espalhem o vosso armamento.
+
+332
+00:31:57,691 --> 00:32:01,040
+Vamos levar estes juízes à Ma-Ma
+numa travessa.
+
+333
+00:32:05,740 --> 00:32:09,048
+- <i>Concentrem-se, foda-se!</i>
+- <i>Os juízes vão ver!</i>
+
+334
+00:32:21,256 --> 00:32:24,689
+- <i>Juiz, vem apanhar-me!</i>
+- Teremos de passar por eles.
+
+335
+00:32:26,261 --> 00:32:28,401
+Granada estonteante.
+
+336
+00:32:31,892 --> 00:32:35,909
+- <i>Vamos matar esse cabrão!</i>
+- Vamos levar-lhes a boa nova.
+
+337
+00:32:41,067 --> 00:32:44,695
+- Guarneçam esse corredor.
+- Fodam os juízes.
+
+338
+00:32:44,696 --> 00:32:46,085
+Fodam-nos.
+
+339
+00:32:46,114 --> 00:32:48,922
+- Cidadãos de Peach Trees...
+- Foda-se!
+
+340
+00:32:48,992 --> 00:32:50,409
+...fala a lei.
+
+341
+00:32:50,410 --> 00:32:53,913
+- Quem te julgas, para vires até aqui?
+- Dispersem de imediato.
+
+342
+00:32:53,914 --> 00:32:57,124
+Senão, usaremos força letal
+para evacuar a zona.
+
+343
+00:32:57,125 --> 00:33:00,517
+- De onde vem isto?
+- Dali, do corredor de acesso.
+
+344
+00:33:00,754 --> 00:33:02,644
+<i>Foram avisados.</i>
+
+345
+00:33:03,757 --> 00:33:06,926
+Agora, têm 20 segundos
+para obedecer.
+
+346
+00:33:06,927 --> 00:33:09,511
+Você é que vai obedecer, Juiz.
+
+347
+00:33:09,512 --> 00:33:12,362
+Nós somos dez,
+vocês apenas dois.
+
+348
+00:33:12,807 --> 00:33:16,310
+É melhor sair daí.
+Senão, vamos desfazê-lo.
+
+349
+00:33:16,311 --> 00:33:18,437
+10 segundos para obedecerem.
+
+350
+00:33:18,438 --> 00:33:20,828
+- Vai-te foder.
+- Vocês têm cinco.
+
+351
+00:33:21,149 --> 00:33:23,540
+Obrigado pela informação.
+
+352
+00:33:42,837 --> 00:33:44,352
+Por favor...
+
+353
+00:33:45,131 --> 00:33:47,216
+Pelo que espera, recruta?
+
+354
+00:33:47,217 --> 00:33:51,359
+O crime dele é tentativa de homicídio
+de um juiz. A pena é a morte.
+
+355
+00:33:53,265 --> 00:33:54,821
+Certo.
+
+356
+00:34:21,501 --> 00:34:22,974
+Abra.
+
+357
+00:34:24,254 --> 00:34:27,214
+- <i>Abra!</i>
+- <i>Negativo, Juiz.</i>
+
+358
+00:34:27,215 --> 00:34:30,843
+Sabe o que se passa aqui. Precisamos
+de um sítio que possamos defender.
+
+359
+00:34:30,844 --> 00:34:32,928
+<i>Então, arranje outro sítio.</i>
+
+360
+00:34:32,929 --> 00:34:35,681
+<i>Isto são instalações médicas,</i>
+<i>território neutro.</i>
+
+361
+00:34:35,682 --> 00:34:38,809
+Neutro? Você não é neutro,
+está a escolher um lado.
+
+362
+00:34:38,810 --> 00:34:42,187
+<i>Peach Trees foi selado com portas</i>
+<i>blindadas resistentes a ataques.</i>
+
+363
+00:34:42,188 --> 00:34:44,773
+<i>Ninguém vai sair,</i>
+<i>ninguém vai entrar.</i>
+
+364
+00:34:44,774 --> 00:34:48,583
+<i>E têm todos os membros do clã</i>
+<i>neste edifício atrás do vosso couro.</i>
+
+365
+00:34:48,862 --> 00:34:52,420
+Não há lados,
+vocês já estão mortos.
+
+366
+00:35:12,719 --> 00:35:15,721
+Parece que o centro clínico
+hoje fechou mais cedo.
+
+367
+00:35:15,722 --> 00:35:18,098
+Ponha a arma
+em modo silencioso.
+
+368
+00:35:18,099 --> 00:35:20,935
+A nossa melhor hipótese
+é tentarmos passar despercebidos.
+
+369
+00:35:20,936 --> 00:35:24,744
+Conserve munições. Dispare só
+quando tiver a certeza de que acerta.
+
+370
+00:35:26,650 --> 00:35:29,958
+- E o prisioneiro?
+- Explique-se.
+
+371
+00:35:30,237 --> 00:35:33,197
+Nestas circunstâncias,
+ele pode ser um risco.
+
+372
+00:35:33,198 --> 00:35:36,172
+E também é um suspeito
+em três homicídios.
+
+373
+00:35:37,327 --> 00:35:41,219
+O que acha, recruta?
+Quer soltá-lo?
+
+374
+00:35:41,873 --> 00:35:43,304
+Não.
+
+375
+00:35:55,095 --> 00:35:56,568
+Levanta-te!
+
+376
+00:36:16,700 --> 00:36:18,339
+Vamos, vamos!
+
+377
+00:36:38,221 --> 00:36:39,569
+Pare.
+
+378
+00:36:53,904 --> 00:36:55,418
+Mexe-te!
+
+379
+00:36:57,115 --> 00:36:59,589
+Para de me dar ordens, porra!
+
+380
+00:37:10,003 --> 00:37:12,894
+Já sei dessa droga nova
+de que falas.
+
+381
+00:37:19,554 --> 00:37:21,027
+Cathy?
+
+382
+00:37:21,306 --> 00:37:24,280
+- <i>Quem está aí?</i>
+- Cathy, abra a porta.
+
+383
+00:37:30,899 --> 00:37:33,039
+Não vamos fazer-lhe mal.
+
+384
+00:37:47,207 --> 00:37:48,763
+Já é seguro.
+
+385
+00:37:49,501 --> 00:37:52,670
+Prende a mulher algures,
+ela não pode despertar suspeitas.
+
+386
+00:37:52,671 --> 00:37:54,644
+Não podemos fazê-lo.
+
+387
+00:37:55,590 --> 00:37:59,399
+Ela tem um bebé.
+Está a dormir no quarto do lado.
+
+388
+00:37:59,761 --> 00:38:02,763
+Não podemos detê-la
+sem sabermos quando será libertada.
+
+389
+00:38:02,764 --> 00:38:04,139
+O bebé tem pai?
+
+390
+00:38:04,140 --> 00:38:07,198
+Anda lá fora,
+à nossa procura.
+
+391
+00:38:08,979 --> 00:38:11,369
+Diga o que estava a pensar.
+
+392
+00:38:11,523 --> 00:38:15,081
+- Como é que...?
+- Tudo bem, pode dizer.
+
+393
+00:38:17,821 --> 00:38:20,170
+Não vou despertar suspeitas.
+
+394
+00:38:20,615 --> 00:38:23,951
+Se aqueles homens lá fora não souberem
+onde estão, vocês não os matarão.
+
+395
+00:38:23,952 --> 00:38:25,341
+Continue.
+
+396
+00:38:26,580 --> 00:38:29,262
+Há um monta-cargas aqui perto.
+
+397
+00:38:29,332 --> 00:38:32,682
+Tem um letreiro
+a dizer que está avariado, mas...
+
+398
+00:38:35,005 --> 00:38:38,605
+funciona, se carregarem num botão
+para um piso acima do 75.
+
+399
+00:38:39,301 --> 00:38:42,859
+Só vos quero fora do meu piso
+e longe da minha família.
+
+400
+00:39:14,836 --> 00:39:17,171
+- Cathy...
+- Não me agradeça.
+
+401
+00:39:17,172 --> 00:39:21,314
+Não o fiz por vocês.
+Não quero é voltar a ver-vos.
+
+402
+00:39:25,222 --> 00:39:26,861
+Não nos verá.
+
+403
+00:39:56,545 --> 00:39:59,255
+<i>Esta droga vende-se</i>
+<i>como nunca vi.</i>
+
+404
+00:39:59,256 --> 00:40:02,605
+<i>Se formos hábeis,</i>
+<i>poderemos controlar a cidade toda.</i>
+
+405
+00:40:02,717 --> 00:40:06,067
+O único perigo
+é crescermos depressa de mais.
+
+406
+00:40:06,513 --> 00:40:09,807
+Nos últimos dias, passámos a distribuir
+em mais três edifícios
+
+407
+00:40:09,808 --> 00:40:13,644
+e em breve faremos incursões
+nos sectores 9 e 15.
+
+408
+00:40:13,645 --> 00:40:16,411
+O 15 ainda é território Red?
+
+409
+00:40:17,858 --> 00:40:19,998
+É melhor vir depressa.
+
+410
+00:40:21,403 --> 00:40:23,459
+Temos um aqui
+
+411
+00:40:23,530 --> 00:40:26,490
+e uns onze
+no exterior do centro clínico.
+
+412
+00:40:26,491 --> 00:40:29,535
+Há oito no poço das escadas
+e mais cinco no piso 18.
+
+413
+00:40:29,536 --> 00:40:33,052
+Eles mataram mais de 30
+e nem sofreram um arranhão.
+
+414
+00:40:33,373 --> 00:40:35,583
+- Onde estão agora?
+- Não sei.
+
+415
+00:40:35,584 --> 00:40:37,918
+Parecem estar a subir o edifício.
+
+416
+00:40:37,919 --> 00:40:41,714
+Espere, localizei-os.
+Estão no piso 76, quadrante oeste.
+
+417
+00:40:41,715 --> 00:40:46,024
+Quer que a ligue ao sistema de som?
+Podemos activá-lo dos pisos 60 a 80.
+
+418
+00:40:46,511 --> 00:40:48,679
+Não. Podes trancá-los lá?
+
+419
+00:40:48,680 --> 00:40:52,405
+Claro. O sistema de emergência de guerra
+dá-me controlo total do edifício.
+
+420
+00:41:13,788 --> 00:41:15,637
+Isto não é bom.
+
+421
+00:41:15,916 --> 00:41:18,973
+Encerramento total.
+Eles não vão a lado nenhum.
+
+422
+00:41:19,878 --> 00:41:23,520
+Tentei fazer isto a bem, mas eles
+não deixaram. Agora, vai ser a mal.
+
+423
+00:41:26,092 --> 00:41:28,399
+Tarde de mais, Juiz.
+
+424
+00:41:31,389 --> 00:41:33,224
+Caleb, escuto.
+
+425
+00:41:33,225 --> 00:41:34,656
+<i>Ma.</i>
+
+426
+00:41:35,560 --> 00:41:38,910
+Temo-los encurralados.
+Vamos tratar deles agora.
+
+427
+00:41:46,029 --> 00:41:48,989
+Precisaríamos de oxiacetilénico,
+para cortá-las.
+
+428
+00:41:48,990 --> 00:41:52,507
+Eles sabem onde estamos.
+Por que não vêm atrás de nós?
+
+429
+00:41:52,536 --> 00:41:54,843
+É isso que me preocupa.
+
+430
+00:41:58,708 --> 00:42:00,834
+Leve-o para o átrio principal.
+
+431
+00:42:00,835 --> 00:42:03,712
+Guarde posição
+atrás do poço do elevador.
+
+432
+00:42:03,713 --> 00:42:06,062
+Será um bom local de defesa.
+
+433
+00:42:06,091 --> 00:42:07,939
+Aonde vai?
+
+434
+00:42:08,760 --> 00:42:11,901
+Se eu não voltar
+e ficar encurralada...
+
+435
+00:42:12,639 --> 00:42:15,530
+talvez não queira
+ser apanhada viva.
+
+436
+00:42:17,602 --> 00:42:19,409
+A decisão é sua.
+
+437
+00:42:20,146 --> 00:42:21,536
+Certo.
+
+438
+00:42:52,554 --> 00:42:54,694
+<i>Afasta-te da porta!</i>
+
+439
+00:43:04,232 --> 00:43:05,663
+<i>Senta-te!</i>
+
+440
+00:43:25,629 --> 00:43:27,477
+Ele tem razão.
+
+441
+00:43:28,965 --> 00:43:31,689
+Quanto a não ser apanhada viva.
+
+442
+00:43:33,011 --> 00:43:36,528
+As coisas que o clã faria
+a uma rapariga como você...
+
+443
+00:43:39,017 --> 00:43:40,573
+Terríveis.
+
+444
+00:43:51,321 --> 00:43:55,630
+Uma vez, tivemos uma rapariga
+da sua idade e...
+
+445
+00:44:00,997 --> 00:44:03,596
+Bem, de qualquer forma...
+
+446
+00:44:03,667 --> 00:44:07,419
+Aviso-a só para guardar
+a última bala para si.
+
+447
+00:44:07,420 --> 00:44:10,089
+Pois. E guardo
+a penúltima para ti.
+
+448
+00:44:10,090 --> 00:44:11,604
+Claro.
+
+449
+00:44:15,303 --> 00:44:17,527
+Então, é uma mutante?
+
+450
+00:44:18,056 --> 00:44:20,516
+A maioria de vocês,
+pobres desgraçados,
+
+451
+00:44:20,517 --> 00:44:23,491
+tem três braços com cotos
+ou nenhum braço.
+
+452
+00:44:23,520 --> 00:44:26,286
+Mas você deve ter tido sorte.
+
+453
+00:44:26,606 --> 00:44:28,955
+É bem constituída.
+
+454
+00:44:33,488 --> 00:44:35,211
+Médium...
+
+455
+00:44:35,991 --> 00:44:38,047
+Que cena fodida.
+
+456
+00:44:39,077 --> 00:44:41,676
+Sim, já ouvi falar da sua espécie.
+
+457
+00:44:42,038 --> 00:44:44,721
+Custa acreditar que seja verdade.
+
+458
+00:44:45,041 --> 00:44:49,142
+Por exemplo, no que estou eu
+a pensar agora?
+
+459
+00:44:55,802 --> 00:44:58,929
+Estás a imaginar uma relação sexual
+violenta entre nós os dois,
+
+460
+00:44:58,930 --> 00:45:01,863
+numa tentativa inútil
+de me chocar.
+
+461
+00:45:03,268 --> 00:45:06,353
+É óptima nisto.
+Mas não estava a tentar chocá-la.
+
+462
+00:45:06,354 --> 00:45:09,245
+Se estivesse,
+teria pensado nisto.
+
+463
+00:45:10,692 --> 00:45:13,082
+No que estás a pensar agora?
+
+464
+00:45:30,086 --> 00:45:33,144
+- Que merda é esta?
+- Volta para dentro.
+
+465
+00:45:36,218 --> 00:45:38,233
+Despachem-se, porra.
+
+466
+00:45:38,637 --> 00:45:40,818
+Mexam esses cus.
+
+467
+00:46:00,283 --> 00:46:02,131
+Depressa!
+
+468
+00:46:05,080 --> 00:46:06,997
+<i>Volta para casa!</i>
+
+469
+00:46:06,998 --> 00:46:09,305
+<i>Entra já em casa!</i>
+
+470
+00:46:13,797 --> 00:46:15,089
+Merda!
+
+471
+00:46:15,090 --> 00:46:16,646
+Fogo!
+
+472
+00:46:25,725 --> 00:46:28,241
+Frank! Frankie! Vamos!
+
+473
+00:46:59,175 --> 00:47:00,607
+Sai.
+
+474
+00:47:26,953 --> 00:47:28,801
+Para trás!
+
+475
+00:47:35,879 --> 00:47:37,936
+Concentrem os tiros.
+
+476
+00:47:51,228 --> 00:47:52,575
+Explosivo!
+
+477
+00:47:55,106 --> 00:47:56,496
+Vamos!
+
+478
+00:49:07,053 --> 00:49:09,861
+É impossível eles terem sobrevivido.
+
+479
+00:49:10,056 --> 00:49:13,323
+Só estão mortos
+quando os encontrarmos mortos.
+
+480
+00:49:16,855 --> 00:49:19,245
+Ou partes deles, pelo menos.
+
+481
+00:49:34,623 --> 00:49:37,055
+Voltámos a ter comunicações.
+
+482
+00:49:37,792 --> 00:49:39,752
+Controlo, escuta?
+
+483
+00:49:39,753 --> 00:49:41,170
+<i>Afirmativo.</i>
+
+484
+00:49:41,171 --> 00:49:43,380
+10-24, no meu ponto GPS.
+
+485
+00:49:43,381 --> 00:49:45,549
+Peço assistência imediata.
+
+486
+00:49:45,550 --> 00:49:48,302
+<i>Entendido.</i>
+<i>10-24, juízes sob fogo.</i>
+
+487
+00:49:48,303 --> 00:49:52,306
+<i>A vossa localização surge</i>
+<i>como Peach Trees, sector 13. Confirme.</i>
+
+488
+00:49:52,307 --> 00:49:56,199
+Confirmado. Atenção,
+foram activadas portas blindadas.
+
+489
+00:49:57,562 --> 00:50:00,578
+<i>Podem manter a actual</i>
+<i>localização GPS?</i>
+
+490
+00:50:03,068 --> 00:50:04,707
+Negativo.
+
+491
+00:50:05,487 --> 00:50:08,572
+Se nos encontrarem,
+não temos para onde ir.
+
+492
+00:50:08,573 --> 00:50:12,590
+<i>Entendido. Vão reforços a caminho.</i>
+<i>Tratem de se manter vivos.</i>
+
+493
+00:50:14,287 --> 00:50:16,636
+Temos de voltar a entrar.
+
+494
+00:50:47,362 --> 00:50:50,336
+<i>Raios partam!</i>
+<i>Que merda é esta?</i>
+
+495
+00:50:50,782 --> 00:50:52,755
+<i>Não! Não!</i>
+
+496
+00:50:53,702 --> 00:50:55,967
+Não! Não!
+
+497
+00:51:28,119 --> 00:51:31,344
+O vosso gangue encerrou
+o edifício inteiro.
+
+498
+00:51:32,073 --> 00:51:35,618
+Massacrou um quadrante inteiro
+de homens, mulheres e crianças.
+
+499
+00:51:35,619 --> 00:51:37,828
+Só para abater dois juízes.
+
+500
+00:51:37,829 --> 00:51:40,053
+Não te parece um exagero?
+
+501
+00:51:52,677 --> 00:51:54,762
+Vou dizer-te o que eu penso.
+
+502
+00:51:54,763 --> 00:51:57,723
+Se te tivéssemos executado
+durante a rusga,
+
+503
+00:51:57,724 --> 00:52:00,114
+a Ma-Ma ter-nos-ia deixado partir.
+
+504
+00:52:02,729 --> 00:52:06,162
+Ela não quer é que te levemos
+para a sede do sector.
+
+505
+00:52:06,233 --> 00:52:08,442
+Não quer que sejas interrogado.
+
+506
+00:52:08,443 --> 00:52:11,042
+Tem medo do que possas dizer.
+
+507
+00:52:11,238 --> 00:52:14,003
+E isso despertou-me a curiosidade.
+
+508
+00:52:16,826 --> 00:52:19,509
+- Desembucha!
+- Vai-te foder!
+
+509
+00:52:23,792 --> 00:52:25,139
+Juiz...
+
+510
+00:52:26,211 --> 00:52:27,684
+Juiz!
+
+511
+00:52:28,463 --> 00:52:31,771
+Se me deixar tratar disso,
+ele nem precisa de falar.
+
+512
+00:52:47,858 --> 00:52:50,331
+O que estás a tramar, cabra?
+
+513
+00:52:53,363 --> 00:52:56,337
+Bem-vindo ao interior
+da tua cabeça.
+
+514
+00:52:58,410 --> 00:53:00,870
+Isto está um bocado vazio...
+
+515
+00:53:00,871 --> 00:53:04,179
+Não sei que raio
+de cena mutante é esta,
+
+516
+00:53:04,833 --> 00:53:06,959
+mas se não estivesse algemado...
+
+517
+00:53:06,960 --> 00:53:10,310
+Se não quiseres estar algemado,
+não estás.
+
+518
+00:53:14,676 --> 00:53:17,219
+É a minha cabeça.
+Faço o que quiser?
+
+519
+00:53:17,220 --> 00:53:18,610
+Claro.
+
+520
+00:53:22,475 --> 00:53:25,603
+<i>Pensares em fazer-me mal</i>
+<i>não me faz realmente mal.</i>
+
+521
+00:53:25,604 --> 00:53:27,994
+<i>Pois. Sorte a tua.</i>
+
+522
+00:53:28,857 --> 00:53:31,789
+<i>Só que há a tal coisa...</i>
+
+523
+00:53:32,527 --> 00:53:34,028
+<i>Qual coisa?</i>
+
+524
+00:53:34,029 --> 00:53:36,447
+<i>Eu sei aterrorizar-te.</i>
+
+525
+00:53:36,448 --> 00:53:39,797
+<i>É que se estás a falar</i>
+<i>da minha cabeça fodida...</i>
+
+526
+00:53:40,368 --> 00:53:42,842
+<i>contra a tua cabeça fodida...</i>
+
+527
+00:53:45,415 --> 00:53:47,931
+<i>a tua cabeça fodida vai perder.</i>
+
+528
+00:53:51,671 --> 00:53:54,270
+Bem me parecia
+que isso ia calar-te.
+
+529
+00:53:54,883 --> 00:53:57,982
+Eu também sei fazer
+jogo psicológico.
+
+530
+00:53:59,638 --> 00:54:03,015
+Sua cabra de merda!
+Sua cabra de merda tarada!
+
+531
+00:54:03,016 --> 00:54:05,281
+Ainda mal começámos.
+
+532
+00:54:19,533 --> 00:54:20,964
+Já percebi.
+
+533
+00:54:26,581 --> 00:54:30,974
+Peach Trees é a central de fabrico
+de toda a slo-mo de Mega City One.
+
+534
+00:54:31,044 --> 00:54:34,811
+A Ma-Ma controla a produção
+e distribuição em toda a cidade.
+
+535
+00:54:36,883 --> 00:54:38,565
+Interessante.
+
+536
+00:54:49,521 --> 00:54:51,647
+Peach Trees. Posso ajudá-lo?
+
+537
+00:54:51,648 --> 00:54:54,984
+<i>Estamos a responder a um aviso</i>
+<i>de juízes sob fogo neste edifício.</i>
+
+538
+00:54:54,985 --> 00:54:57,653
+Desconheço tal facto.
+
+539
+00:54:57,654 --> 00:55:00,781
+Estamos a realizar um teste previsto
+de defesa de guerra.
+
+540
+00:55:00,782 --> 00:55:04,883
+Agora, já não estão.
+Abra já a porta blindada.
+
+541
+00:55:05,036 --> 00:55:08,205
+Sim, só que tivemos
+um problema de software
+
+542
+00:55:08,206 --> 00:55:10,638
+e perdi o controlo do sistema.
+
+543
+00:55:11,751 --> 00:55:14,309
+Tivemos um incêndio no piso 76.
+
+544
+00:55:18,049 --> 00:55:20,843
+<i>É bom que recupere depressa</i>
+<i>o controlo.</i>
+
+545
+00:55:20,844 --> 00:55:23,220
+<i>Senão, acuso-o de obstrução à justiça.</i>
+
+546
+00:55:23,221 --> 00:55:25,598
+<i>Cinco anos nos cubos,</i>
+<i>obrigatoriamente.</i>
+
+547
+00:55:25,599 --> 00:55:29,032
+Sim, senhor.
+Já estou a tratar disso. Obrigado.
+
+548
+00:55:37,110 --> 00:55:41,322
+Temos novas informações sobre a Ma-Ma
+e enviámos um 10-24 ao Controlo.
+
+549
+00:55:41,323 --> 00:55:45,075
+Os parâmetros estão a mudar.
+Quais são as opções, Anderson?
+
+550
+00:55:45,076 --> 00:55:47,995
+Continuar em movimento,
+evitando nova detecção
+
+551
+00:55:47,996 --> 00:55:50,080
+ou encontrar um local
+para defendermos.
+
+552
+00:55:50,081 --> 00:55:52,458
+Tal como antes. Só que agora
+sabemos que vêm aí reforços.
+
+553
+00:55:52,459 --> 00:55:54,919
+Está a dar-nos duas opções.
+Defendermo-nos ou escondermo-nos.
+
+554
+00:55:54,920 --> 00:55:56,309
+Correcto.
+
+555
+00:55:56,713 --> 00:56:00,090
+Então e um ataque?
+Irmos direitos à Ma-Ma.
+
+556
+00:56:00,091 --> 00:56:01,981
+Isso é uma opção?
+
+557
+00:56:02,177 --> 00:56:05,054
+Bem, ela é culpada.
+E nós somos juízes.
+
+558
+00:56:05,055 --> 00:56:07,723
+Com reforços a caminho,
+creio que devíamos esperar
+
+559
+00:56:07,724 --> 00:56:10,114
+até a vantagem ficar do nosso lado.
+
+560
+00:56:12,354 --> 00:56:14,202
+Resposta errada?
+
+561
+00:56:14,439 --> 00:56:16,412
+A médium é você.
+
+562
+00:56:27,619 --> 00:56:29,050
+É seguro.
+
+563
+00:56:38,797 --> 00:56:40,714
+Por que não o alvejaste?
+
+564
+00:56:40,715 --> 00:56:44,065
+O que queres dizer?
+Por que não o alvejaste tu?
+
+565
+00:56:45,262 --> 00:56:48,278
+- Podemos disparar agora.
+- Dispara lá!
+
+566
+00:56:50,809 --> 00:56:52,866
+Merda! Merda!
+
+567
+00:56:53,728 --> 00:56:56,689
+Porque é que tínhamos
+de ser nós a encontrá-lo?
+
+568
+00:56:56,690 --> 00:56:58,997
+Muito bem. Vamos lá.
+
+569
+00:57:03,613 --> 00:57:07,005
+Terminal de informação.
+Vamos ver as plantas.
+
+570
+00:57:27,512 --> 00:57:29,068
+Quietos!
+
+571
+00:57:33,768 --> 00:57:35,158
+Porquê?
+
+572
+00:57:37,898 --> 00:57:39,787
+Porquê, o quê?
+
+573
+00:57:41,693 --> 00:57:44,250
+Por que hei de ficar quieto?
+
+574
+00:57:46,364 --> 00:57:49,464
+Porque, senão, eu mato-o.
+
+575
+00:57:50,994 --> 00:57:53,718
+Com a patilha de segurança activada?
+
+576
+00:57:54,247 --> 00:57:56,012
+Não está.
+
+577
+00:58:02,005 --> 00:58:04,006
+O que preferem, miúdos?
+
+578
+00:58:04,007 --> 00:58:07,732
+Sacos para cadáveres
+ou os cubos juvenis? Tanto me faz.
+
+579
+00:58:10,847 --> 00:58:12,278
+Foda-se!
+
+580
+00:58:15,227 --> 00:58:16,658
+Atordoar!
+
+581
+00:58:39,543 --> 00:58:41,766
+Estás tão fodida...
+
+582
+00:58:58,937 --> 00:59:00,521
+Loirinha...
+
+583
+00:59:00,522 --> 00:59:02,495
+Anda, cabra.
+
+584
+00:59:13,827 --> 00:59:15,870
+Segura essa cabra.
+
+585
+00:59:15,871 --> 00:59:17,204
+Céus.
+
+586
+00:59:17,205 --> 00:59:20,889
+- Que hei de fazer contigo?
+- Não vais fazer nada.
+
+587
+00:59:24,379 --> 00:59:27,172
+A culpa destes sarilhos todos é tua.
+
+588
+00:59:27,173 --> 00:59:29,091
+Quando foste apanhado,
+
+589
+00:59:29,092 --> 00:59:32,317
+devias ter matado os juízes
+ou ter sido morto.
+
+590
+00:59:33,305 --> 00:59:36,988
+Em vez disso, deixaste-te apanhar,
+como cretino de merda que és.
+
+591
+00:59:40,103 --> 00:59:41,784
+Caluda.
+
+592
+00:59:44,232 --> 00:59:47,151
+Eu própria te matava,
+mas hoje já perdi homens a mais.
+
+593
+00:59:47,152 --> 00:59:49,167
+Não posso perder mais.
+
+594
+00:59:57,078 --> 00:59:59,914
+Mais cedo ou mais tarde,
+o Departamento de Justiça
+
+595
+00:59:59,915 --> 01:00:02,931
+passará pelas portas blindadas,
+à procura dos seus juízes.
+
+596
+01:00:04,127 --> 01:00:07,129
+Vão encontrar os corpos deles
+crivados de balas.
+
+597
+01:00:07,130 --> 01:00:09,270
+Um no piso 25...
+
+598
+01:00:10,008 --> 01:00:13,608
+e outro no antro de slo-mo.
+Apenas uma rusga que correu mal...
+
+599
+01:00:14,638 --> 01:00:16,861
+Ou seja, nada tortura.
+
+600
+01:00:17,307 --> 01:00:21,407
+Nada de violar, nem esfolar.
+Apenas umas balas na cabeça e no peito.
+
+601
+01:00:21,686 --> 01:00:23,646
+- Percebeste?
+- Sim.
+
+602
+01:00:23,647 --> 01:00:26,106
+- Percebeste, foda-se?
+- Sim.
+
+603
+01:00:26,107 --> 01:00:27,664
+Ma...
+
+604
+01:00:29,819 --> 01:00:31,543
+Ele voltou.
+
+605
+01:00:41,623 --> 01:00:45,167
+O outro juiz ligou-se
+a um dos terminais.
+
+606
+01:00:45,168 --> 01:00:48,963
+- Acho que está a tentar aceder ao PA.
+- Podes impedi-lo?
+
+607
+01:00:48,964 --> 01:00:51,215
+Posso desligar o sistema todo.
+
+608
+01:00:51,216 --> 01:00:54,524
+Mas, se o deixar falar,
+poderei localizar o terminal onde está.
+
+609
+01:00:55,470 --> 01:00:58,027
+Saberemos exactamente onde ele está.
+
+610
+01:01:09,693 --> 01:01:12,208
+<i>Habitantes de Peach Trees.</i>
+
+611
+01:01:13,113 --> 01:01:15,086
+Fala o Juiz Dredd.
+
+612
+01:01:17,409 --> 01:01:19,048
+Deixa-o falar.
+
+613
+01:01:19,286 --> 01:01:21,676
+<i>Caso se tenham esquecido,</i>
+
+614
+01:01:22,414 --> 01:01:26,431
+<i>este edifício rege-se pelas mesmas leis</i>
+<i>do resto da cidade.</i>
+
+615
+01:01:27,544 --> 01:01:29,726
+<i>A Ma-Ma não é a lei.</i>
+
+616
+01:01:30,547 --> 01:01:32,604
+A lei sou eu.
+
+617
+01:01:33,425 --> 01:01:35,899
+<i>A Ma-Ma é uma criminosa comum.</i>
+
+618
+01:01:37,429 --> 01:01:39,611
+<i>Culpada de homicídio.</i>
+
+619
+01:01:40,223 --> 01:01:42,725
+<i>Culpada do fabrico e distribuição</i>
+
+620
+01:01:42,726 --> 01:01:45,603
+<i>do narcótico conhecido</i>
+<i>como slo-mo.</i>
+
+621
+01:01:45,604 --> 01:01:48,995
+<i>E está, desde agora,</i>
+<i>condenada à morte.</i>
+
+622
+01:01:50,400 --> 01:01:53,152
+<i>Todo aquele que me impedir</i>
+<i>de cumprir o meu dever</i>
+
+623
+01:01:53,153 --> 01:01:56,336
+<i>será tratado como cúmplice</i>
+<i>dos crimes dela.</i>
+
+624
+01:01:56,531 --> 01:01:58,880
+<i>Estão avisados.</i>
+
+625
+01:02:00,285 --> 01:02:02,926
+<i>Quando a si, Ma-Ma,</i>
+
+626
+01:02:04,664 --> 01:02:07,096
+está na hora de fazer justiça.
+
+627
+01:02:09,878 --> 01:02:12,838
+Localizei-o.
+Está apenas 10 pisos abaixo de nós.
+
+628
+01:02:12,839 --> 01:02:15,382
+Na varanda do quadrante sul,
+terminal 5.
+
+629
+01:02:15,383 --> 01:02:16,898
+Cabrão.
+
+630
+01:02:38,406 --> 01:02:40,797
+O cabrão ainda não morreu.
+
+631
+01:03:02,222 --> 01:03:03,820
+Não é ele.
+
+632
+01:03:07,602 --> 01:03:09,325
+Incendiária.
+
+633
+01:03:48,226 --> 01:03:50,867
+Como raio vamos deter este tipo?
+
+634
+01:03:54,274 --> 01:03:55,997
+Liga para o 112.
+
+635
+01:04:24,804 --> 01:04:27,515
+Recebemos um 10-24 deste edifício.
+
+636
+01:04:27,516 --> 01:04:30,601
+Dois juízes sob fogo
+pediram auxílio urgente
+
+637
+01:04:30,602 --> 01:04:32,353
+e vocês aqui à porta...
+
+638
+01:04:32,354 --> 01:04:36,079
+O edifício está encerrado.
+Têm uma avaria no sistema de defesa.
+
+639
+01:04:40,862 --> 01:04:43,211
+Abram. Agora!
+
+640
+01:04:49,246 --> 01:04:51,344
+Estão dispensados.
+
+641
+01:05:06,012 --> 01:05:08,931
+- O que temos aqui?
+- Dois juízes desencadearam
+
+642
+01:05:08,932 --> 01:05:11,934
+uma guerra territorial
+e morreram no cumprimento do dever.
+
+643
+01:05:11,935 --> 01:05:14,687
+- E os assassinos dos juízes?
+- Estão aqui.
+
+644
+01:05:14,688 --> 01:05:17,537
+- Bate certo.
+- Desculpem...
+
+645
+01:05:18,608 --> 01:05:21,819
+Não foi isso que aconteceu.
+Estou cá desde o início.
+
+646
+01:05:21,820 --> 01:05:24,989
+As mortes são obra de um só gangue,
+o clã da Ma-Ma.
+
+647
+01:05:24,990 --> 01:05:27,032
+E, pelo barulho de tiros,
+
+648
+01:05:27,033 --> 01:05:30,119
+diria que pelo menos um
+dos vossos dois juízes ainda está vivo.
+
+649
+01:05:30,120 --> 01:05:33,178
+- Está disposto a depor?
+- Claro.
+
+650
+01:05:57,230 --> 01:05:59,412
+Um milhão de créditos.
+
+651
+01:06:00,108 --> 01:06:01,483
+Um milhão?
+
+652
+01:06:01,484 --> 01:06:04,195
+Tem um problema com um juiz.
+Sabe quem ele é?
+
+653
+01:06:04,196 --> 01:06:05,585
+Não.
+
+654
+01:06:05,864 --> 01:06:08,546
+Mas eu sei. Um milhão.
+
+655
+01:06:09,743 --> 01:06:10,951
+Certo.
+
+656
+01:06:10,952 --> 01:06:13,871
+Kaplan, unidade de protecção
+para a cliente.
+
+657
+01:06:13,872 --> 01:06:17,388
+- Chan, Alvarez, vamos fazê-lo sair.
+- Certo.
+
+658
+01:06:17,792 --> 01:06:20,836
+- Onde está a outra, a recruta?
+- Temo-la aqui.
+
+659
+01:06:20,837 --> 01:06:23,603
+- Morta ou viva?
+- Viva.
+
+660
+01:06:24,299 --> 01:06:25,813
+Matem-na.
+
+661
+01:06:54,913 --> 01:06:56,803
+MUNIÇÕES ESCASSAS
+
+662
+01:08:08,612 --> 01:08:11,169
+Você aí, identifique-se.
+
+663
+01:08:12,365 --> 01:08:15,590
+- Chan. Sector 9.
+- Dredd. Sector 13.
+
+664
+01:08:16,995 --> 01:08:19,636
+Estamos a responder ao teu 10-24.
+
+665
+01:08:25,420 --> 01:08:27,477
+É bom ver-te, Dredd.
+
+666
+01:08:27,714 --> 01:08:29,924
+Igualmente. Estás sozinho?
+
+667
+01:08:29,925 --> 01:08:33,525
+Negativo, somos três.
+Estão perto do meu vector.
+
+668
+01:08:34,596 --> 01:08:36,263
+Descontrai-te.
+
+669
+01:08:36,264 --> 01:08:38,196
+Chegou a cavalaria.
+
+670
+01:08:40,560 --> 01:08:41,991
+Dois.
+
+671
+01:08:42,521 --> 01:08:43,868
+Dois?
+
+672
+01:08:44,648 --> 01:08:47,247
+Fomos dois a enviar o 10-24.
+
+673
+01:08:48,485 --> 01:08:51,668
+Por que não perguntaste
+pelo segundo?
+
+674
+01:08:53,114 --> 01:08:54,879
+Lex, depressa!
+
+675
+01:09:01,915 --> 01:09:04,138
+Sufoca lá, Dredd.
+
+676
+01:09:17,681 --> 01:09:19,362
+Sufoca lá tu.
+
+677
+01:09:34,406 --> 01:09:36,004
+Merda!
+
+678
+01:09:58,889 --> 01:10:02,655
+Devias pensar que ias ser
+o orgulho da tua família, não?
+
+679
+01:10:05,020 --> 01:10:07,535
+Já não tens grandes hipóteses.
+
+680
+01:10:08,481 --> 01:10:10,941
+Sempre quis ter uma destas.
+
+681
+01:10:10,942 --> 01:10:12,373
+É...
+
+682
+01:10:13,653 --> 01:10:17,156
+Tiveste um azar de merda,
+ao encontrares o clã da Ma-Ma.
+
+683
+01:10:17,157 --> 01:10:19,074
+Mas não fiques triste.
+
+684
+01:10:19,075 --> 01:10:21,368
+Já conheci muitos juízes
+
+685
+01:10:21,369 --> 01:10:23,968
+e tu não tens estofo para isso.
+
+686
+01:10:24,331 --> 01:10:27,791
+Se não morresses hoje,
+morrerias amanhã.
+
+687
+01:10:27,792 --> 01:10:30,225
+Ou então, depois de amanhã.
+
+688
+01:10:32,339 --> 01:10:34,395
+De qualquer forma...
+
+689
+01:10:34,424 --> 01:10:36,147
+vai ser hoje.
+
+690
+01:10:40,722 --> 01:10:43,780
+Queres dizer
+as tuas últimas palavras, cabra?
+
+691
+01:10:47,103 --> 01:10:48,827
+Tem piada...
+
+692
+01:10:49,314 --> 01:10:51,579
+Ia perguntar-te isso.
+
+693
+01:10:52,234 --> 01:10:53,581
+Cabrão.
+
+694
+01:11:00,825 --> 01:11:03,508
+- "Identificação Rejeitada".
+- Merda.
+
+695
+01:11:40,490 --> 01:11:42,255
+O Kay morreu.
+
+696
+01:11:42,784 --> 01:11:45,578
+- Arranje um esconderijo.
+- Aonde vai?
+
+697
+01:11:45,579 --> 01:11:48,956
+Vou arrumar a miúda.
+Se a vir primeiro, mato-a.
+
+698
+01:11:48,957 --> 01:11:52,682
+Se ela me vir primeiro,
+hesita e eu mato-a.
+
+699
+01:13:26,388 --> 01:13:29,737
+Qual é o preço de um juiz,
+nos dias que correm?
+
+700
+01:13:30,684 --> 01:13:32,323
+Um milhão.
+
+701
+01:13:37,148 --> 01:13:39,038
+A dividir por quatro.
+
+702
+01:13:44,447 --> 01:13:47,797
+- Por três, agora.
+- Por mim, pode ser.
+
+703
+01:13:52,539 --> 01:13:54,596
+Não me parece muito.
+
+704
+01:13:58,003 --> 01:13:59,893
+Para trair a lei.
+
+705
+01:14:06,469 --> 01:14:08,401
+Trair a cidade.
+
+706
+01:14:12,100 --> 01:14:14,866
+Poupa essa merda
+para os recrutas.
+
+707
+01:14:14,936 --> 01:14:17,327
+Estou nas ruas há 20 anos.
+
+708
+01:14:19,399 --> 01:14:22,373
+Sabes o que é
+Mega City One, Dredd?
+
+709
+01:14:23,403 --> 01:14:26,085
+É uma porra
+de um moinho de carne.
+
+710
+01:14:26,740 --> 01:14:29,339
+As pessoas entram por um lado.
+
+711
+01:14:35,373 --> 01:14:37,764
+E a carne sai pelo outro.
+
+712
+01:14:42,422 --> 01:14:44,812
+A única coisa que fazemos...
+
+713
+01:14:44,883 --> 01:14:46,815
+é dar à manivela.
+
+714
+01:14:57,395 --> 01:14:58,479
+Fogo rápido.
+
+715
+01:14:58,480 --> 01:14:59,828
+VAZIO
+
+716
+01:15:00,398 --> 01:15:01,607
+Incendiária.
+
+717
+01:15:01,608 --> 01:15:03,206
+Perfurante.
+
+718
+01:15:03,568 --> 01:15:05,208
+Explosivo.
+
+719
+01:15:09,366 --> 01:15:10,880
+Cabrão!
+
+720
+01:15:15,455 --> 01:15:17,414
+A dividir por dois...
+
+721
+01:15:17,415 --> 01:15:21,599
+Pois, eu já estaria a suar,
+se não estivesses sem balas.
+
+722
+01:15:37,602 --> 01:15:40,869
+Baixa a arma, recruta.
+Vim com os reforços.
+
+723
+01:16:02,419 --> 01:16:03,892
+Perfurante.
+
+724
+01:16:39,414 --> 01:16:40,887
+Espera.
+
+725
+01:16:43,460 --> 01:16:44,807
+Espero?
+
+726
+01:16:45,879 --> 01:16:49,312
+Estás a gozar?
+Acabaste de dizer "espera"?
+
+727
+01:16:51,843 --> 01:16:53,566
+Juiz Dredd.
+
+728
+01:16:55,263 --> 01:16:57,195
+O Juiz Dredd...
+
+729
+01:16:57,933 --> 01:17:01,060
+finalmente fica
+do lado errado de uma arma
+
+730
+01:17:01,061 --> 01:17:04,160
+e o que tem a dizer é "espera"...
+
+731
+01:17:05,690 --> 01:17:07,455
+Sabes uma coisa?
+
+732
+01:17:07,692 --> 01:17:10,027
+Esperava mais de ti.
+
+733
+01:17:10,028 --> 01:17:11,835
+Esperar pelo quê?
+
+734
+01:17:12,030 --> 01:17:14,337
+Que eu mude de ideias?
+
+735
+01:17:14,366 --> 01:17:16,742
+Espero mais dois ou três segundos
+
+736
+01:17:16,743 --> 01:17:20,093
+porque és tão fraco
+que não aguentas ver o fim?
+
+737
+01:17:20,664 --> 01:17:22,095
+Não.
+
+738
+01:17:29,464 --> 01:17:31,771
+Espera que ela te mate.
+
+739
+01:17:37,138 --> 01:17:38,695
+Muito bem.
+
+740
+01:17:38,890 --> 01:17:41,197
+Cuidados médicos básicos.
+
+741
+01:18:01,913 --> 01:18:03,386
+Recarregar.
+
+742
+01:18:11,381 --> 01:18:12,715
+Pronta?
+
+743
+01:18:12,716 --> 01:18:14,230
+Sim.
+
+744
+01:18:14,676 --> 01:18:16,608
+Parece pronta.
+
+745
+01:18:49,753 --> 01:18:52,630
+Não dispare!
+Por favor, não me mate!
+
+746
+01:18:52,631 --> 01:18:54,256
+Não estou armado!
+
+747
+01:18:54,257 --> 01:18:56,217
+Posso ajudá-lo.
+
+748
+01:18:56,218 --> 01:18:57,565
+Como?
+
+749
+01:18:57,719 --> 01:19:00,513
+A Ma-Ma está
+nos seus aposentos privados,
+
+750
+01:19:00,514 --> 01:19:02,765
+atrás de 25 cm de aço.
+
+751
+01:19:02,766 --> 01:19:05,643
+Não conseguirá entrar
+sem a combinação.
+
+752
+01:19:05,644 --> 01:19:07,659
+Posso dar-lha.
+
+753
+01:19:08,146 --> 01:19:11,496
+Não preciso da tua ajuda
+para te arrancar a combinação.
+
+754
+01:19:13,527 --> 01:19:15,458
+<i>Desculpe.</i>
+
+755
+01:19:24,579 --> 01:19:25,969
+Vai.
+
+756
+01:19:26,790 --> 01:19:28,638
+Desaparece daqui.
+
+757
+01:19:34,381 --> 01:19:37,174
+Pode explicar-se?
+Auxiliar um criminoso
+
+758
+01:19:37,175 --> 01:19:40,010
+não significa apenas
+a reprovação, é um crime.
+
+759
+01:19:40,011 --> 01:19:43,180
+Já fui reprovada,
+quando perdi a minha arma principal.
+
+760
+01:19:43,181 --> 01:19:46,990
+Não serei juíza. E não preciso
+de ser vidente para saber isso.
+
+761
+01:19:47,060 --> 01:19:49,520
+Ele é uma vítima,
+não um criminoso.
+
+762
+01:19:49,521 --> 01:19:52,648
+E até a minha avaliação acabar,
+ainda posso administrar justiça.
+
+763
+01:19:52,649 --> 01:19:55,832
+E foi o que acabei de fazer,
+ao deixá-lo partir.
+
+764
+01:19:55,944 --> 01:19:58,946
+Talvez seja a única vez
+que marco a diferença.
+
+765
+01:19:58,947 --> 01:20:02,255
+O código dos aposentos
+da Ma-Ma é o 4-9-4-3-6.
+
+766
+01:20:02,701 --> 01:20:04,799
+Vamos lá acabar isto.
+
+767
+01:21:33,083 --> 01:21:35,515
+És uma rica peça, Dredd.
+
+768
+01:21:37,879 --> 01:21:39,811
+Mas eu também sou.
+
+769
+01:21:40,215 --> 01:21:42,925
+Achas que não sabia
+que um dia seria apanhada?
+
+770
+01:21:42,926 --> 01:21:44,983
+São ossos do ofício.
+
+771
+01:21:45,470 --> 01:21:48,597
+Este piso inteiro está armadilhado
+com explosivos potentes
+
+772
+01:21:48,598 --> 01:21:51,739
+que chegam para arrasar
+os 50 pisos de cima.
+
+773
+01:21:52,477 --> 01:21:55,577
+Se esses foram baixo,
+o resto também vai.
+
+774
+01:21:59,192 --> 01:22:01,207
+Gostas da pulseira?
+
+775
+01:22:03,613 --> 01:22:07,046
+É um transmissor sincronizado
+com a minha pulsação.
+
+776
+01:22:07,450 --> 01:22:10,049
+Se o meu coração parar de bater,
+
+777
+01:22:10,287 --> 01:22:11,996
+o edifício explode.
+
+778
+01:22:11,997 --> 01:22:15,180
+Todos no seu interior...
+reduzidos a cinzas.
+
+779
+01:22:18,920 --> 01:22:21,186
+Não tens saída, Juiz.
+
+780
+01:22:23,091 --> 01:22:24,814
+Baixa a arma.
+
+781
+01:22:27,304 --> 01:22:30,778
+Sabes quantas pessoas
+moram neste edifício?
+
+782
+01:22:31,183 --> 01:22:33,781
+Isto não é uma negociação.
+
+783
+01:22:33,977 --> 01:22:36,326
+A sentença é a morte.
+
+784
+01:22:37,147 --> 01:22:39,787
+Não podes correr esse risco.
+
+785
+01:23:17,604 --> 01:23:20,328
+Estamos 1 km acima do solo.
+
+786
+01:23:20,774 --> 01:23:24,165
+Qual é que achas
+que é o alcance dessa coisa?
+
+787
+01:23:24,569 --> 01:23:27,335
+Passaria por 100 pisos de betão?
+
+788
+01:23:28,281 --> 01:23:30,171
+E se forem 200?
+
+789
+01:23:31,159 --> 01:23:33,216
+Vamos descobrir.
+
+790
+01:23:46,967 --> 01:23:49,009
+Cidadã Ma-Ma,
+
+791
+01:23:49,010 --> 01:23:51,220
+os seus crimes são
+múltiplos homicídios
+
+792
+01:23:51,221 --> 01:23:54,431
+e o fabrico e distribuição
+de narcóticos.
+
+793
+01:23:54,432 --> 01:23:56,281
+Como se declara?
+
+794
+01:24:02,941 --> 01:24:04,831
+Defesa registada.
+
+795
+01:26:30,338 --> 01:26:32,061
+Boa...
+
+796
+01:27:29,606 --> 01:27:31,246
+Anderson...
+
+797
+01:27:32,108 --> 01:27:35,500
+<i>As vítimas primeiro.</i>
+<i>Deixem estar os criminosos.</i>
+
+798
+01:27:37,739 --> 01:27:40,505
+A sua avaliação está terminada.
+
+799
+01:27:55,423 --> 01:27:56,855
+Juíza...
+
+800
+01:28:03,265 --> 01:28:06,642
+Quando soube que emitiu um 10-24,
+achei melhor averiguar,
+
+801
+01:28:06,643 --> 01:28:09,270
+visto que lhe impingi uma recruta.
+
+802
+01:28:09,271 --> 01:28:12,787
+- O que aconteceu lá dentro?
+- Uma rusga antidroga.
+
+803
+01:28:12,858 --> 01:28:16,916
+- Parece ter sido dura.
+- Os criminosos foram hostis.
+
+804
+01:28:17,487 --> 01:28:19,627
+Que tal se saiu ela?
+
+805
+01:28:20,407 --> 01:28:23,089
+Passou ou chumbou?
+
+806
+01:28:25,954 --> 01:28:27,594
+Deixe-me ver.
+
+807
+01:28:28,039 --> 01:28:29,721
+Ela passou.
+
+808
+01:28:31,001 --> 01:28:32,599
+Eu sabia.
+
+809
+01:28:37,924 --> 01:28:40,050
+Não há tempo a perder. Vamos.
+
+810
+01:28:40,051 --> 01:28:42,859
+Diz-lhes para irem pelas traseiras,
+nós vamos pela frente.
+
+811
+01:28:51,188 --> 01:28:53,203
+<i>Mega City One.</i>
+
+812
+01:28:54,399 --> 01:28:56,358
+<i>800 milhões de pessoas</i>
+
+813
+01:28:56,359 --> 01:28:59,028
+<i>que vivem nas ruínas</i>
+<i>do velho mundo</i>
+
+814
+01:28:59,029 --> 01:29:01,836
+<i>e nas megaestruturas</i>
+<i>do novo mundo.</i>
+
+815
+01:29:03,366 --> 01:29:06,758
+<i>Apenas uma coisa</i>
+<i>luta pela ordem entre o caos:</i>
+
+816
+01:29:08,830 --> 01:29:10,303
+<i>os juízes.</i>
+
+817
+01:29:12,083 --> 01:29:17,727
+<i>Ripadas por:</i>
+n0Te
+
+818
+01:29:23,345 --> 01:29:28,988
+<b>Tradução e legendagem
+Gonçalo Sousa
+
+

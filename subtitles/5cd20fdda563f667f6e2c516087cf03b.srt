@@ -1,0 +1,3316 @@
+
+1
+00:00:00,020 --> 00:00:01,900
+Anteriormente em "Anatomia de Grey"...
+
+2
+00:00:01,980 --> 00:00:04,060
+- Passei?
+- George... já não és um interno.
+
+3
+00:00:04,150 --> 00:00:05,600
+O George nem sabe que eu existo.
+
+4
+00:00:05,680 --> 00:00:06,860
+Queres sair comigo?
+
+5
+00:00:06,940 --> 00:00:07,960
+E se eu não estiver nessa?
+
+6
+00:00:08,040 --> 00:00:10,390
+- Não te vou deixar fazeres-me isto, Alex.
+- Sei que tenho sido um anormal.
+
+7
+00:00:10,430 --> 00:00:11,730
+Acho que encontrei uma
+forma de salvar vidas.
+
+8
+00:00:11,830 --> 00:00:14,060
+Posso encontrar pacientes
+para um ensaio clínico.
+
+9
+00:00:14,100 --> 00:00:15,970
+O tumor está a encolher.
+O vírus está a funcionar.
+
+10
+00:00:16,120 --> 00:00:17,780
+- Tens um diário?
+- Não é meu.
+
+11
+00:00:17,860 --> 00:00:19,600
+- De quem é?
+- Da tua mãe.
+
+12
+00:00:22,560 --> 00:00:24,320
+<i>Sou uma pedra.</i>
+
+13
+00:00:25,070 --> 00:00:26,510
+<i>Sou uma ilha.</i>
+
+14
+00:00:27,690 --> 00:00:30,700
+<i>É o mantra de quase todos
+os cirurgiões que conheci.</i>
+
+15
+00:00:32,370 --> 00:00:34,480
+<i>Gostamos de pensar que
+somos independentes,</i>
+
+16
+00:00:34,481 --> 00:00:36,590
+<i>solitários, dissidentes...</i>
+
+17
+00:00:36,630 --> 00:00:38,475
+<i>Que para executar o nosso
+trabalho só precisamos de um B.O.,</i>
+
+18
+00:00:38,476 --> 00:00:40,320
+<i>um bisturi e um
+corpo à disposição.</i>
+
+19
+00:00:40,430 --> 00:00:42,710
+- A Yang está de serviço hoje à noite?
+- Sim.
+
+20
+00:00:42,860 --> 00:00:44,740
+Porque achas que isto
+está tão limpo?
+
+21
+00:00:45,400 --> 00:00:48,300
+<i>Mas a verdade, é que nem mesmo o
+melhor de nós o consegue sozinho.</i>
+
+22
+00:00:48,420 --> 00:00:51,160
+<i>Cirurgia, tal como a vida,
+é um desporto de equipa.</i>
+
+23
+00:00:51,360 --> 00:00:54,370
+Posso dizer, que a cena toda
+do "vamos com calma"?
+
+24
+00:00:54,840 --> 00:00:56,310
+É a melhor ideia de sempre.
+
+25
+00:00:57,330 --> 00:00:59,330
+Alivia mesmo a pressão.
+
+26
+00:00:59,800 --> 00:01:04,140
+Pois. Podemos andar sem
+todas as expectativas.
+
+27
+00:01:04,530 --> 00:01:06,090
+Para quê apressar as coisas?
+
+28
+00:01:06,210 --> 00:01:07,500
+Exactamente.
+
+29
+00:01:07,620 --> 00:01:12,240
+<i>E consequentemente, temos de
+sair do banco e decidir...</i>
+
+30
+00:01:13,550 --> 00:01:15,550
+<i>por qual equipa vamos jogar?</i>
+
+31
+00:01:31,690 --> 00:01:34,980
+Um dos prazeres de vivermos juntos
+é tomarmos o pequeno almoço juntos.
+
+32
+00:01:35,140 --> 00:01:37,640
+Bom, hoje não posso,
+porque a Bailey chamou-nos cedo.
+
+33
+00:01:37,960 --> 00:01:40,350
+Acho que não tens tempo para ver o nosso
+trabalho num jornal médico importante.
+
+34
+00:01:40,740 --> 00:01:42,820
+Publicaram o nosso ensaio clínico?
+
+35
+00:01:43,330 --> 00:01:44,590
+Está na capa.
+
+36
+00:01:44,710 --> 00:01:49,640
+"Novo método no tratamento de gliomas
+malignos inoperáveis. O Método Shepherd."
+
+37
+00:01:49,720 --> 00:01:50,550
+O que achas?
+
+38
+00:01:50,630 --> 00:01:52,940
+É uma fotografia,
+uma grande fotografia tua.
+
+39
+00:01:53,060 --> 00:01:54,430
+Estás a fazer uma careta.
+
+40
+00:01:54,550 --> 00:01:55,880
+Não estou a fazer careta nenhuma.
+
+41
+00:01:56,000 --> 00:01:57,600
+Adoro esta fotografia.
+
+42
+00:01:57,720 --> 00:01:59,450
+Tenho de ir.
+
+43
+00:02:00,580 --> 00:02:02,190
+"O Método Shepherd."
+
+44
+00:02:02,380 --> 00:02:05,200
+Já era tempo deste hospital ter
+alguma boa publicidade para variar.
+
+45
+00:02:05,280 --> 00:02:06,690
+Soube que encontraste um dador.
+
+46
+00:02:06,850 --> 00:02:09,780
+Sim, senhor. A última peça do
+puzzle finalmente encaixou.
+
+47
+00:02:09,860 --> 00:02:14,050
+É hoje, Dra. Bailey, é hoje
+que o Seattle Grace volta ao activo.
+
+48
+00:02:14,210 --> 00:02:16,420
+O Shepherd na capa
+de um jornal nacional,
+
+49
+00:02:16,421 --> 00:02:18,630
+a ostentar os direitos
+de uma notável cirurgia.
+
+50
+00:02:18,710 --> 00:02:21,790
+Não vejo o Mercy West levar a cabo
+um projecto desta magnitude, tu vês?
+
+51
+00:02:21,830 --> 00:02:24,950
+Prefiro esperar para comemorar
+até sermos bem sucedidos.
+
+52
+00:02:25,020 --> 00:02:27,910
+Pois, bem pensado.
+Não queremos dar azar.
+
+53
+00:02:32,350 --> 00:02:35,100
+Engole esta, Mercy West.
+
+54
+00:02:37,600 --> 00:02:39,360
+Meu Deus, andei à tua
+procura por todo o lado.
+
+55
+00:02:40,690 --> 00:02:42,890
+Tive uma palatoplastia
+de manhã cedo.
+
+56
+00:02:43,010 --> 00:02:44,020
+Estás a ver isto?
+
+57
+00:02:44,180 --> 00:02:46,080
+- "O Método Shepherd"?
+- Sim, sim, muito impressionante.
+
+58
+00:02:46,200 --> 00:02:48,700
+- Ouve, ontem à noite, a Erica...
+- Achas que pintaram a fotografia dele?
+
+59
+00:02:48,820 --> 00:02:51,210
+O homem não tem um único poro.
+
+60
+00:02:51,330 --> 00:02:53,030
+Podes tomar atenção?
+Preciso de ti agora.
+
+61
+00:02:53,140 --> 00:02:57,020
+Está bem, estou um pouco cansado, mas se
+queres saltar e fazer o serviço todo...
+
+62
+00:02:57,140 --> 00:02:59,680
+Não, preciso de conversar.
+
+63
+00:03:00,820 --> 00:03:05,460
+Ontem à noite, a Erica e eu... nós...
+
+64
+00:03:07,060 --> 00:03:09,010
+Fizemo-lo. De certa maneira.
+
+65
+00:03:09,360 --> 00:03:11,850
+- Parabéns.
+- Não. Não, não.
+
+66
+00:03:11,970 --> 00:03:14,280
+Não foi nada bom.
+
+67
+00:03:14,560 --> 00:03:16,010
+Estou desiludida.
+
+68
+00:03:16,200 --> 00:03:19,490
+Não posso ir lá para baixo.
+
+69
+00:03:19,610 --> 00:03:24,230
+Eu tentei, mas foi tão estranho e clínico,
+como rotação em ginecologia.
+
+70
+00:03:26,260 --> 00:03:28,990
+Hoje de manhã sai antes dela se levantar.
+Nem conseguia encará-la.
+
+71
+00:03:29,110 --> 00:03:32,320
+E se... e se eu e a Erica somos...
+E se foi um erro?
+
+72
+00:03:32,440 --> 00:03:34,400
+- Onde vais?
+- Não posso falar disso.
+
+73
+00:03:34,480 --> 00:03:36,620
+Vá lá. Tu adoras falar destas coisas.
+
+74
+00:03:36,740 --> 00:03:38,040
+Mulher com mulher.
+É excitante.
+
+75
+00:03:38,120 --> 00:03:40,300
+Duas mulheres a tornarem-se
+obscenas e a adorarem?
+
+76
+00:03:40,450 --> 00:03:43,210
+É excitante. Uma mulher a falar
+do quanto está desiludida?
+
+77
+00:03:43,320 --> 00:03:45,400
+É deprimente e errado.
+
+78
+00:03:45,470 --> 00:03:47,200
+Simplesmente errado.
+
+79
+00:03:50,130 --> 00:03:52,170
+O Chefe quer que dêmos ao
+George um dos nossos internos?
+
+80
+00:03:52,210 --> 00:03:54,150
+Excepto a Grey.
+Ela já perdeu o O'Malley.
+
+81
+00:03:54,310 --> 00:03:55,350
+Desfaz-te do teu peso morto.
+
+82
+00:03:55,500 --> 00:03:56,560
+Por favor.
+Eles são todos pesos mortos.
+
+83
+00:03:56,750 --> 00:03:58,870
+É por isso que preciso de quatro,
+não de três.
+
+84
+00:04:04,950 --> 00:04:07,740
+O George está a preencher a papelada,
+a receber as asas de médico na vida real,
+
+85
+00:04:07,970 --> 00:04:10,050
+então pensei que agora seria uma boa
+altura para decorar o cacifo dele.
+
+86
+00:04:10,480 --> 00:04:11,550
+- Dá cá esse café.
+- Está bem.
+
+87
+00:04:11,670 --> 00:04:14,800
+Eu nem quero o crédito, mas
+o ensaio clínico foi ideia minha.
+
+88
+00:04:14,880 --> 00:04:16,960
+E tive que lhe implorar para que
+o fizesse, mais do que uma vez.
+
+89
+00:04:17,040 --> 00:04:18,850
+Não faz mal quereres o crédito.
+Eu ia querer o crédito.
+
+90
+00:04:18,930 --> 00:04:21,230
+Quando temos sexo com os assistentes,
+lixamo-nos. Eles têm o poder todo.
+
+91
+00:04:21,310 --> 00:04:23,240
+Internos.
+Podes ter sexo com internos.
+
+92
+00:04:25,160 --> 00:04:26,990
+Quero dizer, sair.
+
+93
+00:04:27,500 --> 00:04:30,050
+Os residentes podem sair com os internos,
+porque não somos uma ameaça.
+
+94
+00:04:30,170 --> 00:04:32,025
+Uma vez li um estudo em
+que dizia que os internos
+
+95
+00:04:32,026 --> 00:04:33,880
+quase nunca apresentam
+queixas de assédio sexual,
+
+96
+00:04:34,040 --> 00:04:38,390
+porque nos sentimos muito fracos e
+impotentes no hospital, isso é bom.
+
+97
+00:04:41,690 --> 00:04:43,810
+Internos... a outra carne branca.
+
+98
+00:04:45,840 --> 00:04:46,650
+Onde vamos?
+
+99
+00:04:46,780 --> 00:04:47,980
+Quando lá chegarmos já vão ver.
+
+100
+00:04:48,120 --> 00:04:49,880
+Dra. Bailey, hoje estou no
+serviço do Dr. Sloan.
+
+101
+00:04:50,000 --> 00:04:52,220
+Estão todos fora dos serviços.
+Estão todos comigo.
+
+102
+00:04:52,340 --> 00:04:54,580
+- Onde vamos?
+- Quando lá chegarmos já vais ver.
+
+103
+00:04:54,770 --> 00:04:56,430
+Viste o teu cacifo?
+Pus lá uma vela aromática,
+
+104
+00:04:56,460 --> 00:04:58,500
+agora as tuas batas vão
+cheirar a pão de canela.
+
+105
+00:04:58,510 --> 00:04:59,640
+Ena pá, obrigada.
+
+106
+00:04:59,710 --> 00:05:02,600
+Dra. Bailey, o Dr. Sloan está a fazer
+um Avanço Transpalatal. Nunca vi nenhum.
+
+107
+00:05:02,720 --> 00:05:04,630
+A Hahn disse que eu podia
+entrar no bypass aórtico dela.
+
+108
+00:05:04,750 --> 00:05:06,140
+E eu preciso de ir para a clínica.
+
+109
+00:05:06,141 --> 00:05:07,530
+Só lá tenho enfermeiras
+e assistentes médicos,
+
+110
+00:05:07,610 --> 00:05:09,960
+sou a única médica de serviço e
+tenho trabalho administrativo...
+
+111
+00:05:10,100 --> 00:05:11,650
+Hoje não se trata de vocês.
+
+112
+00:05:11,730 --> 00:05:13,890
+Não se trata dos serviços
+onde querem estar.
+
+113
+00:05:13,960 --> 00:05:15,420
+Não se trata da vossa carreira.
+
+114
+00:05:15,500 --> 00:05:17,190
+Trata-se de mim.
+
+115
+00:05:17,270 --> 00:05:19,310
+Este é um projecto no qual
+trabalho há muito tempo
+
+116
+00:05:19,350 --> 00:05:23,380
+e é muito importante para mim, por isso
+será muito importante para vocês.
+
+117
+00:05:23,460 --> 00:05:26,480
+E a única forma de sermos bem sucedidos
+é trabalharmos juntos como uma equipa,
+
+118
+00:05:26,560 --> 00:05:29,750
+portanto hoje, não são
+15 médicos distintos,
+
+119
+00:05:29,751 --> 00:05:32,940
+são uma equipa de cirurgiões
+a representar este hospital.
+
+120
+00:05:33,060 --> 00:05:34,940
+Estão todos esclarecidos?
+
+121
+00:05:37,990 --> 00:05:41,190
+Porque precisariam de tantos
+médicos para uma cirurgia?
+
+122
+00:05:41,260 --> 00:05:44,820
+Porque não é só uma cirurgia.
+São 12 cirurgias.
+
+123
+00:05:44,930 --> 00:05:49,750
+Seis transplantes de rins em seis B.O.s,
+todos em simultâneo.
+
+124
+00:05:49,930 --> 00:05:52,440
+Doação de rins compatíveis aos pares.
+
+125
+00:05:52,520 --> 00:05:56,710
+Seis trocas... seis doadores de rins
+a completos estranhos,
+
+126
+00:05:56,850 --> 00:05:59,280
+seis receptores de rins
+de completos estranhos.
+
+127
+00:05:59,350 --> 00:06:01,590
+Doze pessoas que
+se vão embora felizes.
+
+128
+00:06:01,670 --> 00:06:03,080
+Doação de rins compatíveis aos pares.
+
+129
+00:06:03,160 --> 00:06:06,330
+- Também conhecida como...
+- Cirurgia dominó.
+
+130
+00:06:07,010 --> 00:06:12,900
+Anatomia de Grey S05E05
+"There's No 'I' In Team"
+
+131
+00:06:13,290 --> 00:06:18,200
+<i>Tradução: Equipa PT-Subs
+Visitem-nos: www.pt-subs.net</i>
+
+132
+00:06:18,620 --> 00:06:21,070
+Stan Mercer, 46 anos,
+insuficiência renal
+
+133
+00:06:21,071 --> 00:06:23,520
+crónica secundária à
+pressão sanguínea elevada.
+
+134
+00:06:23,600 --> 00:06:26,930
+A sua esposa queria doar-lhe um rim,
+mas não era compatível.
+
+135
+00:06:26,970 --> 00:06:31,480
+Então vai doar o rim à Mna. Chen,
+que é compatível,
+
+136
+00:06:31,560 --> 00:06:35,750
+enquanto o Sr. Mercer vai
+receber hoje um rim deste jovem.
+
+137
+00:06:35,920 --> 00:06:38,410
+Prazer em conhecer-te.
+
+138
+00:06:39,450 --> 00:06:42,310
+P.J., fazes favor.
+
+139
+00:06:43,870 --> 00:06:48,220
+Kurt Walling, 58 anos, insuficiência
+renal crónica secundária aos diabetes.
+
+140
+00:06:48,300 --> 00:06:49,865
+O seu filho P.J. não era compatível,
+
+141
+00:06:49,900 --> 00:06:53,430
+então hoje o Sr. Walling vai
+receber o rim da Mna. Herman.
+
+142
+00:06:53,550 --> 00:06:55,670
+- Obrigado pelo rim, Mna. Herman.
+- Chame-me Lindsay.
+
+143
+00:06:55,790 --> 00:06:57,240
+Vamos ficar muito íntimos
+até ao fim do dia.
+
+144
+00:06:57,290 --> 00:06:59,930
+E assim por diante.
+Ainda parecem estúpidos porquê?
+
+145
+00:07:00,050 --> 00:07:01,660
+Bom, talvez se
+tivéssemos uma cábula.
+
+146
+00:07:01,770 --> 00:07:03,340
+A Mna. Herman vai doar
+o rim ao Sr. Walling.
+
+147
+00:07:03,460 --> 00:07:05,340
+O filho do Sr. Walling vai doar
+o rim ao Sr. Mercer.
+
+148
+00:07:05,420 --> 00:07:07,540
+A esposa do Sr. Mercer
+vai doar o rim à Mna. Chen.
+
+149
+00:07:07,660 --> 00:07:10,240
+A irmã da Mna. Chen vai
+doar o rim ao Sr. Patel.
+
+150
+00:07:10,320 --> 00:07:12,830
+A esposa do Sr. Patel vai
+doar o rim à Mna. Loring,
+
+151
+00:07:12,900 --> 00:07:14,720
+que veio com a sua prima,
+a Mna. Gomez,
+
+152
+00:07:14,790 --> 00:07:17,180
+que vai doar o seu rim ao Sr. Cross,
+o flautista profissional.
+
+153
+00:07:17,260 --> 00:07:20,980
+Para quem não tem memória fotográfica,
+está no quadro da sala de conferências.
+
+154
+00:07:21,050 --> 00:07:24,370
+E porque é que temos de fazer os
+seis transplantes ao mesmo tempo?
+
+155
+00:07:24,450 --> 00:07:26,220
+Para que ninguém
+desista à última da hora.
+
+156
+00:07:26,330 --> 00:07:27,445
+Porque haveria alguém de desistir?
+
+157
+00:07:27,446 --> 00:07:28,560
+É tão fantástico fazer
+parte desta operação.
+
+158
+00:07:28,630 --> 00:07:30,860
+Andar a doar órgãos é um pouco
+macabro. Eu desistia.
+
+159
+00:07:30,870 --> 00:07:33,550
+Sim, é por isso que esta cirurgia
+é um enorme castelo de cartas,
+
+160
+00:07:33,590 --> 00:07:35,870
+se perdemos um dador,
+perdemo-los todos.
+
+161
+00:07:35,940 --> 00:07:38,207
+Portanto, não só lhes vão prestar
+excelentes cuidados médicos,
+
+162
+00:07:38,208 --> 00:07:40,330
+como os vão manter satisfeitos.
+
+163
+00:07:40,370 --> 00:07:43,030
+Temos que ter a certeza que isto
+não se desfaz antes da cirurgia.
+
+164
+00:07:43,150 --> 00:07:44,800
+Alguma pergunta?
+
+165
+00:07:44,910 --> 00:07:47,190
+Ouvi dizer que quando fizeram
+uma dominó no Boston General,
+
+166
+00:07:47,260 --> 00:07:50,720
+todos os residentes ficaram com um dos
+rins mortos num frasco, como recordação.
+
+167
+00:07:50,800 --> 00:07:52,670
+- Eu quero um rim num frasco!
+- Eu também. Posso ficar com um rim?
+
+168
+00:07:52,770 --> 00:07:54,220
+Se lhes dão rins a elas,
+eu também quero um.
+
+169
+00:07:54,300 --> 00:07:56,050
+As quantidades são limitadas.
+Eu pedi primeiro. Podemos?
+
+170
+00:07:56,170 --> 00:07:58,380
+Ninguém vai levar um rim
+num frasco para casa.
+
+171
+00:07:58,460 --> 00:08:00,650
+Rins doentes não são bugigangas
+para as vossas mesas de café.
+
+172
+00:08:00,770 --> 00:08:02,740
+Agora vão.
+Vão.
+
+173
+00:08:08,970 --> 00:08:10,730
+Está tudo bem contigo?
+
+174
+00:08:11,200 --> 00:08:13,907
+A Bailey abarbatou todos os
+residentes e internos de cirurgia,
+
+175
+00:08:13,920 --> 00:08:16,020
+pelo que estou entalada com os
+residentes de psiquiatria.
+
+176
+00:08:16,140 --> 00:08:18,120
+- Não são grande coisa.
+- Está bem, estás ocupada.
+
+177
+00:08:18,210 --> 00:08:21,510
+Vou ser breve. Estava a pensar,
+se não estiveres de serviço esta noite,
+
+178
+00:08:21,590 --> 00:08:26,940
+podíamos ir até minha casa,
+encomendar o jantar, alugar um filme.
+
+179
+00:08:27,640 --> 00:08:30,570
+Esta noite?
+Queres estar comigo outra vez?
+
+180
+00:08:30,690 --> 00:08:32,730
+Bom, diverti-me imenso
+ontem à noite.
+
+181
+00:08:32,850 --> 00:08:33,870
+Diversão.
+
+182
+00:08:33,990 --> 00:08:35,830
+Seja como for, depois
+diz-me qualquer coisa.
+
+183
+00:08:38,840 --> 00:08:41,160
+Como já devem saber, hoje um
+de vocês vai ficar com o O'Malley.
+
+184
+00:08:41,230 --> 00:08:42,930
+Eu! Eu vou se precisar
+de um voluntário.
+
+185
+00:08:43,050 --> 00:08:47,010
+Eu é que decido quem vai, depois
+de decidir qual de vocês é o pior.
+
+186
+00:08:47,200 --> 00:08:49,670
+E é bom que não o sejam de propósito,
+porque eu vou dar conta.
+
+187
+00:08:49,910 --> 00:08:53,620
+Querido, queres o teu livro ou música,
+algo que te ajude a relaxar?
+
+188
+00:08:53,740 --> 00:08:56,420
+- Não sei. Talvez um copo de água.
+- E que tal uns bocados de gelo?
+
+189
+00:08:56,650 --> 00:08:58,380
+Os teus tornozelos parecem
+um pouco inchados.
+
+190
+00:08:58,460 --> 00:09:00,890
+A minha mulher adora controlar
+a minha retenção de líquidos.
+
+191
+00:09:03,680 --> 00:09:05,735
+Megan, podes chegar aqui
+se faz favor
+
+192
+00:09:05,736 --> 00:09:07,790
+e fixar as agulhas para
+começarmos com a diálise?
+
+193
+00:09:07,910 --> 00:09:10,020
+Parece um médico a sério.
+
+194
+00:09:14,170 --> 00:09:17,827
+Diz aqui que não tem nenhum ente
+querido na dominó, Mna. Herman.
+
+195
+00:09:17,828 --> 00:09:18,120
+Não.
+
+196
+00:09:18,200 --> 00:09:22,390
+Então vai doar um rim a um
+estranho sem esperar nada em troca?
+
+197
+00:09:22,470 --> 00:09:23,840
+Não é nada de extraordinário...
+
+198
+00:09:23,920 --> 00:09:26,262
+Tenho dois rins e dizem que
+podemos viver só com um, por isso...
+
+199
+00:09:26,263 --> 00:09:26,980
+Está a brincar?
+
+200
+00:09:27,100 --> 00:09:28,570
+O que está a fazer é fantástico.
+
+201
+00:09:28,680 --> 00:09:30,190
+A U.N.O.S. está sempre
+a precisar de órgãos.
+
+202
+00:09:30,270 --> 00:09:33,620
+- Se todos no mundo o fizessem...
+- Sim, era tudo paz, amor e unicórnios.
+
+203
+00:09:33,770 --> 00:09:34,730
+Ela já percebeu, Grey.
+
+204
+00:09:34,850 --> 00:09:39,380
+- Estou tão farta do "Viva tu!".
+- Percebo-a perfeitamente.
+
+205
+00:09:45,290 --> 00:09:47,410
+O Chefe pôs-me a lidar com a
+imprensa o dia todo.
+
+206
+00:09:47,640 --> 00:09:49,380
+Já me começa a doer a cara
+de tanto sorrir.
+
+207
+00:09:49,450 --> 00:09:51,250
+Já chamei o elevador.
+
+208
+00:09:51,410 --> 00:09:52,660
+Vem mais depressa quando eu chamo.
+
+209
+00:09:52,740 --> 00:09:54,700
+Deve ser o tal Método Shepherd.
+
+210
+00:09:54,780 --> 00:09:56,110
+Engraçada.
+
+211
+00:09:56,190 --> 00:09:59,400
+- Acho que vou pelas escadas.
+- Meredith, isto está a incomodar-te?
+
+212
+00:09:59,480 --> 00:10:00,640
+Porque haveria de estar?
+
+213
+00:10:00,720 --> 00:10:02,855
+Não lhe podes chamar
+o Método Shepherd-Grey,
+
+214
+00:10:02,856 --> 00:10:04,990
+porque senão ia pensar-se
+que tinhas tido ajuda.
+
+215
+00:10:07,310 --> 00:10:09,330
+Tenho mesmo que doar o
+meu rim àquele velhote?
+
+216
+00:10:09,450 --> 00:10:11,080
+O Sr. Mercer não deve
+ter mais de 50 anos.
+
+217
+00:10:11,160 --> 00:10:15,310
+O meu filho tem 22 anos. Para ele todos
+acima dos 40 estão às portas da morte.
+
+218
+00:10:15,390 --> 00:10:17,000
+Fiz 23 em Agosto.
+
+219
+00:10:17,080 --> 00:10:18,370
+É verdade.
+
+220
+00:10:18,530 --> 00:10:20,645
+Talvez possamos fazer
+uma festa atrasada
+
+221
+00:10:20,646 --> 00:10:22,760
+aqui no hospital,
+arranjar-te um bolo de gelado.
+
+222
+00:10:22,880 --> 00:10:25,800
+- Costumavas adorá-los.
+- Sim, quanto tinha 7 anos.
+
+223
+00:10:25,880 --> 00:10:27,510
+Olha, não estou aqui para
+uma reunião de família.
+
+224
+00:10:27,570 --> 00:10:29,680
+Só quero acabar isto
+e ir-me embora.
+
+225
+00:10:30,030 --> 00:10:32,890
+Então, agora faz diálise
+quatro vezes por semana?
+
+226
+00:10:32,970 --> 00:10:35,590
+A esta altura, mais vale
+acorrentarem-me à máquina.
+
+227
+00:10:35,750 --> 00:10:37,240
+Os meus rins estão em esforço.
+
+228
+00:10:37,380 --> 00:10:38,990
+Tenho os dias contados.
+
+229
+00:10:39,100 --> 00:10:42,390
+Por isso, tenho sorte em ter
+um filho que faz isto por mim.
+
+230
+00:10:42,470 --> 00:10:44,090
+Tens sorte é de seres rico.
+
+231
+00:10:44,170 --> 00:10:46,920
+Então quando recebo os 10.000
+dólares, antes ou depois da cirurgia?
+
+232
+00:10:51,010 --> 00:10:53,030
+É um presente de Natal.
+
+233
+00:10:53,330 --> 00:10:55,340
+Bem, estamos em Outubro.
+
+234
+00:11:06,790 --> 00:11:08,750
+Consigo ver-vos a hesitar.
+
+235
+00:11:09,570 --> 00:11:14,350
+Hipoteticamente, digamos que o paciente
+estava... a pagar ao filho pelo rim.
+
+236
+00:11:14,400 --> 00:11:17,130
+O que aconteceria exactamente?
+
+237
+00:11:17,360 --> 00:11:19,280
+A pagar pelo rim?
+
+238
+00:11:19,360 --> 00:11:21,090
+Hipoteticamente.
+
+239
+00:11:23,940 --> 00:11:27,630
+Bem, como alguém que roubou um
+órgão não há muito tempo,
+
+240
+00:11:27,710 --> 00:11:32,680
+devias saber que o que aconteceria era
+que o paciente ficaria fora da troca.
+
+241
+00:11:34,130 --> 00:11:36,910
+O que significa que
+esta pessoa, uma vez que
+
+242
+00:11:36,911 --> 00:11:39,690
+o marido não iria receber
+um rim, iria desistir.
+
+243
+00:11:40,700 --> 00:11:44,900
+E então eles iriam desistir e eles
+iriam desistir e tudo se desmoronava.
+
+244
+00:11:44,970 --> 00:11:46,470
+Era o que aconteceria.
+
+245
+00:11:46,580 --> 00:11:49,830
+Por isso, se vocês estão a sugerir
+que é isso que se está a passar,
+
+246
+00:11:49,910 --> 00:11:52,730
+é melhor que tenham bem a certeza.
+
+247
+00:11:54,860 --> 00:11:56,430
+É só um presente.
+
+248
+00:11:56,470 --> 00:11:58,040
+Um presente antecipado
+para pôr na meia de Natal.
+
+249
+00:12:00,630 --> 00:12:02,850
+A maioria das raparigas da sua idade,
+estão ocupadas com as compras.
+
+250
+00:12:02,900 --> 00:12:05,140
+Você está no hospital a
+doar um rim a um estranho.
+
+251
+00:12:05,220 --> 00:12:06,670
+Não sou assim tão santinha.
+
+252
+00:12:06,720 --> 00:12:08,760
+O seu rim pode não vir
+directamente para o meu marido,
+
+253
+00:12:08,830 --> 00:12:11,110
+mas você é uma das pessoas
+que o vai salvar, hoje.
+
+254
+00:12:11,210 --> 00:12:13,130
+Para mim, é a Madre Teresa.
+
+255
+00:12:13,210 --> 00:12:15,870
+Querida, importas-te de me ir
+buscar uma toalha de rosto molhada?
+
+256
+00:12:15,960 --> 00:12:17,320
+Claro, com licença.
+
+257
+00:12:17,430 --> 00:12:18,040
+Obrigado.
+
+258
+00:12:19,390 --> 00:12:22,100
+Sabias que a minha mãe inventou
+o Método de Grey sozinha?
+
+259
+00:12:22,210 --> 00:12:24,180
+Se calhar era melhor
+deixares de ler o diário dela.
+
+260
+00:12:24,410 --> 00:12:26,370
+Vai fazer-te sentir incompetente.
+
+261
+00:12:26,840 --> 00:12:30,240
+Ela está morta, faz parte do passado
+e continua a passar-me à frente.
+
+262
+00:12:30,360 --> 00:12:32,830
+Estás a ver ali aquele interno?
+
+263
+00:12:32,950 --> 00:12:35,060
+- Ele é asseado?
+- O quê?
+
+264
+00:12:35,100 --> 00:12:38,100
+Estava a pensar no que disse a Lexipédia.
+Ela é capaz de ter razão.
+
+265
+00:12:38,180 --> 00:12:39,250
+Queres dormir com um interno?
+
+266
+00:12:39,400 --> 00:12:41,480
+Era só para aliviar a comichão...
+
+267
+00:12:42,460 --> 00:12:44,030
+Já lá vai tanto tempo...
+
+268
+00:12:44,100 --> 00:12:45,710
+Não consigo fazer isto.
+
+269
+00:12:45,790 --> 00:12:48,300
+Todas estas pessoas a dizerem-me o quão
+maravilhosa e altruísta e dada eu sou...
+
+270
+00:12:48,380 --> 00:12:51,200
+Já não aguento ouvir mais,
+especialmente dela.
+
+271
+00:12:51,280 --> 00:12:52,070
+Está bem, baixa é o tom de voz.
+
+272
+00:12:52,150 --> 00:12:55,470
+Viste a cara dela, a
+agradecer-me por te salvar a vida?
+
+273
+00:12:55,550 --> 00:12:59,400
+Stan, isto é de loucos.
+Prometeste que lhe contavas! Por favor!
+
+274
+00:12:59,590 --> 00:13:00,920
+Sr. Mercer, está tudo bem?
+
+275
+00:13:01,080 --> 00:13:02,960
+- Não, por acaso não me sinto muito bem.
+- Diz-lhe!
+
+276
+00:13:03,100 --> 00:13:06,860
+Se os últimos três anos significaram
+alguma coisa para ti, tens de lhe dizer!
+
+277
+00:13:07,180 --> 00:13:09,070
+Stan?
+
+278
+00:13:12,160 --> 00:13:13,830
+Eu não sou estúpida.
+Sei que houveram outras mulheres.
+
+279
+00:13:13,910 --> 00:13:15,850
+Todos estes anos, disse a
+mim própria que era só sexo.
+
+280
+00:13:15,960 --> 00:13:18,350
+Só que... Meu Deus, Stan.
+
+281
+00:13:18,470 --> 00:13:21,090
+Ela vai doar um rim por ti.
+Isso não é sexo.
+
+282
+00:13:21,280 --> 00:13:24,890
+- É família.
+- As enzimas cardíacas e o seu E.C.G.
+
+283
+00:13:24,970 --> 00:13:27,010
+parecem-me bem. Ele teve um
+ataque de ansiedade agudo.
+
+284
+00:13:27,170 --> 00:13:28,380
+Ele pode fazer a cirurgia.
+
+285
+00:13:28,460 --> 00:13:29,840
+Eu faço tudo por ti.
+
+286
+00:13:29,950 --> 00:13:34,030
+Eu desisti da minha vida para te levar
+à diálise, para te levar aos médicos...
+
+287
+00:13:34,110 --> 00:13:36,390
+Não te pedi para fazeres nada disso.
+
+288
+00:13:36,470 --> 00:13:37,720
+Eu consigo guiar um carro.
+
+289
+00:13:37,880 --> 00:13:39,410
+Consigo servir-me do sumo.
+
+290
+00:13:39,570 --> 00:13:41,370
+Eu fiquei doente, não fiquei velho.
+
+291
+00:13:41,490 --> 00:13:43,290
+Bem, não te preocupes.
+
+292
+00:13:43,410 --> 00:13:47,790
+Não vou fazer mais nada por ti.
+Incluindo dar-te um rim.
+
+293
+00:13:52,390 --> 00:13:54,038
+Liga para a U.N.O.S..
+Diz-lhes que precisamos
+
+294
+00:13:54,039 --> 00:13:57,540
+de um rim compatível com os
+anticorpos da Sra. Mercer.
+
+295
+00:13:57,660 --> 00:14:01,120
+- Na U.N.O.S. temos poucas hipóteses.
+- São as únicas que temos. Agora vai.
+
+296
+00:14:06,380 --> 00:14:09,140
+Ela é apenas uma residente de 2º ano.
+Eu é que fiz o vírus.
+
+297
+00:14:09,180 --> 00:14:12,970
+Ela assistiu. Quando o Michael Jordan
+marca, ninguém liga ao assistente.
+
+298
+00:14:13,130 --> 00:14:15,470
+- Não sei. O Scottie Pippen...
+- Tu percebes o que quero dizer.
+
+299
+00:14:15,610 --> 00:14:18,410
+Estas mulheres...
+pensam demasiado em tudo.
+
+300
+00:14:18,490 --> 00:14:20,050
+Parece-me que hoje há
+alguém mal-humorado.
+
+301
+00:14:20,840 --> 00:14:23,160
+O que é isso? "Tratamentos
+experimentais para a fenda palatina."
+
+302
+00:14:24,300 --> 00:14:26,610
+Estás a trabalhar no teu
+próprio ensaio clínico, não é?
+
+303
+00:14:26,730 --> 00:14:28,690
+Eu só... estou a fazer
+uma pequena pesquisa.
+
+304
+00:14:28,840 --> 00:14:31,080
+Já percebi. Basta olhares para mim
+para te lembrares que não fizeste
+
+305
+00:14:31,160 --> 00:14:34,170
+uma única contribuição significativa
+para a história da medicina, não é?
+
+306
+00:14:36,170 --> 00:14:37,680
+- Sai daqui.
+- Devias ler o meu artigo.
+
+307
+00:14:37,760 --> 00:14:40,180
+Vai enriquecer a tua vida,
+fazer de ti um homem melhor.
+
+308
+00:14:40,260 --> 00:14:42,020
+Estou a guardá-lo
+para a casa de banho.
+
+309
+00:14:44,060 --> 00:14:48,010
+Começou como uma coisa de
+escritório, leve, divertida.
+
+310
+00:14:48,330 --> 00:14:53,930
+Depois, um dia acordamos e... e só
+conseguimos pensar nesse tipo mais velho.
+
+311
+00:14:55,220 --> 00:14:58,670
+Fazíamos qualquer coisa por
+ele, até doar-lhe um rim.
+
+312
+00:15:02,080 --> 00:15:03,690
+Porquê?
+
+313
+00:15:04,550 --> 00:15:06,430
+Eu também posso salvar-lhe a vida.
+
+314
+00:15:06,590 --> 00:15:11,090
+Ela pode ser casada com ele, mas...
+hoje também estou salvar-lhe a vida.
+
+315
+00:15:13,520 --> 00:15:16,300
+E assim, ele finalmente
+vai ter de escolher.
+
+316
+00:15:16,810 --> 00:15:18,770
+Ela ou eu?
+
+317
+00:15:22,920 --> 00:15:26,320
+Aparentemente, a Erica
+adorou o sexo não-sexo.
+
+318
+00:15:26,410 --> 00:15:27,680
+Acho que deve querer mais.
+
+319
+00:15:27,780 --> 00:15:29,150
+Acontece-me a toda a
+hora, com as mulheres.
+
+320
+00:15:29,151 --> 00:15:30,520
+Eu mal me lembro, mas
+elas ficam extasiadas.
+
+321
+00:15:30,600 --> 00:15:31,660
+É esse o teu sábio conselho?
+
+322
+00:15:31,740 --> 00:15:34,520
+Sou um cirurgião de nível internacional,
+acreditado em plástica e em otorrino.
+
+323
+00:15:34,560 --> 00:15:36,595
+Tenho coisas mais significativas
+e valiosas para fazer
+
+324
+00:15:36,596 --> 00:15:38,630
+do que distribuir
+conselhos sexuais.
+
+325
+00:15:38,670 --> 00:15:40,080
+Sim? Por exemplo?
+
+326
+00:15:40,200 --> 00:15:41,900
+- Boa.
+- Vá lá.
+
+327
+00:15:42,050 --> 00:15:44,510
+Não, Mark, preciso da tua ajuda!
+
+328
+00:15:48,600 --> 00:15:50,160
+Com licença.
+
+329
+00:15:51,850 --> 00:15:53,650
+O que se passa?
+
+330
+00:15:54,240 --> 00:15:57,701
+Estamos a tentar decidir qual dos internos
+à nossa frente vamos dar ao George...
+
+331
+00:15:57,740 --> 00:16:00,390
+Estão a decidir à nossa frente,
+como gado na feira estadual.
+
+332
+00:16:00,500 --> 00:16:02,700
+Acho que vou manter a Lexipédia.
+
+333
+00:16:02,820 --> 00:16:04,890
+Ela lembra-se de muitas coisas.
+
+334
+00:16:05,010 --> 00:16:10,650
+E toma banho, o que não se pode dizer
+daqueles dois fedorentos ali. Cheiras mal.
+
+335
+00:16:10,800 --> 00:16:13,740
+Bem, a Graciella faz uns
+relatórios que são uma porcaria.
+
+336
+00:16:13,860 --> 00:16:15,820
+Mas consegue pôr uma intravenosa.
+
+337
+00:16:15,900 --> 00:16:19,650
+A Claire, por outro lado, quase
+castrou um fulano com um cateter.
+
+338
+00:16:19,810 --> 00:16:21,380
+Nós estamos a ouvir o que dizem!
+
+339
+00:16:21,460 --> 00:16:23,420
+- Eu se calhar livro-me do Pierce.
+- Em que é que ele não presta?
+
+340
+00:16:23,500 --> 00:16:25,820
+É só porque detesto
+dizer o nome "Pierce."
+
+341
+00:16:26,230 --> 00:16:27,450
+Devíamos revoltar-nos.
+
+342
+00:16:27,600 --> 00:16:29,090
+Respeitavam-nos mais
+se não participássemos
+
+343
+00:16:29,091 --> 00:16:30,580
+na nossa própria humilhação.
+
+344
+00:16:30,700 --> 00:16:32,220
+Pois.
+
+345
+00:16:32,370 --> 00:16:34,720
+Tu revoltas-te primeiro,
+e eu sigo-te.
+
+346
+00:16:34,840 --> 00:16:36,120
+Já disseram alguma coisa da
+U.N.O.S.?
+
+347
+00:16:36,200 --> 00:16:38,720
+Ainda estão à procura de um
+compatível. Mas até agora, nada.
+
+348
+00:16:38,800 --> 00:16:40,630
+Espero que eles consigam. O meu
+fulano precisa mesmo de um rim.
+
+349
+00:16:40,750 --> 00:16:42,160
+Pois, todos eles precisam, Izzie.
+
+350
+00:16:42,280 --> 00:16:45,230
+Se o Derek precisasse de um rim, não lhe
+doava o meu. Ele ficava com o crédito.
+
+351
+00:16:45,310 --> 00:16:47,190
+Ia dizer que lhe tinha nascido um,
+miraculosamente.
+
+352
+00:16:47,300 --> 00:16:49,500
+O meu fulano está doente há 15 anos.
+
+353
+00:16:49,810 --> 00:16:52,070
+Podem imaginar como é ter a
+vida em suspenso dessa maneira?
+
+354
+00:16:52,150 --> 00:16:53,990
+Além disso, tem um filho merdoso.
+
+355
+00:16:54,110 --> 00:16:57,360
+Então?
+Eu disse que podias pousar isso?
+
+356
+00:16:58,540 --> 00:17:02,030
+Não, então pega nele.
+Fraco.
+
+357
+00:17:02,110 --> 00:17:04,920
+- Não tem resistência.
+- Pois, mas acata as ordens.
+
+358
+00:17:05,000 --> 00:17:07,510
+Verdade. Verdade.
+
+359
+00:17:10,840 --> 00:17:13,740
+- O meu marido vai receber um rim, ou não?
+- Espere, então e a minha irmã?
+
+360
+00:17:13,820 --> 00:17:17,030
+Se ela não receber um rim hoje,
+eu não vou doar o meu a um estranho.
+
+361
+00:17:17,110 --> 00:17:20,870
+Vou fazer o meu melhor para
+que todos recebam um rim hoje.
+
+362
+00:17:20,950 --> 00:17:23,650
+Dou-vos notícias logo que tenha
+mais informações. Por favor.
+
+363
+00:17:25,300 --> 00:17:27,260
+Chefe... eu tenho isto sob controlo.
+
+364
+00:17:27,380 --> 00:17:29,560
+Tenho a Grey a falar com a U.N.O.S..
+Tenho...
+
+365
+00:17:29,640 --> 00:17:32,460
+Estamos a ser destacados
+nas notícias nacionais.
+
+366
+00:17:32,600 --> 00:17:35,850
+Todos os olhos estão
+em Seattle Grace.
+
+367
+00:17:36,050 --> 00:17:38,320
+- Resolve isto.
+- Sim, senhor.
+
+368
+00:17:40,720 --> 00:17:45,220
+Tenho sido apalpado e espetado como um
+rato de laboratório, para quê, para nada?
+
+369
+00:17:45,570 --> 00:17:47,300
+Temos de passar tempo juntos.
+
+370
+00:17:47,420 --> 00:17:48,670
+Isso não é nada.
+
+371
+00:17:48,750 --> 00:17:51,810
+Agora queres que passemos
+algum tempo juntos?
+
+372
+00:17:51,890 --> 00:17:54,120
+Bem, estás quase 20 anos atrasado.
+
+373
+00:17:54,240 --> 00:17:57,130
+- Por isso, sim, é nada.
+- P.J...
+
+374
+00:17:57,210 --> 00:18:00,380
+Recebo à mesma 10.000 dólares
+se a cirurgia não acontecer?
+
+375
+00:18:00,460 --> 00:18:01,910
+Por que se não, estou fora.
+
+376
+00:18:02,070 --> 00:18:04,490
+- Tenho uma vida para a qual voltar.
+- Por favor.
+
+377
+00:18:05,080 --> 00:18:06,880
+Preciso de ti.
+
+378
+00:18:07,790 --> 00:18:13,070
+Se pudesses ter um pouco
+mais de paciência...
+
+379
+00:18:19,890 --> 00:18:23,250
+Eu ia esmurrar aquele miúdo.
+Que idiota egoísta... O pai está doente,
+
+380
+00:18:23,390 --> 00:18:26,520
+está mesmo doente e ele só se
+preocupa é com o estúpido dinheiro.
+
+381
+00:18:26,600 --> 00:18:29,380
+O tipo deve ter feito alguma coisa
+realmente má para pôr o miúdo tão zangado.
+
+382
+00:18:29,420 --> 00:18:31,655
+Talvez ele só se preocupe
+com o filho, mas o anormal
+
+383
+00:18:31,656 --> 00:18:33,890
+é demasiado atrofiado
+emocionalmente para deixar.
+
+384
+00:18:33,970 --> 00:18:37,550
+Está bem, eu estou a tentar ser...
+
+385
+00:18:37,670 --> 00:18:39,200
+Estou, mas isto aqui?
+
+386
+00:18:39,280 --> 00:18:41,770
+Este é exactamente o teu problema.
+
+387
+00:18:41,870 --> 00:18:44,300
+Tu ficas toda enredada
+e envolvida e...
+
+388
+00:18:44,380 --> 00:18:47,050
+começas a preocupar-te
+com estas pessoas.
+
+389
+00:18:47,120 --> 00:18:49,160
+O teu paciente ali, é um anormal.
+
+390
+00:18:49,240 --> 00:18:51,980
+O filho nunca lhe dará o que ele
+quer e ele vai ficar decepcionado.
+
+391
+00:18:52,060 --> 00:18:56,290
+E quanto mais cedo ele perceber,
+quanto mais cedo tu perceberes...
+
+392
+00:18:58,060 --> 00:19:00,020
+Não, continua, por favor.
+
+393
+00:19:00,170 --> 00:19:02,930
+Sê um egoísta. Porque assim
+ao menos eu sei o que esperar.
+
+394
+00:19:03,010 --> 00:19:05,575
+Porque seres decente num
+segundo e um completo anormal
+
+395
+00:19:05,576 --> 00:19:08,140
+no seguinte, está a
+tornar-se hábito, Alex.
+
+396
+00:19:08,180 --> 00:19:10,800
+Então como vai ser?
+Escolhe um.
+
+397
+00:19:17,390 --> 00:19:19,570
+O'Malley. Então, amigo?
+
+398
+00:19:20,110 --> 00:19:23,450
+Senti a tua falta ao almoço.
+Foi um nível novo de inferno.
+
+399
+00:19:23,570 --> 00:19:25,730
+Não, estava ocupado a
+fazer os meus relatórios.
+
+400
+00:19:25,800 --> 00:19:27,330
+Os internos não me respeitam.
+
+401
+00:19:27,410 --> 00:19:28,900
+Eu respeitava-te
+se fosse tua interna.
+
+402
+00:19:28,980 --> 00:19:31,690
+George, eles não te respeitam
+porque não têm medo de ti.
+
+403
+00:19:31,760 --> 00:19:33,310
+Dizima um durante alguns dias.
+
+404
+00:19:33,390 --> 00:19:35,140
+Não é uma ciência difícil.
+Dois.
+
+405
+00:19:37,880 --> 00:19:41,270
+Quem vai receber
+o rim da Mna. Herman?
+
+406
+00:19:42,320 --> 00:19:43,880
+Posso ir verificar.
+
+407
+00:19:44,000 --> 00:19:45,950
+- Três?
+- O Sr. Walling.
+
+408
+00:19:46,100 --> 00:19:48,000
+Exacto. Não.
+Esqueci-me completamente.
+
+409
+00:19:48,120 --> 00:19:50,350
+Esqueceste-te.
+
+410
+00:19:50,430 --> 00:19:52,550
+Como te esqueceste de fazer as
+tuas anotações antes das rondas?
+
+411
+00:19:52,650 --> 00:19:55,440
+Ou como te esqueceste de tirar
+o dreno do pós-operatório?
+
+412
+00:19:55,550 --> 00:19:58,540
+Ou como te esqueceste de assinar as tuas
+ordens e por isso todos os teus relatórios...
+
+413
+00:19:58,580 --> 00:20:00,950
+Os meus relatórios,
+estavam em falta.
+
+414
+00:20:01,540 --> 00:20:04,775
+Esqueceste-te, porque
+nesse cérebro minúsculo
+
+415
+00:20:04,776 --> 00:20:08,010
+só consegues reter é
+a que horas é o almoço.
+
+416
+00:20:09,450 --> 00:20:11,980
+Aqui a Grey vai tornar-se
+uma cirurgiã,
+
+417
+00:20:11,981 --> 00:20:14,510
+enquanto tu vais escavar
+fossos na beira da estrada.
+
+418
+00:20:20,420 --> 00:20:22,830
+É brutal, mas é eficaz.
+
+419
+00:20:26,220 --> 00:20:28,000
+- Não vou fazer isto contigo.
+- Fazer o quê?
+
+420
+00:20:28,140 --> 00:20:29,430
+Ter este conflito silencioso.
+
+421
+00:20:29,510 --> 00:20:33,590
+Vou escrever aos editores e pedir
+uma correcção. Método Shepherd-Grey.
+
+422
+00:20:33,670 --> 00:20:36,340
+Não quero que me dês o crédito por
+estares zangado por eu estar zangada.
+
+423
+00:20:36,420 --> 00:20:38,105
+Quero que me dês o crédito
+porque pensas
+
+424
+00:20:38,106 --> 00:20:39,790
+que trabalhei arduamente
+por isso e o mereço.
+
+425
+00:20:39,870 --> 00:20:41,590
+Não o mereces.
+
+426
+00:20:41,790 --> 00:20:43,710
+És um bebé.
+
+427
+00:20:43,790 --> 00:20:46,690
+Tens potencial para ser uma boa cirurgiã,
+talvez uma excelente cirurgiã.
+
+428
+00:20:47,080 --> 00:20:50,180
+Mas ainda nem aprendeste o mínimo
+do que precisas de aprender.
+
+429
+00:20:50,680 --> 00:20:53,190
+A ideia foi minha.
+
+430
+00:20:53,740 --> 00:20:56,440
+E detesto aquela fotografia.
+
+431
+00:21:02,560 --> 00:21:04,750
+A U.N.O.S. não tem
+um órgão compatível.
+
+432
+00:21:12,480 --> 00:21:13,830
+Está bem.
+
+433
+00:21:13,950 --> 00:21:19,500
+Podemos... Estivemos a empatar.
+Ainda não libertámos ninguém.
+
+434
+00:21:19,510 --> 00:21:21,170
+Posso falar com a Mna. Mercer.
+
+435
+00:21:21,280 --> 00:21:24,680
+Não podes fazer nada que
+possa ser visto como coerção.
+
+436
+00:21:24,810 --> 00:21:26,420
+- A U.N.O.S. é muito clara.
+- Mas, senhor...
+
+437
+00:21:26,460 --> 00:21:28,620
+A última coisa que
+precisamos é de perder
+
+438
+00:21:28,621 --> 00:21:30,780
+a nossa condição de
+Centro de Transplantes.
+
+439
+00:21:33,870 --> 00:21:36,160
+Deixa os pacientes irem para casa.
+
+440
+00:21:38,760 --> 00:21:40,130
+Acabou.
+
+441
+00:21:54,130 --> 00:21:55,885
+Tenho um bypass
+coronário daqui a uma hora.
+
+442
+00:21:55,886 --> 00:21:57,640
+Queres ir tomar um café?
+
+443
+00:21:58,620 --> 00:22:01,140
+- Eu não fui feita para isto.
+- Café?
+
+444
+00:22:01,170 --> 00:22:06,850
+Não, isto, os toques e sexo
+com uma mulher. Não consigo.
+
+445
+00:22:06,870 --> 00:22:08,300
+Pensava que conseguia mas...
+
+446
+00:22:08,420 --> 00:22:12,190
+Mas já o fizeste.
+Não percebo.
+
+447
+00:22:17,730 --> 00:22:20,690
+Para ti não foi bom.
+
+448
+00:22:30,520 --> 00:22:32,600
+Nem acredito.
+
+449
+00:22:32,940 --> 00:22:34,240
+Estive tão perto.
+
+450
+00:22:34,360 --> 00:22:36,245
+Vai estar no cimo da
+lista de transplantes.
+
+451
+00:22:36,246 --> 00:22:38,130
+Surgirá outra coisa.
+
+452
+00:22:38,140 --> 00:22:40,810
+Não estou chateado
+por causa do rim.
+
+453
+00:22:41,790 --> 00:22:42,770
+É por causa do seu filho.
+
+454
+00:22:42,880 --> 00:22:45,490
+Não falávamos há mais de um ano.
+
+455
+00:22:45,520 --> 00:22:47,310
+Demorei meses a encontrá-lo.
+
+456
+00:22:47,330 --> 00:22:51,460
+- Era a minha hipótese de o ter de volta.
+- Pois.
+
+457
+00:22:51,600 --> 00:22:57,030
+Sei que o P.J. pode ser egoísta...
+mal-educado...
+
+458
+00:22:57,490 --> 00:23:00,240
+mas não tem sido fácil para ele.
+
+459
+00:23:01,710 --> 00:23:03,930
+A mãe dele morreu.
+
+460
+00:23:04,760 --> 00:23:07,210
+Eu trabalhava até tarde
+quase todas as noites.
+
+461
+00:23:07,360 --> 00:23:08,610
+Cometi muitos erros.
+
+462
+00:23:08,650 --> 00:23:11,020
+Não se pode culpar.
+
+463
+00:23:11,120 --> 00:23:13,640
+Algumas pessoas estão destroçadas.
+
+464
+00:23:14,720 --> 00:23:18,180
+Acho que devia tentar
+não se preocupar muito.
+
+465
+00:23:18,190 --> 00:23:20,580
+Assim não se decepciona.
+
+466
+00:23:24,380 --> 00:23:27,470
+Estes são os seus papéis da alta.
+
+467
+00:23:35,020 --> 00:23:36,960
+Lamento.
+
+468
+00:23:39,000 --> 00:23:41,080
+Não sei porquê...
+
+469
+00:23:42,960 --> 00:23:44,720
+Lamento.
+
+470
+00:23:48,330 --> 00:23:51,040
+Lamento tanto.
+
+471
+00:23:53,900 --> 00:23:55,650
+Está tudo bem.
+
+472
+00:24:02,260 --> 00:24:07,030
+Só tem que assinar aí no
+fundo e pode ir embora.
+
+473
+00:24:09,230 --> 00:24:14,550
+Deve pensar que sou uma pessoa
+terrível, por recusar doar o meu rim.
+
+474
+00:24:14,580 --> 00:24:16,540
+Não pensamos nada, minha senhora.
+
+475
+00:24:16,620 --> 00:24:18,490
+Ele ficou com tudo.
+
+476
+00:24:18,570 --> 00:24:25,900
+Com o meu amor, o meu orgulho,
+a minha dignidade... desapareceu tudo.
+
+477
+00:24:26,010 --> 00:24:29,310
+Mas a única coisa que
+ele não tem é o rim.
+
+478
+00:24:29,480 --> 00:24:34,120
+E o pensamento de lhe dar
+a última parte de mim...
+
+479
+00:24:36,860 --> 00:24:39,260
+Deve pensar que eu sou
+uma pessoa terrível.
+
+480
+00:24:39,400 --> 00:24:40,760
+Não me é permitido pensar nada.
+
+481
+00:24:40,860 --> 00:24:45,010
+Há regras que me impedem
+de ter uma opinião.
+
+482
+00:24:45,100 --> 00:24:48,100
+Boas regras,
+que existem por uma razão,
+
+483
+00:24:48,130 --> 00:24:52,355
+porque doar a alguém um órgão
+que Deus colocou no nosso corpo,
+
+484
+00:24:52,356 --> 00:24:56,580
+não é coisa que possamos
+ser forçados a fazer.
+
+485
+00:24:56,590 --> 00:25:00,190
+É uma coisa importante.
+
+486
+00:25:00,330 --> 00:25:01,980
+É uma coisa extraordinária.
+
+487
+00:25:02,030 --> 00:25:07,100
+É uma oferta que deve
+ser doada livremente.
+
+488
+00:25:07,710 --> 00:25:10,700
+E se doasse, e não
+estou a pedir que o faça,
+
+489
+00:25:10,860 --> 00:25:15,890
+mas se doasse, não é
+só para o seu marido.
+
+490
+00:25:16,020 --> 00:25:21,930
+É para cinco pessoas,
+pessoas que nunca viu.
+
+491
+00:25:40,770 --> 00:25:43,840
+Os seis doadores estão
+anestesiados e prontos.
+
+492
+00:25:43,870 --> 00:25:46,590
+Encarregamo-nos primeiro deles
+e a seguir dos receptores.
+
+493
+00:25:46,610 --> 00:25:49,400
+Cada par terá um código de cores
+para não serem confundidos.
+
+494
+00:25:49,520 --> 00:25:54,350
+Esta cirurgia é arriscada, portanto,
+trabalhem rápido mas com cuidado.
+
+495
+00:25:54,470 --> 00:25:57,600
+Trabalhem em conjunto.
+Operem como uma equipa.
+
+496
+00:25:57,610 --> 00:25:59,880
+Vamos lá fazer história em medicina.
+
+497
+00:26:03,010 --> 00:26:05,500
+Temos imensa sorte da mulher
+ter mudado de ideias.
+
+498
+00:26:05,670 --> 00:26:08,340
+Sim, temos.
+Temos, sim.
+
+499
+00:26:21,220 --> 00:26:25,250
+É o que eu chamo de
+um rim com bom aspecto.
+
+500
+00:26:33,910 --> 00:26:38,040
+Põe-no em gelo e começa a banhar
+na solução de preservação.
+
+501
+00:27:08,560 --> 00:27:11,380
+Queres fazer as honras, Dra. Yang?
+
+502
+00:27:13,290 --> 00:27:14,450
+Muito bem.
+
+503
+00:27:14,620 --> 00:27:16,200
+Vamos. Está a sair.
+
+504
+00:27:19,180 --> 00:27:21,160
+É exactamente um géiser de urina.
+
+505
+00:27:21,170 --> 00:27:23,345
+Significa que fizemos
+bem o nosso trabalho.
+
+506
+00:27:23,346 --> 00:27:25,530
+Nunca te cansas de ver isto.
+
+507
+00:27:26,710 --> 00:27:29,070
+Estamos prontos para ti, Grey.
+
+508
+00:27:32,560 --> 00:27:35,010
+Em movimento com o rim.
+
+509
+00:27:42,190 --> 00:27:44,930
+Regra dos 5 segundos!
+Regra dos 5 segundos!
+
+510
+00:27:45,590 --> 00:27:47,510
+Segura-o bem.
+
+511
+00:27:47,660 --> 00:27:50,270
+Vou precisar de mais gelo,
+e de outra ligadura.
+
+512
+00:27:50,290 --> 00:27:53,700
+- Vou buscar.
+- Não, não tocas em mais nada.
+
+513
+00:27:54,250 --> 00:27:57,800
+Deixaram cair um rim?
+
+514
+00:28:03,490 --> 00:28:06,270
+Sei que não queres falar mais sobre isto.
+Sei que não queres saber.
+
+515
+00:28:06,320 --> 00:28:10,350
+- Pelo amor de Deus.
+- Ouve-me até ao fim.
+
+516
+00:28:11,630 --> 00:28:14,160
+Gosto de ser boa nas coisas,
+está bem?
+
+517
+00:28:14,200 --> 00:28:17,370
+Não falho.
+Não desisto.
+
+518
+00:28:17,380 --> 00:28:20,780
+Gosto de ser boa nas coisas e
+quero ser boa nisto.
+
+519
+00:28:20,830 --> 00:28:24,380
+Por isso... preciso de ti.
+
+520
+00:28:24,820 --> 00:28:27,950
+Preciso que me mostres.
+
+521
+00:28:30,520 --> 00:28:31,530
+Mostrar-te?
+
+522
+00:28:31,560 --> 00:28:33,845
+Só porque não publicaste
+um ensaio clínico,
+
+523
+00:28:33,846 --> 00:28:36,130
+não quer dizer
+que não sejas um génio.
+
+524
+00:28:39,790 --> 00:28:42,340
+Está bem.
+Tira as calças.
+
+525
+00:28:42,350 --> 00:28:43,530
+A sério?
+
+526
+00:28:43,540 --> 00:28:45,540
+Meu Deus.
+Obrigada.
+
+527
+00:28:45,570 --> 00:28:46,950
+Muito obrigada.
+
+528
+00:28:47,070 --> 00:28:49,170
+Vou mostrar-te o Método Sloan.
+
+529
+00:28:49,180 --> 00:28:52,750
+Nunca vai ser publicado num
+jornal médico, mas devia!
+
+530
+00:28:57,880 --> 00:28:59,780
+Já não devia estar a ficar rosado?
+
+531
+00:28:59,810 --> 00:29:02,040
+Só está a receber sangue venoso.
+
+532
+00:29:02,150 --> 00:29:04,600
+Vamos ver outra vez do outro lado.
+
+533
+00:29:05,120 --> 00:29:09,060
+Não sei. Acho que vejo...
+um pouco rosa, talvez.
+
+534
+00:29:09,670 --> 00:29:12,440
+Vá lá, vá lá.
+
+535
+00:29:15,590 --> 00:29:17,370
+Vá lá.
+
+536
+00:29:17,960 --> 00:29:20,160
+Vá lá, fica rosado.
+
+537
+00:29:21,510 --> 00:29:23,130
+Vá lá.
+
+538
+00:29:23,200 --> 00:29:25,930
+Fica rosado, fica rosado.
+
+539
+00:29:26,880 --> 00:29:29,570
+Vamos.
+
+540
+00:29:32,900 --> 00:29:35,280
+Sim. Parece bom.
+
+541
+00:29:35,340 --> 00:29:37,260
+Temos um rim vivo.
+
+542
+00:29:45,880 --> 00:29:48,630
+Vá lá.
+Estou a oferecer dois internos.
+
+543
+00:29:48,640 --> 00:29:50,290
+Dois internos pelo
+preço de um... Vá lá.
+
+544
+00:29:50,430 --> 00:29:51,690
+Troco a Laura por dois.
+
+545
+00:29:51,840 --> 00:29:53,640
+O Leo drena pus e gosta.
+
+546
+00:29:53,690 --> 00:29:58,640
+Deixei cair um órgão interno...
+no chão.
+
+547
+00:29:59,050 --> 00:30:01,440
+Acontece.
+
+548
+00:30:01,490 --> 00:30:02,500
+E que tal assim?
+
+549
+00:30:02,640 --> 00:30:05,610
+O quatro vai para o George.
+Eu fico com o James.
+
+550
+00:30:05,620 --> 00:30:08,070
+Karev, ficas com o dois.
+A Izzie dá o Leo.
+
+551
+00:30:08,080 --> 00:30:10,310
+O que estão a fazer?
+
+552
+00:30:12,180 --> 00:30:16,420
+Estamos só a decidir quais
+os internos a dar ao George.
+
+553
+00:30:16,530 --> 00:30:19,150
+Acham que eu pude
+escolher os meus internos,
+
+554
+00:30:19,190 --> 00:30:23,400
+e vos escolhi porque vocês são
+a equipa cirúrgica de sonho?
+
+555
+00:30:23,530 --> 00:30:26,210
+Tu és preguiçoso.
+Tu és choramingas.
+
+556
+00:30:26,250 --> 00:30:29,040
+Ali a mãos rotas está
+em constante depressão
+
+557
+00:30:29,180 --> 00:30:32,900
+e tu, Yang, tu és irritante.
+
+558
+00:30:32,910 --> 00:30:36,960
+A escolherem os próprios
+internos... o que...
+
+559
+00:30:38,970 --> 00:30:40,990
+Dêem-me esses cartões.
+
+560
+00:30:44,080 --> 00:30:47,210
+O'Malley... tens internos.
+
+561
+00:30:50,720 --> 00:30:52,500
+O que é?
+
+562
+00:30:55,980 --> 00:30:58,580
+Abra-lhe os fluidos.
+Karev, administra-lhe 1gr de magnésio.
+
+563
+00:30:58,710 --> 00:31:00,290
+Faz análises ao sangue
+e aos electrólitos.
+
+564
+00:31:00,370 --> 00:31:03,240
+Stevens, pede um Eco-Doppler a Cores
+e faz um exame neurológico geral.
+
+565
+00:31:03,420 --> 00:31:04,000
+Acha que há uma hemorragia?
+
+566
+00:31:04,120 --> 00:31:06,190
+Não há maneira de saber,
+até avaliarmos tudo.
+
+567
+00:31:06,210 --> 00:31:09,870
+Onde está... o P.J.?
+Onde está o meu filho?
+
+568
+00:31:14,070 --> 00:31:16,710
+É melhor que o Stan esteja morto.
+
+569
+00:31:16,920 --> 00:31:18,430
+Ele está bem.
+
+570
+00:31:18,570 --> 00:31:21,010
+Ele não ligou para o meu quarto.
+
+571
+00:31:21,020 --> 00:31:22,310
+Recoste-se.
+
+572
+00:31:22,470 --> 00:31:24,920
+Ele não perguntou por mim.
+
+573
+00:31:25,670 --> 00:31:28,550
+Já passaram três anos.
+
+574
+00:31:28,690 --> 00:31:34,280
+Doei um rim por causa dele e
+ele ainda não fez a sua escolha.
+
+575
+00:31:38,840 --> 00:31:43,440
+Ele não perguntou por si, nem ligou.
+
+576
+00:31:44,400 --> 00:31:47,270
+Acho que já fez a sua escolha.
+
+577
+00:31:48,020 --> 00:31:50,800
+Mas doei um rim por causa dele.
+
+578
+00:31:51,790 --> 00:31:54,580
+Eu doei um rim.
+
+579
+00:31:55,420 --> 00:31:57,230
+Meu Deus.
+
+580
+00:31:58,730 --> 00:32:00,910
+Meu Deus.
+
+581
+00:32:02,030 --> 00:32:04,200
+Meu Deus.
+
+582
+00:32:09,920 --> 00:32:12,500
+Meu, a enfermeira devia ter
+trazido o meu jantar há uma hora.
+
+583
+00:32:12,670 --> 00:32:14,880
+O teu pai acabou de ter
+uma convulsão.
+
+584
+00:32:16,550 --> 00:32:17,240
+O que significa isso?
+
+585
+00:32:17,360 --> 00:32:19,260
+Significa que algo não está bem.
+
+586
+00:32:19,630 --> 00:32:22,840
+Significa que pode estar a morrer e
+não sabe que tu não te importas.
+
+587
+00:32:22,880 --> 00:32:24,360
+Sinceramente, ele não sabe
+e talvez tu te importes,
+
+588
+00:32:24,530 --> 00:32:27,060
+mas se te importas, ele está a
+morrer e vai ser tarde demais.
+
+589
+00:32:27,070 --> 00:32:27,660
+Alex, pára.
+
+590
+00:32:27,700 --> 00:32:29,770
+Ele está a perguntar por ti e
+vais chegar tarde demais
+
+591
+00:32:29,890 --> 00:32:32,030
+e vais ter de viver com isso
+para o resto da tua vida!
+
+592
+00:32:32,130 --> 00:32:33,930
+Queres mesmo viver com isso?
+
+593
+00:32:34,000 --> 00:32:36,180
+- Queres?
+- Alex! Alex.
+
+594
+00:32:44,500 --> 00:32:47,890
+Então amanhã encontramo-nos,
+uma hora antes das pré-rondas.
+
+595
+00:32:48,050 --> 00:32:50,180
+Meu, isso é tipo, 4 da manhã!
+
+596
+00:32:50,290 --> 00:32:52,470
+A Dra. Stevens nunca nos fez
+vir antes das pré-rondas.
+
+597
+00:32:52,600 --> 00:32:55,390
+Pois, O'Malley,
+tens de descontrair.
+
+598
+00:32:58,680 --> 00:33:01,270
+Eles provavelmente
+deviam dizer Dr. O'Malley.
+
+599
+00:33:01,380 --> 00:33:03,080
+Então, estes são os teus internos?
+
+600
+00:33:03,110 --> 00:33:05,240
+- Pelo menos pediste para ser eu?
+- O quê?
+
+601
+00:33:05,250 --> 00:33:06,940
+Eu ajudei-te a estudar.
+
+602
+00:33:08,300 --> 00:33:10,500
+Ajudei a decorar
+o teu cacifo estúpido.
+
+603
+00:33:10,600 --> 00:33:15,740
+E tu nem... nem sequer reparaste.
+
+604
+00:33:15,910 --> 00:33:18,330
+Nunca reparas em nada.
+
+605
+00:33:19,950 --> 00:33:22,360
+Sou tão idiota.
+
+606
+00:33:24,840 --> 00:33:27,440
+E tu és um parvo.
+
+607
+00:33:27,490 --> 00:33:30,530
+Nem pensaste pedir
+para eu ser tua interna?
+
+608
+00:33:35,020 --> 00:33:38,490
+Vai-te lixar, Dr. O'Malley.
+
+609
+00:33:44,000 --> 00:33:46,405
+O Sr. Cross, o Sr. Patel,
+a Mna. Chen,
+
+610
+00:33:46,406 --> 00:33:48,810
+a Mna. Loring e o Sr. Mercer,
+estão estáveis.
+
+611
+00:33:48,820 --> 00:33:53,670
+Mas o Sr. Walling, tem atraso na função
+do enxerto e só Deus sabe o que mais.
+
+612
+00:33:53,760 --> 00:33:55,620
+Amanhã a imprensa vai
+estar em cima disto.
+
+613
+00:33:55,760 --> 00:33:58,090
+E eu preciso de ti disponível para
+as entrevistas e algumas fotografias.
+
+614
+00:33:58,200 --> 00:33:59,520
+Faz questão de usar umas
+boas batas.
+
+615
+00:33:59,610 --> 00:34:03,240
+Ouviu o que eu disse?
+O Sr. Walling tem sérias complicações.
+
+616
+00:34:03,250 --> 00:34:05,800
+Os electrólitos dele estão maus,
+os hematócritos estão baixos.
+
+617
+00:34:05,970 --> 00:34:07,660
+Mas salvaste outras cinco vidas.
+
+618
+00:34:07,700 --> 00:34:10,460
+É um resultado bastante bom.
+Não é perfeito, mas é bom.
+
+619
+00:34:18,770 --> 00:34:20,710
+Já lhe disse.
+Não quero ver o Stan.
+
+620
+00:34:20,750 --> 00:34:23,260
+Não vou levá-la a ver o Stan.
+
+621
+00:34:27,050 --> 00:34:31,890
+É ela. É a mulher
+que me doou o rim.
+
+622
+00:35:06,630 --> 00:35:07,750
+Como está ela?
+
+623
+00:35:07,850 --> 00:35:11,690
+Tenho estado atenta, mas até agora,
+está completamente estável.
+
+624
+00:35:13,190 --> 00:35:15,110
+Vem comigo.
+
+625
+00:35:22,380 --> 00:35:26,030
+Este homem está muito doente,
+talvez a morrer.
+
+626
+00:35:26,850 --> 00:35:32,120
+Tem um rim, perfeito e saudável
+que não caiu ao chão.
+
+627
+00:35:34,400 --> 00:35:39,630
+Mas há tanto em que podemos ajudar...
+e tanto em que podemos magoar.
+
+628
+00:35:41,030 --> 00:35:42,950
+Perdoa-te.
+
+629
+00:35:53,520 --> 00:35:55,560
+A hora das visitas acabou.
+
+630
+00:35:55,740 --> 00:35:57,660
+Não há problema.
+
+631
+00:36:27,260 --> 00:36:31,060
+A sua produção de urina está a
+25 cc/h, devia estar contente.
+
+632
+00:36:31,070 --> 00:36:33,050
+A minha mulher estaria contente.
+
+633
+00:36:34,550 --> 00:36:38,330
+Quem se vai importar com
+a minha produção de urina agora?
+
+634
+00:36:43,060 --> 00:36:46,040
+Bem, as coisas vão ser
+um pouco diferentes.
+
+635
+00:36:55,100 --> 00:36:58,460
+Dra. Bailey. Soube que a tua
+grande cirurgia de hoje correu bem.
+
+636
+00:36:58,470 --> 00:37:00,390
+- Parabéns.
+- Para ti também.
+
+637
+00:37:00,460 --> 00:37:03,870
+Deve ser bom ver o nosso
+nome assim publicado.
+
+638
+00:37:03,920 --> 00:37:06,190
+Seria melhor se a Meredith
+não fosse tão...
+
+639
+00:37:06,200 --> 00:37:09,580
+Ela está a ser tola por causa do crédito.
+Está a ser emotiva.
+
+640
+00:37:09,590 --> 00:37:12,920
+Ela esforçou-se muito por ti e tu
+ficaste com o crédito todo.
+
+641
+00:37:13,050 --> 00:37:14,945
+Eu ficava com a culpa
+toda se falhássemos.
+
+642
+00:37:14,950 --> 00:37:15,840
+Mas não falharam.
+
+643
+00:37:15,870 --> 00:37:18,900
+É simples. Eu sou um assistente.
+Ela é uma residente do 2ºano.
+
+644
+00:37:18,910 --> 00:37:22,240
+Com quem vives agora. Não é
+assim tão simples. É complicado.
+
+645
+00:37:22,280 --> 00:37:24,950
+Se fosse eu, começava com
+um "obrigado".
+
+646
+00:37:25,080 --> 00:37:27,000
+Ficavas surpreendido com
+o efeito que isso tem,
+
+647
+00:37:27,050 --> 00:37:30,000
+em especial connosco,
+mulheres tolas e emocionais.
+
+648
+00:37:35,670 --> 00:37:38,360
+- O Derek disse que eu era um bebé.
+- O quê?
+
+649
+00:37:38,420 --> 00:37:40,880
+E que tinha muito que aprender.
+
+650
+00:37:40,930 --> 00:37:42,330
+Tanto faz.
+
+651
+00:37:42,490 --> 00:37:43,700
+Não é tanto faz.
+Ele tem razão.
+
+652
+00:37:43,760 --> 00:37:46,930
+Deixei cair um rim e não digas
+que acontece, porque não acontece.
+
+653
+00:37:46,940 --> 00:37:48,580
+Mas detesto quando ele tem razão.
+
+654
+00:37:48,760 --> 00:37:50,700
+Não, ele não tem razão.
+
+655
+00:37:50,790 --> 00:37:54,250
+Pára de te preocupares tanto com o que
+ele pensa. Faz-te parecer desesperada.
+
+656
+00:37:54,255 --> 00:37:57,130
+Olha quem fala.
+Tu que andas à pesca de internos.
+
+657
+00:37:57,270 --> 00:37:58,800
+Pois, mudei de ideias.
+
+658
+00:37:58,930 --> 00:38:01,310
+Os internos são fracos.
+Não quero fracos.
+
+659
+00:38:03,030 --> 00:38:05,130
+O Burke era um homem.
+
+660
+00:38:07,900 --> 00:38:10,210
+Ele era um homem.
+
+661
+00:38:13,190 --> 00:38:14,600
+Joe.
+
+662
+00:38:14,650 --> 00:38:17,760
+Acho que precisamos
+de outra rodada.
+
+663
+00:38:19,410 --> 00:38:20,620
+Olá, Joe.
+Como estás?
+
+664
+00:38:20,630 --> 00:38:22,060
+Com licença.
+
+665
+00:38:23,930 --> 00:38:26,980
+- Isto é para mim?
+- Sim.
+
+666
+00:38:27,070 --> 00:38:30,210
+Olá, querida. Comprei-te rosas.
+Deixa-me voltar para casa.
+
+667
+00:38:32,170 --> 00:38:34,180
+- Não.
+- Sim.
+
+668
+00:38:34,400 --> 00:38:36,080
+Santo Deus, o que raio é essa coisa?
+
+669
+00:38:36,120 --> 00:38:37,590
+É um rim num frasco.
+
+670
+00:38:37,730 --> 00:38:39,510
+Não é justo.
+Como é que arranjaste isto?
+
+671
+00:38:39,540 --> 00:38:41,775
+Bem, ser um neurocirurgião
+incrivelmente importante e elogiado,
+
+672
+00:38:41,780 --> 00:38:43,430
+tem os seus privilégios.
+
+673
+00:38:43,580 --> 00:38:45,230
+Obrigada.
+
+674
+00:38:46,520 --> 00:38:51,130
+Não teria conseguido sem ti,
+nem uma cirurgia, nem um paciente.
+
+675
+00:38:52,070 --> 00:38:55,380
+Sem ti não teria conseguido
+fazer nada. Obrigado.
+
+676
+00:38:55,385 --> 00:38:57,525
+Pois, podiam ir embora e levar
+esta coisa daqui para fora
+
+677
+00:38:57,530 --> 00:38:58,830
+antes que as pessoas
+se comecem a passar?
+
+678
+00:38:58,940 --> 00:39:00,650
+- Está bem.
+- Está bem.
+
+679
+00:39:01,400 --> 00:39:04,150
+- Vais ficar bem?
+- Sim, sim, podes ir.
+
+680
+00:39:04,155 --> 00:39:05,110
+Tudo bem. Boa noite.
+
+681
+00:39:05,180 --> 00:39:06,300
+- Boa noite.
+- Boa noite, Joe.
+
+682
+00:39:06,305 --> 00:39:08,135
+<i>O escolher equipas na vida real</i>
+
+683
+00:39:08,750 --> 00:39:12,480
+<i>não tem nada a ver com o que era
+na aula de educação física.</i>
+
+684
+00:39:17,480 --> 00:39:20,130
+<i>Ser a primeira escolha
+pode ser assustador.</i>
+
+685
+00:39:20,300 --> 00:39:22,020
+Tira as calças.
+
+686
+00:39:22,150 --> 00:39:27,080
+- Desculpa?
+- Tira... as calças.
+
+687
+00:39:27,800 --> 00:39:30,130
+Vamos tentar isto novamente.
+
+688
+00:39:39,540 --> 00:39:44,290
+<i>E ser escolhido em último...
+não é a pior coisa do mundo.</i>
+
+689
+00:39:44,350 --> 00:39:46,100
+O que é?
+
+690
+00:39:47,300 --> 00:39:49,430
+Gosto de ti.
+
+691
+00:39:50,310 --> 00:39:56,280
+Gosto de ti e não vou ficar doida
+e não vou tentar matar-me,
+
+692
+00:39:56,430 --> 00:40:01,310
+e não vou parar de me preocupar contigo,
+não interessa o quão me tentes afastar.
+
+693
+00:40:01,420 --> 00:40:03,640
+- Cala-te e sai do meu quarto.
+- Não.
+
+694
+00:40:05,180 --> 00:40:07,060
+Gosto de ti.
+
+695
+00:40:07,190 --> 00:40:11,000
+E sei que também gostas de mim.
+Não é demasiado tarde para nós.
+
+696
+00:40:11,080 --> 00:40:13,040
+- Sai do meu quarto.
+- Admite.
+
+697
+00:40:13,740 --> 00:40:17,100
+Admite que também gostas de mim.
+Eu sei que sim.
+
+698
+00:40:17,580 --> 00:40:19,560
+E eu gosto de ti.
+
+699
+00:40:20,440 --> 00:40:22,490
+Gosto de ti.
+
+700
+00:40:23,220 --> 00:40:25,540
+Gosto de ti. Gosto de ti.
+
+701
+00:40:25,820 --> 00:40:26,980
+Gosto de ti.
+
+702
+00:40:30,280 --> 00:40:33,440
+<i>Então vemos da linha lateral,</i>
+
+703
+00:40:33,690 --> 00:40:36,340
+<i>agarrados ao nosso isolamento...</i>
+
+704
+00:40:38,770 --> 00:40:41,460
+- Brilha.
+- Sim.
+
+705
+00:40:45,830 --> 00:40:50,040
+Quando a minha mãe era residente,
+ela não deixava cair rins.
+
+706
+00:40:50,080 --> 00:40:52,630
+- Andas a ler o diário da tua mãe?
+- Sim.
+
+707
+00:40:53,740 --> 00:40:56,940
+Não sou metade da cirurgiã
+que a minha mãe era.
+
+708
+00:41:06,300 --> 00:41:10,200
+<i>Porque sabemos que assim
+que sairmos do banco...</i>
+
+709
+00:41:10,340 --> 00:41:11,640
+O quê? Já vais embora?
+
+710
+00:41:11,710 --> 00:41:14,710
+Não sobra um homem de
+verdade no mundo, Joe.
+
+711
+00:41:14,790 --> 00:41:16,710
+- Adeus.
+- Pois.
+
+712
+00:41:17,050 --> 00:41:20,120
+Um shot e uma cerveja.
+Uísque.
+
+713
+00:41:20,690 --> 00:41:24,220
+Sabe que mais? É melhor ser só a cerveja.
+Começo a trabalhar amanhã.
+
+714
+00:41:24,260 --> 00:41:28,180
+<i>Aparece alguém e modifica
+completamente o jogo.</i>
+
+715
+00:41:28,190 --> 00:41:29,405
+<i>Traduzido por:</i>
+calipigia, Cerelac,
+
+716
+00:41:29,406 --> 00:41:30,620
+deophanto, FTaipas,
+Luisadom, Pipocas, trophyvitor
+
+717
+00:41:30,850 --> 00:41:32,910
+<i>Revisto por:</i> Luisadom
+
+

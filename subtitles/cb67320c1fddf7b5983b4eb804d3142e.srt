@@ -1,0 +1,6290 @@
+
+1
+00:00:34,493 --> 00:00:36,735
+<i>Lumos Maxima!</i>
+
+2
+00:00:39,040 --> 00:00:41,791
+<i>Lumos Maxima!</i>
+
+3
+00:01:02,413 --> 00:01:03,975
+<i>Lumos Maxima!</i>
+
+4
+00:01:06,138 --> 00:01:07,879
+<i>Lumos Maxima!</i>
+
+5
+00:01:09,862 --> 00:01:11,445
+<i>Lumos Maxima!</i>
+
+6
+00:01:14,493 --> 00:01:17,659
+<i>HARRY POTTER
+E O PRISIONEIRO DE AZKABAN</i>
+
+7
+00:01:40,979 --> 00:01:42,555
+<i>Harry!</i>
+
+8
+00:01:42,555 --> 00:01:44,722
+<i>Harry, abre a porta!</i>
+
+9
+00:01:51,614 --> 00:01:53,939
+<i>Marge, mas que praz...</i>
+
+10
+00:01:54,158 --> 00:01:57,528
+Tio Vernon,
+preciso que me assine isto.
+
+11
+00:01:57,528 --> 00:01:59,032
+O que é?
+
+12
+00:01:59,032 --> 00:02:01,329
+Nada.
+São coisas da escola.
+
+13
+00:02:01,329 --> 00:02:04,169
+Talvez mais tarde.
+Se te portares bem...
+
+14
+00:02:04,169 --> 00:02:06,543
+Porto-me, se ela também se portar.
+
+15
+00:02:06,543 --> 00:02:09,833
+- Então ainda aqui vives?
+- Sim.
+
+16
+00:02:10,258 --> 00:02:12,880
+Não digas "Sim" nesse tom tão ingrato!
+
+17
+00:02:12,880 --> 00:02:15,010
+O meu irmão foi um santo em acolher-te!
+
+18
+00:02:15,010 --> 00:02:19,510
+Se o tivessem largado à minha porta,
+tinha ido direitinho para o orfanato!
+
+19
+00:02:19,510 --> 00:02:24,062
+É o meu Dudders?
+É o meu sobrinhozinho lindo?
+
+20
+00:02:24,062 --> 00:02:26,023
+Dá cá uma beijoca!
+
+21
+00:02:26,023 --> 00:02:28,481
+Leva a mala da Marge para cima!
+
+22
+00:02:33,992 --> 00:02:36,861
+Acaba isso para a Mamã ficar contente.
+Muito lindo, Rippyzinho...
+
+23
+00:02:37,870 --> 00:02:40,824
+- Posso tentar-te?
+- Só um copinho.
+
+24
+00:02:41,040 --> 00:02:43,994
+Excelente petisco, Petúnia.
+
+25
+00:02:44,585 --> 00:02:46,578
+Mais um pouquinho.
+
+26
+00:02:47,130 --> 00:02:50,416
+Geralmente frito qualquer coisa para
+comer, com aquela dúzia de cães...!
+
+27
+00:02:50,633 --> 00:02:53,207
+Mais um bocadinho.
+Lindo menino...
+
+28
+00:02:56,306 --> 00:02:58,299
+Queres provar o brandy?
+
+29
+00:02:58,299 --> 00:03:02,520
+Uma gotinha de brandy
+para o meu Rippyzinho lindo?
+
+30
+00:03:04,022 --> 00:03:05,813
+Que sorrisinho é esse?
+
+31
+00:03:05,813 --> 00:03:07,809
+Para onde mandaste o rapaz?
+
+32
+00:03:08,026 --> 00:03:11,312
+Para Saint Brutus. É uma bela
+instituição para casos perdidos.
+
+33
+00:03:11,312 --> 00:03:14,489
+Usam a chibata lá?
+
+34
+00:03:19,497 --> 00:03:22,166
+Fui vergastado montes de vezes!
+
+35
+00:03:22,166 --> 00:03:24,907
+Excelente.
+Não acho disparate nenhum
+
+36
+00:03:25,128 --> 00:03:28,248
+bater em quem o merece.
+
+37
+00:03:28,248 --> 00:03:31,542
+Mas não deves censurar-te
+pelo rumo que o rapaz tomou.
+
+38
+00:03:31,542 --> 00:03:35,632
+Tem tudo que ver com o sangue.
+A ruindade acaba sempre por vencer.
+
+39
+00:03:35,632 --> 00:03:37,963
+Que fazia o pai do rapaz,
+Petúnia?
+
+40
+00:03:37,963 --> 00:03:41,142
+Não trabalhava,
+estava desempregado.
+
+41
+00:03:41,142 --> 00:03:44,146
+- E de certeza, bebia...
+- Isso é mentira.
+
+42
+00:03:44,146 --> 00:03:46,852
+- Que disseste?
+- O meu pai não era bêbedo!
+
+43
+00:03:49,861 --> 00:03:53,942
+Não te preocupes. Deixa, Petúnia.
+Tenho muita força nas mãos.
+
+44
+00:03:53,942 --> 00:03:55,943
+São horas de ires para a cama.
+
+45
+00:03:55,943 --> 00:03:59,367
+Cala-te, Vernon.
+Tu. limpa isto.
+
+46
+00:04:00,747 --> 00:04:03,748
+Por acaso...
+Não tem que ver com o pai.
+
+47
+00:04:03,959 --> 00:04:07,708
+A mãe é que determina.
+Acontece sempre com os cães.
+
+48
+00:04:07,708 --> 00:04:11,925
+Se a cadela não presta,
+os cachorros saem defeituosos.
+
+49
+00:04:12,134 --> 00:04:13,794
+Cale-se, cale-se!
+
+50
+00:04:20,727 --> 00:04:22,850
+Fica sabendo que...
+
+51
+00:04:44,293 --> 00:04:46,416
+Vernon!
+
+52
+00:04:49,465 --> 00:04:51,255
+Vernon, faz qualquer coisa!
+
+53
+00:05:34,719 --> 00:05:36,712
+Pára!
+
+54
+00:05:39,308 --> 00:05:41,846
+Agarrei-te, Marge!
+
+55
+00:05:48,567 --> 00:05:50,358
+- Não te atrevas...!
+- Desculpa...
+
+56
+00:05:55,491 --> 00:05:57,282
+Marge!
+
+57
+00:06:04,333 --> 00:06:06,540
+Por favor!
+
+58
+00:06:37,618 --> 00:06:40,025
+Trá-la de volta!
+Trá-la já de volta
+
+59
+00:06:40,025 --> 00:06:43,453
+e põe-na como estava!
+- Não. Ela mereceu o que lhe aconteceu!
+
+60
+00:06:43,915 --> 00:06:47,035
+- Afaste-se de mim!
+- Não podes fazer magia fora da escola!
+
+61
+00:06:47,252 --> 00:06:50,253
+- Ai não? Experimente.
+- Não te vão aceitar,
+
+62
+00:06:50,253 --> 00:06:51,751
+ficarás na rua.
+
+63
+00:06:51,751 --> 00:06:54,249
+Não me interessa.
+Tudo é preferível a isto.
+
+64
+00:08:30,400 --> 00:08:32,227
+"Bem-vindo ao Autocarro Cavaleiro,
+
+65
+00:08:32,227 --> 00:08:35,771
+transporte de emergência
+para bruxas ou feiticeiros desapeados.
+
+66
+00:08:35,771 --> 00:08:40,906
+O meu nome é Stan Shunpike
+e sou o revisor esta noite."
+
+67
+00:08:44,665 --> 00:08:46,076
+Que fazes aí sentado?
+
+68
+00:08:46,834 --> 00:08:48,993
+- Caí.
+- Caíste de onde?
+
+69
+00:08:49,212 --> 00:08:51,881
+- Não fiz de propósito!
+- Anda lá, vá!
+
+70
+00:08:51,881 --> 00:08:54,247
+Não vamos ficar aqui eternamente...
+
+71
+00:09:01,391 --> 00:09:04,427
+- Para onde estás a olhar?
+- Nada...
+
+72
+00:09:04,427 --> 00:09:06,346
+Entra lá, então!
+
+73
+00:09:06,346 --> 00:09:09,356
+Deixa, eu levo isto.
+Entra, vá.
+
+74
+00:09:26,416 --> 00:09:29,168
+Avança, avança...
+
+75
+00:09:43,935 --> 00:09:47,184
+- Arranca, Ern!
+- Isso, arranca, Ernie!
+
+76
+00:09:47,184 --> 00:09:49,596
+Solavancos não vão faltar!
+
+77
+00:10:00,285 --> 00:10:03,571
+- Como disseste que te chamas?
+- Não disse.
+
+78
+00:10:04,164 --> 00:10:05,362
+Para onde queres ir?
+
+79
+00:10:05,362 --> 00:10:08,251
+Para o Caldeirão Escoante.
+Fica em Londres.
+
+80
+00:10:08,460 --> 00:10:11,378
+Ouviste, Ern? "Para o Caldeirão
+Escoante. Fica em Londres."
+
+81
+00:10:11,378 --> 00:10:13,871
+Se pedires sopa de ervilha,
+
+82
+00:10:13,871 --> 00:10:16,836
+come-a depressa,
+antes que ela te coma.
+
+83
+00:10:20,263 --> 00:10:22,885
+Mas, os Muggles!
+Eles não nos vêem?
+
+84
+00:10:22,885 --> 00:10:24,802
+Os Muggles não vêem nada!
+
+85
+00:10:24,802 --> 00:10:27,515
+Pois não, mas se os espetares
+com um garfo, sentem-no!
+
+86
+00:10:29,273 --> 00:10:32,310
+Cuidado aí com a velhota!
+
+87
+00:10:41,076 --> 00:10:43,614
+Dez, nove, oito,
+
+88
+00:10:43,829 --> 00:10:46,534
+sete, seis, cinco...
+
+89
+00:10:46,749 --> 00:10:48,991
+quatro, três,
+três e meio...
+
+90
+00:10:49,210 --> 00:10:51,002
+dois,
+um e três quartos...
+
+91
+00:10:57,511 --> 00:10:58,886
+Quem é esse?
+
+92
+00:10:59,096 --> 00:11:01,468
+Este homem aí...
+
+93
+00:11:03,142 --> 00:11:04,933
+Quem é este?!
+
+94
+00:11:05,144 --> 00:11:06,638
+Quem é...?
+
+95
+00:11:06,854 --> 00:11:09,225
+É o Sirius Black.
+
+96
+00:11:09,814 --> 00:11:13,065
+Não me digas que nunca
+ouviste falar do Sirius Black!
+
+97
+00:11:14,361 --> 00:11:16,650
+É um assassino!
+
+98
+00:11:16,650 --> 00:11:19,443
+Por causa disso,
+prenderam-no em Azkaban!
+
+99
+00:11:20,117 --> 00:11:23,533
+- E como é que fugiu?
+- Aí é que está o grande mistério!
+
+100
+00:11:23,533 --> 00:11:25,662
+Foi o primeiro a consegui-lo.
+
+101
+00:11:26,624 --> 00:11:29,246
+Era um grande apoiante de...
+
+102
+00:11:29,752 --> 00:11:31,247
+... "Quem nós sabemos".
+
+103
+00:11:31,963 --> 00:11:33,837
+Imagino que já tenhas
+ouvido falar dele.
+
+104
+00:11:33,837 --> 00:11:35,584
+Sim...
+
+105
+00:11:35,584 --> 00:11:37,086
+Desse já ouvi falar.
+
+106
+00:11:39,762 --> 00:11:42,432
+Ernie, vêm aí
+dois autocarros de dois andares!
+
+107
+00:11:42,932 --> 00:11:44,592
+Estão cada vez mais próximos!
+
+108
+00:11:45,393 --> 00:11:47,635
+Ernie, estão mesmo
+em cima de nós!
+
+109
+00:11:55,028 --> 00:11:57,436
+Cuidado com a cabeça.
+
+110
+00:12:02,327 --> 00:12:04,284
+Pessoal, pessoal?
+
+111
+00:12:04,496 --> 00:12:06,654
+Que carões são esses?
+
+112
+00:12:12,504 --> 00:12:14,912
+Estamos quase...
+
+113
+00:12:20,388 --> 00:12:23,757
+- O Caldeirão Escoante!
+- Próxima paragem, Rua Bativolta.
+
+114
+00:12:25,101 --> 00:12:27,771
+Sr. Potter, finalmente!
+
+115
+00:12:30,773 --> 00:12:33,478
+- Arranca, Ern!
+- Isso mesmo! Arranca, Ernie!
+
+116
+00:13:01,096 --> 00:13:02,424
+Hedwig!
+
+117
+00:13:02,424 --> 00:13:05,433
+Tem aqui uma ave muito esperta,
+Sr. Potter.
+
+118
+00:13:05,433 --> 00:13:09,302
+Chegou cinco minutos
+antes do senhor.
+
+119
+00:13:11,232 --> 00:13:14,850
+Como Ministro da Magia,
+é meu dever informá-lo, Sr. Potter,
+
+120
+00:13:14,850 --> 00:13:18,231
+que no início desta noite,
+a irmã do seu tio foi avistada
+
+121
+00:13:18,231 --> 00:13:22,355
+um pouco a Sul de Sheffield,
+contornando uma chaminé.
+
+122
+00:13:22,355 --> 00:13:24,942
+O Departamento de Reparação de
+Acidentes Mágicos
+
+123
+00:13:24,942 --> 00:13:26,277
+mandou logo lá alguém.
+
+124
+00:13:26,277 --> 00:13:31,248
+A sua tia foi devidamente perfurada
+e a memória foi modificada.
+
+125
+00:13:31,461 --> 00:13:36,123
+Não terá qualquer recordação
+do incidente.
+
+126
+00:13:36,123 --> 00:13:38,873
+Problema resolvido.
+
+127
+00:13:38,873 --> 00:13:41,923
+E ninguém se magoou.
+
+128
+00:13:42,598 --> 00:13:43,926
+Uma sopa de ervilhas?
+
+129
+00:13:43,926 --> 00:13:46,222
+Não, obrigado.
+
+130
+00:13:46,222 --> 00:13:48,600
+- Sr. Ministro?
+- Sim?
+
+131
+00:13:48,600 --> 00:13:50,513
+Não compreendo.
+
+132
+00:13:50,730 --> 00:13:54,265
+Transgredi a lei. Os feiticeiros menores
+não podem praticar magia em casa.
+
+133
+00:13:54,484 --> 00:13:57,485
+O Ministério não manda pessoas
+para Azkaban
+
+134
+00:13:57,485 --> 00:14:00,193
+por insuflar uma tia.
+
+135
+00:14:04,161 --> 00:14:08,705
+Por outro lado, fugir assim de casa,
+dado o estado das coisas...
+
+136
+00:14:08,705 --> 00:14:11,330
+... foi muitíssimo irresponsável.
+
+137
+00:14:11,544 --> 00:14:15,329
+- "O estado das coisas", senhor?
+- Há um assassino à solta.
+
+138
+00:14:15,329 --> 00:14:17,333
+Refere-se ao Sirius Black?
+
+139
+00:14:17,333 --> 00:14:19,251
+Que tem isso que ver comigo?
+
+140
+00:14:21,554 --> 00:14:26,382
+Nada, claro! Está em segurança.
+É isso que importa.
+
+141
+00:14:26,601 --> 00:14:29,721
+E amanhã, partirá para Hogwarts.
+
+142
+00:14:29,721 --> 00:14:32,850
+Tem aqui os novos livros.
+Tomei a liberdade
+
+143
+00:14:32,850 --> 00:14:37,023
+de pedir que os enviassem para cá.
+O Tom leva-o ao seu quarto.
+
+144
+00:14:41,826 --> 00:14:43,153
+Hedwig...
+
+145
+00:14:43,493 --> 00:14:48,405
+A propósito, Harry, enquanto aqui
+estiver, seria melhor que não...
+
+146
+00:14:48,707 --> 00:14:51,163
+... deambulasse.
+
+147
+00:15:12,481 --> 00:15:15,055
+<i>O Monstruoso Livro De
+MONSTROS</i>
+
+148
+00:16:14,420 --> 00:16:16,460
+Limpeza!
+
+149
+00:16:19,885 --> 00:16:22,127
+<i>Volto mais tarde.</i>
+
+150
+00:16:29,729 --> 00:16:31,138
+<i>Ficas avisada, Hermione!</i>
+
+151
+00:16:31,138 --> 00:16:35,013
+<i>Afasta bem a tua fera do Scabbers,
+senão transformo-o num abafador!</i>
+
+152
+00:16:35,013 --> 00:16:37,268
+<i>É um gato, Ronald.
+Que queres que faça?</i>
+
+153
+00:16:37,268 --> 00:16:40,445
+- Faz parte da natureza dele!
+- Um gato?! Foi isso que te disseram?
+
+154
+00:16:40,445 --> 00:16:43,152
+- Parece um porco com pêlo!
+- Grande lata,
+
+155
+00:16:43,152 --> 00:16:45,864
+tu que tens essa escova
+para sapatos velhos e fedorentos!
+
+156
+00:16:45,864 --> 00:16:48,444
+Deixa estar, Crookshanks.
+Não ligues, ele é mauzão.
+
+157
+00:16:48,977 --> 00:16:49,508
+Harry!
+
+158
+00:16:50,929 --> 00:16:52,242
+Harry!
+
+159
+00:16:53,920 --> 00:16:57,005
+- Que tal é o Egipto?
+- Demais! Montes de cenas antigas,
+
+160
+00:16:57,215 --> 00:17:00,548
+tipo múmias, túmulos!
+Até o Scabbers se divertiu!
+
+161
+00:17:00,760 --> 00:17:03,927
+- Os egípcios veneravam gatos.
+- E escaravelhos do cocó...
+
+162
+00:17:03,927 --> 00:17:07,263
+- Estás outra vez a mostrar o recorte?
+- Não o mostrei a ninguém!
+
+163
+00:17:07,263 --> 00:17:09,841
+A ninguém mesmo!
+Se excluirmos o Tom...
+
+164
+00:17:09,841 --> 00:17:11,430
+- A empregada de dia...
+- A empregada de noite...
+
+165
+00:17:11,430 --> 00:17:13,728
+- O cozinheiro...
+- O tipo que arranjou a retrete...
+
+166
+00:17:13,728 --> 00:17:15,310
+- E o feiticeiro da Bélgica.
+- Sra. Weasley!
+
+167
+00:17:15,310 --> 00:17:17,642
+É bom ver-te, querido.
+
+168
+00:17:17,642 --> 00:17:19,148
+Tens tudo o que precisas?
+
+169
+00:17:19,148 --> 00:17:21,480
+- Os livros todos...?
+- Está tudo lá em cima.
+
+170
+00:17:21,480 --> 00:17:23,068
+E a roupa?
+
+171
+00:17:23,068 --> 00:17:24,652
+Lindo menino...
+
+172
+00:17:24,652 --> 00:17:26,700
+- Harry Potter!
+- Sr. Weasley.
+
+173
+00:17:26,700 --> 00:17:30,369
+- Harry, posso dar-te uma palavrinha?
+- Claro.
+
+174
+00:17:30,582 --> 00:17:33,204
+- Hermione...
+- Bom dia, Sr. Weasley.
+
+175
+00:17:33,204 --> 00:17:36,995
+- Com vontade de voltar à escola?
+- Sim, vai ser óptimo.
+
+176
+00:17:40,092 --> 00:17:43,925
+Há pessoas no Ministério
+que me desaconselhariam fortemente
+
+177
+00:17:43,925 --> 00:17:46,766
+de divulgar aquilo que te vou revelar,
+
+178
+00:17:46,766 --> 00:17:50,267
+mas acho que tens
+de tomar conhecimento disto.
+
+179
+00:17:50,267 --> 00:17:53,009
+Corres perigo.
+
+180
+00:17:53,689 --> 00:17:56,145
+Muito perigo.
+
+181
+00:17:56,651 --> 00:17:59,272
+Tem alguma relação
+com o Sirius Black?
+
+182
+00:18:00,113 --> 00:18:02,485
+Que sabes sobre ele?
+
+183
+00:18:02,485 --> 00:18:06,358
+- Sei que fugiu de Azkaban.
+- E sabes porquê?
+
+184
+00:18:07,079 --> 00:18:09,866
+Há 13 anos, quando venceste...
+
+185
+00:18:09,866 --> 00:18:11,867
+- O Voldemort.
+- Não digas o nome dele.
+
+186
+00:18:11,867 --> 00:18:13,371
+Desculpe.
+
+187
+00:18:13,371 --> 00:18:16,461
+Quando tu venceste
+"Quem nós sabemos",
+
+188
+00:18:16,461 --> 00:18:18,254
+o Black perdeu tudo,
+
+189
+00:18:18,254 --> 00:18:22,717
+mas ainda hoje,
+continua a ser um servo fiel.
+
+190
+00:18:22,717 --> 00:18:25,045
+E no entender dele,
+
+191
+00:18:25,045 --> 00:18:28,223
+és a única coisa que impede...
+
+192
+00:18:28,223 --> 00:18:32,141
+... "Quem nós sabemos"
+de recuperar o seu poder.
+
+193
+00:18:32,141 --> 00:18:34,471
+E foi por isso...
+
+194
+00:18:34,471 --> 00:18:37,187
+... que ele fugiu de Azkaban.
+
+195
+00:18:37,527 --> 00:18:39,235
+Para te encontrar.
+
+196
+00:18:40,697 --> 00:18:42,321
+E para me matar.
+
+197
+00:18:43,283 --> 00:18:45,951
+Harry, jura-me que
+ouças o que ouvires,
+
+198
+00:18:45,951 --> 00:18:48,656
+não vais à procura do Black.
+
+199
+00:18:50,540 --> 00:18:54,538
+Por que haveria eu de ir procurar
+uma pessoa que me quer matar?
+
+200
+00:18:57,740 --> 00:18:58,943
+Ron!
+Ron!
+
+201
+00:19:00,309 --> 00:19:01,529
+Por amor de Deus!
+
+202
+00:19:02,094 --> 00:19:04,549
+Não o percas!
+
+203
+00:19:05,597 --> 00:19:07,674
+Não queria fazê-la inchar,
+
+204
+00:19:07,674 --> 00:19:10,306
+mas descontrolei-me.
+- Brilhante!
+
+205
+00:19:10,306 --> 00:19:14,060
+Sinceramente, Ron, não tem piada.
+Foi uma sorte o Harry não ser expulso.
+
+206
+00:19:14,060 --> 00:19:15,974
+Tive sorte em não ser preso.
+
+207
+00:19:15,974 --> 00:19:18,189
+Mesmo assim, acho demais!
+
+208
+00:19:18,777 --> 00:19:21,103
+Ficamos aqui,
+o resto está tudo cheio.
+
+209
+00:19:23,949 --> 00:19:25,325
+Quem será este?
+
+210
+00:19:25,325 --> 00:19:28,363
+- É o Professor R.J. Lupin.
+- Sabes tudo?
+
+211
+00:19:28,363 --> 00:19:30,661
+Como é possível
+que ela saiba sempre tudo?!
+
+212
+00:19:30,661 --> 00:19:33,952
+Está na etiqueta da mala, Ronald.
+
+213
+00:19:34,252 --> 00:19:37,538
+- Estará mesmo a dormir?
+- Parece estar. Porquê?
+
+214
+00:19:39,256 --> 00:19:41,379
+Tenho uma coisa para vos contar.
+
+215
+00:19:54,606 --> 00:19:57,940
+Deixa ver se percebi... O Sirius Black
+fugiu de Azkaban
+
+216
+00:19:57,940 --> 00:19:59,937
+para te procurar?
+
+217
+00:19:59,937 --> 00:20:02,105
+Mas eles vão apanhá-lo, não vão?
+
+218
+00:20:02,105 --> 00:20:04,986
+- Quem dizer, anda tudo à procura dele.
+- Claro!
+
+219
+00:20:04,986 --> 00:20:08,492
+Só que nunca ninguém
+conseguiu fugir de Azkaban
+
+220
+00:20:08,492 --> 00:20:12,660
+e ele é um assassino louco e desvairado.
+- Obrigadinho, Ron.
+
+221
+00:20:14,126 --> 00:20:15,751
+Por que parámos?
+
+222
+00:20:16,795 --> 00:20:18,539
+Ainda não chegámos.
+
+223
+00:20:22,802 --> 00:20:25,008
+Que se passa?
+
+224
+00:20:25,221 --> 00:20:27,891
+Não sei.
+Talvez seja uma avaria.
+
+225
+00:20:29,809 --> 00:20:32,135
+Pisaste-me!
+
+226
+00:20:33,020 --> 00:20:34,929
+Vejo ali movimento!
+
+227
+00:20:48,537 --> 00:20:51,573
+Acho que entrou alguém.
+
+228
+00:21:16,774 --> 00:21:19,645
+C'os diabos, que se passa?!
+
+229
+00:22:26,130 --> 00:22:26,880
+<i>Harry!</i>
+
+230
+00:22:31,935 --> 00:22:33,346
+<i>Harry!</i>
+
+231
+00:22:34,437 --> 00:22:36,264
+<i>Harry, estás bem?</i>
+
+232
+00:22:42,446 --> 00:22:44,106
+Obrigado.
+
+233
+00:22:45,282 --> 00:22:47,737
+Toma, come isto.
+Faz-te bem.
+
+234
+00:22:48,243 --> 00:22:50,366
+Não tenhas medo, é chocolate.
+
+235
+00:22:56,669 --> 00:22:58,745
+O que era aquela coisa?
+
+236
+00:22:58,745 --> 00:23:02,337
+Era um dementor, um guarda
+de Azkaban, mas já se foi embora.
+
+237
+00:23:02,337 --> 00:23:05,213
+Estava a revistar o comboio
+à procura de Sirius Black.
+
+238
+00:23:05,213 --> 00:23:09,005
+Se me dão licença,
+tenho de falar com o maquinista.
+
+239
+00:23:13,603 --> 00:23:16,520
+Come.
+Verás que te sentes melhor.
+
+240
+00:23:22,320 --> 00:23:23,648
+Que me aconteceu?
+
+241
+00:23:23,648 --> 00:23:25,565
+Ficaste todo teso.
+
+242
+00:23:25,565 --> 00:23:28,907
+Julgámos que estavas a ter um ataque.
+
+243
+00:23:30,662 --> 00:23:32,454
+E algum de vocês...
+
+244
+00:23:34,124 --> 00:23:35,156
+... desmaiou?
+
+245
+00:23:37,378 --> 00:23:39,086
+Eu senti-me esquisito.
+
+246
+00:23:39,086 --> 00:23:41,082
+Como se nunca mais
+pudesse sentir-me feliz.
+
+247
+00:23:42,340 --> 00:23:44,547
+Mas alguém gritou.
+
+248
+00:23:44,547 --> 00:23:46,093
+Uma mulher.
+
+249
+00:23:47,054 --> 00:23:49,046
+Ninguém gritou, Harry.
+
+250
+00:24:48,242 --> 00:24:51,991
+Bem-vindos a mais um ano
+em Hogwarts!
+
+251
+00:24:52,205 --> 00:24:54,244
+Queria dizer-vos umas palavras
+
+252
+00:24:54,244 --> 00:24:58,745
+antes que fiquemos todos entorpecidos
+por este magnífico banquete.
+
+253
+00:24:58,745 --> 00:25:02,170
+Antes de mais, tenho o prazer de dar
+as boas-vindas ao Professor R.J. Lupin,
+
+254
+00:25:02,381 --> 00:25:04,789
+que simpaticamente aceitou
+preencher a vaga
+
+255
+00:25:05,009 --> 00:25:07,465
+na disciplina de Defesa
+Contra as Artes das Trevas.
+
+256
+00:25:07,465 --> 00:25:10,175
+Boa sorte, Professor.
+
+257
+00:25:14,769 --> 00:25:18,103
+Foi por isso
+que ele te deu o chocolate!
+
+258
+00:25:18,103 --> 00:25:20,943
+É verdade que desmaiaste?
+
+259
+00:25:21,777 --> 00:25:24,778
+- Desmaiaste mesmo?!
+- Desampara, Malfoy!
+
+260
+00:25:24,778 --> 00:25:26,940
+- Como é que ele descobriu?
+- Esquece.
+
+261
+00:25:26,940 --> 00:25:29,487
+O professor da disciplina de Cuidados
+com as Criaturas Mágicas
+
+262
+00:25:29,701 --> 00:25:31,575
+reformou-se
+
+263
+00:25:31,575 --> 00:25:35,494
+para poder dedicar-se mais
+aos membros que lhe restam.
+
+264
+00:25:35,707 --> 00:25:38,412
+Felizmente,
+tenho o prazer de anunciar,
+
+265
+00:25:38,412 --> 00:25:41,421
+que o lugar dele será preenchido
+nada mais, nada menos...
+
+266
+00:25:41,421 --> 00:25:45,918
+do que pelo nosso querido
+Rubeus Hagrid!
+
+267
+00:25:57,188 --> 00:25:59,975
+Por fim,
+um aviso mais sério.
+
+268
+00:26:00,191 --> 00:26:02,682
+A pedido do Ministério da Magia,
+
+269
+00:26:02,902 --> 00:26:08,063
+Hogwarts será vigiada, até notícia em
+contrário, pelos dementors de Azkaban,
+
+270
+00:26:08,742 --> 00:26:12,193
+até que Sirius Black seja capturado.
+
+271
+00:26:13,163 --> 00:26:16,829
+Os dementors ficarão de guarda
+a todas as entradas da escola.
+
+272
+00:26:16,829 --> 00:26:18,661
+Embora me tenham assegurado
+
+273
+00:26:18,661 --> 00:26:22,501
+que isso não perturbará
+as nossas actividades,
+
+274
+00:26:22,501 --> 00:26:24,001
+devo fazer um aviso.
+
+275
+00:26:24,216 --> 00:26:27,383
+Os dementors são criaturas malvadas.
+Não distinguem
+
+276
+00:26:27,383 --> 00:26:30,969
+aquele que perseguem daquele
+que se atravessa no caminho deles.
+
+277
+00:26:30,969 --> 00:26:34,758
+Assim, peço a todos vocês
+
+278
+00:26:34,758 --> 00:26:38,554
+que não lhes dêem razões
+para vos fazer mal.
+
+279
+00:26:39,315 --> 00:26:44,440
+Perdoar não está na natureza
+dum dementor.
+
+280
+00:26:46,573 --> 00:26:49,858
+Mas uma coisa é certa.
+A felicidade pode encontrar-se...
+
+281
+00:26:49,858 --> 00:26:53,652
+até no período mais negro...
+
+282
+00:26:54,872 --> 00:26:58,740
+se nos lembrarmos de acender a luz.
+
+283
+00:27:10,764 --> 00:27:12,757
+Fortuna Major.
+
+284
+00:27:15,603 --> 00:27:18,271
+Vejam só!
+Ela não me deixa entrar!
+
+285
+00:27:18,271 --> 00:27:21,398
+- Fortuna Major.
+- Espera!
+
+286
+00:27:21,398 --> 00:27:23,394
+Ora vê...
+
+287
+00:27:34,163 --> 00:27:39,122
+- Espantoso! Só com a minha voz!
+- Fortuna Major.
+
+288
+00:27:39,336 --> 00:27:42,871
+- Pronto, está bem, entrem lá...
+- Obrigado.
+
+289
+00:27:44,882 --> 00:27:46,875
+Passados três anos,
+continua a fazer isto!
+
+290
+00:27:46,875 --> 00:27:49,210
+E nem sabe cantar!
+
+291
+00:27:55,977 --> 00:27:58,136
+Verde. É um macaco.
+
+292
+00:27:59,940 --> 00:28:02,609
+- O que é isso?
+- Chamas a isso macaco?
+
+293
+00:28:02,609 --> 00:28:04,983
+Não lhe dêem mais.
+
+294
+00:28:04,983 --> 00:28:07,775
+Neville, experimenta um elefante.
+
+295
+00:28:14,872 --> 00:28:16,615
+Ron, apanha!
+
+296
+00:28:22,296 --> 00:28:23,921
+Temos um vencedor!
+
+297
+00:28:24,882 --> 00:28:27,208
+Não comas esses!
+
+298
+00:28:27,844 --> 00:28:30,335
+Vejam a cara dele!
+
+299
+00:29:13,974 --> 00:29:16,216
+<i>Bem-vindos, meus meninos.</i>
+
+300
+00:29:16,435 --> 00:29:21,513
+Nesta sala irão explorar a nobre
+disciplina de Artes Divinatórias.
+
+301
+00:29:21,513 --> 00:29:26,982
+Nesta sala, descobrirão
+se têm ou não a Visão.
+
+302
+00:29:28,406 --> 00:29:32,355
+Olá.
+Sou a Professora Trelawney.
+
+303
+00:29:32,355 --> 00:29:37,162
+Juntos, viajaremos até ao futuro!
+
+304
+00:29:37,373 --> 00:29:41,206
+Este período, iremos concentrar-nos na
+Tassiomância, a arte de ler folhas de chá.
+
+305
+00:29:41,206 --> 00:29:44,961
+Peguem, por favor, na chávena
+da pessoa sentada à vossa frente.
+
+306
+00:29:45,465 --> 00:29:46,841
+Que vêem?
+
+307
+00:29:46,841 --> 00:29:52,679
+A verdade jaz enterrada como uma frase
+dentro dum livro, à espera de ser lida.
+
+308
+00:29:52,890 --> 00:29:55,298
+Mas antes,
+têm de abrir o espírito.
+
+309
+00:29:55,298 --> 00:30:00,018
+- Primeiro, têm de olhar para o além!
+- Que rol de parvoíces!
+
+310
+00:30:00,018 --> 00:30:02,098
+De onde surgiste tu?
+
+311
+00:30:02,098 --> 00:30:04,943
+- Estive sempre aqui.
+- Tu aí, rapaz.
+
+312
+00:30:04,943 --> 00:30:07,399
+A tua avó está bem?
+
+313
+00:30:08,072 --> 00:30:09,531
+Acho que sim.
+
+314
+00:30:09,531 --> 00:30:12,486
+Eu não estaria tão certa.
+Dá-me a chávena dele.
+
+315
+00:30:15,496 --> 00:30:16,872
+Que pena...
+
+316
+00:30:17,081 --> 00:30:19,703
+Abram bem o espírito!
+
+317
+00:30:23,296 --> 00:30:26,629
+A tua aura transmite morte.
+Estás no além?
+
+318
+00:30:26,629 --> 00:30:28,708
+- Estás no além? Acho que sim.
+- Claro...
+
+319
+00:30:28,926 --> 00:30:31,133
+Olha para a chávena
+e diz-me o que vês.
+
+320
+00:30:33,848 --> 00:30:38,261
+O Harry tem uma cruz desigual.
+Significa provações e sofrimento.
+
+321
+00:30:38,729 --> 00:30:42,347
+Isto é capaz de ser o sol,
+o que significa felicidade.
+
+322
+00:30:42,566 --> 00:30:43,894
+Portanto
+
+323
+00:30:43,894 --> 00:30:48,113
+vais sofrer,
+mas vais sentir-te feliz.
+
+324
+00:30:48,322 --> 00:30:49,651
+Dá cá a chávena.
+
+325
+00:30:56,205 --> 00:30:57,865
+Meu querido...
+
+326
+00:30:59,541 --> 00:31:02,626
+Tens o Cruel.
+
+327
+00:31:03,462 --> 00:31:05,206
+O Joel? Quem é esse?
+
+328
+00:31:05,206 --> 00:31:08,252
+Não é Joel, idiota, é Cruel!
+
+329
+00:31:08,252 --> 00:31:10,585
+"Apresenta-se sob a forma
+de um cão gigantesco e espectral,
+
+330
+00:31:10,803 --> 00:31:13,259
+é um dos presságios mais tenebrosos
+do nosso mundo.
+
+331
+00:31:13,807 --> 00:31:15,467
+É um presságio...
+
+332
+00:31:15,467 --> 00:31:17,469
+de morte."
+
+333
+00:31:21,981 --> 00:31:25,813
+Achas que aquele tal Cruel
+está relacionado com o Sirius Black?
+
+334
+00:31:25,813 --> 00:31:29,935
+Eu acho Artes Divinatórias
+uma disciplina muito estúpida.
+
+335
+00:31:29,935 --> 00:31:33,780
+As Runas Antigas
+já são um tema fascinante.
+
+336
+00:31:33,780 --> 00:31:37,072
+Runas Antigas? Quantas disciplinas
+estás a fazer este período?
+
+337
+00:31:37,072 --> 00:31:38,908
+Algumas.
+
+338
+00:31:38,908 --> 00:31:41,159
+Espera lá... Isso não é possível!
+
+339
+00:31:41,159 --> 00:31:44,122
+Runas Antigas é à mesma hora
+que Artes Divinatórias!
+
+340
+00:31:44,122 --> 00:31:46,288
+Terias de estar nas duas
+ao mesmo tempo.
+
+341
+00:31:46,288 --> 00:31:49,834
+Não sejas parvo! Como é possível assistir
+a duas aulas ao mesmo tempo?
+
+342
+00:31:49,834 --> 00:31:54,257
+"Abram os espíritos!
+Usem o olho interior para ver o futuro!"
+
+343
+00:31:55,432 --> 00:31:59,383
+Já chega, aproximem-se!
+Menos conversa, se não se importam!
+
+344
+00:31:59,383 --> 00:32:01,389
+Preparei-vos uma grande surpresa,
+
+345
+00:32:01,389 --> 00:32:03,557
+vão ter uma aula formidável. Vamos.
+
+346
+00:32:14,827 --> 00:32:17,912
+Toca a tagarelar menos!
+Formem um grupo ali!
+
+347
+00:32:17,912 --> 00:32:20,572
+Abram os livros na página 49.
+
+348
+00:32:20,572 --> 00:32:22,375
+E como fazemos isso?
+
+349
+00:32:22,586 --> 00:32:26,453
+Afagando a lombada, claro!
+
+350
+00:32:35,850 --> 00:32:39,634
+- Não sejas mariquinhas, Longbottom.
+- Estou bem.
+
+351
+00:32:43,315 --> 00:32:46,518
+- Eu acho-os divertidos.
+- É, são divertidíssimos...!
+
+352
+00:32:46,735 --> 00:32:49,191
+Muito espirituosos!
+Esta escola vai de mal a pior!
+
+353
+00:32:49,405 --> 00:32:51,232
+Quando o meu pai souber
+que o Dumbledore
+
+354
+00:32:51,232 --> 00:32:53,073
+promoveu este cretino a professor!
+
+355
+00:32:54,035 --> 00:32:55,363
+Cala-te, Malfoy.
+
+356
+00:33:09,884 --> 00:33:11,924
+Um dementor!
+
+357
+00:33:19,936 --> 00:33:23,021
+- Afasta-te.
+- A ideia é afagá-lo...
+
+358
+00:33:34,868 --> 00:33:37,869
+Não é lindo?
+
+359
+00:33:37,869 --> 00:33:40,660
+Cumprimentem o Buckbeak.
+
+360
+00:33:41,250 --> 00:33:43,492
+O que é isso ao certo?
+
+361
+00:33:43,711 --> 00:33:45,751
+Isto, Ron, é um hipogrifo.
+
+362
+00:33:45,751 --> 00:33:49,421
+Antes de mais, devo dizer-vos
+que são criaturas muito orgulhosas.
+
+363
+00:33:49,634 --> 00:33:53,502
+Ofende-se facilmente.
+Não queiram insultar um hipogrifo.
+
+364
+00:33:53,502 --> 00:33:56,432
+Podem não voltar a fazer mais nada...
+
+365
+00:33:56,432 --> 00:33:59,969
+Quem quer cumprimentá-lo?
+
+366
+00:34:02,522 --> 00:34:04,598
+Muito bem, Harry.
+
+367
+00:34:07,402 --> 00:34:08,777
+Aproxima-te.
+
+368
+00:34:10,864 --> 00:34:14,565
+Deixa-o iniciar o contacto,
+é mais delicado.
+
+369
+00:34:14,565 --> 00:34:16,617
+Dá um passo em frente...
+Faz uma vénia...
+
+370
+00:34:16,829 --> 00:34:19,236
+E depois aguarda
+para ver se ele retribui.
+
+371
+00:34:19,236 --> 00:34:21,538
+Se ele o fizer, poderás tocar-lhe.
+
+372
+00:34:21,538 --> 00:34:24,912
+Se não retribuir...
+Depois falamos disso.
+
+373
+00:34:27,589 --> 00:34:29,629
+Faz lá uma vénia...
+
+374
+00:34:31,218 --> 00:34:32,878
+Curva-te bem...
+
+375
+00:34:38,225 --> 00:34:39,886
+Recua, Harry!
+
+376
+00:34:41,771 --> 00:34:43,265
+Não te mexas.
+
+377
+00:34:44,941 --> 00:34:46,934
+Não te mexas.
+
+378
+00:34:55,117 --> 00:34:59,530
+Muito bem, Harry! Muito bem!
+
+379
+00:35:02,042 --> 00:35:04,580
+Acho que já podes
+fazer-lhe uma festinha.
+
+380
+00:35:04,794 --> 00:35:06,621
+Não tenhas vergonha.
+
+381
+00:35:15,055 --> 00:35:17,511
+Devagarinho, devagar...
+Aproxima-te devagarinho. Devagar...
+
+382
+00:35:20,853 --> 00:35:22,263
+Abranda, Harry.
+
+383
+00:35:27,359 --> 00:35:30,610
+Devagarinho...
+
+384
+00:35:30,821 --> 00:35:33,988
+Deixa-o aproximar-se ele.
+
+385
+00:35:38,413 --> 00:35:40,204
+Boa!
+
+386
+00:35:42,751 --> 00:35:46,167
+Bom trabalho, Harry!
+Muito bem!
+
+387
+00:35:48,548 --> 00:35:50,920
+Agora talvez ele te deixe montá-lo.
+
+388
+00:35:52,844 --> 00:35:56,011
+Eu ponho-te em cima dele,
+atrás da articulação da asa.
+
+389
+00:35:56,681 --> 00:36:01,059
+Não lhe arranques penas,
+senão ele fica aborrecido.
+
+390
+00:37:41,998 --> 00:37:45,498
+Muito bem, Harry!
+Muito bem, Buckbeak!
+
+391
+00:37:45,710 --> 00:37:47,620
+Francamente...!
+
+392
+00:37:50,007 --> 00:37:52,332
+Bom trabalho!
+
+393
+00:37:53,010 --> 00:37:55,003
+Que tal me estou a sair
+no meu primeiro dia?
+
+394
+00:37:55,003 --> 00:37:56,216
+Genialmente, Professor.
+
+395
+00:37:59,642 --> 00:38:03,853
+Tu não és nada perigoso,
+seu bruto mamarracho!
+
+396
+00:38:04,369 --> 00:38:05,069
+Malfloy!
+
+397
+00:38:08,906 --> 00:38:09,496
+Buckbeak!
+
+398
+00:38:13,952 --> 00:38:14,617
+Buckbeak!
+
+399
+00:38:16,576 --> 00:38:18,901
+Toma, seu bicho feio!
+
+400
+00:38:19,120 --> 00:38:22,205
+- Matou-me! Matou-me!
+- Acalma-te, é apenas um arranhão.
+
+401
+00:38:22,618 --> 00:38:23,168
+Hagrid!
+
+402
+00:38:23,792 --> 00:38:28,999
+- Ele tem de ir para a enfermaria.
+- Eu sou o professor, eu levo-o.
+
+403
+00:38:32,050 --> 00:38:34,920
+- Há-de arrepender-se!
+- Acabou a aula!
+
+404
+00:38:34,920 --> 00:38:37,383
+Você e a sua maldita galinha!
+
+405
+00:39:00,871 --> 00:39:02,911
+Dói-te horrivelmente, Draco?
+
+406
+00:39:03,123 --> 00:39:06,956
+Vem e vai...
+Apesar de tudo, tive sorte.
+
+407
+00:39:06,956 --> 00:39:10,461
+Segundo a Madame Pomfrey, mais
+um minuto ou dois e ficava sem braço.
+
+408
+00:39:10,798 --> 00:39:12,672
+Durante semanas não poderei
+fazer os trabalhos de casa.
+
+409
+00:39:12,672 --> 00:39:13,832
+Ouçam-me aquele idiota...
+
+410
+00:39:13,832 --> 00:39:18,174
+- É mesmo exagerado!
+- Ao menos, não despediram o Hagrid.
+
+411
+00:39:18,390 --> 00:39:22,091
+Pois, mas o pai do Draco está furioso.
+Isto não vai ficar assim...
+
+412
+00:39:22,311 --> 00:39:24,137
+- Foi avistado!
+- Quem?
+
+413
+00:39:24,353 --> 00:39:26,061
+O Sirius Black!
+
+414
+00:39:27,106 --> 00:39:30,107
+Em Dufftown?!
+Não fica longe daqui.
+
+415
+00:39:30,527 --> 00:39:33,148
+Acham que ele vem para Hogwarts?
+
+416
+00:39:33,148 --> 00:39:35,813
+- Com dementors em todas as entradas?
+- Os dementors...
+
+417
+00:39:35,813 --> 00:39:39,325
+Já conseguiu iludi-los uma vez.
+Quem diz que não ilude duas?
+
+418
+00:39:39,536 --> 00:39:44,080
+Pois é, o Black pode estar em qualquer
+lado. É como tentar apanhar fumo.
+
+419
+00:39:44,875 --> 00:39:48,042
+Tentar agarrar fumo com as mãos...
+
+420
+00:40:14,156 --> 00:40:16,232
+É intrigante, não é?
+
+421
+00:40:19,494 --> 00:40:22,246
+Alguém quer deitar-se a adivinhar
+
+422
+00:40:22,246 --> 00:40:24,205
+o que estará ali dentro?
+
+423
+00:40:24,416 --> 00:40:28,414
+- É um Sem Forma.
+- Muito bem, Sr. Thomas.
+
+424
+00:40:29,171 --> 00:40:32,088
+E alguém sabe dizer-me
+qual é o aspecto dum Sem Forma?
+
+425
+00:40:32,299 --> 00:40:34,339
+- Ninguém sabe.
+- Quando é que ela entrou?
+
+426
+00:40:34,551 --> 00:40:36,046
+Os Sem Forma são metamorfos.
+
+427
+00:40:36,262 --> 00:40:39,465
+Assumem a forma
+daquilo que a pessoa mais teme.
+
+428
+00:40:39,682 --> 00:40:44,095
+- É isso que os torna tão...
+- Aterradores, sim.
+
+429
+00:40:44,312 --> 00:40:49,768
+Felizmente, há um feitiço muito
+simples para repelir um Sem Forma.
+
+430
+00:40:51,151 --> 00:40:54,900
+Vamos praticá-lo.
+Sem varinhas, por favor.
+
+431
+00:40:55,599 --> 00:40:57,458
+<i>Repitam comigo.
+Riddikulus!</i>
+
+432
+00:40:57,910 --> 00:40:58,940
+<i>Riddikulus!</i>
+
+433
+00:40:59,309 --> 00:41:00,045
+Muito bem.
+
+434
+00:41:00,611 --> 00:41:02,777
+Um bocadinho mais alto
+e mais articulado. Ouçam.
+
+435
+00:41:03,209 --> 00:41:04,452
+<i>Riddikulus!</i>
+
+436
+00:41:04,452 --> 00:41:05,590
+<i>Riddikulus!</i>
+
+437
+00:41:05,807 --> 00:41:07,630
+- Ridícula é esta aula.
+- Muito bem!
+
+438
+00:41:07,630 --> 00:41:11,666
+Esta foi a parte fácil.
+O feitiço não basta.
+
+439
+00:41:11,881 --> 00:41:15,582
+Aquilo que o arruma de vez
+são as gargalhadas.
+
+440
+00:41:15,802 --> 00:41:20,215
+O truque é levá-lo a assumir
+uma forma que achemos muito divertida.
+
+441
+00:41:20,215 --> 00:41:24,518
+Eu explico melhor.
+Neville, chega aqui, por favor.
+
+442
+00:41:24,728 --> 00:41:27,053
+Vá lá, não tenhas vergonha.
+
+443
+00:41:30,192 --> 00:41:33,692
+Qual é a coisa que mais te assusta?
+
+444
+00:41:35,782 --> 00:41:37,608
+- Não ouvi...
+- O Professor Snape.
+
+445
+00:41:37,608 --> 00:41:41,199
+O Professor Snape?
+Sim, assusta qualquer um...
+
+446
+00:41:41,199 --> 00:41:42,994
+Ouvi dizer que vives com a tua avó.
+
+447
+00:41:42,994 --> 00:41:45,874
+Sim, mas também não quero que
+o Sem Forma se transforme nela!
+
+448
+00:41:48,794 --> 00:41:51,582
+Não vai transformar.
+Quero que imagines a roupa dela.
+
+449
+00:41:51,839 --> 00:41:55,043
+Só a roupa. Imagina-as claramente.
+
+450
+00:41:55,260 --> 00:41:58,344
+- Costuma ter uma mala vermelha.
+- Não precisamos de ouvir.
+
+451
+00:41:58,344 --> 00:42:02,381
+Desde que tu o imagines, todos os veremos.
+Quando eu abrir o guarda-fatos,
+
+452
+00:42:02,601 --> 00:42:05,886
+quero que faças o seguinte...
+Com licença.
+
+453
+00:42:06,354 --> 00:42:09,272
+Imagina o Professor Snape
+com a roupa da tua avó.
+
+454
+00:42:09,482 --> 00:42:11,190
+Achas que és capaz?
+
+455
+00:42:11,776 --> 00:42:14,481
+Prepara a varinha...
+
+456
+00:42:14,821 --> 00:42:18,321
+Um, dois... três!
+
+457
+00:42:28,127 --> 00:42:30,001
+Concentra-te, Neville!
+
+458
+00:42:32,756 --> 00:42:34,796
+<i>Riddikulus!</i>
+
+459
+00:42:39,346 --> 00:42:42,016
+Formidável, Neville!
+Foi incrível!
+
+460
+00:42:42,016 --> 00:42:45,142
+Lá para trás, Neville.
+Formem uma fila.
+
+461
+00:42:51,359 --> 00:42:52,688
+Façam uma fila.
+
+462
+00:42:52,688 --> 00:42:56,277
+Quero que imaginem
+aquilo que mais receiam,
+
+463
+00:42:56,490 --> 00:42:59,573
+e transformem-no
+numa coisa divertida.
+
+464
+00:42:59,784 --> 00:43:01,869
+Próximo!
+Ron!
+
+465
+00:43:04,706 --> 00:43:08,241
+Concentra-te!
+Enfrenta o teu medo. Sê corajoso!
+
+466
+00:43:19,722 --> 00:43:21,264
+Prepara a varinha...
+
+467
+00:43:22,016 --> 00:43:23,843
+<i>Riddikulus!</i>
+
+468
+00:43:25,978 --> 00:43:28,848
+Estão a ver? Muito bem!
+
+469
+00:43:29,356 --> 00:43:35,193
+Maravilhoso! Isso mesmo,
+muito divertido! Parvati!
+
+470
+00:43:36,989 --> 00:43:39,196
+Mostra lá o que tu vês.
+
+471
+00:43:48,460 --> 00:43:51,876
+Não te enerves...
+
+472
+00:43:51,876 --> 00:43:54,003
+<i>Riddikulus!</i>
+
+473
+00:43:55,049 --> 00:43:57,007
+Próximo! Aproxima-te!
+
+474
+00:44:21,910 --> 00:44:23,737
+<i>Riddikulus!</i>
+
+475
+00:44:32,255 --> 00:44:35,172
+Desculpem lá. Chega por hoje.
+
+476
+00:44:35,172 --> 00:44:37,334
+Recolham os vossos livros.
+
+477
+00:44:37,334 --> 00:44:40,132
+Hoje ficamos por aqui.
+Obrigado. Desculpem lá...
+
+478
+00:44:40,132 --> 00:44:43,342
+Tudo o que é demais, enjoa.
+
+479
+00:44:45,352 --> 00:44:49,930
+Lembrem-se, estas idas a vila de
+Hogsmeade são um privilégio.
+
+480
+00:44:50,231 --> 00:44:53,067
+Se tiveram um comportamento
+desfavorável na escola,
+
+481
+00:44:53,067 --> 00:44:56,152
+não voltarão a beneficiar
+de tal privilégio.
+
+482
+00:44:56,613 --> 00:44:59,899
+Sem autorização assinada,
+não podes ir à aldeia.
+
+483
+00:44:59,899 --> 00:45:01,617
+É a regra, Potter.
+
+484
+00:45:01,827 --> 00:45:05,030
+Quem tem autorização que me siga.
+Quem não tem, fica aqui.
+
+485
+00:45:05,030 --> 00:45:07,697
+Pensei que se ma assinasse,
+eu podia ir.
+
+486
+00:45:07,697 --> 00:45:10,366
+Não posso!
+Têm de ser os pais ou os tutores.
+
+487
+00:45:10,366 --> 00:45:13,747
+Não seria correcto assinar eu.
+
+488
+00:45:16,049 --> 00:45:20,628
+Lamento, Potter.
+O assunto está encerrado.
+
+489
+00:45:21,847 --> 00:45:25,098
+Esqueçam, até logo.
+
+490
+00:45:38,907 --> 00:45:40,946
+Professor, posso perguntar-lhe uma coisa?
+
+491
+00:45:41,159 --> 00:45:44,991
+Queres saber por que te impedi
+de enfrentar o Sem Forma?
+
+492
+00:45:45,205 --> 00:45:46,616
+Pensei que fosse óbvio.
+
+493
+00:45:46,616 --> 00:45:49,625
+Receei que assumisse
+a forma do Lorde Voldemort.
+
+494
+00:45:49,625 --> 00:45:53,292
+Primeiro, pensei no Voldemort.
+
+495
+00:45:53,505 --> 00:45:56,127
+Mas depois lembrei-me
+daquela noite no comboio
+
+496
+00:45:56,127 --> 00:45:58,838
+e do dementor...
+- Estou muito impressionado.
+
+497
+00:45:58,838 --> 00:46:01,882
+Isso sugere que o teu maior receio é
+o próprio medo.
+
+498
+00:46:01,882 --> 00:46:03,550
+Revela muita sensatez.
+
+499
+00:46:03,550 --> 00:46:05,801
+Antes de desmaiar,
+
+500
+00:46:06,060 --> 00:46:08,052
+ouvi uma coisa.
+
+501
+00:46:08,604 --> 00:46:10,228
+Uma mulher...
+
+502
+00:46:10,689 --> 00:46:12,018
+... a gritar.
+
+503
+00:46:12,233 --> 00:46:15,483
+Os dementors obrigam-nos a reviver
+as nossas piores recordações.
+
+504
+00:46:15,695 --> 00:46:18,612
+Vão buscar poder ao nosso sofrimento.
+
+505
+00:46:19,449 --> 00:46:21,655
+Acho que era a minha mãe,
+
+506
+00:46:21,655 --> 00:46:24,033
+na noite em que foi assassinada.
+
+507
+00:46:25,664 --> 00:46:30,125
+Sabes, a primeira vez que te vi,
+Harry, reconheci-te imediatamente.
+
+508
+00:46:30,711 --> 00:46:33,546
+Não foi por causa da cicatriz,
+mas sim pelo olhar.
+
+509
+00:46:33,964 --> 00:46:36,122
+Tens o olhar da tua mãe, a Lily.
+
+510
+00:46:37,050 --> 00:46:38,509
+Sim...
+
+511
+00:46:38,843 --> 00:46:41,844
+Sim... Eu conheci-a.
+
+512
+00:46:44,182 --> 00:46:48,015
+A tua mãe apoiou-me
+quando mais ninguém o fez.
+
+513
+00:46:48,228 --> 00:46:51,432
+Não só ela era uma bruxa
+singularmente talentosa,
+
+514
+00:46:51,432 --> 00:46:54,941
+como era também uma mulher
+invulgarmente boa.
+
+515
+00:46:55,444 --> 00:46:58,529
+Tinha o dom
+de ver a beleza nos outros,
+
+516
+00:46:58,529 --> 00:47:01,864
+mesmo quando, e talvez mesmo
+especialmente,
+
+517
+00:47:01,864 --> 00:47:04,863
+quando a própria pessoa não a via.
+
+518
+00:47:06,330 --> 00:47:09,035
+O teu pai, o James, por outro lado...
+
+519
+00:47:11,252 --> 00:47:14,586
+tinha uma certa propensão
+para arranjar sarilhos.
+
+520
+00:47:16,883 --> 00:47:22,388
+Um talento,
+ao que consta, que tu herdaste.
+
+521
+00:47:26,393 --> 00:47:29,346
+És mais parecido com eles
+do que imaginas, Harry.
+
+522
+00:47:30,188 --> 00:47:33,308
+Com o tempo, virás a percebê-lo.
+
+523
+00:47:36,778 --> 00:47:38,901
+A Confeitaria Doces dos Duques
+é espectacular,
+
+524
+00:47:38,901 --> 00:47:41,154
+mas nada se compara
+à loja do Zonko's Joke!
+
+525
+00:47:41,366 --> 00:47:43,905
+Não tivemos oportunidade de ir
+à Cabana dos Gritos.
+
+526
+00:47:43,905 --> 00:47:45,109
+É a mais...
+
+527
+00:47:45,109 --> 00:47:48,116
+É o edifício mais assombrado
+da Grã-Bretanha, eu sei.
+
+528
+00:47:49,500 --> 00:47:50,994
+Que se passa?
+
+529
+00:47:50,994 --> 00:47:53,624
+O Neville deve ter-se esquecido
+outra vez da senha.
+
+530
+00:47:54,505 --> 00:47:56,213
+Estás aqui...
+
+531
+00:47:56,213 --> 00:48:00,676
+Com licença, sou Chefe de Turma.
+
+532
+00:48:02,304 --> 00:48:03,965
+Afastem-se todos.
+
+533
+00:48:03,965 --> 00:48:07,307
+Ninguém entra no dormitório,
+enquanto não for bem revistado.
+
+534
+00:48:07,307 --> 00:48:08,805
+A Dama Gorda! Desapareceu!
+
+535
+00:48:10,897 --> 00:48:13,353
+Bem feito! Cantava pessimamente!
+
+536
+00:48:13,353 --> 00:48:15,434
+Não tem graça, Ron.
+
+537
+00:48:17,446 --> 00:48:18,678
+Mantenham a calma, por favor.
+
+538
+00:48:18,678 --> 00:48:20,468
+Ravenclaws, voltem para o vosso
+dormitório.
+
+539
+00:48:27,872 --> 00:48:29,746
+Calados, está aqui o Director.
+
+540
+00:48:29,746 --> 00:48:30,790
+Afastem-se!
+
+541
+00:48:31,293 --> 00:48:33,167
+Ouviram o que ele disse!
+Mexam-se!
+
+542
+00:48:47,393 --> 00:48:50,263
+Sr. Filch, reúna os fantasmas.
+
+543
+00:48:50,604 --> 00:48:54,684
+Eles que revistem todos os quadros
+até encontrarem a Dama Gorda!
+
+544
+00:48:54,900 --> 00:48:57,985
+Não é preciso chamá-los, professor.
+
+545
+00:48:58,821 --> 00:49:00,944
+A Dama Gorda está ali.
+
+546
+00:49:01,783 --> 00:49:03,775
+Vejam lá por onde andam!
+Calma!
+
+547
+00:49:04,369 --> 00:49:07,038
+Ouçam, eu sou o Chefe de Turma.
+
+548
+00:49:13,212 --> 00:49:16,081
+Minha cara senhora,
+quem lhe fez isso?
+
+549
+00:49:18,007 --> 00:49:23,049
+Tem olhos como o diabo! E uma alma
+tão negra como o seu nome!
+
+550
+00:49:23,972 --> 00:49:26,973
+É ele, Sr. Director!
+Aquele de que tanto falam!
+
+551
+00:49:26,973 --> 00:49:29,598
+Está aqui, algures no castelo!
+
+552
+00:49:29,853 --> 00:49:32,012
+O Sirius Black!
+
+553
+00:49:32,231 --> 00:49:37,356
+Feche bem o castelo, Sr. Filch.
+Quanto a vocês, vão para o Salão.
+
+554
+00:50:05,432 --> 00:50:10,342
+Já revistei a Torre da Astronomia
+e o Lugar das Corujas. Não há lá nada.
+
+555
+00:50:10,342 --> 00:50:13,093
+- Obrigado.
+- O terceiro andar também está vazio.
+
+556
+00:50:13,093 --> 00:50:15,230
+- Muito bem.
+- Já fui aos calabouços.
+
+557
+00:50:15,230 --> 00:50:18,069
+Não há lá sinal do Black,
+nem em qualquer outro sítio.
+
+558
+00:50:18,069 --> 00:50:20,769
+Não estava propriamente à espera
+de que ele se deixasse ficar...
+
+559
+00:50:22,032 --> 00:50:24,357
+Uma proeza notável, não acha?
+
+560
+00:50:24,357 --> 00:50:26,824
+Entrar no Castelo de Hogwarts
+sozinho...
+
+561
+00:50:26,824 --> 00:50:29,665
+... sem ser detectado.
+- Notável mesmo...
+
+562
+00:50:29,665 --> 00:50:31,701
+Tem alguma teoria que o explique?
+
+563
+00:50:31,918 --> 00:50:34,872
+Tenho muitas,
+todas elas igualmente improváveis.
+
+564
+00:50:35,129 --> 00:50:36,672
+Talvez se lembre,
+
+565
+00:50:36,672 --> 00:50:39,674
+antes do início do período,
+que me manifestei inquieto
+
+566
+00:50:39,674 --> 00:50:41,918
+quanto à contratação
+do Professor Lupin...
+
+567
+00:50:41,918 --> 00:50:46,175
+Nenhum dos nossos professores
+ajudaria o Sirius Black a entrar aqui.
+
+568
+00:50:46,175 --> 00:50:48,756
+Estou convencido de
+que o castelo é seguro.
+
+569
+00:50:48,756 --> 00:50:52,553
+E estou mais do que disposto
+a mandar os alunos para casa.
+
+570
+00:50:52,553 --> 00:50:55,056
+E o Potter?
+Devemos avisá-lo?
+
+571
+00:50:55,275 --> 00:50:57,896
+Talvez. Mas para já,
+deixemo-lo dormir.
+
+572
+00:50:58,779 --> 00:51:03,488
+É que nos sonhos,
+entramos num mundo que é só nosso.
+
+573
+00:51:03,783 --> 00:51:07,366
+Deixemo-los nadar
+no mais profundo dos oceanos...
+
+574
+00:51:07,366 --> 00:51:10,283
+Ou pairar acima da mais alta nuvem...
+
+575
+00:51:47,621 --> 00:51:50,954
+Abram na página 394.
+
+576
+00:52:00,383 --> 00:52:03,966
+Desculpe, senhor...
+Onde está o Professor Lupin?
+
+577
+00:52:04,679 --> 00:52:08,096
+Não é propriamente da sua conta,
+pois não, Potter?
+
+578
+00:52:08,096 --> 00:52:12,134
+Basta dizer que, de momento,
+o Professor não se sente em condições
+
+579
+00:52:12,354 --> 00:52:17,396
+de leccionar.
+Abram na página 394.
+
+580
+00:52:22,240 --> 00:52:23,900
+"Lobisomens"?
+
+581
+00:52:24,242 --> 00:52:26,993
+Mas começámos agora a estudar os
+Barretinhos Vermelhos e os hinkypunks.
+
+582
+00:52:27,244 --> 00:52:29,237
+Só íamos dar as feras nocturnas
+daqui a algumas semanas.
+
+583
+00:52:29,237 --> 00:52:30,403
+Silêncio.
+
+584
+00:52:30,403 --> 00:52:33,748
+Quando é que ela entrou?
+Viste-a entrar?
+
+585
+00:52:34,377 --> 00:52:37,876
+Agora, quem de vós
+sabe dizer-me a diferença
+
+586
+00:52:38,089 --> 00:52:40,497
+entre um Animagus e um Lobisomem?
+
+587
+00:52:41,217 --> 00:52:43,127
+Ninguém?
+
+588
+00:52:43,637 --> 00:52:46,554
+- Que desilusão...
+- Posso dizer?
+
+589
+00:52:46,765 --> 00:52:49,932
+Um Animagus é um feiticeiro
+que escolhe transformar-se em animal.
+
+590
+00:52:49,932 --> 00:52:51,643
+Um Lobisomem não tem escolha.
+
+591
+00:52:52,061 --> 00:52:53,769
+Cada vez que há lua cheia,
+
+592
+00:52:53,769 --> 00:52:57,806
+transforma-se e esquece quem é. Seria
+capaz de matar o seu melhor amigo.
+
+593
+00:52:58,026 --> 00:53:01,609
+Além disso, o Lobisomem só responde
+aos uivos de outros da sua espécie.
+
+594
+00:53:02,781 --> 00:53:05,533
+Obrigado, Sr. Malfoy.
+Foi a segunda vez...
+
+595
+00:53:05,533 --> 00:53:08,026
+que falou sem ser a sua vez,
+Menina Granger.
+
+596
+00:53:08,026 --> 00:53:10,196
+É incapaz de se conter
+
+597
+00:53:10,196 --> 00:53:13,706
+ou tem orgulho em ser
+uma sabichona insuportável?
+
+598
+00:53:14,001 --> 00:53:17,418
+- Ele tem alguma razão...
+- Tiro 5 pontos a Gryffindor.
+
+599
+00:53:17,630 --> 00:53:19,622
+Como antídoto para a vossa ignorância,
+
+600
+00:53:19,622 --> 00:53:22,212
+quero na minha secretária,
+na segunda-feira,
+
+601
+00:53:22,426 --> 00:53:26,127
+dois rolos de pergaminho sobre
+Lobisomens, com particular destaque
+
+602
+00:53:26,127 --> 00:53:28,879
+no seu reconhecimento.
+- Mas amanhã há Quidditch!
+
+603
+00:53:29,976 --> 00:53:33,310
+Então sugiro que tenha
+cuidados redobrados, Sr. Potter.
+
+604
+00:53:33,521 --> 00:53:37,566
+Não há perda de membro
+que lhe valha.
+
+605
+00:53:37,776 --> 00:53:39,152
+Página 394.
+
+606
+00:53:43,532 --> 00:53:44,991
+O termo "Lobisomem" ...
+
+607
+00:53:45,909 --> 00:53:50,405
+é uma contracção
+da palavra "lobo" ...
+
+608
+00:53:51,164 --> 00:53:55,577
+... com a palavra "homem".
+O que dá Lobisomem ou Homem-lobo.
+
+609
+00:53:56,253 --> 00:53:58,578
+Há várias maneiras
+de uma pessoa se tornar Lobisomem.
+
+610
+00:53:58,797 --> 00:54:01,798
+Tais como receber o poder
+de mudar de forma,
+
+611
+00:54:02,215 --> 00:54:04,231
+ser mordido por um Lobisomem...
+
+612
+00:54:23,070 --> 00:54:24,321
+Vai, Harry!
+
+613
+00:54:25,677 --> 00:54:26,616
+Vai, Harry!
+
+614
+00:56:26,200 --> 00:56:29,034
+<i>Aresto momentum!</i>
+
+615
+00:56:31,288 --> 00:56:33,280
+<i>Acho-o um bocado macilento,
+vocês não?</i>
+
+616
+00:56:33,280 --> 00:56:34,446
+<i>Macilento?</i>
+
+617
+00:56:34,446 --> 00:56:36,872
+<i>Caiu de mais de 30 metros!</i>
+
+618
+00:56:36,872 --> 00:56:39,914
+<i>Vamos atirar-te da Torre da Astronomia.
+Logo se vê que tal ficas.</i>
+
+619
+00:56:40,130 --> 00:56:43,167
+Provavelmente,
+vai ficar com melhor aspecto.
+
+620
+00:56:46,846 --> 00:56:49,800
+- Como te sentes?
+- Perfeitamente!
+
+621
+00:56:50,016 --> 00:56:51,973
+Pregaste-nos um belo susto.
+
+622
+00:56:52,227 --> 00:56:55,725
+- Que aconteceu?
+- Bem... Caíste da vassoura!
+
+623
+00:56:56,021 --> 00:56:58,347
+A sério?! Referia-me ao jogo.
+Quem ganhou?
+
+624
+00:57:02,779 --> 00:57:04,487
+Ninguém te censura, Harry.
+
+625
+00:57:04,697 --> 00:57:08,529
+Os dementors não podem entrar
+na escola. O Dumbledore estava furioso!
+
+626
+00:57:08,743 --> 00:57:10,819
+Mal te salvou, obrigou-os a sair.
+
+627
+00:57:10,819 --> 00:57:14,661
+Temos outra coisa para te dizer...
+
+628
+00:57:15,208 --> 00:57:21,542
+Quando caíste, a tua vassoura
+foi contra o Salgueiro Zurzidor e...
+
+629
+00:57:22,048 --> 00:57:23,542
+... ficou assim.
+
+630
+00:57:24,801 --> 00:57:27,090
+Lamento o que aconteceu
+à tua vassoura.
+
+631
+00:57:27,429 --> 00:57:30,050
+Achas que se pode arranjar?
+
+632
+00:57:30,050 --> 00:57:31,094
+Não...
+
+633
+00:57:31,767 --> 00:57:35,101
+Professor, por que é que os dementors
+me afectam desta maneira?
+
+634
+00:57:35,521 --> 00:57:38,605
+Mais do que a qualquer outra pessoa...
+
+635
+00:57:38,605 --> 00:57:41,941
+Os dementors são das criaturas mais
+terríveis que caminham sobre a Terra.
+
+636
+00:57:42,153 --> 00:57:46,400
+Alimentam-se dos bons sentimentos,
+das memórias felizes...
+
+637
+00:57:46,950 --> 00:57:51,528
+... até deixarem as pessoas sem nada
+senão as suas piores experiências.
+
+638
+00:57:51,746 --> 00:57:55,957
+Tu não és fraco, Harry.
+
+639
+00:57:55,957 --> 00:58:00,206
+Os dementors afectam-te porque tens
+verdadeiros horrores no teu passado.
+
+640
+00:58:00,421 --> 00:58:03,506
+Horrores que os teus colegas
+nem conseguem imaginar.
+
+641
+00:58:03,967 --> 00:58:06,256
+Não tens razões para ter vergonha.
+
+642
+00:58:06,470 --> 00:58:10,515
+- Tenho medo, Professor.
+- Só um tolo não teria.
+
+643
+00:58:10,515 --> 00:58:14,182
+Preciso de saber como os combater.
+Podia ensinar-me!
+
+644
+00:58:14,182 --> 00:58:16,345
+Conseguiu afugentar
+o dementor do comboio.
+
+645
+00:58:16,563 --> 00:58:18,306
+Nessa noite, era só um.
+
+646
+00:58:18,607 --> 00:58:23,185
+- Mas conseguiu mandá-lo embora.
+- Não me considero especialista, Harry,
+
+647
+00:58:23,528 --> 00:58:28,487
+mas dado que eles parecem ter
+desenvolvido um interesse especial por ti,
+
+648
+00:58:28,487 --> 00:58:32,324
+talvez deva ensinar-te,
+mas depois das férias do Natal.
+
+649
+00:58:32,324 --> 00:58:34,406
+Para já, preciso de descansar.
+
+650
+00:59:19,753 --> 00:59:21,746
+- Larguem-me!
+- És muito espertinho, Harry.
+
+651
+00:59:21,746 --> 00:59:24,840
+- Mas não o suficiente.
+- Além disso, temos uma ideia melhor.
+
+652
+00:59:24,840 --> 00:59:27,844
+- Vá lá! Quero ir a Hogsmeade!
+- Não te preocupes.
+
+653
+00:59:27,844 --> 00:59:29,210
+A gente põe-te lá.
+
+654
+00:59:29,210 --> 00:59:32,093
+- Sabemos um caminho mais rápido.
+- Se fizeres menos barulho...
+
+655
+00:59:32,093 --> 00:59:35,849
+- Santinho...
+- Larguem-me!
+
+656
+00:59:36,478 --> 00:59:39,052
+- Vá lá, Harry...
+- Junta-te aos crescidos.
+
+657
+00:59:40,483 --> 00:59:42,606
+Que estão a fazer?
+
+658
+00:59:42,860 --> 00:59:45,696
+- Que parvoíce é esta?
+-"Que parvoíce é esta?", pergunta ele.
+
+659
+00:59:45,696 --> 00:59:49,197
+- Isso aí é a chave do nosso sucesso.
+- Custa-nos muito dar-ta,
+
+660
+00:59:49,197 --> 00:59:52,285
+mas tu precisas mais dele do que nós.
+
+661
+00:59:52,285 --> 00:59:54,197
+Se não te importas, George...
+
+662
+00:59:54,197 --> 00:59:57,658
+Juro solenemente
+que não preparo coisa boa.
+
+663
+01:00:01,297 --> 01:00:04,879
+"Os Srs. Moony, Wormtail,
+Padfoot e Prongs,
+
+664
+01:00:05,300 --> 01:00:08,254
+têm o prazer de apresentar
+o Mapa do Salteador."
+
+665
+01:00:08,512 --> 01:00:10,754
+Devemos-lhe tanto!
+
+666
+01:00:14,309 --> 01:00:18,142
+Esperem lá!
+Isto é Hogwarts! E isto aqui...
+
+667
+01:00:18,142 --> 01:00:20,770
+- Não! É mesmo...?
+- O Dumbledore.
+
+668
+01:00:20,770 --> 01:00:22,270
+- No gabinete dele.
+- A andar para cá e para lá.
+
+669
+01:00:22,270 --> 01:00:24,400
+Faz isso imensas vezes.
+
+670
+01:00:24,612 --> 01:00:26,439
+- Então este mapa mostra...
+- Toda a gente.
+
+671
+01:00:26,656 --> 01:00:28,649
+- Onde estão.
+- O que fazem.
+
+672
+01:00:28,649 --> 01:00:29,939
+- Todos os minutos.
+- De todos os dias.
+
+673
+01:00:29,939 --> 01:00:33,118
+- Genial! Onde o arranjaram?
+- Roubámo-lo do gabinete do Filch, claro.
+
+674
+01:00:33,118 --> 01:00:36,039
+- Logo no primeiro ano.
+- Há sete passagens secretas
+
+675
+01:00:36,039 --> 01:00:38,876
+para o exterior.
+- Nós recomendamos esta.
+
+676
+01:00:38,876 --> 01:00:40,123
+A passagem da Bruxa Zarolha.
+
+677
+01:00:40,123 --> 01:00:42,210
+Vai dar directamente à cave
+do Doce dos Duques.
+
+678
+01:00:42,210 --> 01:00:44,207
+Mas despacha-te.
+O Filch vem aí.
+
+679
+01:00:44,207 --> 01:00:47,798
+E não te esqueças, quando acabares,
+dá-lhe uma palmadinha e diz:
+
+680
+01:00:47,798 --> 01:00:52,299
+"Transgressão terminada" . Se não
+o fizeres, qualquer um poderá lê-lo.
+
+681
+01:01:47,072 --> 01:01:51,152
+É o edifício mais assombrado
+da Grã-Bretanha. Já te disse?
+
+682
+01:01:51,152 --> 01:01:52,986
+Duas vezes.
+
+683
+01:01:53,703 --> 01:01:56,029
+Queres aproximar-te mais?
+
+684
+01:01:56,248 --> 01:01:57,956
+Da Cabana dos Gritos?
+
+685
+01:01:58,250 --> 01:02:01,121
+Para dizer a verdade,
+estou bem aqui.
+
+686
+01:02:01,121 --> 01:02:03,122
+Ora, ora!
+Vejam quem aqui está!
+
+687
+01:02:03,505 --> 01:02:05,794
+O casalinho anda à procura
+duma casa de sonho?
+
+688
+01:02:06,008 --> 01:02:08,131
+É demasiado nobre para ti, não é,
+Weasley-bolas?
+
+689
+01:02:08,131 --> 01:02:10,300
+A tua família não dorme toda
+no mesmo quarto?
+
+690
+01:02:10,513 --> 01:02:13,716
+- Cala a boca, Malfoy.
+- Que antipático!
+
+691
+01:02:14,017 --> 01:02:19,141
+Chegou o momento de ensinar
+o Weasley-bolas a respeitar os superiores.
+
+692
+01:02:19,355 --> 01:02:22,771
+- Espero que não estejas a referir-te a ti!
+- Como te atreves a falar comigo?
+
+693
+01:02:22,771 --> 01:02:24,935
+Sua imunda sangue de lama!
+
+694
+01:02:29,157 --> 01:02:30,699
+Quem está aí?
+
+695
+01:02:36,915 --> 01:02:39,288
+Não fiquem aí especados!
+Façam qualquer coisa!
+
+696
+01:02:59,105 --> 01:03:01,393
+Que se passa, Malfoy?
+Perdeste os esquis?
+
+697
+01:03:05,361 --> 01:03:06,772
+Sai da frente!
+
+698
+01:03:09,032 --> 01:03:12,032
+Malfoy, espera!
+
+699
+01:03:15,788 --> 01:03:17,745
+Harry!
+
+700
+01:03:17,745 --> 01:03:21,960
+C'os diabos, Harry!
+Não teve graça nenhuma!
+
+701
+01:03:23,129 --> 01:03:26,380
+Aqueles velhacos!
+Nunca me falaram do Mapa do Salteador!
+
+702
+01:03:26,591 --> 01:03:30,007
+O Harry não vai ficar com ele,
+vai entregá-lo à Professora McGonagall.
+
+703
+01:03:30,262 --> 01:03:34,212
+- Não vais?
+- Claro, isso e o Manto da Invisibilidade.
+
+704
+01:03:34,212 --> 01:03:36,882
+Vejam, a Madame Rosmerta!
+
+705
+01:03:37,102 --> 01:03:39,390
+- O Ron gosta dela.
+- Não é verdade!
+
+706
+01:03:39,390 --> 01:03:41,436
+- Professora McGonagall!
+- Cornelius!
+
+707
+01:03:41,436 --> 01:03:42,982
+Permita, Sr. Ministro.
+
+708
+01:03:45,235 --> 01:03:48,153
+Rosmerta, minha querida.
+O negócio corre bem, espero?
+
+709
+01:03:48,364 --> 01:03:52,231
+Correria muito melhor, se o Ministério
+não me enviasse dementors
+
+710
+01:03:52,231 --> 01:03:56,454
+ao pub noite sim, noite não.
+
+711
+01:03:56,873 --> 01:04:00,076
+- Temos um assassino à solta.
+- Sirius Black em Hogsmeade?!
+
+712
+01:04:00,418 --> 01:04:02,874
+Que pode trazê-lo aqui?
+
+713
+01:04:02,874 --> 01:04:04,125
+O Harry Potter.
+
+714
+01:04:04,943 --> 01:04:06,184
+Harry Potter?!
+
+715
+01:04:07,028 --> 01:04:07,737
+Venha!
+
+716
+01:04:11,837 --> 01:04:12,534
+Harry!
+
+717
+01:04:21,398 --> 01:04:24,233
+Hoje não é permitida a entrada
+a feiticeiros menores.
+
+718
+01:04:24,233 --> 01:04:25,854
+Fechem a porcaria da porta!
+
+719
+01:04:26,069 --> 01:04:28,062
+- Que malcriado!
+- Cabeças duras!
+
+720
+01:04:28,322 --> 01:04:29,900
+Como se atrevem?!
+
+721
+01:04:30,115 --> 01:04:33,281
+A quem chamaram cabeça dura?!
+
+722
+01:04:34,035 --> 01:04:37,950
+Ninguém entra num pub
+para apanhar sustos de morte!
+
+723
+01:04:37,950 --> 01:04:42,038
+Garanto-lhe que o Dumbledore
+também não quer dementors por aí.
+
+724
+01:04:44,839 --> 01:04:46,630
+Diga-me lá então o que se passa.
+
+725
+01:04:46,630 --> 01:04:51,260
+Há muitos anos, quando os pais do
+Harry Potter perceberam que iam morrer,
+
+726
+01:04:51,260 --> 01:04:54,098
+desapareceram da circulação.
+Poucos sabiam do esconderijo.
+
+727
+01:04:54,098 --> 01:04:58,139
+Um deles era Sirius Black
+e ele contou a "Quem nós sabemos" .
+
+728
+01:04:58,352 --> 01:05:01,555
+Naquela noite, não só conduziu
+"Quem nós Sabemos" aos Potter,
+
+729
+01:05:01,555 --> 01:05:05,100
+como também matou um dos
+amigos deles, o Peter Pettigrew.
+
+730
+01:05:05,359 --> 01:05:07,518
+Era um rapazinho insignificante,
+
+731
+01:05:07,518 --> 01:05:09,937
+sempre atrás do Sirius Black.
+- Lembro-me dele.
+
+732
+01:05:09,937 --> 01:05:11,941
+Nunca perdia de vista o James
+e o Sirius.
+
+733
+01:05:11,941 --> 01:05:13,148
+Que aconteceu?
+
+734
+01:05:13,148 --> 01:05:14,862
+O Peter Pettigrew
+tentou avisar os Potter,
+
+735
+01:05:14,862 --> 01:05:16,447
+e teria conseguido fazê-lo,
+
+736
+01:05:16,447 --> 01:05:19,201
+se não encontrasse
+um velho amigo, o Sirius Black.
+
+737
+01:05:19,416 --> 01:05:23,248
+O Black era malvadíssimo.
+Não se limitou a matá-lo.
+
+738
+01:05:23,462 --> 01:05:25,620
+Destruiu-o!
+
+739
+01:05:26,256 --> 01:05:31,001
+Um dedo... Foi tudo o que restou dele.
+Um dedo... Mais nada.
+
+740
+01:05:31,001 --> 01:05:34,214
+O Black pode não ter tocado nos Potter,
+
+741
+01:05:34,214 --> 01:05:37,593
+mas eles morreram por causa dele!
+- E agora, quer acabar o que começou.
+
+742
+01:05:37,810 --> 01:05:40,645
+- Até custa a crer!
+- Mas isso não é o pior.
+
+743
+01:05:40,855 --> 01:05:44,603
+- Pode haver coisa pior?
+- Pode. O Sirius Black era
+
+744
+01:05:44,817 --> 01:05:46,940
+e continua a ser
+nos dias de hoje...
+
+745
+01:05:47,403 --> 01:05:49,028
+... padrinho do Harry Potter!
+
+746
+01:05:57,663 --> 01:05:59,952
+Ron, olha!
+
+747
+01:06:05,672 --> 01:06:08,245
+- Desculpem, com licença.
+- Feliz Natal.
+
+748
+01:06:46,714 --> 01:06:48,541
+Harry, que aconteceu?
+
+749
+01:06:51,052 --> 01:06:53,175
+Ele era amigo deles!
+
+750
+01:06:53,679 --> 01:06:55,921
+E traiu-os!
+
+751
+01:06:56,724 --> 01:06:58,682
+Era amigo deles!
+
+752
+01:07:00,937 --> 01:07:02,895
+Espero que ele me encontre.
+
+753
+01:07:03,523 --> 01:07:05,849
+Porque quando me encontrar,
+eu estarei pronto!
+
+754
+01:07:06,318 --> 01:07:08,940
+E quando ele me encontrar,
+mato-o!
+
+755
+01:07:23,210 --> 01:07:24,835
+Harry?
+
+756
+01:07:25,337 --> 01:07:26,997
+Cá estás tu.
+Sempre vieste...
+
+757
+01:07:27,381 --> 01:07:31,249
+Queres mesmo fazer isto?
+Isto é magia avançada,
+
+758
+01:07:31,249 --> 01:07:33,883
+muito para lá da feitiçaria vulgar.
+
+759
+01:07:33,883 --> 01:07:35,597
+Tenho a certeza.
+
+760
+01:07:36,182 --> 01:07:38,638
+Está tudo a postos.
+
+761
+01:07:38,893 --> 01:07:42,262
+O feitiço que vou tentar ensinar-te
+chama-se Encantamento Patronus.
+
+762
+01:07:42,480 --> 01:07:43,938
+Já ouviste falar dele?
+
+763
+01:07:45,942 --> 01:07:49,525
+Um Patronus é uma espécie de força
+positiva. Para o feiticeiro que o invoca,
+
+764
+01:07:49,525 --> 01:07:54,358
+funciona como um escudo, e o dementor
+alimenta-se dele e não do feiticeiro.
+
+765
+01:07:54,358 --> 01:07:58,366
+Mas para funcionar,
+tens de evocar uma memória.
+
+766
+01:07:58,366 --> 01:08:02,489
+Não pode ser uma qualquer,
+tem de ser uma feliz e poderosa.
+
+767
+01:08:02,710 --> 01:08:06,494
+Achas que és capaz?
+Muito bem.
+
+768
+01:08:07,714 --> 01:08:09,920
+Fecha os olhos.
+
+769
+01:08:11,718 --> 01:08:13,592
+Concentra-te.
+
+770
+01:08:14,847 --> 01:08:16,923
+Explora o teu passado.
+
+771
+01:08:17,433 --> 01:08:19,307
+Já tens uma recordação?
+
+772
+01:08:20,895 --> 01:08:23,101
+Deixa-te preencher por ela.
+
+773
+01:08:23,814 --> 01:08:25,891
+Perde-te nela.
+
+774
+01:08:26,234 --> 01:08:28,515
+Agora pronuncia o encantamento.
+
+775
+01:08:29,059 --> 01:08:31,478
+<i>Expecto Patronum.</i>
+
+776
+01:08:31,990 --> 01:08:34,293
+<i>Expecto Patronum.</i>
+
+777
+01:08:34,293 --> 01:08:35,337
+Muito bem.
+
+778
+01:08:38,621 --> 01:08:41,955
+Estás pronto?
+Prepara a varinha...
+
+779
+01:08:59,477 --> 01:09:02,393
+<i>Expecto Patronum!</i>
+
+780
+01:09:06,828 --> 01:09:07,579
+<i>Harry!</i>
+
+781
+01:09:10,487 --> 01:09:14,568
+Vamos lá... Senta-te.
+Respira fundo.
+
+782
+01:09:14,867 --> 01:09:18,651
+Já passou. Não contava que
+conseguisses logo à primeira.
+
+783
+01:09:19,080 --> 01:09:24,205
+Isso seria espectacular. Come isto,
+vais ver que te sentes melhor.
+
+784
+01:09:25,045 --> 01:09:27,914
+Mas que dementor terrível!
+
+785
+01:09:28,130 --> 01:09:30,882
+Não, não, não...
+Aquilo era um Sem Forma, Harry.
+
+786
+01:09:30,882 --> 01:09:34,217
+Um verdadeiro dementor
+seria muitíssimo pior.
+
+787
+01:09:34,217 --> 01:09:37,008
+Já agora, em que pensaste?
+
+788
+01:09:37,008 --> 01:09:40,882
+- Que recordação escolheste?
+- A primeira vez que andei de vassoura.
+
+789
+01:09:42,103 --> 01:09:45,437
+Isso não chega.
+Nem de longe!
+
+790
+01:09:52,323 --> 01:09:57,565
+Há mais uma.
+Não é propriamente feliz.
+
+791
+01:09:59,496 --> 01:10:01,619
+Bom, é...
+
+792
+01:10:01,619 --> 01:10:04,364
+Foi a vez que me senti mais feliz,
+
+793
+01:10:04,364 --> 01:10:08,493
+mas é complicado.
+- É forte?
+
+794
+01:10:12,885 --> 01:10:15,721
+Então vamos experimentar.
+Estás pronto?
+
+795
+01:10:17,515 --> 01:10:19,259
+Vamos a isso.
+
+796
+01:10:29,319 --> 01:10:32,569
+<i>Expecto Patronum!</i>
+
+797
+01:10:34,265 --> 01:10:37,196
+<i>Expecto Patronum!</i>
+
+798
+01:10:59,970 --> 01:11:00,283
+Boa!
+
+799
+01:11:02,436 --> 01:11:05,852
+Muito bem, Harry!
+Muito bem!
+
+800
+01:11:06,399 --> 01:11:10,527
+- Acho que por hoje chega.
+- Sim, senta-te.
+
+801
+01:11:10,527 --> 01:11:13,103
+Come isto, ajuda-te.
+A sério que ajuda.
+
+802
+01:11:13,103 --> 01:11:15,073
+E já agora fica sabendo, Harry,
+
+803
+01:11:15,073 --> 01:11:19,239
+acho que teu pai
+não se teria saído melhor!
+
+804
+01:11:19,239 --> 01:11:21,451
+E olha que isso não é fácil!
+
+805
+01:11:23,625 --> 01:11:25,617
+Estava a pensar nele...
+
+806
+01:11:25,617 --> 01:11:27,952
+... e na minha mãe.
+
+807
+01:11:27,952 --> 01:11:30,371
+A ver as caras deles.
+
+808
+01:11:31,007 --> 01:11:33,712
+Estavam a falar comigo.
+
+809
+01:11:33,712 --> 01:11:36,128
+Só a falar...
+
+810
+01:11:36,128 --> 01:11:38,630
+Foi a recordação que escolhi.
+
+811
+01:11:40,267 --> 01:11:42,722
+Nem sequer sei se é real.
+
+812
+01:11:43,228 --> 01:11:45,386
+Mas é a melhor que tenho.
+
+813
+01:11:54,615 --> 01:11:56,940
+- Está um lindo dia.
+- Magnífico!
+
+814
+01:11:56,940 --> 01:11:59,110
+Excepto para quem foi feito em postas.
+
+815
+01:11:59,110 --> 01:12:01,694
+Feito em postas? Que queres dizer?
+
+816
+01:12:01,694 --> 01:12:05,040
+- O Ronald perdeu a ratazana.
+- Não perdi nada,
+
+817
+01:12:05,040 --> 01:12:07,333
+o teu gato é que a matou!
+- Que tolice!
+
+818
+01:12:07,333 --> 01:12:10,837
+Harry, tu viste o modo como
+aquela fera sedenta de sangue dela
+
+819
+01:12:10,837 --> 01:12:14,921
+anda sempre a rondar por aí!
+E o Scabbers desapareceu!
+
+820
+01:12:14,921 --> 01:12:17,965
+Talvez devesses aprender a tomar
+conta dos teus animais de estimação!
+
+821
+01:12:17,965 --> 01:12:20,215
+- O teu gato matou-o!
+- Não matou nada.
+
+822
+01:12:20,215 --> 01:12:21,886
+- Matou!
+- Não matou!
+
+823
+01:12:23,937 --> 01:12:26,559
+Como correu o inquérito, Hagrid?
+
+824
+01:12:26,559 --> 01:12:30,017
+Primeiro, os membros da comissão
+
+825
+01:12:30,017 --> 01:12:32,863
+explicaram por que estávamos ali.
+
+826
+01:12:34,740 --> 01:12:37,409
+Depois, eu levantei-me e expliquei o que
+aconteceu. Disse que o Buckbeak
+
+827
+01:12:37,409 --> 01:12:40,530
+é um bom hipogrifo,
+cuida bem das penas...
+
+828
+01:12:40,746 --> 01:12:43,782
+Depois falou o Lucius Malfoy.
+Já estão a imaginar...
+
+829
+01:12:43,782 --> 01:12:47,161
+Disse que o Buckbeak
+é uma criatura mortal e perigosa
+
+830
+01:12:47,161 --> 01:12:50,373
+capaz de nos matar
+sem a menor hesitação.
+
+831
+01:12:50,589 --> 01:12:52,381
+E depois?
+
+832
+01:12:53,092 --> 01:12:55,797
+Depois exigiu o pior,
+o velho Lucius.
+
+833
+01:12:55,797 --> 01:13:00,099
+- Não me digas que te vão despedir!
+- Não, não me despediram.
+
+834
+01:13:02,185 --> 01:13:05,185
+Mas o Buckbeak foi condenado à morte!
+
+835
+01:13:33,008 --> 01:13:37,587
+Aranhas. Isto está cheio de aranhas!
+Aranhas. Querem que faça sapateado,
+
+836
+01:13:37,805 --> 01:13:40,343
+mas eu não quero!
+- Diz isso às aranhas.
+
+837
+01:13:40,558 --> 01:13:44,508
+Sim, vou dizer... Eu digo-lhes.
+Digo-lhes amanhã.
+
+838
+01:14:02,663 --> 01:14:04,822
+Peter Pettigrew?
+Era um rapazinho insignificante,
+
+839
+01:14:04,822 --> 01:14:08,119
+sempre atrás do Sirius Black.
+- O Black era malvadíssimo.
+
+840
+01:14:08,336 --> 01:14:10,792
+Não se limitou a matá-lo.
+Destruiu-o!
+
+841
+01:14:18,889 --> 01:14:22,341
+- Tira-me essa luz de cima!
+- Desculpe.
+
+842
+01:15:05,604 --> 01:15:09,732
+- Então, rapaz?
+- Queremos dormir!
+
+843
+01:15:17,949 --> 01:15:20,523
+<i>Transgressão terminada!
+Nox.</i>
+
+844
+01:15:22,855 --> 01:15:23,585
+Potter.
+
+845
+01:15:24,248 --> 01:15:27,747
+Que faz a vaguear pelos corredores
+a esta hora da noite?
+
+846
+01:15:27,747 --> 01:15:29,294
+Tive uma crise de
+sonambulismo.
+
+847
+01:15:29,294 --> 01:15:31,792
+É extraordinariamente parecido
+com o seu pai...
+
+848
+01:15:31,792 --> 01:15:36,710
+Ele também se passeava
+arrogantemente pelo castelo...
+
+849
+01:15:36,928 --> 01:15:41,257
+O meu pai não era arrogante!
+E eu também não sou.
+
+850
+01:15:42,017 --> 01:15:45,100
+Se não se importa, agradeço
+que baixe a varinha.
+
+851
+01:15:48,700 --> 01:15:50,527
+Mostre-me o que tem nos bolsos.
+
+852
+01:15:52,204 --> 01:15:54,825
+Mostre-me o que tem aí!
+
+853
+01:15:57,751 --> 01:15:59,376
+O que é isto?
+
+854
+01:15:59,376 --> 01:16:02,795
+- Um pedaço de pergaminho.
+- Não me diga... Abra-o lá.
+
+855
+01:16:09,305 --> 01:16:13,053
+Revela os teus segredos.
+
+856
+01:16:16,854 --> 01:16:18,313
+Leia.
+
+857
+01:16:20,775 --> 01:16:26,280
+"Os Srs. Moony, Wormtail,
+Padfoot e Prongs
+
+858
+01:16:26,280 --> 01:16:30,576
+apresentam os seus cumprimentos
+ao Professor Snape e..."
+
+859
+01:16:30,869 --> 01:16:32,363
+Continua.
+
+860
+01:16:33,538 --> 01:16:37,406
+"... pedem que ele não meta o seu grande nariz
+nos assuntos das outras pessoas."
+
+861
+01:16:37,626 --> 01:16:40,163
+- Seu pirralho insolente...!
+- Professor?
+
+862
+01:16:41,796 --> 01:16:44,501
+Vejam só, Lupin!
+
+863
+01:16:44,501 --> 01:16:49,383
+Vai dar um passeiozinho
+ao luar, é isso?
+
+864
+01:16:50,764 --> 01:16:53,172
+Harry. Estás bem?
+
+865
+01:16:53,392 --> 01:16:55,848
+É o que se vai ver.
+
+866
+01:16:56,687 --> 01:17:00,436
+Acabei de confiscar um artefacto
+curiosíssimo ao Sr. Potter.
+
+867
+01:17:00,436 --> 01:17:04,143
+Ora veja, Lupin.
+Parece ser a sua área...
+
+868
+01:17:04,143 --> 01:17:09,112
+- Está obviamente cheio de magia negra.
+- Duvido muito, Severus.
+
+869
+01:17:09,112 --> 01:17:12,782
+É apenas um pergaminho
+concebido para insultar
+
+870
+01:17:12,782 --> 01:17:16,821
+quem tentar lê-lo. Desconfio
+que é um dos produtos da Zonko.
+
+871
+01:17:16,821 --> 01:17:21,247
+Todavia, é melhor averiguar
+se possui alguma qualidade escondida.
+
+872
+01:17:21,247 --> 01:17:24,541
+Afinal, como bem disse,
+é a minha especialidade.
+
+873
+01:17:24,541 --> 01:17:26,337
+Harry,
+importas-te de vir comigo?
+
+874
+01:17:28,051 --> 01:17:29,094
+Professor.
+Boa noite.
+
+875
+01:17:34,058 --> 01:17:36,810
+Mas você está surdo?
+Apague a luz!
+
+876
+01:17:41,900 --> 01:17:43,359
+Entra.
+
+877
+01:17:45,154 --> 01:17:50,361
+Não faço a menor ideia como é que
+este mapa foi parar às tuas mãos!
+
+878
+01:17:50,361 --> 01:17:55,031
+Todavia, estou espantadíssimo
+que não no-lo tenhas entregue!
+
+879
+01:17:55,031 --> 01:17:58,871
+Já pensaste, que
+nas mãos do Sirius Black,
+
+880
+01:17:58,871 --> 01:18:01,035
+isto é um mapa que conduz a ti?
+
+881
+01:18:02,397 --> 01:18:03,580
+- Não.
+- Não, senhor.
+
+882
+01:18:06,342 --> 01:18:09,378
+O teu pai também nunca
+se preocupou muito com regras,
+
+883
+01:18:09,378 --> 01:18:13,883
+mas ele e tua mãe
+deram a vida para salvar a tua.
+
+884
+01:18:14,517 --> 01:18:18,598
+Arriscar o sacrifício deles
+deambulando desprotegido pelo castelo
+
+885
+01:18:18,598 --> 01:18:23,233
+com um assassino à solta, parece-me
+uma forma bem ingrata de lhes retribuir!
+
+886
+01:18:23,443 --> 01:18:25,602
+Não voltarei a encobrir-te, Harry,
+
+887
+01:18:25,602 --> 01:18:28,234
+ouviste bem?
+- Sim, senhor.
+
+888
+01:18:28,234 --> 01:18:32,071
+Quero que regresses ao dormitório
+e fiques lá.
+
+889
+01:18:32,071 --> 01:18:36,989
+E não faças desvios.
+Se o fizeres, saberei.
+
+890
+01:18:41,670 --> 01:18:46,083
+Professor, só para que saiba, acho
+que esse mapa nem sempre funciona.
+
+891
+01:18:46,968 --> 01:18:51,926
+Há pouco, indicou-me a presença de
+uma pessoa que eu sei que está morta.
+
+892
+01:18:52,348 --> 01:18:55,099
+Não me digas...
+E que pessoa é essa?
+
+893
+01:18:55,099 --> 01:18:56,809
+O Peter Pettigrew.
+
+894
+01:18:59,438 --> 01:19:01,514
+Isso não é possível.
+
+895
+01:19:02,733 --> 01:19:04,394
+Foi o que eu vi.
+
+896
+01:19:07,238 --> 01:19:08,946
+Boa noite, Professor.
+
+897
+01:19:12,452 --> 01:19:16,616
+<i>Abram-me esses espíritos!
+Têm de olhar para o além!</i>
+
+898
+01:19:16,616 --> 01:19:22,211
+A arte da observação dos cristais
+está na libertação do Olho Interior.
+
+899
+01:19:22,211 --> 01:19:25,712
+Só assim poderão ver.
+Tentem novamente.
+
+900
+01:19:26,258 --> 01:19:28,334
+Que temos aqui?
+
+901
+01:19:30,679 --> 01:19:32,886
+Importa-se que eu tente?
+
+902
+01:19:35,309 --> 01:19:38,263
+O Cruel, possivelmente.
+
+903
+01:19:40,439 --> 01:19:44,520
+Minha querida,
+desde que entrou na minha aula
+
+904
+01:19:44,520 --> 01:19:48,477
+senti que a menina não tem
+o espírito adequado
+
+905
+01:19:48,477 --> 01:19:52,570
+às artes divinatórias.
+Está a ver aqui?
+
+906
+01:19:52,570 --> 01:19:56,409
+Pode ser muito jovem,
+mas o seu coração já está engelhado
+
+907
+01:19:56,409 --> 01:20:00,579
+como o de uma velha. A sua alma,
+ressequida como as páginas de um livro,
+
+908
+01:20:00,579 --> 01:20:03,872
+que a menina lê
+de forma tão diligente.
+
+909
+01:20:19,396 --> 01:20:21,388
+Foi alguma coisa que eu disse?
+
+910
+01:20:26,069 --> 01:20:31,064
+A Hermione passou-se!
+Nunca regulou bem da cabeça,
+
+911
+01:20:31,064 --> 01:20:33,815
+mas agora expõe-se
+à frente de toda a gente!
+
+912
+01:20:33,815 --> 01:20:34,691
+Espera.
+
+913
+01:20:36,372 --> 01:20:39,243
+- É melhor devolver isto.
+- Eu não volto lá!
+
+914
+01:20:39,584 --> 01:20:42,999
+Está bem, até logo.
+- Até logo.
+
+915
+01:21:20,751 --> 01:21:22,628
+Harry Potter...
+
+916
+01:21:32,931 --> 01:21:37,177
+- Professora Trelawney...
+- Ele regressará esta noite.
+
+917
+01:21:37,177 --> 01:21:38,976
+Como disse?
+
+918
+01:21:39,186 --> 01:21:43,813
+Esta noite, aquele que traiu os amigos,
+cujo coração apodrece com o homicídio,
+
+919
+01:21:43,813 --> 01:21:46,023
+soltar-se-á.
+
+920
+01:21:46,023 --> 01:21:48,436
+Sangue inocente será derramado
+
+921
+01:21:48,436 --> 01:21:54,616
+... e Servo e Senhor
+voltarão a reunir-se.
+
+922
+01:22:00,960 --> 01:22:04,209
+Desculpe, meu querido menino.
+Disse alguma coisa?
+
+923
+01:22:05,216 --> 01:22:05,771
+Não!
+
+924
+01:22:07,257 --> 01:22:08,799
+Nada!
+
+925
+01:23:01,396 --> 01:23:05,441
+É incrível matarem o Buckbeak.
+É demasiado horrível...
+
+926
+01:23:05,441 --> 01:23:08,361
+- A coisa vai de mal a pior!
+- O meu pai disse
+
+927
+01:23:08,361 --> 01:23:10,486
+que posso ficar
+com a cabeça do hipogrifo.
+
+928
+01:23:10,486 --> 01:23:12,690
+Vou oferecê-la à sala
+comum dos Gryffindor.
+
+929
+01:23:15,536 --> 01:23:17,695
+- Vejam quem aqui está!
+- Vieram assistir ao espectáculo?
+
+930
+01:23:17,695 --> 01:23:20,992
+Sua pérfida barata malvada e nojenta!
+
+931
+01:23:23,502 --> 01:23:25,744
+Não sujes as mãos nele!
+
+932
+01:23:39,853 --> 01:23:41,893
+Malfoy, estás bem?
+
+933
+01:23:42,105 --> 01:23:46,317
+- Vamos!
+- Nem uma palavra a ninguém, ouviram?
+
+934
+01:23:46,317 --> 01:23:50,897
+- Soube-me bem.
+- Foi mais que bem, foi genial!
+
+935
+01:24:10,343 --> 01:24:14,637
+Olhem para ele... Adora o cheiro das
+árvores quando o vento passa por elas...
+
+936
+01:24:14,637 --> 01:24:17,094
+E se o soltássemos?
+
+937
+01:24:17,094 --> 01:24:19,674
+Saberiam que fui eu
+e isso trazia sarilhos ao Dumbledore.
+
+938
+01:24:19,674 --> 01:24:22,853
+Ele vem aí, o Dumbledore.
+
+939
+01:24:22,853 --> 01:24:25,394
+Diz que quer estar comigo quando...
+
+940
+01:24:26,401 --> 01:24:28,440
+Quando for o momento.
+
+941
+01:24:28,440 --> 01:24:29,940
+O Dumbledore é um homem formidável.
+
+942
+01:24:30,947 --> 01:24:32,489
+Formidável...
+
+943
+01:24:34,951 --> 01:24:37,953
+- Nós também ficamos contigo.
+- Não ficam nada!
+
+944
+01:24:37,953 --> 01:24:41,288
+Acham que eu quero
+que vejam uma coisa destas?!
+
+945
+01:24:41,288 --> 01:24:45,123
+Bebam lá o vosso chá e ponham-se
+a mexer. Antes de ires, Ron...
+
+946
+01:24:52,553 --> 01:24:54,925
+Scabbers! Estás vivo!
+
+947
+01:24:54,925 --> 01:24:56,556
+Vê lá se vigias melhor
+os teus bichinhos.
+
+948
+01:24:56,556 --> 01:24:58,805
+Pelos vistos, tens de pedir desculpa
+a uma certa pessoa.
+
+949
+01:24:58,805 --> 01:25:02,725
+Quando voltar a ver o Crookshanks,
+peço-lhe desculpa.
+
+950
+01:25:02,725 --> 01:25:03,976
+Referia-me a mim!
+
+951
+01:25:04,690 --> 01:25:06,897
+Céus! Que foi isso?!
+
+952
+01:25:13,365 --> 01:25:14,776
+Hagrid!
+
+953
+01:25:16,702 --> 01:25:18,031
+Bolas!
+
+954
+01:25:22,458 --> 01:25:26,539
+É tarde, está quase escuro.
+Não deviam estar aqui.
+
+955
+01:25:26,539 --> 01:25:29,251
+Se vos apanham fora do castelo
+a estas horas, estão tramados.
+
+956
+01:25:29,251 --> 01:25:30,497
+Arranjam um belo sarilho!
+
+957
+01:25:30,717 --> 01:25:34,252
+Sobretudo tu, Harry.
+Abro já!
+
+958
+01:25:35,681 --> 01:25:38,088
+Rápido, rápido!
+
+959
+01:25:38,088 --> 01:25:40,010
+Hagrid.
+
+960
+01:25:40,010 --> 01:25:44,099
+- Não te preocupes, vai correr tudo bem.
+- Vá, escondam-se!
+
+961
+01:25:45,941 --> 01:25:48,728
+Aquilo ali na encosta é urze.
+
+962
+01:26:07,880 --> 01:26:11,463
+<i>A Comissão para a Destruição</i>
+
+963
+01:26:11,463 --> 01:26:14,801
+<i>das Criaturas Perigosas
+decidiu que o hipogrifo, Buckbeak,</i>
+
+964
+01:26:14,801 --> 01:26:20,476
+<i>doravante nomeado como o condenado,
+será executado hoje ao anoitecer.</i>
+
+965
+01:26:20,476 --> 01:26:24,179
+<i>Deixa lá, Hagrid...</i>
+
+966
+01:26:28,944 --> 01:26:30,688
+O que foi?
+
+967
+01:26:30,688 --> 01:26:32,938
+Pareceu-me ver...
+
+968
+01:26:32,938 --> 01:26:35,237
+- Esquece.
+- Vamos.
+
+969
+01:27:41,560 --> 01:27:43,767
+Ele mordeu-me! Scabbers!
+
+970
+01:27:47,275 --> 01:27:50,810
+-Ron!
+- Scabbers, anda cá!
+
+971
+01:27:52,321 --> 01:27:54,064
+Espera!
+
+972
+01:27:59,996 --> 01:28:04,290
+- Scabbers, mordeste-me!
+- Harry, já reparaste que árvore é esta?
+
+973
+01:28:04,290 --> 01:28:06,748
+Isto não é bom. Ron, foge!
+
+974
+01:28:09,881 --> 01:28:12,419
+Harry, Hermione, fujam!
+
+975
+01:28:13,010 --> 01:28:14,634
+É o Cruel!
+
+976
+01:28:21,643 --> 01:28:24,679
+- Harry!
+- Ron, espera!
+
+977
+01:28:28,484 --> 01:28:30,856
+Ajudem-me!
+
+978
+01:28:33,638 --> 01:28:35,245
+- Ron, Ron!
+- Ron!
+
+979
+01:28:51,090 --> 01:28:53,083
+Anda!
+
+980
+01:28:55,011 --> 01:28:56,422
+Cuidado!
+
+981
+01:29:00,475 --> 01:29:02,219
+Baixa-te!
+
+982
+01:29:38,560 --> 01:29:39,232
+Harry!
+
+983
+01:29:56,283 --> 01:29:59,284
+- Desculpa.
+- Não faz mal.
+
+984
+01:29:59,284 --> 01:30:03,367
+- Onde achas que isto vai dar?
+- Tenho um palpite.
+
+985
+01:30:03,916 --> 01:30:05,410
+Só espero estar enganado...
+
+986
+01:30:25,104 --> 01:30:28,271
+Estamos na Cabana dos Gritos,
+não estamos?
+
+987
+01:30:29,359 --> 01:30:30,983
+Anda.
+
+988
+01:30:41,710 --> 01:30:42,263
+Ron.
+
+989
+01:30:43,289 --> 01:30:45,911
+- Ron, estás bem!
+- O cão! Onde está?
+
+990
+01:30:46,126 --> 01:30:49,329
+É uma armadilha! Ele é o cão!
+É um Animagus!
+
+991
+01:31:03,226 --> 01:31:06,014
+Se quiser matar o Harry,
+também tem de nos matar!
+
+992
+01:31:06,014 --> 01:31:07,979
+Não, apenas um morrerá esta noite.
+
+993
+01:31:08,190 --> 01:31:10,099
+Então vai ser você!
+
+994
+01:31:16,324 --> 01:31:18,482
+Vais matar-me, Harry?
+
+995
+01:31:19,702 --> 01:31:21,529
+<i>Expelliarmus!</i>
+
+996
+01:31:25,250 --> 01:31:29,413
+Mas que bem, Sirius...
+Estás um bocado em baixo, não?
+
+997
+01:31:29,628 --> 01:31:32,665
+Finalmente a carne reflecte
+a loucura que aí vai dentro...
+
+998
+01:31:33,257 --> 01:31:36,876
+E de loucuras internas percebes tu,
+não é, Remus?
+
+999
+01:31:47,314 --> 01:31:49,805
+Encontrei-o! Está aqui!
+
+1000
+01:31:49,805 --> 01:31:53,187
+- Vamos matá-lo!
+- Não! Eu confiei em si!
+
+1001
+01:31:53,612 --> 01:31:57,360
+E afinal foi sempre amigo dele!
+
+1002
+01:31:58,074 --> 01:32:01,111
+Ele é um Lobisomem!
+É por isso que tem faltado às aulas!
+
+1003
+01:32:03,914 --> 01:32:05,622
+Há quanto tempo sabes?
+
+1004
+01:32:06,125 --> 01:32:09,328
+Desde que o Professor Snape
+nos marcou aquele trabalho.
+
+1005
+01:32:09,545 --> 01:32:12,463
+Bem, Hermione, és mesmo a bruxa mais
+esperta que eu já conheci da tua idade.
+
+1006
+01:32:12,463 --> 01:32:15,039
+Chega de conversa, Remus!
+Anda lá! Vamos matá-lo!
+
+1007
+01:32:15,259 --> 01:32:17,881
+- Espera!
+- Estou farto de esperar!
+
+1008
+01:32:17,881 --> 01:32:20,462
+Esperei doze anos!
+
+1009
+01:32:21,098 --> 01:32:23,470
+Em Azkaban!
+
+1010
+01:32:32,944 --> 01:32:34,688
+Muito bem, mata-o.
+
+1011
+01:32:35,280 --> 01:32:39,029
+Mas espera mais um minuto.
+O Harry tem o direito de saber porquê.
+
+1012
+01:32:39,029 --> 01:32:40,778
+Eu sei porquê!
+
+1013
+01:32:40,994 --> 01:32:43,236
+Traiu os meus pais!
+
+1014
+01:32:43,236 --> 01:32:46,331
+- Morreram por sua causa!
+- Não foi por causa dele, Harry.
+
+1015
+01:32:46,331 --> 01:32:48,409
+Alguém traiu realmente os teus pais,
+
+1016
+01:32:48,409 --> 01:32:52,084
+mas alguém que até há pouco tempo
+imaginei que estivesse morto.
+
+1017
+01:32:52,297 --> 01:32:55,749
+- Então quem foi?!
+- Peter Pettigrew!
+
+1018
+01:32:55,749 --> 01:32:59,046
+E está aqui neste quarto!
+Neste preciso momento!
+
+1019
+01:32:59,555 --> 01:33:02,509
+Aparece, Peter!
+
+1020
+01:33:03,019 --> 01:33:04,416
+Aparece, anda brincar!
+
+1021
+01:33:04,689 --> 01:33:05,503
+<i>Expelliarmus!</i>
+
+1022
+01:33:08,648 --> 01:33:11,139
+A vingança é doce.
+
+1023
+01:33:11,139 --> 01:33:13,559
+Como esperei ser eu a apanhar-te...
+
+1024
+01:33:13,559 --> 01:33:15,064
+Severus...
+
+1025
+01:33:15,064 --> 01:33:18,820
+Disse ao Dumbledore que tinhas ajudado
+um velho amigo a entrar no castelo
+
+1026
+01:33:18,820 --> 01:33:19,981
+e aqui está a prova!
+
+1027
+01:33:19,981 --> 01:33:21,488
+Genial, Snape!
+
+1028
+01:33:21,488 --> 01:33:26,038
+Como sempre, aplicaste o teu génio
+e chegaste a uma conclusão errada.
+
+1029
+01:33:26,249 --> 01:33:28,919
+Se me dás licença, o Remus e eu
+temos um assunto
+
+1030
+01:33:28,919 --> 01:33:34,080
+para terminar.
+- Dá-me uma razão! Suplico-te!
+
+1031
+01:33:34,080 --> 01:33:35,247
+Severus,
+não sejas parvo.
+
+1032
+01:33:35,247 --> 01:33:37,542
+Ele não consegue evitá-lo,
+é a força do hábito.
+
+1033
+01:33:38,804 --> 01:33:41,212
+Se se ouvissem...
+Discutem como um casal de velhos!
+
+1034
+01:33:41,212 --> 01:33:43,927
+E se fosses brincar
+com o teu estojo de química?
+
+1035
+01:33:44,476 --> 01:33:46,967
+Eu era capaz de te matar, sabes?
+
+1036
+01:33:47,437 --> 01:33:53,061
+Mas porquê negar isso aos dementors?
+Estão ansiosos por te ver.
+
+1037
+01:33:53,061 --> 01:33:55,940
+Estarei a detectar
+uma pontinha de medo?
+
+1038
+01:33:55,940 --> 01:33:59,613
+O beijo de um dementor!
+Nem imagino o que será...
+
+1039
+01:33:59,613 --> 01:34:02,738
+Diz-se que é um espectáculo
+praticamente insuportável,
+
+1040
+01:34:02,738 --> 01:34:05,196
+mas eu farei os possíveis
+por o aguentar.
+
+1041
+01:34:05,415 --> 01:34:07,657
+Severus, por favor!
+
+1042
+01:34:08,709 --> 01:34:10,702
+Podes passar...
+
+1043
+01:34:15,133 --> 01:34:16,876
+<i>Expelliarmus!</i>
+
+1044
+01:34:18,636 --> 01:34:22,219
+- Harry, que fizeste?!
+- Atacaste um professor!
+
+1045
+01:34:22,432 --> 01:34:25,006
+- Falem-me do Peter Pettigrew.
+- Andou na escola connosco,
+
+1046
+01:34:25,006 --> 01:34:26,845
+julgámos que era nosso amigo.
+
+1047
+01:34:26,845 --> 01:34:30,021
+Não, o Pettigrew está morto.
+Você matou-o!
+
+1048
+01:34:30,021 --> 01:34:33,394
+Também pensei que sim,
+até me dizeres que o viste no Mapa.
+
+1049
+01:34:33,611 --> 01:34:36,397
+- O Mapa estava a mentir.
+- O Mapa nunca mente!
+
+1050
+01:34:36,397 --> 01:34:40,569
+O Pettigrew está vivo!
+E está ali!
+
+1051
+01:34:41,034 --> 01:34:45,613
+- Eu?! Que loucura!
+- Não me refiro a ti! É a tua ratazana!
+
+1052
+01:34:45,914 --> 01:34:49,034
+- O Scabbers está na família há...
+- Doze anos?
+
+1053
+01:34:49,034 --> 01:34:51,701
+É uma vida muito longa
+para uma ratazana vulgar...
+
+1054
+01:34:51,701 --> 01:34:54,453
+- Falta-lhe um dedo, não é?
+- E depois?
+
+1055
+01:34:54,453 --> 01:34:56,376
+A única coisa que encontraram
+de Pettigrew foi o...
+
+1056
+01:34:56,376 --> 01:34:57,588
+Dedo!
+
+1057
+01:34:57,802 --> 01:35:01,053
+O cobarde nojento cortou-o para
+todos pensarem que tinha morrido!
+
+1058
+01:35:01,053 --> 01:35:04,258
+- E depois transformou-se em ratazana.
+- Provem-mo!
+
+1059
+01:35:07,332 --> 01:35:09,526
+- Dá-lho lá, Ron.
+- Que vai fazer com ele?!
+
+1060
+01:35:10,354 --> 01:35:11,137
+Scabbers!
+
+1061
+01:35:11,357 --> 01:35:14,442
+Deixe-o em paz!
+Larguem-no! Que estão a fazer?!
+
+1062
+01:35:36,925 --> 01:35:38,752
+Remus?
+
+1063
+01:35:39,511 --> 01:35:41,006
+És o Sirius?
+
+1064
+01:35:41,006 --> 01:35:43,089
+Os meus velhos amigos!
+
+1065
+01:35:48,730 --> 01:35:52,562
+Harry, olha para ti!
+És tão parecido com o teu pai, o James.
+
+1066
+01:35:52,562 --> 01:35:56,398
+- Éramos os melhores amigos...
+- Como te atreves a falar com o Harry?!
+
+1067
+01:35:57,238 --> 01:35:59,859
+Como ousas falar do James
+à frente dele?
+
+1068
+01:36:00,074 --> 01:36:02,744
+Traíste o James e a Lily,
+entregaste-os ao Voldemort!
+
+1069
+01:36:02,744 --> 01:36:05,283
+Não foi por mal!
+
+1070
+01:36:05,283 --> 01:36:08,290
+Vocês não imaginam as armas
+que o Senhor das Trevas possui!
+
+1071
+01:36:08,500 --> 01:36:11,121
+Pensa bem, Sirius.
+Que terias tu feito?
+
+1072
+01:36:11,503 --> 01:36:12,878
+Que terias tu feito?
+
+1073
+01:36:12,878 --> 01:36:17,085
+Teria morrido! Preferia morrer,
+a trair os meus amigos!
+
+1074
+01:36:19,261 --> 01:36:21,634
+Harry, o James não havia de querer
+que eu morresse.
+
+1075
+01:36:21,847 --> 01:36:27,517
+O teu pai ter-me-ia poupado!
+Teria mostrado misericórdia.
+
+1076
+01:36:28,020 --> 01:36:30,890
+Devias ter percebido, Peter,
+que se o Voldemort não te matasse,
+
+1077
+01:36:30,890 --> 01:36:32,185
+matávamos-te nós. Juntos!
+
+1078
+01:36:35,945 --> 01:36:39,895
+- Harry, este homem...
+- Eu sei o que ele é.
+
+1079
+01:36:39,895 --> 01:36:41,983
+Mas resolvemos isto no castelo.
+
+1080
+01:36:41,983 --> 01:36:47,201
+- Abençoado sejas, rapaz. Abençoado!
+- Largue-me!
+
+1081
+01:36:48,375 --> 01:36:50,746
+Eu disse que o levávamos ao castelo.
+
+1082
+01:36:51,127 --> 01:36:53,333
+Depois, entregamo-lo aos dementors.
+
+1083
+01:36:57,258 --> 01:37:01,007
+Desculpa lá a dentada,
+deve doer-te um bocado...
+
+1084
+01:37:01,007 --> 01:37:04,714
+Um bocado? Um bocado?!
+Quase me arrancou a perna!
+
+1085
+01:37:04,714 --> 01:37:06,434
+Queria apanhar a ratazana.
+
+1086
+01:37:06,434 --> 01:37:10,434
+Normalmente,
+sou um cão muito afável.
+
+1087
+01:37:10,434 --> 01:37:13,358
+Na verdade, o James sugeriu
+mais do que uma vez
+
+1088
+01:37:13,358 --> 01:37:15,856
+que me transformasse definitivamente.
+
+1089
+01:37:15,856 --> 01:37:20,903
+Até era capaz de aguentar a cauda,
+mas as pulgas dão cabo de mim.
+
+1090
+01:37:39,969 --> 01:37:42,508
+É melhor ires.
+
+1091
+01:37:42,508 --> 01:37:44,090
+Não te preocupes.
+Eu fico aqui.
+
+1092
+01:37:44,849 --> 01:37:46,841
+Vai tu, eu fico.
+
+1093
+01:37:47,143 --> 01:37:50,263
+- Estás bem?
+- Estou, vai.
+
+1094
+01:37:51,856 --> 01:37:54,857
+- Parece ser doleroso.
+- Muito...
+
+1095
+01:37:54,857 --> 01:37:57,600
+Talvez ma cortem.
+
+1096
+01:37:58,071 --> 01:38:00,741
+<i>A Madame Pomfrey
+resolve-te isso num instante.</i>
+
+1097
+01:38:00,741 --> 01:38:05,119
+<i>É tarde demais, está perdida.
+Vai ter de ser cortada.</i>
+
+1098
+01:38:06,372 --> 01:38:08,199
+É lindo, não é?
+
+1099
+01:38:09,041 --> 01:38:12,789
+Nunca esquecerei a primeira vez
+que atravessei aqueles portões.
+
+1100
+01:38:13,503 --> 01:38:16,670
+Será agradável voltar a fazê-lo
+como um homem livre.
+
+1101
+01:38:18,801 --> 01:38:21,636
+Tiveste uma atitude muito nobre.
+
+1102
+01:38:22,429 --> 01:38:24,588
+Ele não o merece.
+
+1103
+01:38:24,588 --> 01:38:27,932
+Duvido que o meu pai quisesse
+que dois dos seus melhores amigos
+
+1104
+01:38:27,932 --> 01:38:29,644
+se transformassem em assassinos.
+
+1105
+01:38:29,644 --> 01:38:33,513
+Além disso, se ele morresse,
+a verdade morreria com ele.
+
+1106
+01:38:33,513 --> 01:38:36,064
+Com ele vivo, você está livre.
+
+1107
+01:38:36,064 --> 01:38:39,319
+<i>Os dementors não!
+Tudo menos os dementors!</i>
+
+1108
+01:38:39,530 --> 01:38:42,235
+Ron, não fui um bom amigo?
+Um bom bichinho?
+
+1109
+01:38:42,235 --> 01:38:45,533
+Não permitirás que ele me entregue
+aos dementors, pois não?
+
+1110
+01:38:45,533 --> 01:38:47,696
+Linda menina, menina esperta!
+Decerto não permitirás que...
+
+1111
+01:38:47,696 --> 01:38:48,862
+Afasta-te dela!
+
+1112
+01:38:52,210 --> 01:38:54,120
+Não sei se sabes, Harry...
+
+1113
+01:38:54,120 --> 01:38:58,376
+mas quando nasceste, o James e a Lily
+pediram-me que fosse teu padrinho.
+
+1114
+01:38:58,376 --> 01:39:00,508
+Eu sei.
+
+1115
+01:39:01,679 --> 01:39:05,723
+Compreendo que prefiras
+viver com os teus tios,
+
+1116
+01:39:05,723 --> 01:39:08,382
+mas se quiseres mudar de casa...
+
+1117
+01:39:08,382 --> 01:39:11,051
+Ir viver consigo?!
+
+1118
+01:39:12,356 --> 01:39:15,523
+Foi apenas uma ideia.
+Compreendo que não queiras...
+
+1119
+01:39:15,990 --> 01:39:16,593
+Harry!
+
+1120
+01:39:32,710 --> 01:39:36,375
+Remus, meu velho amigo...
+Tomaste a tua poção esta noite?
+
+1121
+01:39:37,298 --> 01:39:40,917
+Tu sabes o homem que és, Remus!
+É neste coração que tu vives!
+
+1122
+01:39:41,177 --> 01:39:43,051
+Este coração aqui!
+
+1123
+01:39:44,389 --> 01:39:46,382
+Esta carne é apenas carne!
+
+1124
+01:39:47,559 --> 01:39:49,635
+<i>Expelliarmus!</i>
+
+1125
+01:40:11,542 --> 01:40:13,628
+Fujam!
+Fujam!
+
+1126
+01:40:23,889 --> 01:40:25,927
+- Venham!
+- Esperem!
+
+1127
+01:40:25,927 --> 01:40:31,175
+Hermione!
+Má ideia, foi má ideia!
+
+1128
+01:40:31,175 --> 01:40:33,596
+Professor?
+
+1129
+01:40:37,694 --> 01:40:39,236
+Professor Lupin?
+
+1130
+01:40:46,996 --> 01:40:50,246
+Lindo cãozinho, cãozinho lindo...
+
+1131
+01:40:50,666 --> 01:40:53,203
+Cá está você, Potter!
+
+1132
+01:41:26,995 --> 01:41:28,026
+Sirius!
+
+1133
+01:41:28,872 --> 01:41:31,279
+Venha para aqui, Potter!
+
+1134
+01:42:37,109 --> 01:42:38,520
+Sirius!
+
+1135
+01:42:39,780 --> 01:42:41,645
+Não... Sirius!
+
+1136
+01:43:24,157 --> 01:43:27,028
+<i>Expecto Patronum!</i>
+
+1137
+01:45:39,839 --> 01:45:40,590
+<i>Harry?</i>
+
+1138
+01:45:43,134 --> 01:45:45,507
+Vi o meu pai.
+
+1139
+01:45:45,999 --> 01:45:46,664
+O quê?
+
+1140
+01:45:47,472 --> 01:45:49,013
+Afugentou os dementors.
+
+1141
+01:45:49,013 --> 01:45:50,592
+Vi-o do outro lado do lago.
+
+1142
+01:45:50,592 --> 01:45:52,426
+Ouve, Harry, apanharam o Sirius.
+
+1143
+01:45:52,643 --> 01:45:55,479
+Não tardarão muito a dar-lhe o beijo.
+
+1144
+01:45:55,479 --> 01:45:58,138
+- Queres dizer que vão matá-lo?!
+- Não, é pior,
+
+1145
+01:45:58,358 --> 01:46:00,185
+muito pior...
+
+1146
+01:46:00,185 --> 01:46:02,732
+Vão sugar-lhe a alma.
+
+1147
+01:46:04,448 --> 01:46:05,823
+Sr. Director, tem de os deter.
+
+1148
+01:46:05,823 --> 01:46:07,022
+Apanharam o homem errado!
+
+1149
+01:46:07,022 --> 01:46:09,365
+É verdade, Senhor,
+o Sirius está inocente.
+
+1150
+01:46:09,365 --> 01:46:11,743
+- Foi o Scabbers!
+- Scabbers?
+
+1151
+01:46:11,743 --> 01:46:13,289
+É a minha ratazana.
+
+1152
+01:46:13,708 --> 01:46:17,491
+Não é propriamente uma ratazana.
+Mas era...! Era do meu irmão Percy.
+
+1153
+01:46:17,711 --> 01:46:21,376
+- Mas depois deram-lhe uma coruja.
+- Nós sabemos a verdade!
+
+1154
+01:46:21,590 --> 01:46:24,081
+- Por favor, acredite em nós!
+- Acredito, Menina Granger.
+
+1155
+01:46:24,301 --> 01:46:29,723
+Mas a palavra de feiticeiros de 13 anos
+dificilmente convencerá muita gente.
+
+1156
+01:46:32,810 --> 01:46:35,598
+A voz de uma criança,
+por muito honesta e verdadeira,
+
+1157
+01:46:35,598 --> 01:46:39,521
+nada significa para aqueles
+que deixaram de saber ouvir.
+
+1158
+01:46:44,739 --> 01:46:47,277
+É uma coisa misteriosa, o tempo...
+
+1159
+01:46:48,451 --> 01:46:49,780
+Poderosa.
+
+1160
+01:46:49,780 --> 01:46:52,823
+E quando é perturbado,
+torna-se perigoso.
+
+1161
+01:46:54,416 --> 01:46:58,034
+O Sirius Black está na cela mais alta
+da Torre das Trevas.
+
+1162
+01:46:58,837 --> 01:47:00,960
+A menina conhece o regulamento.
+
+1163
+01:47:00,960 --> 01:47:02,923
+Não pode ser vista.
+
+1164
+01:47:02,923 --> 01:47:06,757
+E faria bem, parece-me,
+em voltar antes do último toque.
+
+1165
+01:47:06,757 --> 01:47:10,463
+Se não o fizer,
+as consequências serão pavorosas.
+
+1166
+01:47:11,016 --> 01:47:12,807
+Se for bem sucedida esta noite,
+
+1167
+01:47:12,807 --> 01:47:15,812
+talvez se salve mais do que um inocente.
+
+1168
+01:47:17,648 --> 01:47:19,854
+Acho que bastarão três voltas.
+
+1169
+01:47:24,739 --> 01:47:26,566
+A propósito...
+
+1170
+01:47:26,566 --> 01:47:32,577
+Na dúvida, costumo achar sensato
+começar por refazer os meus passos.
+
+1171
+01:47:32,577 --> 01:47:34,824
+Boa sorte.
+
+1172
+01:47:35,333 --> 01:47:37,788
+Que diabo de conversa era aquela?
+
+1173
+01:47:38,461 --> 01:47:40,786
+Desculpa lá, Ron,
+mas dado que não consegues andar...
+
+1174
+01:48:09,785 --> 01:48:11,410
+Que aconteceu?
+
+1175
+01:48:11,410 --> 01:48:13,867
+- Onde está o Ron?
+- São 19h30.
+
+1176
+01:48:13,867 --> 01:48:15,913
+Onde estávamos às 19h30?
+
+1177
+01:48:15,913 --> 01:48:17,875
+Não sei, estávamos a ir
+para a casa do Hagrid?
+
+1178
+01:48:17,875 --> 01:48:20,416
+Vamos!
+Não podemos ser vistos!
+
+1179
+01:48:41,526 --> 01:48:43,612
+Hermione!
+Hermione, espera!
+
+1180
+01:48:45,989 --> 01:48:49,572
+Hermione, podes por favor explicar-me
+o que estamos a fazer?
+
+1181
+01:48:49,785 --> 01:48:52,620
+<i>- Vieram assistir ao espectáculo?
+- Sua pérfida barata malvada e nojenta!</i>
+
+1182
+01:48:52,620 --> 01:48:54,117
+Somos nós!
+
+1183
+01:48:54,332 --> 01:48:57,248
+<i>Hermione, não.
+Não sujes as mãos com ele...</i>
+
+1184
+01:48:57,459 --> 01:48:58,918
+Isto não é normal.
+
+1185
+01:49:01,213 --> 01:49:03,585
+Isto é um vira-tempo, Harry.
+
+1186
+01:49:03,585 --> 01:49:05,964
+A McGonagall deu-mo no 1º período.
+
+1187
+01:49:05,964 --> 01:49:09,469
+É graças a ele que tenho conseguido
+assistir a todas as aulas este ano.
+
+1188
+01:49:09,680 --> 01:49:12,884
+Queres dizer
+que voltámos atrás no tempo?
+
+1189
+01:49:12,884 --> 01:49:16,428
+O Dumbledore queria obviamente
+que voltássemos a este momento.
+
+1190
+01:49:18,732 --> 01:49:21,899
+Aconteceu qualquer coisa
+que ele quer que refaçamos.
+
+1191
+01:49:25,029 --> 01:49:26,357
+Bom murro!
+
+1192
+01:49:26,357 --> 01:49:28,025
+Obrigada.
+
+1193
+01:49:29,033 --> 01:49:30,693
+Vem aí o Malfoy!
+
+1194
+01:49:31,619 --> 01:49:33,945
+<i>- Espera por mim!
+- Nem uma palavra a ninguém, ouviram?</i>
+
+1195
+01:49:34,414 --> 01:49:37,499
+<i>Aquela sangue de lama convencida!
+Há-de pagá-las, acreditem!</i>
+
+1196
+01:49:37,499 --> 01:49:41,582
+<i>- Soube-me bem.
+- Não foi bem, foi brilhante!</i>
+
+1197
+01:49:42,965 --> 01:49:45,538
+<i>Vamos, temos de ir a casa do Hagrid.</i>
+
+1198
+01:50:04,695 --> 01:50:07,233
+Olha!
+O Buckbeak está vivo!
+
+1199
+01:50:08,700 --> 01:50:10,574
+Claro!
+
+1200
+01:50:10,574 --> 01:50:12,736
+Lembras-te do que o Dumbledore disse?
+
+1201
+01:50:12,736 --> 01:50:16,957
+Se fôssemos bem sucedidos,
+salvaríamos mais do que um inocente.
+
+1202
+01:50:17,334 --> 01:50:18,661
+Vamos!
+
+1203
+01:50:33,934 --> 01:50:36,010
+<i>É um homem formidável, o Dumbledore!</i>
+
+1204
+01:50:39,940 --> 01:50:42,063
+Vêm aí! É melhor despacharmo-nos.
+
+1205
+01:50:42,063 --> 01:50:44,725
+O Fudge tem de ver o Buckbeak,
+
+1206
+01:50:44,725 --> 01:50:47,359
+senão julga que foi o Hagrid
+que o libertou.
+
+1207
+01:50:48,407 --> 01:50:50,779
+Scabbers, estás vivo!
+
+1208
+01:50:50,779 --> 01:50:53,738
+<i>- Vigia bem os teus bichinhos.
+- É o Pettigrew!</i>
+
+1209
+01:50:53,954 --> 01:50:56,872
+- Harry, não podes!
+- Foi o homem que traiu os meus pais!
+
+1210
+01:50:56,872 --> 01:51:00,042
+- Queres que fique de braços cruzados?
+- Sim! Tem de ser!
+
+1211
+01:51:03,923 --> 01:51:06,628
+Harry, estás na cabana do Hagrid.
+
+1212
+01:51:06,628 --> 01:51:09,637
+Se entras ali a barafustar,
+pensarás que enlouqueceste!
+
+1213
+01:51:09,637 --> 01:51:12,674
+Coisas horríveis acontecem aos
+feiticeiros que interferem com o passado.
+
+1214
+01:51:12,674 --> 01:51:14,094
+Não podemos deixar-nos ver.
+
+1215
+01:51:14,559 --> 01:51:18,224
+<i>Lembra-se deste sítio, Sr. Ministro,
+dos seus dias de estudante?</i>
+
+1216
+01:51:18,224 --> 01:51:20,104
+Vem aí o Fudge.
+
+1217
+01:51:21,024 --> 01:51:23,100
+E nós não saímos?
+
+1218
+01:51:25,278 --> 01:51:26,856
+Por que não saímos?
+
+1219
+01:51:37,792 --> 01:51:39,333
+Enlouqueceste?
+
+1220
+01:51:45,341 --> 01:51:46,716
+Aquilo doeu!
+
+1221
+01:51:46,926 --> 01:51:48,254
+Desculpa.
+
+1222
+01:52:09,115 --> 01:52:11,784
+Vamos sair pelas traseiras!
+Anda!
+
+1223
+01:52:29,178 --> 01:52:32,013
+O meu cabelo é assim visto de trás?
+
+1224
+01:52:34,057 --> 01:52:35,386
+O que foi?
+
+1225
+01:52:36,268 --> 01:52:38,095
+Pareceu-me ver...
+
+1226
+01:52:38,312 --> 01:52:40,981
+- Esquece.
+- Vamos!
+
+1227
+01:52:41,565 --> 01:52:46,311
+<i>O carrasco executará o condenado
+por meio de decapitação.</i>
+
+1228
+01:52:48,281 --> 01:52:52,575
+<i>Como testemunha, Hagrid,
+assine aqui, por favor...</i>
+
+1229
+01:52:52,575 --> 01:52:55,822
+<i>Talvez o Sr. Ministro tenha dó
+e revogue a decisão...</i>
+
+1230
+01:52:55,822 --> 01:52:57,029
+Vai, Harry, vai!
+
+1231
+01:52:57,029 --> 01:52:59,620
+<i>É a decisão da Comissão.</i>
+
+1232
+01:53:00,167 --> 01:53:03,287
+<i>Nenhum de nós
+pode fazer nada para a alterar.</i>
+
+1233
+01:53:04,088 --> 01:53:05,796
+Afastem-se! Fora!
+
+1234
+01:53:06,758 --> 01:53:12,512
+<i>- Sr. Ministro, quer uma chávena de chá?
+- Não, não quero.</i>
+
+1235
+01:53:27,988 --> 01:53:31,404
+<i>Sr. Ministro, acho que
+eu também devia assinar.</i>
+
+1236
+01:53:32,242 --> 01:53:35,409
+<i>Talvez seja boa ideia...</i>
+
+1237
+01:53:35,621 --> 01:53:39,405
+Buckbeak, anda, rápido!
+Anda connosco!
+
+1238
+01:53:39,959 --> 01:53:43,624
+<i>Gostaria muito que ficasse com ele.
+Se não se importar de assinar...</i>
+
+1239
+01:53:43,880 --> 01:53:46,585
+Puxa!
+Não desistas!
+
+1240
+01:53:48,969 --> 01:53:52,753
+Rápido, despacha-te!
+
+1241
+01:53:53,598 --> 01:53:56,883
+<i>- No pontilhado... Só o seu nome.
+- É um nome muito comprido.</i>
+
+1242
+01:53:57,268 --> 01:53:58,976
+Despacha-te, Buckbeak!
+
+1243
+01:54:01,690 --> 01:54:04,644
+Anda, Buckbeak!
+
+1244
+01:54:04,860 --> 01:54:07,148
+Anda cá apanhar
+um belo furão morto!
+
+1245
+01:54:09,782 --> 01:54:14,278
+- Anda, está aqui! Anda cá, Beaky!
+- Pronto, Sr. Ministro. Siga-me.
+
+1246
+01:54:14,495 --> 01:54:16,155
+<i>- Olhe ali.
+- Onde?</i>
+
+1247
+01:54:16,372 --> 01:54:19,741
+<i>- Atrás dos pedregulhos.
+- O que é que está ali?</i>
+
+1248
+01:54:19,741 --> 01:54:23,416
+<i>O Professor Dippet mandou
+urze quando foi director da escola.</i>
+
+1249
+01:54:23,416 --> 01:54:26,422
+<i>- Com efeito, foi.
+- E os morangos também.</i>
+
+1250
+01:54:27,383 --> 01:54:30,253
+<i>Não vejo morangos.</i>
+
+1251
+01:54:30,253 --> 01:54:31,590
+<i>Estão ali...</i>
+
+1252
+01:54:31,590 --> 01:54:33,506
+<i>Ali, veja!</i>
+
+1253
+01:54:33,723 --> 01:54:36,392
+<i>- Vamos lá acabar com isto.
+- Está bem.</i>
+
+1254
+01:54:38,061 --> 01:54:39,769
+Mas onde está ele?
+
+1255
+01:54:40,689 --> 01:54:42,895
+Mas se eu ainda agora o vi!
+
+1256
+01:54:43,525 --> 01:54:45,731
+- Há um instante!
+- Extraordinário!
+
+1257
+01:54:45,731 --> 01:54:47,230
+Buckbeak!
+
+1258
+01:54:47,445 --> 01:54:51,525
+Ora, Dumbledore!
+É óbvio que alguém o libertou!
+
+1259
+01:54:51,525 --> 01:54:53,028
+<i>Juro que não fui eu!</i>
+
+1260
+01:54:53,243 --> 01:54:57,490
+<i>Não me parece que o Sr. Ministro
+esteja a sugerir o teu envolvimento...</i>
+
+1261
+01:54:57,706 --> 01:55:00,541
+Seria impossível.
+Estiveste sempre connosco!
+
+1262
+01:55:00,541 --> 01:55:02,583
+Pois foi!
+
+1263
+01:55:02,583 --> 01:55:04,295
+Temos de passar revista à propriedade!
+
+1264
+01:55:04,295 --> 01:55:07,500
+Reviste os céus, se quiser, Sr. Ministro.
+
+1265
+01:55:07,500 --> 01:55:13,096
+Enquanto isso, vou beber uma bela
+chávena de chá ou um belo brandy.
+
+1266
+01:55:13,096 --> 01:55:17,261
+Carrasco,
+já não precisamos de si.
+
+1267
+01:55:17,261 --> 01:55:19,308
+Obrigado.
+
+1268
+01:55:19,520 --> 01:55:22,805
+Nesta casa não há copos pequenos,
+Sr. Professor.
+
+1269
+01:55:33,576 --> 01:55:35,071
+Por aqui, anda!
+
+1270
+01:55:41,876 --> 01:55:43,667
+Por aqui, vá!
+
+1271
+01:55:46,089 --> 01:55:47,832
+- E agora?
+- Salvamos o Sirius.
+
+1272
+01:55:48,049 --> 01:55:50,540
+- Como?
+- Não faço ideia.
+
+1273
+01:55:59,853 --> 01:56:02,226
+<i>- Olha, é o Lupin!
+- Immobulus!</i>
+
+1274
+01:56:08,653 --> 01:56:10,646
+E vem aí o Snape.
+
+1275
+01:56:16,871 --> 01:56:18,531
+E agora esperamos.
+
+1276
+01:56:19,749 --> 01:56:21,540
+E agora esperamos.
+
+1277
+01:56:49,112 --> 01:56:52,363
+Ainda bem que um de nós
+está a divertir-se...
+
+1278
+01:56:55,767 --> 01:56:57,265
+- Hermione.
+- Sim?
+
+1279
+01:56:57,576 --> 01:57:00,405
+Antes, junto ao lago,
+quando estava com o Sirius...
+
+1280
+01:57:01,451 --> 01:57:03,748
+Vi mesmo alguém.
+
+1281
+01:57:03,748 --> 01:57:07,335
+Essa pessoa afugentou os dementors.
+
+1282
+01:57:07,335 --> 01:57:08,835
+Com um Patronus.
+
+1283
+01:57:08,835 --> 01:57:10,917
+Ouvi o Snape contar ao Dumbledore.
+
+1284
+01:57:10,917 --> 01:57:12,552
+Segundo ele,
+
+1285
+01:57:12,552 --> 01:57:16,136
+só um feiticeiro verdadeiramente
+poderoso o poderia ter feito.
+
+1286
+01:57:16,136 --> 01:57:18,181
+Foi o meu pai.
+
+1287
+01:57:19,310 --> 01:57:21,102
+Foi o meu pai que conjurou o Patronus.
+
+1288
+01:57:21,102 --> 01:57:23,513
+- Mas, Harry, o teu pai está...
+- Morto, eu sei.
+
+1289
+01:57:24,941 --> 01:57:27,267
+Só te estou a dizer o que vi.
+
+1290
+01:57:31,406 --> 01:57:33,030
+Aqui vimos nós...
+
+1291
+01:57:38,705 --> 01:57:41,077
+Vês o Sirius a falar comigo?
+
+1292
+01:57:41,077 --> 01:57:44,085
+- Está a convidar-me para viver com ele.
+- Isso é óptimo.
+
+1293
+01:57:44,085 --> 01:57:47,586
+Quando o libertarmos, nunca mais
+terei de ir viver com os Dursley!
+
+1294
+01:57:47,586 --> 01:57:49,381
+Viveremos só os dois.
+
+1295
+01:57:50,051 --> 01:57:52,008
+Podemos viver no campo,
+
+1296
+01:57:52,008 --> 01:57:54,799
+num sítio onde se veja o céu...
+
+1297
+01:57:54,799 --> 01:57:57,807
+Deve agradar-lhe depois de todos
+aqueles anos em Azkaban.
+
+1298
+01:58:01,937 --> 01:58:03,645
+<i>Fujam!</i>
+
+1299
+01:58:10,530 --> 01:58:12,072
+Vamos!
+
+1300
+01:58:31,635 --> 01:58:33,960
+- Que estás a fazer?
+- Estou a salvar-te a vida.
+
+1301
+01:58:38,225 --> 01:58:39,600
+Obrigado.
+
+1302
+01:58:41,437 --> 01:58:45,482
+- Boa, agora vem atrás de nós!
+- Não pensei nisso... Corre!
+
+1303
+02:00:00,602 --> 02:00:02,345
+Foi tão assustador!
+
+1304
+02:00:02,345 --> 02:00:05,475
+O pobre Professor Lupin
+está a ter uma noite pavorosa.
+
+1305
+02:00:16,910 --> 02:00:20,030
+O Sirius! Anda!
+
+1306
+02:00:36,055 --> 02:00:38,177
+- É horrível!
+- Não te preocupes,
+
+1307
+02:00:38,177 --> 02:00:41,552
+o meu pai virá.
+Ele conjurará o Patronus.
+
+1308
+02:00:50,278 --> 02:00:52,105
+Deve estar a chegar.
+
+1309
+02:00:52,322 --> 02:00:54,361
+Vai aparecer ali, vais ver que sim!
+
+1310
+02:00:55,742 --> 02:00:58,233
+Harry, ouve.
+Não vem ninguém.
+
+1311
+02:00:58,233 --> 02:01:00,950
+Não te preocupes, ele vem!
+Ele vem!
+
+1312
+02:01:05,084 --> 02:01:07,540
+Estão a morrer...
+
+1313
+02:01:09,589 --> 02:01:11,463
+... vocês os dois!
+
+1314
+02:01:17,180 --> 02:01:21,048
+<i>Expecto Patronum!</i>
+
+1315
+02:02:19,662 --> 02:02:21,240
+Tinhas razão, Hermione.
+
+1316
+02:02:21,240 --> 02:02:24,747
+Não foi o meu pai que eu vi.
+Foi a mim mesmo!
+
+1317
+02:02:24,747 --> 02:02:27,668
+Vi-me a conjurar o Patronus!
+
+1318
+02:02:27,668 --> 02:02:30,209
+Eu sabia que ia conseguir,
+
+1319
+02:02:30,209 --> 02:02:32,089
+porque já me tinha visto a fazê-lo.
+
+1320
+02:02:32,089 --> 02:02:34,713
+- Faz sentido?
+- Não.
+
+1321
+02:02:34,713 --> 02:02:37,721
+Mas não gosto de voar!
+
+1322
+02:02:50,861 --> 02:02:52,188
+<i>Bombarda!</i>
+
+1323
+02:03:25,521 --> 02:03:28,308
+Ficar-vos-ei eternamente grato
+por causa disto,
+
+1324
+02:03:28,308 --> 02:03:29,811
+aos dois.
+
+1325
+02:03:29,811 --> 02:03:32,902
+- Quero ir consigo.
+- Um dia, talvez.
+
+1326
+02:03:32,902 --> 02:03:35,988
+A minha vida será demasiado
+imprevisível nos próximos tempos.
+
+1327
+02:03:35,988 --> 02:03:37,901
+Além disso,
+
+1328
+02:03:38,827 --> 02:03:42,113
+o teu lugar é aqui.
+- Mas você está inocente!
+
+1329
+02:03:42,113 --> 02:03:44,412
+E tu sabes que sim.
+
+1330
+02:03:45,501 --> 02:03:47,373
+Por enquanto, basta.
+
+1331
+02:03:49,712 --> 02:03:52,251
+Imagino que estejas farto
+de ouvir dizer isto,
+
+1332
+02:03:53,258 --> 02:03:55,796
+mas pareces-te tanto com o teu pai!
+
+1333
+02:03:57,554 --> 02:03:59,511
+Excepto os olhos.
+
+1334
+02:04:00,474 --> 02:04:02,763
+- Tens o olhar da...
+- Da minha mãe.
+
+1335
+02:04:04,728 --> 02:04:09,806
+É cruel que eu tenha passado tanto tempo
+com o James e a Lily e tu, tão pouco.
+
+1336
+02:04:10,401 --> 02:04:11,896
+Mas fica sabendo uma coisa:
+
+1337
+02:04:13,028 --> 02:04:16,195
+As pessoas que nos amam
+nunca nos deixam realmente.
+
+1338
+02:04:17,575 --> 02:04:19,532
+Poderás sempre encontrá-los...
+
+1339
+02:04:21,912 --> 02:04:23,786
+... aqui.
+
+1340
+02:04:34,176 --> 02:04:36,714
+És mesmo a bruxa mais esperta
+da tua idade.
+
+1341
+02:05:03,539 --> 02:05:05,164
+Temos que ir!
+
+1342
+02:05:33,444 --> 02:05:36,114
+- E então?
+- Está livre, conseguimos.
+
+1343
+02:05:36,114 --> 02:05:37,823
+Conseguiram o quê?
+
+1344
+02:05:37,823 --> 02:05:39,948
+Boa noite.
+
+1345
+02:05:48,711 --> 02:05:50,039
+Como foram aí parar?
+
+1346
+02:05:50,039 --> 02:05:52,882
+Eu estava
+a falar convosco e agora vêm daí...
+
+1347
+02:05:53,215 --> 02:05:55,837
+- De que fala ele?
+- Não sei.
+
+1348
+02:05:55,837 --> 02:05:59,545
+Francamente, Ron, como é possível
+estar em dois sítios ao mesmo tempo?
+
+1349
+02:06:26,041 --> 02:06:27,534
+Olá, Harry.
+
+1350
+02:06:31,171 --> 02:06:32,998
+Vi-te vir.
+
+1351
+02:06:37,552 --> 02:06:40,257
+Já tive pior aspecto, acredita...
+
+1352
+02:06:42,975 --> 02:06:44,173
+Foi despedido?
+
+1353
+02:06:45,401 --> 02:06:47,159
+Não, não.
+
+1354
+02:06:47,271 --> 02:06:49,264
+Demiti-me.
+
+1355
+02:06:49,264 --> 02:06:51,232
+Demitiu-se?
+Porquê?!
+
+1356
+02:06:51,232 --> 02:06:56,691
+Parece que alguém fez constar
+a natureza da minha condição...
+
+1357
+02:06:56,691 --> 02:07:02,369
+Amanhã por esta hora, começam a chegar
+as corujas e os pais não hão-de querer
+
+1358
+02:07:02,369 --> 02:07:05,906
+uma pessoa como eu
+a ensinar os filhos.
+
+1359
+02:07:06,124 --> 02:07:07,618
+- Mas o Dumbledore...
+- O Dumbledore já
+
+1360
+02:07:07,618 --> 02:07:10,076
+arriscou muito por mim.
+
+1361
+02:07:10,076 --> 02:07:13,503
+Além disso, gente como eu...
+
+1362
+02:07:14,132 --> 02:07:17,466
+Digamos que já estou habituado.
+
+1363
+02:07:27,020 --> 02:07:29,593
+Que cara tão triste é essa?
+
+1364
+02:07:29,593 --> 02:07:31,931
+Foi tudo em vão...
+
+1365
+02:07:31,931 --> 02:07:35,644
+- O Pettigrew fugiu.
+- Foi tudo em vão?!
+
+1366
+02:07:35,644 --> 02:07:39,321
+Harry, fez toda a diferença do mundo!
+Ajudaste a desvendar a verdade!
+
+1367
+02:07:39,321 --> 02:07:41,983
+Salvaste um inocente
+de um destino terrível.
+
+1368
+02:07:42,370 --> 02:07:44,861
+Não foi nada em vão!
+
+1369
+02:07:49,501 --> 02:07:51,708
+Se há coisa de que me orgulhe,
+
+1370
+02:07:51,708 --> 02:07:54,548
+é de tudo aquilo
+que aprendeste este ano.
+
+1371
+02:07:54,548 --> 02:07:57,467
+E agora que já não sou teu professor,
+
+1372
+02:07:57,467 --> 02:08:01,882
+não me sinto minimamente culpado
+por te devolver isto aqui.
+
+1373
+02:08:02,807 --> 02:08:05,298
+E agora despeço-me.
+
+1374
+02:08:05,298 --> 02:08:08,050
+Tenho a certeza
+que voltaremos a encontrar-nos.
+
+1375
+02:08:08,605 --> 02:08:09,934
+Até lá...
+
+1376
+02:08:11,275 --> 02:08:12,983
+Transgressão terminada.
+
+1377
+02:08:47,228 --> 02:08:51,439
+Se não se acalmam,
+levo-a lá para cima.
+
+1378
+02:08:53,860 --> 02:08:55,235
+Onde a arranjaste?
+
+1379
+02:08:55,235 --> 02:08:57,811
+Posso dar uma voltinha, Harry?
+Depois de ti, claro...
+
+1380
+02:08:57,811 --> 02:09:00,148
+- De que falam vocês?
+- Silêncio!
+
+1381
+02:09:00,148 --> 02:09:03,611
+Deixem passar o homem.
+Não era para a abrir, Harry.
+
+1382
+02:09:03,611 --> 02:09:06,278
+Estava mal embrulhada
+e eles obrigaram-me.
+
+1383
+02:09:06,278 --> 02:09:07,951
+Não obrigámos nada!
+
+1384
+02:09:09,334 --> 02:09:12,833
+- É uma Flecha de Fogo.
+- É a vassoura mais rápida do mundo.
+
+1385
+02:09:12,833 --> 02:09:14,546
+Para mim?!
+
+1386
+02:09:14,546 --> 02:09:17,252
+- Mas quem a enviou?
+- Ninguém sabe.
+
+1387
+02:09:17,252 --> 02:09:19,335
+Vinha com isto.
+
+1388
+02:09:47,206 --> 02:09:48,831
+<i>Lumos.</i>
+
+1389
+02:09:48,831 --> 02:09:51,408
+Juro solenemente
+que não preparo coisa boa.
+
+

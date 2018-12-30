@@ -1,0 +1,648 @@
+$main: #252529;
+$secondary: #8b8b9f;
+$highlight: #73e298;
+$clearhighlight: #9ef7bb;
+$white: #ffffff;
+
+// PLAY BUTTON
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.stroke-solid {
+  stroke-dashoffset: 0;
+  stroke-dashArray: 300;
+  stroke-width: 4px;
+  transition: stroke-dashoffset 1s ease, 
+              opacity 1s ease;
+}
+
+.icon {
+  transform: scale(.8);
+  transform-origin: 50% 50%;
+  transition: transform 200ms ease-out;
+}
+
+.play-button:hover {
+  .stroke-solid {
+    opacity: 1;
+    stroke-dashoffset: 300;
+  }
+  .icon {
+    transform: scale(.9);
+  }
+}
+
+.play-button {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+}
+
+
+///////////////////////////////
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: 'Open-Sans', sans-serif;
+}
+
+.clearfix:before, .clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.wrapper {
+    width: 1440px;
+    max-width: 90%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+#warning {
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+    vertical-align: center;
+    font-size: .9em;
+    color: $highlight;
+    margin-bottom: -6em;
+    margin-right: 3em;
+    padding-top: .4em;
+}
+
+::cue {
+    background-color: rgba(0,0,0,0) !important;
+    text-shadow: 2px 2px $main;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+}
+
+#video-player {
+    width: 100%;
+}
+
+
+
+#top_header {
+    padding: 1.5em 0;
+    .logo {
+        float: left;
+        text-transform: uppercase;
+        font-size: 1.15em;
+        font-weight: 300;
+        color: $highlight;
+        span {
+            font-weight: 700;
+            color: $main;
+        }
+    }
+    #main_nav {
+        float: right;
+        font-size: .9em;
+        padding-top: 1em;
+        a {
+            color: $secondary;
+            text-decoration: none;
+            margin-left: 1em;
+            &:hover {
+                color: $highlight;
+            }
+        }
+    }
+}
+
+.htmlplayer {
+    margin-top: 1em;
+    width: 100%;
+    height: 100vh;
+}
+
+.menu {
+    display: none;
+}
+
+object {
+    margin: auto;
+    width: 70%;
+    height: 100vh;
+}
+
+.video-player {
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+#banner {
+    background-color: $main;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 6.5em 0;
+    #banner_content_wrapper {
+        width: 900px;
+        max-width: 90%;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #poster {
+        width: 275px;
+        position: relative;
+        float: left;
+        .poster-image {
+            width: 100%;
+            max-width: 100%;
+            border-radius: .5em;
+            -webkit-box-shadow: 0px 0px 76px 0px rgba(15, 17, 9, 0.47);
+            -moz-box-shadow: 0px 0px 76px 0px rgba(15, 17, 9, 0.47);
+            box-shadow: 0px 0px 76px 0px rgba(15, 17, 9, 0.47);
+        }
+    }
+    #content {
+        float: left;
+        width: 600px;
+        margin-left: 100px;
+        .title{
+            display: inline;
+            font-size: 1.75em;
+            color: $white;
+        }
+        .ratings{
+            display: inline;
+            margin-left: 1em;
+            i {
+                color: $highlight;
+                font-size: 1.35em;
+                margin: 0 .15em;
+            }
+            .inactive {
+                color: #48494d;
+            }
+        }
+        .description {
+            color: #bbbebf;
+            font-size: 1em;
+            line-height: 2em;
+        }
+        .info {
+            color: $white;
+            font-size: .8em;
+            font-weight: 800;
+            margin-top: 5em;
+            span {
+                margin: 0 .5em;
+            }
+        }
+    }
+}
+
+#top_movies, #top_shows, #top_anime {
+    padding: 3em 0;
+    header {
+        padding: 0 0 1.5em 0;
+        h2, .view_more {
+            display: inline;
+        }
+        h2 {
+            font-size: 1.75em;
+        }
+        .view_more {
+            float: right;
+            font-size: .8em;
+            margin: .75em 3.5% 0;
+        }
+    }
+}
+
+#top_movies, #top_shows {
+    border-bottom: 1px solid #d4d4d4;
+}
+
+.divider {
+    border-bottom: 1px solid #d4d4d4;
+}
+
+a:visited {color: $main;}
+
+.row {
+    width: 100%;
+    display: inline-block;
+    .post {
+        width: 14%;
+        float: left;
+        margin-right: 2.5%;
+        padding-bottom: 3em;
+        overflow: hidden;
+        
+        img {
+            max-width: 100%;
+            border-radius: .5em;
+            &:hover {
+                filter: brightness(1.5);
+            }
+        }
+        .title {
+            font-size: 1.25em;
+            margin: 1em 0 0 0;
+            color: $main;
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            &:hover{
+                color: $highlight;
+            }
+        }
+        .post_info {
+            font-size: .75em;
+            color: $secondary;
+            margin: 0.5em 0;
+
+        }
+    }
+}
+.resized {
+    height: 112px;
+    width: 160px;
+    object-fit: cover;
+}
+.videoTitle {
+    padding-left: 1em;
+    padding-top: 1em;
+    margin: 0 0 0 0;
+    color: $white;
+    span {
+        
+        :hover {
+            color: $highlight;
+        }
+        padding-left: 1em;
+        a {
+            font-size: 0.5em;
+            text-decoration: none;
+            color: $white;
+            :visited{
+                color: $white;
+            }
+        }
+    }
+}
+
+.server {
+    float: right;
+}
+
+#frame {
+    width: 100%;
+}
+
+#newsletter {
+    padding: 5em 0;
+    text-align: center;
+    background: #2a2a2e;
+    .newsletter-inner {
+        width: 600px;
+        margin: 0 auto;
+    }
+    h2 {
+        font-size: 1.75em;
+        color: $white;
+    }
+    .sign_up_form {
+        margin-top: 3em;
+        input[type="text"], input[type="email"] {
+            width: 48%;
+            margin: 0 .5%;
+            height: 3.25em;
+            border: none;
+            outline: none;
+            border-radius: .3em;
+            background: #404043;
+            padding: .5em 1.25em;
+            font-size: .8em;
+            color: $white;
+        }
+        #emailpedido {
+            float: right;
+        }
+        .g-recaptcha {
+            margin-top: 1em;
+            div{
+                margin: 0 auto;         
+            }
+        }
+        #pedido {
+            width: 48%;
+            height: 8em;
+            border: none;
+            outline: none;
+            border-radius: .3em;
+            background: #404043;
+            padding: .5em 1.25em;
+            font-size: .8em;
+            color: $white;
+        }
+        .button {
+            border: none;
+            outline: none;
+            padding: 1em 4.5em;
+            border-radius: 2em;
+            background: $highlight;
+            color: $white;
+            font-weight: 700;
+            font-size: .9em;
+            margin-top: 3em;
+            &:hover{
+                cursor: pointer;
+                background-color: $clearhighlight;
+                color: $secondary;
+            }
+        }
+    }
+}
+
+.hidden {
+    display: none;
+}
+
+#search-section {
+    padding: 2em 0;
+    text-align: center;
+    background: #2a2a2e;
+    .search-section-inner {
+        width: 600px;
+        margin: 0 auto;
+    }
+    h2 {
+        font-size: 1.75em;
+        color: $white;
+    }
+    #search-form {
+        input[type="text"] {
+            width: 48%;
+            margin: 0 .5%;
+            height: 3.25em;
+            border: none;
+            outline: none;
+            border-radius: .3em;
+            background: #404043;
+            padding: .5em 1.25em;
+            font-size: .8em;
+            color: $white;
+        }
+        .button {
+            border: none;
+            outline: none;
+            padding: 1em 4.5em;
+            border-radius: 2em;
+            background: $highlight;
+            color: $white;
+            font-weight: 700;
+            font-size: .9em;
+            &:hover{
+                cursor: pointer;
+                background-color: $clearhighlight;
+                color: $secondary;
+            }
+        }
+    }
+}
+
+#main_footer {
+    padding: 2.5em 0;
+    text-align: center; 
+    .logo {
+        text-transform: uppercase;
+        font-size: 1.15em;
+        font-weight: 300;
+        color: $highlight;
+        span {
+            font-weight: 700;
+            color: $main;
+        }
+    }
+
+    .copyright {
+        color: $secondary;
+        font-size: .75em;
+        margin: 0;
+    }
+
+    .links {
+        display: inline;
+        a {
+            color: $secondary;
+            font-size: .75em;
+            text-decoration: none;
+            margin: 0 .5em;
+            &:hover {
+                color: $highlight;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #main_nav {
+        display: none;
+    }
+    #main_nav.active {
+        display: block;
+        width: 100%;
+        a {
+            display: block;
+            padding: 1em 0;
+            border-bottom: 1px solid #E9E9E9;
+            &:last-child {
+                border-bottom: none;
+            }
+        }
+    }
+    .menu {
+        display: block;
+        float: right;
+        i {
+            font-size: 1.5em;
+            color: $main;
+            padding-top: .6em;
+        }
+    }
+
+    #banner {
+        padding: 3.5em 0;
+        #poster {
+            width: 250px;
+            .play-button {
+                width: 60px;
+                margin: -30px 0 0 -30px;
+            }
+        }
+        #content {
+            margin-left: 50px;
+            .title{
+                font-size: 1.5em;
+            }
+            .ratings{
+                i {
+                    font-size: 1em;
+                }
+            }
+            .description {
+                font-size: .9em;
+            }
+            .info {
+                font-size: .7em;
+                margin-top: 2em;
+                span {
+                    margin: 0 .25em;
+                }
+            }
+        }
+    }
+
+    #search-section {
+        padding: 1.5em 0;
+        #content {
+            margin-left: 50px;
+            .title{
+                font-size: 1.5em;
+            }
+            .ratings{
+                i {
+                    font-size: 1em;
+                }
+            }
+            .description {
+                font-size: .9em;
+            }
+            .info {
+                font-size: .7em;
+                margin-top: 2em;
+                span {
+                    margin: 0 .25em;
+                }
+            }
+        }
+    }
+
+
+     #top_movies, #top_shows, #top_anime {
+        padding: 3em 0;
+        header {
+            padding: 0 0 1.5em 1.25%;
+            h2 {
+                font-size: 1.5em;
+            }
+            .view_more {
+                margin: .75em 2.25% 0;
+            }
+        }
+    }
+    
+    .row {
+        .post {
+            width: 30.6%;
+            margin: 0 1.25% 2em 1.25%;
+            .title {
+                font-size: 1em;
+                margin: .5em 0 0 0;
+            }
+            .post_info {
+                font-size: .65em;    
+            }
+        }
+    }
+}
+
+.view_more:hover {
+    color: $highlight;
+}
+
+@media only screen and (max-width: 575px) {
+    #banner {
+        #banner_content_wrapper {
+            display: blocK;
+            #poster {
+                width: 250px;
+                float: none;
+                display: block;
+                margin: 0 auto;
+            }
+            #content {
+                width: 100%;
+                margin: 1em auto 0 auto;
+            }
+        }
+    }
+
+    #top_movies, #top_shows, #top_anime {
+        header {
+            margin-bottom: 2em;
+        }
+    }
+
+    .row {
+        .post {
+            width: 250px;
+            margin: 0 auto 2em auto;
+            float: none;
+        }
+    }
+    #newsletter {
+        padding: 3em 0;
+        .newsletter-inner {
+            width: 100%;
+        }
+        h2 {
+            font-size: 1.35em;
+        }
+        .sign_up_form {
+            margin-top: 2em;
+            input[type="text"], input[type="email"] {
+                width: 90%;
+                margin-top: 1em;
+            }
+            .button {
+                margin-top: 2em;
+            }
+        }
+    }
+    #search-section {
+        padding: 3em 0;
+        .search-section-inner {
+            width: 100%;
+        }
+        h2 {
+            font-size: 1.35em;
+        }
+        .search-form {
+            margin-top: 2em;
+            input[type="text"] {
+                width: 90%;
+                margin-top: 1em;
+            }
+            .button {
+                margin-top: 2em;
+            }
+        }
+    }
+}

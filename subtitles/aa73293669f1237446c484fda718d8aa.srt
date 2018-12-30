@@ -1,0 +1,5846 @@
+
+1
+00:00:38,047 --> 00:00:39,632
+"MATRIX"
+
+2
+00:00:47,764 --> 00:00:48,932
+Chamada: recebida
+
+3
+00:00:49,141 --> 00:00:52,560
+<i>- Está tudo pronto?
+- Você não tinha de me substituir.</i>
+
+4
+00:00:52,769 --> 00:00:55,480
+<i>Eu sei, mas quero fazer um turno.</i>
+
+5
+00:00:55,938 --> 00:00:58,399
+<i>Você gosta dele, não?
+Gosta de observá-lo.</i>
+
+6
+00:00:58,608 --> 00:01:01,652
+<i>- Não seja ridículo. -Nôs
+vamos matá-lo. Entendeu?</i>
+
+7
+00:01:01,861 --> 00:01:04,405
+<i>Morpheus acha que ele é o Escolhido.</i>
+
+8
+00:01:04,613 --> 00:01:05,572
+<i>Você também?</i>
+
+9
+00:01:05,739 --> 00:01:07,574
+<i>Não importa o que eu acho.</i>
+
+10
+00:01:07,783 --> 00:01:09,409
+<i>Você não acha, não é?</i>
+
+11
+00:01:09,618 --> 00:01:11,786
+<i>- Você ouviu isso?
+- O quê?</i>
+
+12
+00:01:11,995 --> 00:01:13,663
+<i>Esta linha é segura mesmo?</i>
+
+13
+00:01:13,872 --> 00:01:15,915
+<i>Sim, claro que é.</i>
+
+14
+00:01:16,207 --> 00:01:17,625
+<i>Vou desligar.</i>
+
+15
+00:01:55,576 --> 00:01:57,370
+- Parada! Polícia!
+- Mãos na cabeça!
+
+16
+00:01:57,995 --> 00:01:59,080
+Mãos na cabeça já!
+
+17
+00:02:08,004 --> 00:02:10,590
+HEART O' the city HOTEL
+
+18
+00:02:20,474 --> 00:02:21,809
+Tenente.
+
+19
+00:02:22,059 --> 00:02:23,060
+Mas que merda.
+
+20
+00:02:23,894 --> 00:02:27,105
+Tenente, você recebeu ordens explícitas.
+
+21
+00:02:27,356 --> 00:02:29,065
+Estou fazendo o meu serviço.
+
+22
+00:02:29,691 --> 00:02:34,153
+E não me venha com esse papo-furado
+de "esta é a minha jurisdição".
+
+23
+00:02:34,612 --> 00:02:37,115
+As ordens visavam à sua proteção.
+
+24
+00:02:38,574 --> 00:02:40,785
+A gente encara uma mocinha.
+
+25
+00:02:45,914 --> 00:02:47,708
+Eu mandei duas unidades!
+
+26
+00:02:47,916 --> 00:02:49,459
+Eles já a estão trazendo!
+
+27
+00:02:49,709 --> 00:02:52,087
+Não, tenente, os seus
+homens já estão mortos.
+
+28
+00:03:22,364 --> 00:03:23,198
+Merda.
+
+29
+00:03:25,784 --> 00:03:28,120
+Morpheus, a linha foi
+grampeada. Não sei como.
+
+30
+00:03:28,328 --> 00:03:29,955
+<i>Eu sei. Eles conseguiram.</i>
+
+31
+00:03:30,163 --> 00:03:32,415
+<i>Não temos tempo. Ache outra saída.</i>
+
+32
+00:03:32,624 --> 00:03:34,042
+Há outros agentes?
+
+33
+00:03:34,250 --> 00:03:35,043
+<i>Sim.</i>
+
+34
+00:03:35,251 --> 00:03:36,461
+Droga.
+
+35
+00:03:36,669 --> 00:03:38,254
+<i>Concentre-se, Trinity.</i>
+
+36
+00:03:38,462 --> 00:03:40,840
+<i>Há um telefone na Wells com a Lake.</i>
+
+37
+00:03:41,257 --> 00:03:42,925
+<i>Você consegue.</i>
+
+38
+00:03:43,133 --> 00:03:44,802
+<i>- Tudo bem.
+- Vá.</i>
+
+39
+00:04:46,984 --> 00:04:48,068
+Isso é impossível.
+
+40
+00:05:22,933 --> 00:05:25,018
+Levante-se,
+Trinity. Levante-se.
+
+41
+00:05:25,686 --> 00:05:26,853
+Levante-se.
+
+42
+00:06:12,771 --> 00:06:14,314
+Ela escapou.
+
+43
+00:06:14,606 --> 00:06:15,898
+Não importa.
+
+44
+00:06:16,107 --> 00:06:18,192
+O informante falou a verdade.
+
+45
+00:06:19,527 --> 00:06:21,237
+Temos o nome do próximo alvo.
+
+46
+00:06:21,445 --> 00:06:23,113
+O nome é Neo.
+
+47
+00:06:26,366 --> 00:06:27,909
+Temos de fazer uma busca.
+
+48
+00:06:28,201 --> 00:06:30,161
+Ela já começou.
+
+49
+00:06:39,920 --> 00:06:41,672
+Procurando...
+
+50
+00:06:41,881 --> 00:06:44,716
+MORPHEUS ENGANA A POLÍCIA
+NO AEROPORTO DE HEATHROW
+
+51
+00:06:52,724 --> 00:06:54,642
+A Caçada Começa
+
+52
+00:07:13,743 --> 00:07:15,578
+Acorde, Neo...
+
+53
+00:07:24,920 --> 00:07:26,129
+O quê?
+
+54
+00:07:26,713 --> 00:07:30,258
+A Matrix te achou...
+
+55
+00:07:31,885 --> 00:07:33,386
+Que merda é essa?
+
+56
+00:07:37,890 --> 00:07:40,559
+Siga o coelho branco.
+
+57
+00:07:41,060 --> 00:07:42,978
+"Siga o coelho branco. "
+
+58
+00:07:45,397 --> 00:07:46,273
+Esc
+
+59
+00:07:48,984 --> 00:07:50,026
+Toc, toc, Neo.
+
+60
+00:07:54,822 --> 00:07:55,990
+Quem é?
+
+61
+00:07:56,199 --> 00:07:57,575
+<i>É o Choi.</i>
+
+62
+00:08:11,087 --> 00:08:12,255
+Está duas horas atrasado.
+
+63
+00:08:12,839 --> 00:08:14,591
+Eu sei. Foi culpa dela.
+
+64
+00:08:14,841 --> 00:08:15,800
+Trouxe o dinheiro?
+
+65
+00:08:17,927 --> 00:08:19,095
+Dois mil.
+
+66
+00:08:19,970 --> 00:08:21,096
+Espere.
+
+67
+00:08:26,727 --> 00:08:28,103
+SIMULACRO & SIMULAÇÃO
+
+68
+00:08:38,779 --> 00:08:40,156
+Aleluia.
+
+69
+00:08:40,489 --> 00:08:43,367
+Você é meu salvador,
+cara. O meu Jesus Cristo.
+
+70
+00:08:43,534 --> 00:08:45,452
+Se for pego usando isso...
+
+71
+00:08:45,661 --> 00:08:47,829
+Eu sei. Nunca nos
+vimos. Você não existe.
+
+72
+00:08:48,914 --> 00:08:50,999
+- Certo.
+- Algum problema, cara?
+
+73
+00:08:51,249 --> 00:08:53,293
+Está mais pálido hoje.
+
+74
+00:08:54,377 --> 00:08:56,546
+O meu computador...
+
+75
+00:08:59,548 --> 00:09:04,136
+Você já se sentiu como se não soubesse
+se está acordado ou se está sonhando?
+
+76
+00:09:05,012 --> 00:09:07,723
+O tempo todo. Chama-se mescalina.
+
+77
+00:09:08,223 --> 00:09:10,350
+É a melhor forma de voar.
+
+78
+00:09:11,184 --> 00:09:13,728
+Você precisa sair um pouco, cara.
+
+79
+00:09:14,520 --> 00:09:16,439
+Um pouco de agitação?
+
+80
+00:09:16,898 --> 00:09:20,609
+O que você acha, Dujour?
+Vamos levá-lo conosco?
+
+81
+00:09:22,611 --> 00:09:23,862
+Com certeza.
+
+82
+00:09:24,071 --> 00:09:27,282
+Não posso. Preciso trabalhar amanhã.
+
+83
+00:09:27,741 --> 00:09:28,950
+Vamos.
+
+84
+00:09:29,201 --> 00:09:31,786
+Vai ser divertido. Eu prometo.
+
+85
+00:09:38,334 --> 00:09:39,794
+Sim.
+
+86
+00:09:40,669 --> 00:09:42,504
+Claro, eu vou.
+
+87
+00:10:10,280 --> 00:10:11,197
+Olá, Neo.
+
+88
+00:10:12,699 --> 00:10:13,741
+Como sabe o meu nome?
+
+89
+00:10:14,575 --> 00:10:16,244
+Sei muita coisa sobre você.
+
+90
+00:10:17,161 --> 00:10:17,912
+Quem é você?
+
+91
+00:10:18,162 --> 00:10:19,246
+Meu nome é Trinity.
+
+92
+00:10:20,164 --> 00:10:21,373
+Trinity.
+
+93
+00:10:23,167 --> 00:10:24,126
+A famosa?
+
+94
+00:10:24,668 --> 00:10:26,378
+A que entrou na Receita?
+
+95
+00:10:26,587 --> 00:10:28,088
+Isso foi há muito tempo.
+
+96
+00:10:28,338 --> 00:10:29,131
+Jesus!
+
+97
+00:10:29,339 --> 00:10:30,173
+O quê?
+
+98
+00:10:30,715 --> 00:10:32,467
+É que eu pensei...
+
+99
+00:10:34,260 --> 00:10:35,386
+que fosse um homem.
+
+100
+00:10:35,678 --> 00:10:37,138
+Quase todos acham.
+
+101
+00:10:38,347 --> 00:10:40,516
+Foi você no meu computador.
+
+102
+00:10:41,183 --> 00:10:42,226
+Como fez aquilo?
+
+103
+00:10:42,851 --> 00:10:45,646
+No momento, só posso te dizer...
+
+104
+00:10:46,188 --> 00:10:47,814
+que você corre perigo.
+
+105
+00:10:48,190 --> 00:10:50,692
+- Eu te trouxe aqui para te avisar.
+- O quê?
+
+106
+00:10:51,192 --> 00:10:52,944
+Eles te observam, Neo.
+
+107
+00:10:53,486 --> 00:10:54,320
+Quem?
+
+108
+00:10:54,529 --> 00:10:55,905
+Por favor, ouça.
+
+109
+00:10:59,408 --> 00:11:01,285
+Sei por que está aqui, Neo.
+
+110
+00:11:02,077 --> 00:11:04,079
+Sei o que anda fazendo.
+
+111
+00:11:04,288 --> 00:11:06,123
+Sei por que mal dorme...
+
+112
+00:11:06,456 --> 00:11:09,584
+por que mora sozinho e por
+que, noite após noite...
+
+113
+00:11:09,834 --> 00:11:12,128
+senta-se ao computador.
+
+114
+00:11:13,296 --> 00:11:14,881
+Você o está procurando.
+
+115
+00:11:15,590 --> 00:11:18,718
+Eu sei porque eu também
+já procurei a mesma coisa.
+
+116
+00:11:19,176 --> 00:11:21,262
+E, quando ele me encontrou...
+
+117
+00:11:21,887 --> 00:11:24,932
+ele me disse que eu não
+estava procurando por ele...
+
+118
+00:11:25,891 --> 00:11:27,684
+eu estava procurando uma resposta.
+
+119
+00:11:28,268 --> 00:11:31,438
+É a pergunta que nos impulsiona, Neo.
+
+120
+00:11:32,063 --> 00:11:34,732
+Foi a pergunta que te trouxe aqui.
+
+121
+00:11:36,859 --> 00:11:38,236
+Você conhece a pergunta...
+
+122
+00:11:38,527 --> 00:11:39,945
+assim como eu.
+
+123
+00:11:41,530 --> 00:11:43,198
+O que é a Matrix?
+
+124
+00:11:43,407 --> 00:11:45,826
+A resposta está aí, Neo.
+
+125
+00:11:46,493 --> 00:11:48,453
+Ela está à sua procura.
+
+126
+00:11:49,371 --> 00:11:50,997
+E ela te encontrará...
+
+127
+00:11:51,289 --> 00:11:53,291
+se você desejar.
+
+128
+00:12:00,089 --> 00:12:00,756
+Merda.
+
+129
+00:12:01,173 --> 00:12:02,383
+Merda, merda!
+
+130
+00:12:12,642 --> 00:12:15,561
+Você não aceita
+autoridade, Sr. Anderson.
+
+131
+00:12:15,770 --> 00:12:19,774
+Você se acha especial, como se as
+regras não se aplicassem a você.
+
+132
+00:12:20,524 --> 00:12:22,568
+Obviamente, está enganado.
+
+133
+00:12:25,487 --> 00:12:28,365
+Esta é uma das maiores
+empresas de software do mundo...
+
+134
+00:12:28,615 --> 00:12:32,035
+porque cada funcionário entende
+que faz parte de um todo.
+
+135
+00:12:32,243 --> 00:12:36,831
+Logo, se um funcionário tem
+problema, a empresa tem problema.
+
+136
+00:12:39,166 --> 00:12:42,336
+Chegou a hora de fazer
+uma escolha, Sr. Anderson.
+
+137
+00:12:43,253 --> 00:12:47,090
+Ou você escolhe estar na sua mesa
+no horário a partir de hoje...
+
+138
+00:12:47,758 --> 00:12:50,260
+ou você escolhe achar outro emprego.
+
+139
+00:12:51,177 --> 00:12:52,554
+Eu fui claro?
+
+140
+00:12:52,762 --> 00:12:54,973
+Sim, Sr. Rhineheart.
+Perfeitamente claro.
+
+141
+00:13:03,647 --> 00:13:04,481
+Thomas Anderson?
+
+142
+00:13:06,775 --> 00:13:08,193
+Sim, sou eu.
+
+143
+00:13:16,200 --> 00:13:17,368
+Legal.
+
+144
+00:13:18,869 --> 00:13:19,995
+Tenha um bom dia.
+
+145
+00:13:36,761 --> 00:13:40,056
+<i>Alô, Neo. Sabe quem está falando?</i>
+
+146
+00:13:42,391 --> 00:13:44,184
+<i>- Morpheus.
+- Sim.</i>
+
+147
+00:13:44,393 --> 00:13:46,395
+<i>Eu andava à sua procura.</i>
+
+148
+00:13:46,561 --> 00:13:49,814
+<i>Não sei se está pronto para
+ver o que quero te mostrar...</i>
+
+149
+00:13:50,065 --> 00:13:53,276
+<i>mas, infelizmente, nôs
+dois não temos mais tempo.</i>
+
+150
+00:13:53,443 --> 00:13:57,238
+<i>Eles vão te buscar aí, e
+não sei o que eles vão fazer.</i>
+
+151
+00:13:57,405 --> 00:13:58,823
+Quem vem me buscar?
+
+152
+00:13:59,031 --> 00:14:01,158
+<i>Levante-se e veja você mesmo.</i>
+
+153
+00:14:01,325 --> 00:14:02,868
+Como? Agora?
+
+154
+00:14:03,118 --> 00:14:04,161
+<i>Sim.</i>
+
+155
+00:14:04,328 --> 00:14:05,704
+<i>Agora.</i>
+
+156
+00:14:06,455 --> 00:14:08,373
+<i>Levante-se devagar.</i>
+
+157
+00:14:08,832 --> 00:14:10,083
+<i>O elevador.</i>
+
+158
+00:14:14,921 --> 00:14:16,714
+Merda!
+
+159
+00:14:21,427 --> 00:14:22,428
+O que eles querem?
+
+160
+00:14:22,636 --> 00:14:26,306
+<i>Não sei. Mas, se você não quiser
+descobrir, sugiro que saia daí.</i>
+
+161
+00:14:26,515 --> 00:14:27,182
+Como?
+
+162
+00:14:27,391 --> 00:14:30,560
+<i>Posso te guiar, mas precisa
+fazer o que eu mandar.</i>
+
+163
+00:14:31,478 --> 00:14:33,438
+<i>O cubículo à frente está vazio.</i>
+
+164
+00:14:36,566 --> 00:14:38,651
+<i>- Mas e se eles...
+- Vá. Agora!</i>
+
+165
+00:14:45,449 --> 00:14:47,826
+<i>Fique aqui sô um pouco.</i>
+
+166
+00:14:55,083 --> 00:14:57,835
+<i>Quando eu mandar, vá
+até o fim do corredor...</i>
+
+167
+00:14:58,044 --> 00:15:00,046
+<i>até a sala no fim do escritôrio.</i>
+
+168
+00:15:00,212 --> 00:15:02,631
+<i>Vá bem agachado.</i>
+
+169
+00:15:05,050 --> 00:15:06,051
+<i>Vá agora.</i>
+
+170
+00:15:20,523 --> 00:15:23,984
+<i>Ótimo. Agora, lá fora tem um andaime.</i>
+
+171
+00:15:26,737 --> 00:15:29,072
+<i>- Como você sabe disso?
+- Não temos tempo.</i>
+
+172
+00:15:29,281 --> 00:15:32,158
+<i>À sua esquerda há uma
+janela. Vá até ela.</i>
+
+173
+00:15:34,369 --> 00:15:35,870
+<i>Abra.</i>
+
+174
+00:15:36,746 --> 00:15:38,581
+<i>Suba no andaime até o topo.</i>
+
+175
+00:15:38,789 --> 00:15:41,458
+De jeito nenhum! De jeito
+nenhum! Isso é loucura!
+
+176
+00:15:41,625 --> 00:15:44,002
+<i>Há duas formas de sair deste prédio.</i>
+
+177
+00:15:44,211 --> 00:15:48,131
+<i>Uma é pelo andaime. A
+outra é levado por eles.</i>
+
+178
+00:15:48,381 --> 00:15:51,509
+<i>Nas duas há um risco.
+Você é quem escolhe.</i>
+
+179
+00:15:55,179 --> 00:15:56,848
+Isso é loucura!
+
+180
+00:15:58,099 --> 00:15:59,892
+Por que está acontecendo comigo?
+
+181
+00:16:00,226 --> 00:16:01,894
+O que eu fiz?
+
+182
+00:16:02,228 --> 00:16:05,022
+Não sou ninguém. Eu não fiz nada.
+
+183
+00:16:05,564 --> 00:16:07,065
+Eu vou morrer.
+
+184
+00:16:16,866 --> 00:16:17,867
+Merda!
+
+185
+00:16:38,135 --> 00:16:39,261
+Merda!
+
+186
+00:16:44,266 --> 00:16:45,976
+Eu não consigo.
+
+187
+00:16:58,988 --> 00:16:59,739
+Merda.
+
+188
+00:17:48,992 --> 00:17:53,788
+Como pode ver, estamos te observando
+já há algum tempo, Sr. Anderson.
+
+189
+00:17:55,164 --> 00:17:57,750
+Parece que você tem levado...
+
+190
+00:17:58,000 --> 00:18:00,169
+uma vida dupla.
+
+191
+00:18:01,545 --> 00:18:04,131
+Em uma vida, você é
+Thomas A. Anderson...
+
+192
+00:18:04,298 --> 00:18:07,676
+programador de uma respeitável
+empresa de software.
+
+193
+00:18:08,718 --> 00:18:12,013
+Você é registrado no seguro
+social, paga seus impostos.
+
+194
+00:18:12,388 --> 00:18:13,723
+E você...
+
+195
+00:18:15,266 --> 00:18:18,894
+...ajuda a senhoria a
+levar o lixo pra fora.
+
+196
+00:18:21,397 --> 00:18:24,566
+A outra vida é dentro de computadores...
+
+197
+00:18:24,817 --> 00:18:27,819
+onde é o hacker conhecido
+pelo apelido de "Neo"...
+
+198
+00:18:28,028 --> 00:18:32,866
+e é culpado de quase todos os crimes
+por computador previstos na legislação.
+
+199
+00:18:34,158 --> 00:18:36,119
+Uma dessas vidas...
+
+200
+00:18:36,369 --> 00:18:38,246
+tem futuro.
+
+201
+00:18:38,537 --> 00:18:40,498
+A outra não tem.
+
+202
+00:18:44,251 --> 00:18:48,088
+Eu serei o mais direto
+possível, Sr. Anderson.
+
+203
+00:18:49,130 --> 00:18:50,382
+Você está aqui...
+
+204
+00:18:50,799 --> 00:18:52,967
+porque precisamos de sua ajuda.
+
+205
+00:18:56,596 --> 00:18:59,724
+Sabemos que você foi
+contatado por um certo...
+
+206
+00:18:59,932 --> 00:19:01,684
+indivíduo.
+
+207
+00:19:02,601 --> 00:19:06,605
+Um homem que se
+auto-intitula "Morpheus".
+
+208
+00:19:07,647 --> 00:19:11,651
+O que você acha que sabe
+sobre esse homem é irrelevante.
+
+209
+00:19:11,860 --> 00:19:14,404
+Ele é considerado pelas autoridades...
+
+210
+00:19:14,612 --> 00:19:17,573
+como o homem mais perigoso que existe.
+
+211
+00:19:20,409 --> 00:19:21,535
+Os meus colegas...
+
+212
+00:19:21,952 --> 00:19:24,913
+acham que estou perdendo
+o meu tempo com você.
+
+213
+00:19:25,205 --> 00:19:28,625
+Mas acho que você deseja
+fazer a coisa certa.
+
+214
+00:19:28,917 --> 00:19:32,462
+Nós queremos apagar tudo isto...
+
+215
+00:19:32,796 --> 00:19:34,881
+te dar um novo começo.
+
+216
+00:19:35,465 --> 00:19:38,384
+Tudo que pedimos em troca
+é a sua colaboração...
+
+217
+00:19:38,551 --> 00:19:42,096
+para levar um conhecido
+terrorista à Justiça.
+
+218
+00:19:43,472 --> 00:19:44,765
+Sim.
+
+219
+00:19:46,016 --> 00:19:48,143
+Parece um trato muito bom.
+
+220
+00:19:49,728 --> 00:19:51,479
+Mas acho que tenho um melhor.
+
+221
+00:19:51,688 --> 00:19:53,231
+Que tal...
+
+222
+00:19:53,690 --> 00:19:55,650
+eu te mostrar o dedo...
+
+223
+00:19:58,277 --> 00:20:00,237
+e você me dar o meu telefonema?
+
+224
+00:20:02,489 --> 00:20:04,283
+Sr. Anderson...
+
+225
+00:20:08,703 --> 00:20:09,496
+você me decepcionou.
+
+226
+00:20:09,788 --> 00:20:12,415
+Não vai me assustar
+com essa coisa nazista.
+
+227
+00:20:12,624 --> 00:20:14,042
+Conheço meus direitos.
+
+228
+00:20:14,250 --> 00:20:15,793
+Eu quero o meu telefonema.
+
+229
+00:20:16,377 --> 00:20:18,504
+Diga-me, Sr. Anderson...
+
+230
+00:20:19,380 --> 00:20:20,840
+de que adianta um telefonema...
+
+231
+00:20:21,048 --> 00:20:24,718
+se você não consegue falar?
+
+232
+00:20:58,416 --> 00:21:00,668
+Você vai nos ajudar, Sr. Anderson...
+
+233
+00:21:01,293 --> 00:21:02,336
+quer você queira...
+
+234
+00:21:02,586 --> 00:21:03,379
+ou não.
+
+235
+00:22:01,845 --> 00:22:05,140
+<i>A linha está grampeada, eu serei breve.</i>
+
+236
+00:22:05,349 --> 00:22:09,728
+<i>Eles te pegaram antes, mas eles
+subestimaram a sua importância.</i>
+
+237
+00:22:09,936 --> 00:22:11,729
+<i>Se eles soubessem o que sei...</i>
+
+238
+00:22:11,980 --> 00:22:13,982
+<i>você já estaria morto.</i>
+
+239
+00:22:15,024 --> 00:22:18,736
+Do que você está falando?
+O que está havendo comigo?
+
+240
+00:22:18,944 --> 00:22:23,782
+<i>Você é o Escolhido. Você pode
+ter passado os últimos anos...</i>
+
+241
+00:22:23,991 --> 00:22:26,993
+<i>me procurando, mas eu
+passei minha vida toda...</i>
+
+242
+00:22:27,202 --> 00:22:28,787
+<i>procurando você.</i>
+
+243
+00:22:30,288 --> 00:22:32,415
+<i>Ainda quer se encontrar comigo?</i>
+
+244
+00:22:33,458 --> 00:22:36,252
+<i>- Sim.
+- Então vá à ponte da Rua Adams.</i>
+
+245
+00:22:46,511 --> 00:22:47,679
+Entre.
+
+246
+00:23:00,065 --> 00:23:00,858
+O que é isso?
+
+247
+00:23:01,108 --> 00:23:03,610
+É necessário, Neo. Para nos proteger.
+
+248
+00:23:03,819 --> 00:23:04,903
+Do quê?
+
+249
+00:23:05,195 --> 00:23:06,113
+De você.
+
+250
+00:23:07,531 --> 00:23:09,115
+Tire a camisa.
+
+251
+00:23:09,574 --> 00:23:10,408
+Pare o carro.
+
+252
+00:23:14,996 --> 00:23:16,164
+Escute, espertinho.
+
+253
+00:23:16,372 --> 00:23:18,416
+Não temos tempo pra brincadeiras.
+
+254
+00:23:18,958 --> 00:23:21,210
+Agora só há uma regra:
+
+255
+00:23:21,585 --> 00:23:22,920
+é do nosso jeito...
+
+256
+00:23:23,170 --> 00:23:24,296
+ou caia fora.
+
+257
+00:23:31,052 --> 00:23:31,928
+Tudo bem.
+
+258
+00:23:33,805 --> 00:23:36,307
+Por favor, Neo, confie em mim.
+
+259
+00:23:36,849 --> 00:23:39,518
+- Por quê?
+- Porque você já esteve lá.
+
+260
+00:23:40,269 --> 00:23:41,520
+Você conhece essa rua.
+
+261
+00:23:42,521 --> 00:23:44,106
+Você sabe onde ela vai dar.
+
+262
+00:23:46,274 --> 00:23:48,527
+E sei que não é onde você deseja estar.
+
+263
+00:24:02,748 --> 00:24:04,249
+Apoc, o acendedor.
+
+264
+00:24:06,877 --> 00:24:08,962
+Deite-se. Levante a camisa.
+
+265
+00:24:10,922 --> 00:24:11,714
+O que é isso?
+
+266
+00:24:12,090 --> 00:24:13,132
+Você foi grampeado.
+
+267
+00:24:20,931 --> 00:24:22,391
+Tente relaxar.
+
+268
+00:24:28,647 --> 00:24:29,814
+Vamos lá.
+
+269
+00:24:30,982 --> 00:24:31,900
+Vamos lá.
+
+270
+00:24:33,735 --> 00:24:34,569
+Está se mexendo.
+
+271
+00:24:36,445 --> 00:24:37,697
+Vem, seu merda.
+
+272
+00:24:39,490 --> 00:24:41,825
+- Você vai
+perdê-lo. -Não vou.
+
+273
+00:24:42,076 --> 00:24:42,993
+Ativar!
+
+274
+00:24:51,084 --> 00:24:52,961
+Jesus Cristo, isso foi real?!
+
+275
+00:25:27,200 --> 00:25:28,451
+É aqui.
+
+276
+00:25:31,830 --> 00:25:34,248
+Eu vou te dar um conselho.
+
+277
+00:25:35,291 --> 00:25:36,918
+Seja sincero.
+
+278
+00:25:38,502 --> 00:25:40,629
+Ele sabe mais do que você imagina.
+
+279
+00:25:49,429 --> 00:25:50,805
+Finalmente.
+
+280
+00:25:52,265 --> 00:25:53,349
+Bem-vindo, Neo.
+
+281
+00:25:54,600 --> 00:25:56,561
+Como você deve ter adivinhado...
+
+282
+00:25:56,811 --> 00:25:57,979
+eu sou Morpheus.
+
+283
+00:25:59,021 --> 00:26:00,689
+É uma honra conhecê-lo.
+
+284
+00:26:01,106 --> 00:26:02,107
+Não...
+
+285
+00:26:02,733 --> 00:26:03,984
+a honra é minha.
+
+286
+00:26:04,902 --> 00:26:07,446
+Por favor, venha. Sente-se.
+
+287
+00:26:22,584 --> 00:26:24,211
+Eu imagino...
+
+288
+00:26:24,545 --> 00:26:27,380
+que você esteja se sentindo
+um pouco como a Alice.
+
+289
+00:26:29,090 --> 00:26:31,426
+Entrando pela toca do coelho.
+
+290
+00:26:32,427 --> 00:26:33,386
+Você tem razão.
+
+291
+00:26:34,345 --> 00:26:36,889
+Eu vejo nos seus olhos.
+
+292
+00:26:37,556 --> 00:26:40,851
+Você tem o olhar de um
+homem que aceita o que vê...
+
+293
+00:26:41,060 --> 00:26:43,353
+porque está esperando acordar.
+
+294
+00:26:44,771 --> 00:26:47,315
+Ironicamente, não deixa de ser verdade.
+
+295
+00:26:48,066 --> 00:26:50,485
+Você acredita em destino, Neo?
+
+296
+00:26:50,819 --> 00:26:51,653
+Não.
+
+297
+00:26:52,195 --> 00:26:53,154
+Por que não?
+
+298
+00:26:53,363 --> 00:26:56,199
+Não gosto de pensar que
+não controlo minha vida.
+
+299
+00:26:57,241 --> 00:27:00,578
+Sei exatamente o que quer dizer.
+
+300
+00:27:04,915 --> 00:27:07,250
+Vou te dizer por que está aqui.
+
+301
+00:27:08,293 --> 00:27:09,878
+Você sabe de algo.
+
+302
+00:27:10,378 --> 00:27:12,046
+Não consegue explicar o quê.
+
+303
+00:27:12,463 --> 00:27:14,090
+Mas você sente.
+
+304
+00:27:14,716 --> 00:27:16,676
+Você sentiu a vida inteira:
+
+305
+00:27:17,218 --> 00:27:21,388
+há algo errado com o mundo.
+Você não sabe o que, mas há.
+
+306
+00:27:21,805 --> 00:27:24,099
+Como um zunido na sua cabeça...
+
+307
+00:27:24,349 --> 00:27:26,184
+te enlouquecendo.
+
+308
+00:27:27,102 --> 00:27:29,896
+Foi esse sentimento
+que te trouxe até mim.
+
+309
+00:27:32,398 --> 00:27:34,275
+Você sabe do que estou falando?
+
+310
+00:27:36,152 --> 00:27:37,403
+Da Matrix?
+
+311
+00:27:39,864 --> 00:27:41,573
+Você deseja saber...
+
+312
+00:27:42,074 --> 00:27:44,076
+o que ela é?
+
+313
+00:27:46,453 --> 00:27:48,330
+A Matrix está em todo lugar.
+
+314
+00:27:48,538 --> 00:27:50,290
+À nossa volta.
+
+315
+00:27:50,498 --> 00:27:52,500
+Mesmo agora, nesta sala.
+
+316
+00:27:53,334 --> 00:27:55,628
+Você pode vê-la quando
+olha pela janela...
+
+317
+00:27:55,837 --> 00:27:58,130
+ou quando liga sua televisão.
+
+318
+00:27:58,547 --> 00:28:01,091
+Você a sente quando
+vai para o trabalho...
+
+319
+00:28:02,593 --> 00:28:04,303
+quando vai à igreja...
+
+320
+00:28:04,720 --> 00:28:06,847
+quando paga seus impostos.
+
+321
+00:28:07,848 --> 00:28:10,850
+É o mundo que foi colocado
+diante dos seus olhos...
+
+322
+00:28:11,017 --> 00:28:12,685
+para que você não visse a verdade.
+
+323
+00:28:14,854 --> 00:28:16,189
+Que verdade?
+
+324
+00:28:20,401 --> 00:28:21,902
+Que você é um escravo.
+
+325
+00:28:23,445 --> 00:28:25,739
+Como todo mundo, você
+nasceu num cativeiro...
+
+326
+00:28:26,031 --> 00:28:30,618
+nasceu numa prisão que não
+consegue sentir ou tocar.
+
+327
+00:28:30,994 --> 00:28:32,328
+Uma prisão...
+
+328
+00:28:32,495 --> 00:28:33,579
+para sua mente.
+
+329
+00:28:40,628 --> 00:28:43,005
+Infelizmente, é impossível...
+
+330
+00:28:43,213 --> 00:28:45,716
+dizer o que é a Matrix.
+
+331
+00:28:49,135 --> 00:28:51,054
+Você tem de ver por si mesmo.
+
+332
+00:29:00,563 --> 00:29:02,815
+Esta é sua última chance.
+
+333
+00:29:03,023 --> 00:29:05,400
+Depois não há como voltar.
+
+334
+00:29:05,859 --> 00:29:07,319
+Se tomar a pílula azul...
+
+335
+00:29:07,652 --> 00:29:10,739
+a história acaba, e você acordará
+na sua cama acreditando...
+
+336
+00:29:10,947 --> 00:29:12,740
+no que quiser acreditar.
+
+337
+00:29:12,991 --> 00:29:14,325
+Se tomar a pílula vermelha...
+
+338
+00:29:14,534 --> 00:29:16,494
+ficará no País das Maravilhas...
+
+339
+00:29:17,078 --> 00:29:19,747
+e eu te mostrarei até
+onde vai a toca do coelho.
+
+340
+00:29:29,631 --> 00:29:30,840
+Lembre-se...
+
+341
+00:29:31,674 --> 00:29:34,677
+tudo que ofereço é a verdade. Nada mais.
+
+342
+00:29:49,107 --> 00:29:50,358
+Siga-me.
+
+343
+00:29:52,902 --> 00:29:54,612
+Apoc, estamos conectados?
+
+344
+00:29:54,862 --> 00:29:56,197
+Quase.
+
+345
+00:29:59,575 --> 00:30:01,619
+O tempo está sempre contra nós.
+
+346
+00:30:01,994 --> 00:30:03,454
+Por favor, sente-se aqui.
+
+347
+00:30:21,679 --> 00:30:23,347
+Você já fez isso?
+
+348
+00:30:27,559 --> 00:30:29,477
+A pílula que tomou é
+parte de um programa.
+
+349
+00:30:30,311 --> 00:30:34,899
+Ela interrompe seus sinais portadores,
+para que possamos localizá-lo.
+
+350
+00:30:35,441 --> 00:30:36,442
+O que isso significa?
+
+351
+00:30:37,068 --> 00:30:39,236
+Significa "aperte o cinto, Dorothy...
+
+352
+00:30:39,528 --> 00:30:40,905
+porque Kansas...
+
+353
+00:30:41,113 --> 00:30:42,197
+vai sumir do mapa".
+
+354
+00:31:20,107 --> 00:31:21,525
+Você...?
+
+355
+00:31:32,493 --> 00:31:36,581
+Você já teve um sonho, Neo,
+que parecia ser verdadeiro?
+
+356
+00:31:38,082 --> 00:31:40,626
+E se você não conseguisse
+acordar desse sonho?
+
+357
+00:31:40,834 --> 00:31:43,420
+Como você saberia a diferença
+entre o mundo dos sonhos...
+
+358
+00:31:44,004 --> 00:31:45,422
+e o mundo real?
+
+359
+00:31:47,132 --> 00:31:48,258
+Não pode ser.
+
+360
+00:31:48,508 --> 00:31:49,426
+Ser o quê?
+
+361
+00:31:50,135 --> 00:31:51,636
+Ser real?
+
+362
+00:31:55,640 --> 00:31:56,974
+Iniciando cópia.
+
+363
+00:31:57,308 --> 00:31:58,225
+Nada ainda.
+
+364
+00:31:58,851 --> 00:32:00,019
+Está frio.
+
+365
+00:32:00,269 --> 00:32:01,645
+Está frio!
+
+366
+00:32:05,482 --> 00:32:07,234
+Tank, precisamos de um sinal logo.
+
+367
+00:32:08,777 --> 00:32:09,653
+Temos uma fibrilação.
+
+368
+00:32:09,819 --> 00:32:11,404
+Apoc, localização.
+
+369
+00:32:11,654 --> 00:32:13,072
+O alvo está quase lá.
+
+370
+00:32:16,450 --> 00:32:17,785
+Ele vai ter uma parada.
+
+371
+00:32:17,994 --> 00:32:18,869
+Feche. Consegui!
+
+372
+00:32:19,078 --> 00:32:19,912
+Agora, Tank, agora!
+
+373
+00:35:17,742 --> 00:35:18,868
+Bem-vindo...
+
+374
+00:35:19,285 --> 00:35:21,161
+ao mundo real.
+
+375
+00:35:22,579 --> 00:35:24,414
+Você conseguiu, Trinity.
+
+376
+00:35:24,581 --> 00:35:26,249
+Nós o encontramos.
+
+377
+00:35:26,458 --> 00:35:29,252
+- Espero que sim.
+- Não precisa esperar.
+
+378
+00:35:29,753 --> 00:35:31,421
+Eu sei.
+
+379
+00:35:36,551 --> 00:35:37,635
+Eu estou morto?
+
+380
+00:35:38,094 --> 00:35:40,262
+Longe disso.
+
+381
+00:35:54,275 --> 00:35:55,693
+Ele precisa de muito trabalho.
+
+382
+00:35:57,236 --> 00:35:58,320
+O que estão fazendo?
+
+383
+00:35:58,529 --> 00:36:00,781
+Seus músculos atrofiaram.
+Vamos reconstruí-los.
+
+384
+00:36:01,365 --> 00:36:02,908
+Por que meus olhos doem?
+
+385
+00:36:03,617 --> 00:36:05,494
+Porque você nunca os usou.
+
+386
+00:36:09,414 --> 00:36:10,290
+Descanse, Neo.
+
+387
+00:36:10,540 --> 00:36:12,208
+As respostas virão.
+
+388
+00:37:26,777 --> 00:37:28,403
+Morpheus, o que aconteceu comigo?
+
+389
+00:37:29,154 --> 00:37:30,155
+Que lugar é este?
+
+390
+00:37:30,363 --> 00:37:32,991
+Mais importante é "quando".
+
+391
+00:37:33,783 --> 00:37:34,534
+"Quando"?
+
+392
+00:37:34,742 --> 00:37:36,827
+Você acha que é o ano de 1999...
+
+393
+00:37:37,036 --> 00:37:39,288
+quando, na verdade, é perto de 2199.
+
+394
+00:37:40,372 --> 00:37:43,250
+Não posso te dizer
+que ano é exatamente...
+
+395
+00:37:43,417 --> 00:37:45,085
+porque, sinceramente, não sabemos.
+
+396
+00:37:45,585 --> 00:37:48,421
+Não há nada que eu diga
+que possa te explicar.
+
+397
+00:37:48,672 --> 00:37:49,798
+Venha comigo.
+
+398
+00:37:50,131 --> 00:37:51,424
+Veja por si próprio.
+
+399
+00:37:51,925 --> 00:37:53,676
+Este é o meu barco.
+
+400
+00:37:54,010 --> 00:37:56,887
+<i>O "Nabucodonosor". É um hovercraft.</i>
+
+401
+00:37:59,765 --> 00:38:01,517
+Este é o convés.
+
+402
+00:38:07,522 --> 00:38:08,523
+Aqui é o núcleo...
+
+403
+00:38:08,732 --> 00:38:10,817
+NABUCODONOSOR FEITO NOS EUA
+- ANO 2069
+
+404
+00:38:11,025 --> 00:38:14,737
+...de onde transmitimos nosso
+sinal pirata para dentro da Matrix.
+
+405
+00:38:18,157 --> 00:38:21,285
+A maior parte da
+tripulação você já conhece.
+
+406
+00:38:26,331 --> 00:38:27,749
+Este é Apoc...
+
+407
+00:38:28,500 --> 00:38:29,876
+Switch...
+
+408
+00:38:31,503 --> 00:38:32,629
+e Cypher.
+
+409
+00:38:32,837 --> 00:38:36,549
+Os que você não conhece,
+Tank e seu irmão maior, Dozer.
+
+410
+00:38:37,425 --> 00:38:39,844
+O pequeno aí atrás é o Mouse.
+
+411
+00:38:44,223 --> 00:38:47,476
+Você queria saber o que é a Matrix?
+
+412
+00:38:48,518 --> 00:38:49,728
+Trinity.
+
+413
+00:39:10,789 --> 00:39:12,332
+Tente relaxar.
+
+414
+00:39:17,211 --> 00:39:19,046
+Vai se sentir um pouco estranho.
+
+415
+00:39:22,883 --> 00:39:23,800
+DRIVE SUPLEMENTAR
+
+416
+00:39:31,099 --> 00:39:32,225
+Esta...
+
+417
+00:39:32,559 --> 00:39:34,310
+é a Construção.
+
+418
+00:39:34,727 --> 00:39:36,812
+É nosso programa de carregamento.
+
+419
+00:39:37,063 --> 00:39:39,565
+Podemos carregar de tudo, roupas...
+
+420
+00:39:39,773 --> 00:39:41,150
+equipamentos...
+
+421
+00:39:41,442 --> 00:39:42,818
+armas...
+
+422
+00:39:43,402 --> 00:39:45,195
+simulações de treinamento...
+
+423
+00:39:45,612 --> 00:39:48,156
+qualquer coisa que precisarmos.
+
+424
+00:39:50,992 --> 00:39:53,411
+Então estamos dentro de
+um programa de computador?
+
+425
+00:39:53,661 --> 00:39:55,621
+Acha mesmo difícil de acreditar?
+
+426
+00:39:56,080 --> 00:39:58,749
+Suas roupas são diferentes. Os
+plugues do seu corpo sumiram.
+
+427
+00:39:59,917 --> 00:40:01,960
+Seu cabelo mudou.
+
+428
+00:40:02,461 --> 00:40:05,756
+Sua aparência agora é o que
+chamamos de "auto-imagem residual".
+
+429
+00:40:06,465 --> 00:40:09,050
+É a projeção mental do seu "eu" digital.
+
+430
+00:40:14,931 --> 00:40:16,098
+Isto não é real?
+
+431
+00:40:16,349 --> 00:40:17,808
+O que é "real"?
+
+432
+00:40:18,309 --> 00:40:20,519
+Como você define o "real"?
+
+433
+00:40:20,728 --> 00:40:22,730
+Se está falando do
+que consegue sentir...
+
+434
+00:40:22,980 --> 00:40:25,440
+do que pode cheirar, provar, ver...
+
+435
+00:40:25,607 --> 00:40:29,486
+então "real" são simplesmente sinais
+elétricos interpretados pelo cérebro.
+
+436
+00:40:33,698 --> 00:40:36,158
+Este é o mundo que você conhece.
+
+437
+00:40:37,535 --> 00:40:40,538
+O mundo como era no final do século 20.
+
+438
+00:40:42,956 --> 00:40:47,335
+Ele só existe agora como parte de
+uma simulação neurointerativa...
+
+439
+00:40:47,544 --> 00:40:48,795
+que chamamos de Matrix.
+
+440
+00:40:53,341 --> 00:40:56,135
+Você vivia num mundo de sonhos, Neo.
+
+441
+00:40:57,136 --> 00:40:58,220
+Este é o mundo...
+
+442
+00:40:58,512 --> 00:41:00,306
+que existe hoje.
+
+443
+00:41:13,359 --> 00:41:16,362
+Bem-vindo ao deserto...
+
+444
+00:41:17,154 --> 00:41:18,781
+do real.
+
+445
+00:41:22,159 --> 00:41:24,578
+Temos apenas pequenas
+partes de informação.
+
+446
+00:41:24,745 --> 00:41:28,582
+Mas o que sabemos por certo
+é que no começo do século 21...
+
+447
+00:41:28,790 --> 00:41:32,085
+a humanidade inteira estava celebrando.
+
+448
+00:41:32,335 --> 00:41:37,131
+Estávamos encantados com nossa
+própria grandeza por criarmos a IA.
+
+449
+00:41:37,840 --> 00:41:39,049
+IA.
+
+450
+00:41:40,092 --> 00:41:41,427
+Inteligência Artificial?
+
+451
+00:41:41,635 --> 00:41:46,139
+Uma consciência singular que
+gerou uma raça inteira de máquinas.
+
+452
+00:41:46,973 --> 00:41:50,393
+Não sabemos quem atacou
+antes, nós ou eles.
+
+453
+00:41:50,810 --> 00:41:54,063
+Mas sei que fomos nós
+que queimamos o céu.
+
+454
+00:41:55,773 --> 00:41:57,900
+Elas dependiam de energia solar...
+
+455
+00:41:58,067 --> 00:42:01,487
+e acreditava-se que elas não
+conseguiriam sobreviver...
+
+456
+00:42:01,820 --> 00:42:05,282
+sem uma fonte de energia
+tão abundante como o Sol.
+
+457
+00:42:05,532 --> 00:42:10,453
+Ao longo da História, nós dependemos
+de máquinas para sobreviver.
+
+458
+00:42:11,913 --> 00:42:16,125
+O destino, parece, não
+deixa de ser irônico.
+
+459
+00:42:19,336 --> 00:42:23,715
+O corpo humano gera mais bioeletricidade
+do que uma bateria de 120 volts...
+
+460
+00:42:23,966 --> 00:42:28,094
+e mais de 25 mil BTUs de calor corpóreo.
+
+461
+00:42:30,013 --> 00:42:32,182
+Combinado com uma espécie de fusão...
+
+462
+00:42:32,515 --> 00:42:37,353
+as máquinas encontraram mais
+energia do que jamais precisariam.
+
+463
+00:42:41,440 --> 00:42:45,193
+Há campos, Neo, campos sem fim...
+
+464
+00:42:45,485 --> 00:42:48,697
+onde seres humanos não mais nascem.
+
+465
+00:42:49,406 --> 00:42:51,199
+Nós somos "cultivados".
+
+466
+00:42:57,246 --> 00:42:59,915
+Durante muito tempo, eu não acreditei.
+
+467
+00:43:00,124 --> 00:43:02,793
+Aí eu vi os campos com
+meus próprios olhos.
+
+468
+00:43:04,169 --> 00:43:05,796
+Eu os vi liquefazer os mortos...
+
+469
+00:43:06,004 --> 00:43:09,341
+para que fossem injetados
+na veia dos vivos.
+
+470
+00:43:09,883 --> 00:43:14,137
+E lá, vendo tal precisão
+pura e aterrorizante...
+
+471
+00:43:14,345 --> 00:43:17,306
+acabei me dando conta da verdade óbvia.
+
+472
+00:43:19,934 --> 00:43:21,727
+O que é a Matrix?
+
+473
+00:43:22,936 --> 00:43:23,979
+Controle.
+
+474
+00:43:25,355 --> 00:43:28,692
+A Matrix é um mundo dos
+sonhos gerado por computador...
+
+475
+00:43:29,526 --> 00:43:32,570
+feito para nos controlar...
+
+476
+00:43:33,780 --> 00:43:36,908
+para transformar o ser humano...
+
+477
+00:43:37,575 --> 00:43:38,743
+nisto aqui.
+
+478
+00:43:40,077 --> 00:43:41,287
+Não.
+
+479
+00:43:42,871 --> 00:43:44,456
+Eu não acredito.
+
+480
+00:43:44,873 --> 00:43:46,083
+Não é possível.
+
+481
+00:43:46,625 --> 00:43:51,212
+Eu não disse que seria fácil, Neo.
+Eu só disse que seria a verdade.
+
+482
+00:43:51,421 --> 00:43:52,255
+Pare!
+
+483
+00:43:53,298 --> 00:43:54,465
+Deixe-me sair!
+
+484
+00:43:55,216 --> 00:43:57,134
+Deixe-me sair! Eu quero sair!
+
+485
+00:43:59,095 --> 00:44:01,805
+- Calma, Neo, calma.
+- Tire isso de mim.
+
+486
+00:44:01,972 --> 00:44:03,724
+Tire isso de mim!
+
+487
+00:44:05,475 --> 00:44:07,018
+Não me toque!
+
+488
+00:44:07,227 --> 00:44:08,853
+Fique longe de mim!
+
+489
+00:44:09,271 --> 00:44:10,814
+Eu não acredito.
+
+490
+00:44:11,481 --> 00:44:12,774
+Eu não acredito.
+
+491
+00:44:12,941 --> 00:44:13,941
+Eu não acredito.
+
+492
+00:44:14,734 --> 00:44:16,736
+- Ele vai apagar.
+- Respire, Neo.
+
+493
+00:44:17,361 --> 00:44:18,237
+Respire.
+
+494
+00:44:36,587 --> 00:44:38,339
+Não posso voltar, posso?
+
+495
+00:44:39,340 --> 00:44:40,341
+Não.
+
+496
+00:44:41,425 --> 00:44:42,718
+Mas, se você pudesse...
+
+497
+00:44:43,469 --> 00:44:45,012
+você realmente iria querer?
+
+498
+00:44:47,556 --> 00:44:48,932
+Eu te devo desculpas.
+
+499
+00:44:49,516 --> 00:44:50,850
+Temos uma regra:
+
+500
+00:44:51,309 --> 00:44:54,771
+nunca libertamos uma mente
+após ela atingir certa idade.
+
+501
+00:44:54,979 --> 00:44:55,855
+É perigoso.
+
+502
+00:44:56,564 --> 00:44:58,232
+A mente tem problemas em esquecer.
+
+503
+00:44:58,482 --> 00:45:00,818
+Eu já vi acontecer e sinto muito.
+
+504
+00:45:01,819 --> 00:45:03,904
+Eu fiz o que fiz porque...
+
+505
+00:45:04,655 --> 00:45:06,156
+fui obrigado.
+
+506
+00:45:14,539 --> 00:45:18,626
+Quando a Matrix foi construída,
+havia um homem nascido nela...
+
+507
+00:45:19,085 --> 00:45:22,921
+que tinha a habilidade de
+mudar o que ele quisesse...
+
+508
+00:45:23,338 --> 00:45:26,216
+para refazer a Matrix a seu modo.
+
+509
+00:45:27,968 --> 00:45:31,429
+Foi ele quem libertou
+o primeiro de nós...
+
+510
+00:45:32,347 --> 00:45:33,931
+e nos mostrou a verdade.
+
+511
+00:45:35,391 --> 00:45:38,477
+Enquanto a Matrix existir...
+
+512
+00:45:38,769 --> 00:45:40,854
+a raça humana nunca será livre.
+
+513
+00:45:45,067 --> 00:45:46,651
+Quando ele morreu...
+
+514
+00:45:47,402 --> 00:45:50,155
+o Oráculo profetizou a sua volta...
+
+515
+00:45:50,655 --> 00:45:53,866
+e que sua chegada coroaria
+a destruição da Matrix...
+
+516
+00:45:54,075 --> 00:45:55,743
+o fim da guerra...
+
+517
+00:45:56,118 --> 00:45:57,328
+e a liberdade para nosso povo.
+
+518
+00:45:58,704 --> 00:46:03,333
+E por isso nós passamos a vida
+fazendo buscas pela Matrix...
+
+519
+00:46:03,667 --> 00:46:05,210
+procurando por ele.
+
+520
+00:46:07,712 --> 00:46:09,798
+Eu fiz o que fiz porque...
+
+521
+00:46:11,382 --> 00:46:13,551
+acredito que a busca terminou.
+
+522
+00:46:18,639 --> 00:46:20,015
+Descanse um pouco.
+
+523
+00:46:20,683 --> 00:46:22,476
+Você vai precisar.
+
+524
+00:46:25,395 --> 00:46:26,229
+Para quê?
+
+525
+00:46:29,482 --> 00:46:30,483
+O seu treinamento.
+
+526
+00:46:48,750 --> 00:46:50,460
+Bom dia. Você dormiu?
+
+527
+00:46:51,336 --> 00:46:52,587
+Vai dormir hoje.
+
+528
+00:46:52,921 --> 00:46:54,505
+Eu garanto.
+
+529
+00:46:56,007 --> 00:46:57,967
+Sou o Tank. Serei seu operador.
+
+530
+00:46:58,300 --> 00:47:00,803
+- Você não tem...
+- Buracos? Não.
+
+531
+00:47:01,720 --> 00:47:06,433
+Eu e meu irmão Dozer somos seres
+humanos 100% puros, à moda antiga.
+
+532
+00:47:06,641 --> 00:47:07,851
+Nascidos livres, aqui...
+
+533
+00:47:08,476 --> 00:47:09,769
+no mundo real.
+
+534
+00:47:09,978 --> 00:47:11,646
+Sou filho de Zion.
+
+535
+00:47:12,522 --> 00:47:14,941
+- Zion?
+- Se a guerra acabasse amanhã...
+
+536
+00:47:15,191 --> 00:47:16,651
+a festa seria em Zion.
+
+537
+00:47:17,109 --> 00:47:18,444
+É uma cidade?
+
+538
+00:47:18,694 --> 00:47:21,864
+A última cidade humana. O
+único lugar que nos restou.
+
+539
+00:47:23,448 --> 00:47:24,658
+Onde fica?
+
+540
+00:47:26,410 --> 00:47:27,452
+Lá embaixo...
+
+541
+00:47:27,702 --> 00:47:29,871
+perto do núcleo da Terra,
+onde ainda é quente.
+
+542
+00:47:31,456 --> 00:47:33,374
+Se você sobreviver, poderá conhecer.
+
+543
+00:47:35,585 --> 00:47:40,506
+Nossa! Falando sério, estou
+louco pra ver suas habilidades...
+
+544
+00:47:40,714 --> 00:47:42,466
+se Morpheus estiver certo.
+
+545
+00:47:42,925 --> 00:47:45,761
+Não devíamos falar sobre isso, mas...
+
+546
+00:47:45,969 --> 00:47:47,387
+se você for...
+
+547
+00:47:48,430 --> 00:47:50,432
+é um momento muito empolgante.
+
+548
+00:47:51,516 --> 00:47:54,227
+Temos muito o que
+fazer. Vamos ao trabalho.
+
+549
+00:47:58,147 --> 00:48:01,066
+Temos de começar com estes
+programas operacionais.
+
+550
+00:48:02,026 --> 00:48:05,529
+Isto é uma chatice. Vamos
+a algo mais divertido.
+
+551
+00:48:05,862 --> 00:48:07,322
+Que tal...
+
+552
+00:48:08,907 --> 00:48:10,658
+treinamento de combate?
+
+553
+00:48:16,706 --> 00:48:18,165
+Jiu-jítsu?
+
+554
+00:48:19,041 --> 00:48:20,668
+Eu vou aprender jiu-jítsu?
+
+555
+00:48:32,053 --> 00:48:33,304
+Minha nossa!
+
+556
+00:48:33,554 --> 00:48:35,848
+"Mikey, acho que ele gostou!"
+
+557
+00:48:36,265 --> 00:48:37,516
+Quer mais?
+
+558
+00:48:37,725 --> 00:48:39,059
+Puxa, sim.
+
+559
+00:48:41,312 --> 00:48:42,187
+Quero.
+
+560
+00:48:42,354 --> 00:48:46,441
+IKEMPO
+- TAE IKWON DO LUTA LIVRE
+
+561
+00:48:54,532 --> 00:48:56,242
+Como ele está?
+
+562
+00:48:56,277 --> 00:48:57,952
+10 horas direto, ele é uma maquina.
+
+563
+00:49:08,712 --> 00:49:10,130
+Eu luto kung fu.
+
+564
+00:49:11,965 --> 00:49:12,757
+Mostre-me.
+
+565
+00:49:14,550 --> 00:49:16,302
+Este é um programa de sparring...
+
+566
+00:49:16,510 --> 00:49:19,305
+igual à realidade programada da Matrix.
+
+567
+00:49:19,513 --> 00:49:21,974
+Tem as mesmas regras
+básicas, como a gravidade.
+
+568
+00:49:22,182 --> 00:49:25,644
+Só que essas regras não diferem das
+regras de um sistema de computador.
+
+569
+00:49:26,144 --> 00:49:27,729
+Algumas podem ser distorcidas.
+
+570
+00:49:27,938 --> 00:49:28,772
+Outras...
+
+571
+00:49:28,980 --> 00:49:30,273
+podem ser quebradas.
+
+572
+00:49:30,982 --> 00:49:31,983
+Entendeu?
+
+573
+00:49:33,318 --> 00:49:34,110
+Então me acerte...
+
+574
+00:49:34,694 --> 00:49:35,778
+se conseguir.
+
+575
+00:50:15,022 --> 00:50:15,857
+Bom!
+
+576
+00:50:16,649 --> 00:50:17,775
+Adaptação...
+
+577
+00:50:18,067 --> 00:50:19,318
+improvisação.
+
+578
+00:50:19,610 --> 00:50:20,986
+Mas sua fraqueza...
+
+579
+00:50:21,195 --> 00:50:22,654
+não é a sua técnica.
+
+580
+00:50:29,494 --> 00:50:30,620
+Morpheus está lutando com o Neo.
+
+581
+00:51:43,812 --> 00:51:45,063
+Como eu te venci?
+
+582
+00:51:51,653 --> 00:51:52,695
+Você é rápido.
+
+583
+00:51:53,237 --> 00:51:54,655
+Você acredita que...
+
+584
+00:51:54,989 --> 00:51:57,491
+ser mais forte ou mais rápido...
+
+585
+00:51:57,700 --> 00:52:01,453
+tem algo a ver com os
+meus músculos neste lugar?
+
+586
+00:52:05,415 --> 00:52:07,250
+Acha que está respirando ar?
+
+587
+00:52:20,804 --> 00:52:21,972
+De novo!
+
+588
+00:52:33,441 --> 00:52:35,818
+Minha nossa, ele é rápido!
+
+589
+00:52:36,110 --> 00:52:38,320
+A neurocinética dele é acima do normal.
+
+590
+00:52:43,867 --> 00:52:45,243
+O que está esperando?
+
+591
+00:52:45,494 --> 00:52:47,454
+Você é mais rápido que isso.
+
+592
+00:52:49,748 --> 00:52:51,875
+Não pense que é.
+
+593
+00:52:52,166 --> 00:52:53,835
+Saiba que é.
+
+594
+00:53:04,219 --> 00:53:06,972
+Vamos! Pare de tentar
+me acertar e me acerte!
+
+595
+00:53:16,897 --> 00:53:17,857
+Não acredito.
+
+596
+00:53:20,234 --> 00:53:22,319
+Sei o que está tentando fazer.
+
+597
+00:53:23,987 --> 00:53:26,156
+Quero libertar sua mente, Neo.
+
+598
+00:53:26,490 --> 00:53:28,575
+Mas só posso te mostrar a porta.
+
+599
+00:53:29,117 --> 00:53:31,077
+Você tem de atravessá-la.
+
+600
+00:53:33,329 --> 00:53:35,581
+Tank, carregue o programa de salto.
+
+601
+00:53:39,668 --> 00:53:40,711
+CARREGAR
+
+602
+00:53:47,092 --> 00:53:49,761
+Você precisa livrar-se, Neo, do medo...
+
+603
+00:53:50,387 --> 00:53:52,597
+da dúvida e da descrença.
+
+604
+00:53:53,723 --> 00:53:56,434
+Liberte a sua mente.
+
+605
+00:54:12,532 --> 00:54:14,325
+Tudo bem.
+
+606
+00:54:16,369 --> 00:54:17,578
+Libertar a mente.
+
+607
+00:54:18,162 --> 00:54:19,163
+E se ele conseguir?
+
+608
+00:54:19,330 --> 00:54:22,124
+- Ninguém consegue no primeiro salto.
+- Eu sei.
+
+609
+00:54:23,458 --> 00:54:25,919
+- Mas e se ele conseguir?
+- Não conseguirá.
+
+610
+00:54:26,753 --> 00:54:27,587
+Vamos.
+
+611
+00:54:27,838 --> 00:54:29,005
+Tudo bem.
+
+612
+00:54:29,422 --> 00:54:31,508
+Tudo bem. Libertar a mente.
+
+613
+00:54:32,342 --> 00:54:35,052
+Libertar a mente. Sem problema. Certo.
+
+614
+00:54:54,487 --> 00:54:56,155
+O que isso significa?
+
+615
+00:54:56,530 --> 00:54:58,365
+Não significa nada.
+
+616
+00:54:58,991 --> 00:55:01,577
+Todos caem na primeira vez.
+
+617
+00:55:01,994 --> 00:55:03,287
+Certo, Trin?
+
+618
+00:55:24,056 --> 00:55:26,641
+- Achei que não fosse real.
+- Sua mente torna real.
+
+619
+00:55:29,853 --> 00:55:32,063
+Se você é morto na Matrix...
+
+620
+00:55:32,522 --> 00:55:33,356
+você morre aqui?
+
+621
+00:55:33,940 --> 00:55:36,400
+O corpo não vive sem a mente.
+
+622
+00:56:06,970 --> 00:56:10,306
+Não me lembro de você
+ter me trazido comida.
+
+623
+00:56:13,351 --> 00:56:16,229
+Ele tem algo especial, não tem?
+
+624
+00:56:16,812 --> 00:56:18,439
+Virou um crédulo agora?
+
+625
+00:56:19,440 --> 00:56:20,691
+Eu me pergunto...
+
+626
+00:56:20,899 --> 00:56:24,611
+se Morpheus tem tanta certeza,
+por que não levá-lo ao Oráculo?
+
+627
+00:56:25,487 --> 00:56:28,490
+Morpheus vai levá-lo
+quando ele estiver pronto.
+
+628
+00:56:38,249 --> 00:56:39,792
+A Matrix é um sistema, Neo.
+
+629
+00:56:41,543 --> 00:56:42,795
+Esse sistema é nosso inimigo.
+
+630
+00:56:43,504 --> 00:56:45,797
+Mas, quando estamos
+dentro dele, o que vemos?
+
+631
+00:56:45,964 --> 00:56:49,801
+Homens de negócio, professores,
+advogados, marceneiros.
+
+632
+00:56:50,260 --> 00:56:52,929
+As mesmas pessoas que queremos salvar.
+
+633
+00:56:53,137 --> 00:56:56,140
+Mas até conseguirmos, essas
+pessoas fazem parte desse sistema...
+
+634
+00:56:56,349 --> 00:56:58,267
+e isso faz delas nossas inimigas.
+
+635
+00:56:58,601 --> 00:56:59,602
+Você precisa entender...
+
+636
+00:56:59,852 --> 00:57:03,313
+que a maior parte dessas pessoas
+não está pronta para acordar.
+
+637
+00:57:03,522 --> 00:57:05,107
+E muitos estão tão inertes...
+
+638
+00:57:05,315 --> 00:57:07,275
+tão dependentes do sistema...
+
+639
+00:57:07,943 --> 00:57:10,695
+que vão lutar para protegê-lo.
+
+640
+00:57:12,197 --> 00:57:15,950
+Você estava me ouvindo ou olhando
+para a mulher de vestido vermelho?
+
+641
+00:57:16,951 --> 00:57:17,868
+Olhe de novo.
+
+642
+00:57:19,120 --> 00:57:20,246
+Congele.
+
+643
+00:57:26,793 --> 00:57:28,461
+Esta não é a Matrix?
+
+644
+00:57:30,255 --> 00:57:34,050
+É mais um programa de treinamento
+feito para ensinar uma coisa:
+
+645
+00:57:34,717 --> 00:57:37,178
+se você não é um dos
+nossos, você é um deles.
+
+646
+00:57:37,720 --> 00:57:40,472
+- Quem são eles?
+- Programas sencientes.
+
+647
+00:57:41,223 --> 00:57:45,519
+Podem entrar e sair de qualquer software
+ainda conectado ao sistema deles.
+
+648
+00:57:45,894 --> 00:57:49,272
+Isso significa que qualquer
+um ainda não libertado...
+
+649
+00:57:49,606 --> 00:57:50,899
+é um agente em potencial.
+
+650
+00:57:51,900 --> 00:57:53,693
+Dentro da Matrix...
+
+651
+00:57:54,402 --> 00:57:56,028
+eles são todos...
+
+652
+00:57:56,320 --> 00:57:58,072
+e não são ninguém.
+
+653
+00:57:58,322 --> 00:58:01,575
+Nós sobrevivemos nos escondendo
+deles e correndo deles...
+
+654
+00:58:01,742 --> 00:58:03,410
+mas eles são os porteiros.
+
+655
+00:58:03,577 --> 00:58:06,580
+Eles protegem todas as
+portas e têm todas as chaves.
+
+656
+00:58:06,788 --> 00:58:09,582
+Cedo ou tarde, alguém
+terá de lutar com eles.
+
+657
+00:58:10,041 --> 00:58:11,042
+Alguém?
+
+658
+00:58:11,417 --> 00:58:12,710
+Não vou mentir, Neo.
+
+659
+00:58:13,294 --> 00:58:18,132
+Todos os homens e mulheres que
+lutaram com os agentes morreram.
+
+660
+00:58:18,299 --> 00:58:20,718
+Mas, onde eles falharam, você vencerá.
+
+661
+00:58:21,135 --> 00:58:21,969
+Por quê?
+
+662
+00:58:22,177 --> 00:58:24,513
+Já vi um agente abrir
+o concreto com um soco.
+
+663
+00:58:24,763 --> 00:58:28,350
+Já descarregamos o pente neles,
+e não conseguimos acertar.
+
+664
+00:58:28,600 --> 00:58:33,229
+Mas a força e a velocidade deles se
+baseiam num mundo feito de regras.
+
+665
+00:58:33,479 --> 00:58:34,647
+Por causa disso...
+
+666
+00:58:34,856 --> 00:58:38,192
+eles não podem ser tão
+fortes ou rápidos quanto você.
+
+667
+00:58:42,529 --> 00:58:44,406
+O que está dizendo?
+
+668
+00:58:45,073 --> 00:58:46,575
+Que posso desviar de balas?
+
+669
+00:58:48,577 --> 00:58:49,911
+Não, Neo.
+
+670
+00:58:50,453 --> 00:58:53,373
+Estou dizendo que, quando
+você estiver pronto...
+
+671
+00:58:54,207 --> 00:58:55,583
+isso não será necessário.
+
+672
+00:59:00,170 --> 00:59:00,963
+Temos problemas.
+
+673
+00:59:19,855 --> 00:59:21,231
+Zion mandou o aviso?
+
+674
+00:59:21,440 --> 00:59:22,232
+Não, outra embarcação.
+
+675
+00:59:25,527 --> 00:59:26,903
+Merda.
+
+676
+00:59:27,112 --> 00:59:28,822
+A lula está chegando perto.
+
+677
+00:59:29,197 --> 00:59:29,989
+A lula?
+
+678
+00:59:30,198 --> 00:59:33,493
+Um sentinela. Uma máquina
+feita com um propósito.
+
+679
+00:59:33,701 --> 00:59:34,827
+Localizar e destruir.
+
+680
+00:59:36,204 --> 00:59:37,371
+Pare ali.
+
+681
+00:59:59,141 --> 01:00:00,142
+Como estamos, Tank?
+
+682
+01:00:08,900 --> 01:00:10,026
+Força desligada.
+
+683
+01:00:10,485 --> 01:00:12,487
+PEM ativado...
+
+684
+01:00:13,071 --> 01:00:14,530
+e pronto.
+
+685
+01:00:14,565 --> 01:00:14,781
+PEM?
+
+686
+01:00:14,906 --> 01:00:16,782
+Pulso Eletromagnético.
+
+687
+01:00:17,033 --> 01:00:19,952
+Inutiliza qualquer sistema
+elétrico dentro do raio de explosão.
+
+688
+01:00:20,160 --> 01:00:22,371
+É a única arma que
+temos contra as máquinas.
+
+689
+01:00:28,126 --> 01:00:28,960
+Onde estamos?
+
+690
+01:00:29,169 --> 01:00:31,212
+No antigo sistema de serviço e despejo.
+
+691
+01:00:32,839 --> 01:00:33,673
+Esgoto.
+
+692
+01:00:33,881 --> 01:00:36,592
+Antes eram cidades de
+centenas de quilômetros.
+
+693
+01:00:37,093 --> 01:00:39,011
+Agora o esgoto foi tudo que restou.
+
+694
+01:00:39,220 --> 01:00:40,554
+Silêncio.
+
+695
+01:01:24,469 --> 01:01:26,638
+Você quase me mata de susto.
+
+696
+01:01:27,681 --> 01:01:29,641
+- Desculpe.
+- Tudo bem.
+
+697
+01:01:32,560 --> 01:01:33,436
+Isso é a...?
+
+698
+01:01:33,644 --> 01:01:35,188
+A Matrix?
+
+699
+01:01:38,399 --> 01:01:41,652
+- Você sempre a vê codificada?
+- É necessário.
+
+700
+01:01:41,819 --> 01:01:44,988
+Os tradutores de imagem trabalham
+com o programa de construção.
+
+701
+01:01:45,197 --> 01:01:48,617
+Mas há informação demais
+para decodificar na Matrix.
+
+702
+01:01:48,825 --> 01:01:51,786
+Você se acostuma. Eu
+nem vejo os códigos.
+
+703
+01:01:51,995 --> 01:01:55,456
+Eu só vejo loira, morena, ruiva.
+
+704
+01:01:56,624 --> 01:01:57,958
+Você...
+
+705
+01:01:58,292 --> 01:01:59,335
+quer uma bebida?
+
+706
+01:01:59,627 --> 01:02:00,669
+Claro.
+
+707
+01:02:04,214 --> 01:02:05,716
+Sabe...
+
+708
+01:02:06,550 --> 01:02:08,134
+sei o que está pensando.
+
+709
+01:02:08,426 --> 01:02:10,470
+Porque estou pensando a mesma coisa.
+
+710
+01:02:10,845 --> 01:02:14,223
+Na verdade, penso nisso
+desde que cheguei aqui.
+
+711
+01:02:16,058 --> 01:02:19,103
+Por que eu não tomei a pílula azul?
+
+712
+01:02:31,447 --> 01:02:33,366
+Gostoso, não?
+
+713
+01:02:33,783 --> 01:02:34,951
+O Dozer faz.
+
+714
+01:02:35,326 --> 01:02:36,535
+Serve pra duas coisas:
+
+715
+01:02:36,786 --> 01:02:39,872
+Desengraxar motores e queimar neurônios.
+
+716
+01:02:40,914 --> 01:02:43,083
+Posso te perguntar uma coisa?
+
+717
+01:02:46,086 --> 01:02:47,754
+Ele te disse por que fez isso?
+
+718
+01:02:50,381 --> 01:02:52,175
+Por que você está aqui.
+
+719
+01:02:55,887 --> 01:02:57,638
+Jesus!
+
+720
+01:02:58,806 --> 01:03:00,683
+Que responsabilidade!
+
+721
+01:03:02,184 --> 01:03:04,937
+Você está aqui para salvar o mundo.
+
+722
+01:03:06,438 --> 01:03:08,523
+O que você diz numa situação dessas?
+
+723
+01:03:13,695 --> 01:03:15,112
+Um pequeno conselho:
+
+724
+01:03:16,948 --> 01:03:18,282
+se vir um agente...
+
+725
+01:03:18,616 --> 01:03:20,951
+faça o que fazemos.
+
+726
+01:03:21,243 --> 01:03:22,828
+Corra.
+
+727
+01:03:23,162 --> 01:03:24,913
+Corra feito um louco.
+
+728
+01:03:32,128 --> 01:03:33,838
+Obrigado pela bebida.
+
+729
+01:03:38,592 --> 01:03:39,760
+Sonhe com os anjos.
+
+730
+01:03:43,764 --> 01:03:47,184
+Negócio fechado, Sr. Reagan?
+
+731
+01:03:47,809 --> 01:03:48,977
+Sabe...
+
+732
+01:03:50,437 --> 01:03:52,772
+sei que este bife não existe.
+
+733
+01:03:53,856 --> 01:03:56,651
+Sei que, quando eu o coloco na boca...
+
+734
+01:03:56,859 --> 01:03:59,904
+a Matrix diz ao meu cérebro que ele é...
+
+735
+01:04:00,237 --> 01:04:01,363
+suculento...
+
+736
+01:04:01,697 --> 01:04:03,323
+e delicioso.
+
+737
+01:04:06,284 --> 01:04:07,494
+Após nove anos...
+
+738
+01:04:08,578 --> 01:04:10,121
+sabe o que percebi?
+
+739
+01:04:17,962 --> 01:04:19,171
+A ignorância é maravilhosa.
+
+740
+01:04:24,218 --> 01:04:26,011
+Então negócio fechado.
+
+741
+01:04:28,555 --> 01:04:30,557
+Não quero me lembrar de nada.
+
+742
+01:04:30,723 --> 01:04:31,558
+Nada.
+
+743
+01:04:32,058 --> 01:04:33,226
+Entendeu?
+
+744
+01:04:37,271 --> 01:04:39,106
+E eu quero ser rico.
+
+745
+01:04:40,399 --> 01:04:43,152
+Você sabe, alguém importante.
+
+746
+01:04:44,653 --> 01:04:45,779
+Tipo um ator.
+
+747
+01:04:46,988 --> 01:04:50,075
+O que desejar, Sr. Reagan.
+
+748
+01:04:52,327 --> 01:04:53,828
+Tudo bem.
+
+749
+01:04:54,203 --> 01:04:56,622
+Leve o meu corpo de volta à usina...
+
+750
+01:04:56,998 --> 01:04:58,749
+me coloque de novo na Matrix...
+
+751
+01:04:59,083 --> 01:05:00,542
+e eu te dou o que deseja.
+
+752
+01:05:00,751 --> 01:05:02,753
+Senhas de acesso à área de Zion.
+
+753
+01:05:03,003 --> 01:05:05,213
+Não. Eu já disse, eu não sei.
+
+754
+01:05:08,174 --> 01:05:10,135
+Vou te entregar o homem que sabe.
+
+755
+01:05:10,844 --> 01:05:12,679
+Morpheus.
+
+756
+01:05:22,855 --> 01:05:26,274
+Prontinho, amigo. Desjejum de campeão.
+
+757
+01:05:27,609 --> 01:05:30,403
+Se fechar os olhos, vai
+parecer que está comendo ovos.
+
+758
+01:05:30,653 --> 01:05:31,446
+Ou uma tigela de catarro.
+
+759
+01:05:32,822 --> 01:05:34,407
+Sabe o que isso me lembra?
+
+760
+01:05:36,200 --> 01:05:38,619
+Trigo Gostoso. Você
+já comeu Trigo Gostoso?
+
+761
+01:05:39,203 --> 01:05:40,913
+Não, mas tecnicamente nem você.
+
+762
+01:05:41,121 --> 01:05:43,248
+Mas é isso que falo. Exatamente.
+
+763
+01:05:43,457 --> 01:05:44,833
+Porque você se pergunta...
+
+764
+01:05:45,042 --> 01:05:48,461
+como as máquinas sabem qual
+era o sabor do Trigo Gostoso?
+
+765
+01:05:48,670 --> 01:05:50,088
+Elas podem ter errado.
+
+766
+01:05:50,296 --> 01:05:53,466
+Talvez o verdadeiro Trigo
+Gostoso tivesse gosto de...
+
+767
+01:05:53,800 --> 01:05:55,760
+aveia ou atum.
+
+768
+01:05:56,177 --> 01:05:59,054
+Você fica se perguntando.
+Frango, por exemplo.
+
+769
+01:05:59,263 --> 01:06:01,307
+Talvez elas não soubessem
+o gosto do frango...
+
+770
+01:06:01,515 --> 01:06:03,600
+por isso talvez o frango
+tenha qualquer gosto.
+
+771
+01:06:03,851 --> 01:06:05,602
+- E talvez
+ela... -Cale-se.
+
+772
+01:06:07,229 --> 01:06:08,730
+É uma proteína unicelular...
+
+773
+01:06:08,939 --> 01:06:11,983
+combinada com aminoácidos,
+vitaminas e minerais sintéticos.
+
+774
+01:06:12,191 --> 01:06:13,443
+Tudo que o corpo precisa.
+
+775
+01:06:13,693 --> 01:06:16,570
+Não tem tudo que o corpo precisa.
+
+776
+01:06:19,365 --> 01:06:22,451
+Soube que você passou pelo
+programa de treinamento.
+
+777
+01:06:23,535 --> 01:06:25,537
+Sabe, eu criei o programa.
+
+778
+01:06:25,787 --> 01:06:27,122
+Lá vem.
+
+779
+01:06:27,372 --> 01:06:29,374
+- E o que achou dela?
+- De quem?
+
+780
+01:06:29,708 --> 01:06:32,752
+A mulher de vestido
+vermelho. Eu a criei.
+
+781
+01:06:33,044 --> 01:06:35,880
+Ela não fala muito...
+
+782
+01:06:36,088 --> 01:06:40,092
+mas, se você quiser conhecê-la,
+posso arranjar um encontro a sós.
+
+783
+01:06:40,301 --> 01:06:41,677
+O cafetão digital em ação.
+
+784
+01:06:41,885 --> 01:06:44,179
+Não ligue para esses hipócritas, Neo.
+
+785
+01:06:45,514 --> 01:06:47,349
+Negar os nossos impulsos...
+
+786
+01:06:47,557 --> 01:06:50,727
+é negar aquilo que faz de nós humanos.
+
+787
+01:06:52,645 --> 01:06:53,980
+Dozer, quando terminar...
+
+788
+01:06:54,230 --> 01:06:55,648
+leve-nos até profundidade
+de transmissão.
+
+789
+01:06:56,315 --> 01:06:57,692
+Vamos entrar.
+
+790
+01:06:58,401 --> 01:06:59,818
+Vamos levar Neo para vê-la.
+
+791
+01:07:04,156 --> 01:07:04,990
+Ver quem?
+
+792
+01:07:06,033 --> 01:07:07,284
+O Oráculo.
+
+793
+01:07:12,747 --> 01:07:14,332
+Por favor, observem...
+
+794
+01:07:14,624 --> 01:07:17,335
+que os avisos de "aperte o
+cinto" e "não fume" estão acesos.
+
+795
+01:07:17,877 --> 01:07:21,255
+Relaxe e aproveite o vôo.
+
+796
+01:07:45,819 --> 01:07:46,611
+Estamos dentro.
+
+797
+01:08:02,334 --> 01:08:03,460
+Voltaremos em uma hora.
+
+798
+01:08:18,265 --> 01:08:19,642
+Inacreditável...
+
+799
+01:08:20,434 --> 01:08:21,810
+não é?
+
+800
+01:08:25,397 --> 01:08:27,232
+- Deus!
+- O quê?
+
+801
+01:08:27,899 --> 01:08:29,317
+Eu comia ali.
+
+802
+01:08:31,528 --> 01:08:33,112
+Macarrão muito bom.
+
+803
+01:08:37,992 --> 01:08:40,411
+Tenho essas lembranças da minha vida.
+
+804
+01:08:42,913 --> 01:08:44,623
+Nenhuma delas aconteceu.
+
+805
+01:08:45,624 --> 01:08:46,541
+O que isso significa?
+
+806
+01:08:46,750 --> 01:08:49,002
+Que a Matrix não pode
+te dizer quem você é.
+
+807
+01:08:49,919 --> 01:08:51,087
+Mas um oráculo pode?
+
+808
+01:08:51,588 --> 01:08:52,797
+É diferente.
+
+809
+01:08:57,885 --> 01:08:58,761
+Você foi nela?
+
+810
+01:09:00,304 --> 01:09:01,513
+Sim.
+
+811
+01:09:02,014 --> 01:09:03,348
+O que ela te disse?
+
+812
+01:09:06,601 --> 01:09:08,103
+Ela me disse...
+
+813
+01:09:09,187 --> 01:09:10,396
+O quê?
+
+814
+01:09:14,108 --> 01:09:15,443
+Chegamos.
+
+815
+01:09:16,736 --> 01:09:18,154
+Venha comigo.
+
+816
+01:09:38,089 --> 01:09:40,758
+Então este é o mesmo
+oráculo que fez a...
+
+817
+01:09:41,091 --> 01:09:42,009
+profecia?
+
+818
+01:09:42,217 --> 01:09:46,555
+Sim. Ela é muito velha.
+Está conosco desde o início.
+
+819
+01:09:46,972 --> 01:09:47,806
+O início?
+
+820
+01:09:48,014 --> 01:09:49,015
+Da Resistência.
+
+821
+01:09:51,267 --> 01:09:53,603
+E o que ela sabe? Tudo?
+
+822
+01:09:55,646 --> 01:09:57,606
+Ela diria que sabe o suficiente.
+
+823
+01:09:58,732 --> 01:10:00,526
+Então ela nunca erra?
+
+824
+01:10:02,694 --> 01:10:05,864
+Tente não pensar em
+termos de certo ou errado.
+
+825
+01:10:06,281 --> 01:10:07,782
+Ela é um guia, Neo.
+
+826
+01:10:08,199 --> 01:10:10,076
+Pode te ajudar a achar o caminho.
+
+827
+01:10:10,910 --> 01:10:11,786
+Ela te ajudou?
+
+828
+01:10:14,330 --> 01:10:15,623
+O que ela te disse?
+
+829
+01:10:18,167 --> 01:10:19,168
+Que eu encontraria o Escolhido.
+
+830
+01:10:33,514 --> 01:10:35,641
+Eu disse que só posso
+te mostrar a porta.
+
+831
+01:10:36,309 --> 01:10:38,352
+Você tem de atravessá-la.
+
+832
+01:10:42,189 --> 01:10:43,315
+Olá, Neo.
+
+833
+01:10:43,524 --> 01:10:45,192
+Chegou bem na hora.
+
+834
+01:10:53,074 --> 01:10:56,869
+Fique à vontade, Morpheus.
+Neo, venha comigo.
+
+835
+01:11:02,541 --> 01:11:04,167
+Estes são os outros Potenciais.
+
+836
+01:11:04,376 --> 01:11:06,002
+Aguarde aqui.
+
+837
+01:11:46,832 --> 01:11:49,334
+Não tente entortar a colher.
+
+838
+01:11:49,751 --> 01:11:51,878
+É impossível.
+
+839
+01:11:52,712 --> 01:11:56,674
+Em vez disso, apenas
+tente ver a verdade.
+
+840
+01:11:57,258 --> 01:11:58,634
+Que verdade?
+
+841
+01:11:58,801 --> 01:12:00,552
+A colher não existe.
+
+842
+01:12:03,096 --> 01:12:04,514
+A colher não existe?
+
+843
+01:12:04,681 --> 01:12:09,185
+Então você verá que não é a
+colher que entorta. É você mesmo.
+
+844
+01:12:25,242 --> 01:12:26,701
+O Oráculo vai te ver agora.
+
+845
+01:12:37,378 --> 01:12:38,963
+Sei que você é o Neo.
+
+846
+01:12:39,630 --> 01:12:40,714
+Já vou te atender.
+
+847
+01:12:41,840 --> 01:12:42,800
+Você é o Oráculo?
+
+848
+01:12:43,008 --> 01:12:44,676
+Bingo.
+
+849
+01:12:45,302 --> 01:12:48,930
+Não era bem o que esperava, não é?
+
+850
+01:12:50,557 --> 01:12:53,935
+Oh, quase pronto.
+
+851
+01:12:55,728 --> 01:12:57,146
+Cheira bem, não?
+
+852
+01:12:58,939 --> 01:12:59,648
+Sim.
+
+853
+01:13:00,107 --> 01:13:02,034
+Eu te mandaria se sentar...
+
+854
+01:13:02,069 --> 01:13:03,961
+mas você não iria querer.
+
+855
+01:13:04,461 --> 01:13:06,296
+E não se preocupe com o vaso.
+
+856
+01:13:06,505 --> 01:13:07,297
+Que vaso?
+
+857
+01:13:10,467 --> 01:13:11,635
+Esse vaso.
+
+858
+01:13:12,594 --> 01:13:13,636
+Desculpe.
+
+859
+01:13:13,845 --> 01:13:15,722
+Já disse, não se preocupe.
+
+860
+01:13:16,931 --> 01:13:18,891
+Mandarei uma das crianças consertar.
+
+861
+01:13:19,475 --> 01:13:20,684
+Como você sabia?
+
+862
+01:13:22,686 --> 01:13:26,565
+O que vai mesmo fazer
+seus miolos queimarem é...
+
+863
+01:13:26,899 --> 01:13:29,818
+você teria quebrado se
+eu não tivesse dito nada?
+
+864
+01:13:34,656 --> 01:13:36,532
+Você é mais bonito do que pensei.
+
+865
+01:13:39,577 --> 01:13:41,829
+Por isso ela gosta de você.
+
+866
+01:13:42,746 --> 01:13:43,831
+Quem?
+
+867
+01:13:44,039 --> 01:13:45,874
+Mas não é muito inteligente.
+
+868
+01:13:49,211 --> 01:13:51,379
+Você sabe por que
+Mopheus te trouxe aqui.
+
+869
+01:13:54,382 --> 01:13:55,591
+Então...
+
+870
+01:13:56,551 --> 01:13:57,885
+o que você acha?
+
+871
+01:13:59,762 --> 01:14:01,514
+Acha que é o Escolhido?
+
+872
+01:14:03,432 --> 01:14:04,516
+Sinceramente, não sei.
+
+873
+01:14:07,894 --> 01:14:09,354
+Sabe o que isso diz?
+
+874
+01:14:10,188 --> 01:14:11,356
+É latim.
+
+875
+01:14:11,690 --> 01:14:13,942
+Diz: "Conhece a ti mesmo".
+
+876
+01:14:15,401 --> 01:14:17,361
+Vou te contar um segredinho.
+
+877
+01:14:19,572 --> 01:14:23,450
+Ser o Escolhido é como estar apaixonado.
+
+878
+01:14:24,076 --> 01:14:27,037
+Ninguém pode te dizer se você
+está. Você simplesmente sabe...
+
+879
+01:14:27,245 --> 01:14:28,372
+e não tem dúvida.
+
+880
+01:14:28,747 --> 01:14:30,749
+Nenhuma.
+
+881
+01:14:33,334 --> 01:14:34,169
+Bem...
+
+882
+01:14:36,087 --> 01:14:38,214
+melhor eu dar uma olhada em você.
+
+883
+01:14:39,548 --> 01:14:41,008
+Abra a boca, diga: "Ah".
+
+884
+01:14:55,396 --> 01:14:57,064
+Muito bem...
+
+885
+01:14:57,690 --> 01:15:02,611
+Agora eu deveria dizer:
+"Ah, interessante, mas... "
+
+886
+01:15:03,153 --> 01:15:04,279
+Aí você diz:
+
+887
+01:15:05,155 --> 01:15:06,198
+"Mas o quê?"
+
+888
+01:15:06,448 --> 01:15:10,368
+Mas você já sabe o que eu vou te dizer.
+
+889
+01:15:11,786 --> 01:15:12,787
+Eu não sou o Escolhido.
+
+890
+01:15:13,037 --> 01:15:14,747
+Desculpe, garoto.
+
+891
+01:15:16,374 --> 01:15:18,376
+Você tem o dom...
+
+892
+01:15:19,377 --> 01:15:21,587
+mas parece que você
+está esperando por algo.
+
+893
+01:15:26,508 --> 01:15:27,342
+O quê?
+
+894
+01:15:27,551 --> 01:15:30,470
+Sua próxima vida, talvez. Quem sabe?
+
+895
+01:15:30,971 --> 01:15:33,264
+Essas coisas são assim.
+
+896
+01:15:34,140 --> 01:15:34,974
+Qual a graça?
+
+897
+01:15:35,433 --> 01:15:36,768
+Morpheus.
+
+898
+01:15:40,187 --> 01:15:41,939
+Ele quase me convenceu.
+
+899
+01:15:42,147 --> 01:15:43,274
+Eu sei.
+
+900
+01:15:44,858 --> 01:15:46,944
+Pobre Morpheus.
+
+901
+01:15:49,321 --> 01:15:52,449
+Sem ele, estamos perdidos.
+
+902
+01:15:54,033 --> 01:15:56,202
+Como assim, "sem ele"?
+
+903
+01:16:00,164 --> 01:16:02,082
+Você quer mesmo ouvir?
+
+904
+01:16:04,293 --> 01:16:07,087
+Morpheus acredita em você, Neo.
+
+905
+01:16:08,797 --> 01:16:10,966
+E ninguém, nem você nem eu...
+
+906
+01:16:11,174 --> 01:16:13,468
+pode convencê-lo do contrário.
+
+907
+01:16:13,802 --> 01:16:16,220
+Ele acredita tão cegamente...
+
+908
+01:16:16,512 --> 01:16:20,808
+que vai sacrificar a própria
+vida para salvar a sua.
+
+909
+01:16:21,058 --> 01:16:21,892
+Como?
+
+910
+01:16:22,101 --> 01:16:25,020
+Você vai precisar fazer uma escolha.
+
+911
+01:16:25,687 --> 01:16:29,191
+Numa mão, você terá a vida de Morpheus.
+
+912
+01:16:29,774 --> 01:16:32,610
+Na outra mão, você terá a sua vida.
+
+913
+01:16:34,070 --> 01:16:36,322
+Um de vocês vai morrer.
+
+914
+01:16:38,449 --> 01:16:41,660
+Qual de vocês... você escolherá.
+
+915
+01:16:43,037 --> 01:16:45,038
+Sinto muito, menino. Sinto mesmo.
+
+916
+01:16:45,205 --> 01:16:46,915
+Sua alma é boa.
+
+917
+01:16:48,041 --> 01:16:50,752
+E odeio dar más notícias a pessoas boas.
+
+918
+01:16:53,880 --> 01:16:55,298
+Mas não se preocupe.
+
+919
+01:16:55,548 --> 01:16:58,009
+Assim que você passar
+por aquela porta...
+
+920
+01:16:58,259 --> 01:17:00,344
+vai começar a se sentir melhor.
+
+921
+01:17:01,095 --> 01:17:04,848
+Vai lembrar que não acredita
+nesse papo-furado de destino.
+
+922
+01:17:05,682 --> 01:17:08,477
+Você controla sua própria vida.
+
+923
+01:17:09,269 --> 01:17:10,562
+Lembra?
+
+924
+01:17:12,480 --> 01:17:13,481
+Tome...
+
+925
+01:17:15,316 --> 01:17:16,859
+pegue um biscoito.
+
+926
+01:17:17,443 --> 01:17:20,738
+Prometo que, quando você
+terminar de comê-lo...
+
+927
+01:17:21,739 --> 01:17:24,074
+vai se sentir muito bem.
+
+928
+01:17:33,249 --> 01:17:34,667
+O que foi dito...
+
+929
+01:17:35,251 --> 01:17:36,711
+era para você...
+
+930
+01:17:37,253 --> 01:17:39,046
+e apenas para você.
+
+931
+01:17:51,808 --> 01:17:53,560
+A Mulher de Vermelho
+
+932
+01:18:01,942 --> 01:18:03,110
+Estão a caminho.
+
+933
+01:18:33,263 --> 01:18:34,097
+O que é isso?
+
+934
+01:18:48,819 --> 01:18:50,237
+Uau, déja vu.
+
+935
+01:18:53,781 --> 01:18:54,866
+O que você disse?
+
+936
+01:18:55,074 --> 01:18:56,576
+Nada, foi só um "déja vu".
+
+937
+01:18:56,826 --> 01:18:58,452
+- O que você viu?
+- O que houve?
+
+938
+01:18:59,870 --> 01:19:02,081
+Um gato preto passou ali...
+
+939
+01:19:02,289 --> 01:19:03,916
+e depois um outro, igual.
+
+940
+01:19:04,124 --> 01:19:05,667
+Era o mesmo gato?
+
+941
+01:19:06,877 --> 01:19:07,836
+Não tenho certeza.
+
+942
+01:19:08,670 --> 01:19:09,504
+Switch, Apoc.
+
+943
+01:19:13,967 --> 01:19:14,842
+O que foi?
+
+944
+01:19:15,009 --> 01:19:19,472
+Um "déja vu" geralmente é uma falha
+na Matrix quando eles mudam algo.
+
+945
+01:19:22,850 --> 01:19:23,684
+Meu Deus.
+
+946
+01:19:25,519 --> 01:19:26,436
+Vamos.
+
+947
+01:19:31,691 --> 01:19:33,526
+Eles cortaram a linha. É armação! Saiam!
+
+948
+01:19:39,365 --> 01:19:40,199
+Ah, não.
+
+949
+01:20:20,486 --> 01:20:22,947
+Foi isso que eles
+mudaram. Estamos presos.
+
+950
+01:20:23,155 --> 01:20:25,115
+Calma. Me dê seu telefone.
+
+951
+01:20:25,324 --> 01:20:26,825
+Eles vão nos achar.
+
+952
+01:20:27,034 --> 01:20:28,493
+Não temos escolha.
+
+953
+01:20:29,911 --> 01:20:31,079
+Operador.
+
+954
+01:20:31,413 --> 01:20:34,332
+Tank, ache a planta
+deste prédio. Rápido.
+
+955
+01:20:42,172 --> 01:20:44,675
+- Consegui.
+- Preciso do duto principal.
+
+956
+01:20:47,928 --> 01:20:48,762
+Oitavo andar.
+
+957
+01:20:49,012 --> 01:20:50,597
+Estão no oitavo andar.
+
+958
+01:20:50,972 --> 01:20:51,848
+Switch, em frente.
+
+959
+01:20:52,640 --> 01:20:53,892
+Neo...
+
+960
+01:21:00,314 --> 01:21:02,650
+...espero que o Oráculo
+tenha nos dado boas noticias.
+
+961
+01:21:10,824 --> 01:21:12,367
+Agora, à esquerda.
+
+962
+01:21:12,659 --> 01:21:13,701
+Ótimo.
+
+963
+01:21:23,377 --> 01:21:24,711
+Onde eles estão?
+
+964
+01:22:25,142 --> 01:22:26,310
+Atrás das paredes.
+
+965
+01:22:27,769 --> 01:22:28,895
+Nas paredes!
+
+966
+01:22:50,332 --> 01:22:51,166
+É um agente!
+
+967
+01:23:00,966 --> 01:23:01,967
+Tirem o Neo daqui!
+
+968
+01:23:02,259 --> 01:23:04,136
+Só ele importa!
+
+969
+01:23:04,428 --> 01:23:05,637
+Não, Morpheus! Não!
+
+970
+01:23:05,846 --> 01:23:06,680
+Trinity, vá!
+
+971
+01:23:07,556 --> 01:23:08,890
+Vá!
+
+972
+01:23:15,188 --> 01:23:17,106
+- Não podemos
+deixá-lo! -É preciso!
+
+973
+01:23:42,379 --> 01:23:43,213
+Vamos!
+
+974
+01:23:48,218 --> 01:23:50,428
+O grande Morpheus.
+Finalmente nos encontramos.
+
+975
+01:23:52,514 --> 01:23:53,181
+Quem é você?
+
+976
+01:23:53,932 --> 01:23:55,642
+Smith.
+
+977
+01:23:55,933 --> 01:23:57,226
+Agente Smith.
+
+978
+01:23:57,810 --> 01:23:59,854
+Vocês parecem todos iguais.
+
+979
+01:24:55,488 --> 01:24:56,823
+Levem-no.
+
+980
+01:25:10,001 --> 01:25:11,836
+- Operador.
+- Quero uma saída, rápido!
+
+981
+01:25:13,922 --> 01:25:16,799
+Houve um acidente. Acidente de carro.
+
+982
+01:25:17,133 --> 01:25:18,968
+De repente, bum!
+
+983
+01:25:19,176 --> 01:25:20,636
+Alguém lá em cima gosta de mim.
+
+984
+01:25:20,845 --> 01:25:22,012
+Te encontrei.
+
+985
+01:25:22,596 --> 01:25:24,515
+Tire-me logo daqui.
+
+986
+01:25:24,765 --> 01:25:27,392
+Próxima saída, Franklin com
+Erie. Loja de conserto de TV.
+
+987
+01:25:27,601 --> 01:25:28,685
+Certo.
+
+988
+01:25:31,813 --> 01:25:33,439
+- Operador.
+- Tank, sou eu.
+
+989
+01:25:33,648 --> 01:25:34,857
+Morpheus está vivo?
+
+990
+01:25:35,191 --> 01:25:36,526
+Morpheus está vivo, Tank?
+
+991
+01:25:36,859 --> 01:25:38,611
+Sim. Estão levando-o.
+Não sei para onde.
+
+992
+01:25:39,028 --> 01:25:41,363
+Ele está vivo. Queremos uma saída.
+
+993
+01:25:41,572 --> 01:25:42,531
+Estão perto do Cypher.
+
+994
+01:25:42,740 --> 01:25:44,116
+- Cypher?
+- Eu sei.
+
+995
+01:25:44,324 --> 01:25:46,368
+- Ele foi pra Franklin com Erie.
+- Entendi.
+
+996
+01:25:55,501 --> 01:25:56,711
+Encontrei-o.
+
+997
+01:26:07,679 --> 01:26:08,680
+Onde eles estão?
+
+998
+01:26:08,889 --> 01:26:10,181
+Telefonando.
+
+999
+01:26:10,890 --> 01:26:12,017
+Ótimo.
+
+1000
+01:26:25,571 --> 01:26:26,405
+Você primeiro, Neo.
+
+1001
+01:26:29,574 --> 01:26:30,408
+Merda!
+
+1002
+01:26:39,542 --> 01:26:41,710
+Não sei, ficou mudo.
+
+1003
+01:27:08,443 --> 01:27:09,694
+Alô, Trinity.
+
+1004
+01:27:10,111 --> 01:27:11,446
+Cypher? Onde está o Tank?
+
+1005
+01:27:17,034 --> 01:27:18,077
+Sabe...
+
+1006
+01:27:19,787 --> 01:27:21,914
+durante muito tempo...
+
+1007
+01:27:23,123 --> 01:27:26,001
+achei que eu fosse apaixonado por você.
+
+1008
+01:27:26,793 --> 01:27:28,837
+Eu sonhava com você.
+
+1009
+01:27:29,963 --> 01:27:32,715
+Você é uma bela mulher, Trinity.
+
+1010
+01:27:32,924 --> 01:27:35,301
+É uma pena as coisas acabarem assim.
+
+1011
+01:27:36,010 --> 01:27:36,844
+Você os matou.
+
+1012
+01:27:37,345 --> 01:27:38,930
+- O quê?
+- Deus.
+
+1013
+01:27:39,138 --> 01:27:40,514
+Estou cansado, Trinity.
+
+1014
+01:27:41,974 --> 01:27:43,809
+Estou cansado desta guerra...
+
+1015
+01:27:44,143 --> 01:27:46,937
+cansado de lutar, cansado deste barco...
+
+1016
+01:27:47,312 --> 01:27:51,941
+de sentir frio, de comer
+a mesma gororoba todo dia.
+
+1017
+01:27:54,319 --> 01:27:55,236
+Mas, acima de tudo...
+
+1018
+01:27:55,820 --> 01:27:59,198
+estou cansado daquele
+chato e do papo-furado dele.
+
+1019
+01:28:00,324 --> 01:28:01,617
+Surpresa, idiota!
+
+1020
+01:28:02,159 --> 01:28:04,453
+Aposto que você nem desconfiava...
+
+1021
+01:28:04,661 --> 01:28:05,621
+não é?
+
+1022
+01:28:07,998 --> 01:28:10,333
+Deus, como eu gostaria de estar lá...
+
+1023
+01:28:10,917 --> 01:28:12,460
+quando eles te pegarem.
+
+1024
+01:28:13,503 --> 01:28:16,631
+Eu gostaria de chegar
+no momento exato...
+
+1025
+01:28:17,340 --> 01:28:19,091
+para que só na hora...
+
+1026
+01:28:19,300 --> 01:28:20,634
+você soubesse que fui eu.
+
+1027
+01:28:21,343 --> 01:28:22,344
+Você entregou Morpheus.
+
+1028
+01:28:22,511 --> 01:28:24,013
+Ele mentiu para nós, Trinity.
+
+1029
+01:28:24,596 --> 01:28:26,139
+Ele nos enganou!
+
+1030
+01:28:26,640 --> 01:28:28,683
+Se você tivesse dito a verdade...
+
+1031
+01:28:28,892 --> 01:28:31,811
+a gente teria mandado você
+enfiar aquela pílula vermelha!
+
+1032
+01:28:32,020 --> 01:28:34,189
+Não é verdade. Ele nos tornou livres.
+
+1033
+01:28:34,397 --> 01:28:35,356
+"Livres. "
+
+1034
+01:28:35,565 --> 01:28:37,275
+Chama isto de "livre"?
+
+1035
+01:28:39,694 --> 01:28:42,196
+Eu só faço o que ele manda.
+
+1036
+01:28:43,822 --> 01:28:46,700
+Se eu tiver de escolher
+entre isso ou a Matrix...
+
+1037
+01:28:47,868 --> 01:28:49,161
+eu escolho a Matrix.
+
+1038
+01:28:49,369 --> 01:28:51,037
+A Matrix não é real.
+
+1039
+01:28:51,288 --> 01:28:52,705
+Discordo, Trinity.
+
+1040
+01:28:52,914 --> 01:28:55,208
+Eu acho que a Matrix...
+
+1041
+01:28:55,541 --> 01:28:58,085
+pode ser mais real que este mundo.
+
+1042
+01:29:00,296 --> 01:29:02,798
+Basta eu puxar o plugue aqui...
+
+1043
+01:29:03,382 --> 01:29:04,341
+mas aí...
+
+1044
+01:29:04,883 --> 01:29:07,177
+veja o Apoc morrer.
+
+1045
+01:29:14,976 --> 01:29:16,602
+Bem-vinda ao mundo real.
+
+1046
+01:29:17,019 --> 01:29:17,895
+Você está fora.
+
+1047
+01:29:18,104 --> 01:29:20,606
+- Não pode voltar.
+- Isso é o que pensa.
+
+1048
+01:29:20,815 --> 01:29:22,358
+Vão recolocar o meu corpo.
+
+1049
+01:29:22,566 --> 01:29:26,236
+Vou voltar a dormir. Quando eu
+acordar, não lembrarei de nada.
+
+1050
+01:29:26,445 --> 01:29:27,446
+A propósito...
+
+1051
+01:29:27,738 --> 01:29:30,657
+se tiver algo muito importante
+para dizer a Switch...
+
+1052
+01:29:31,116 --> 01:29:32,242
+diga agora.
+
+1053
+01:29:32,450 --> 01:29:33,368
+Não, por favor.
+
+1054
+01:29:33,910 --> 01:29:35,536
+Assim não.
+
+1055
+01:29:37,246 --> 01:29:38,873
+Assim não.
+
+1056
+01:29:43,377 --> 01:29:44,378
+Tarde demais.
+
+1057
+01:29:44,753 --> 01:29:46,463
+Seu desgraçado!
+
+1058
+01:29:46,672 --> 01:29:48,590
+Não me odeie, Trinity.
+
+1059
+01:29:48,924 --> 01:29:50,842
+Sou apenas um mensageiro.
+
+1060
+01:29:51,217 --> 01:29:54,387
+E agora eu vou provar para você.
+
+1061
+01:29:55,471 --> 01:29:57,140
+Se Morpheus estiver certo...
+
+1062
+01:29:57,723 --> 01:29:59,600
+eu não conseguirei arrancar este plugue.
+
+1063
+01:30:00,184 --> 01:30:01,644
+Se Neo é o Escolhido...
+
+1064
+01:30:02,144 --> 01:30:04,021
+então haverá...
+
+1065
+01:30:04,229 --> 01:30:06,857
+algum milagre para me deter.
+
+1066
+01:30:07,357 --> 01:30:08,233
+Certo?
+
+1067
+01:30:08,859 --> 01:30:10,944
+Como ele pode ser o Escolhido...
+
+1068
+01:30:11,277 --> 01:30:12,195
+se está morto?
+
+1069
+01:30:13,571 --> 01:30:15,782
+Você nunca me respondeu...
+
+1070
+01:30:16,115 --> 01:30:18,451
+se você acreditava no papo de Morpheus.
+
+1071
+01:30:18,784 --> 01:30:21,996
+Fale. Eu só quero um sim ou não.
+
+1072
+01:30:23,372 --> 01:30:25,749
+Olhe nos olhos dele...
+
+1073
+01:30:26,458 --> 01:30:27,918
+esses olhos grandes e bonitos...
+
+1074
+01:30:30,670 --> 01:30:32,047
+e me diga...
+
+1075
+01:30:32,756 --> 01:30:34,007
+sim...
+
+1076
+01:30:34,382 --> 01:30:35,758
+ou não.
+
+1077
+01:30:36,968 --> 01:30:38,135
+Sim.
+
+1078
+01:30:38,970 --> 01:30:39,929
+Eu não acredito.
+
+1079
+01:30:41,305 --> 01:30:46,101
+Acredite ou não, seu
+merda, você vai queimar!
+
+1080
+01:31:04,785 --> 01:31:05,744
+Você primeiro.
+
+1081
+01:31:13,960 --> 01:31:14,794
+Você se feriu.
+
+1082
+01:31:15,169 --> 01:31:16,212
+Eu vou ficar bom.
+
+1083
+01:31:19,006 --> 01:31:20,174
+Dozer?
+
+1084
+01:31:38,399 --> 01:31:40,818
+Já olhou pra tudo isso de cima?
+
+1085
+01:31:41,694 --> 01:31:44,822
+Maravilhado com sua beleza...
+
+1086
+01:31:45,197 --> 01:31:47,491
+sua genialidade?
+
+1087
+01:31:48,658 --> 01:31:50,535
+Bilhões de pessoas...
+
+1088
+01:31:50,744 --> 01:31:53,496
+vivendo suas vidas...
+
+1089
+01:31:54,539 --> 01:31:56,207
+distraídas.
+
+1090
+01:32:00,795 --> 01:32:03,714
+Você sabia que a primeira Matrix...
+
+1091
+01:32:03,922 --> 01:32:08,593
+foi criada para ser o mundo humano
+perfeito, onde ninguém sofreria...
+
+1092
+01:32:09,136 --> 01:32:12,013
+onde todos seriam felizes?
+
+1093
+01:32:12,555 --> 01:32:14,098
+Foi um desastre.
+
+1094
+01:32:14,307 --> 01:32:18,686
+Ninguém aceitou o programa.
+Perdemos safras inteiras.
+
+1095
+01:32:19,520 --> 01:32:21,313
+Alguns acham que...
+
+1096
+01:32:21,522 --> 01:32:25,943
+não tínhamos a linguagem de programação
+para descrever o seu mundo perfeito.
+
+1097
+01:32:26,151 --> 01:32:27,694
+Mas eu acho que...
+
+1098
+01:32:28,153 --> 01:32:29,070
+como espécie...
+
+1099
+01:32:29,321 --> 01:32:33,158
+os seres humanos definem a
+realidade através da desgraça...
+
+1100
+01:32:33,408 --> 01:32:34,742
+e do sofrimento.
+
+1101
+01:32:34,993 --> 01:32:37,745
+Então o mundo perfeito era um sonho...
+
+1102
+01:32:37,912 --> 01:32:42,791
+do qual o cérebro primitivo
+de vocês tentava acordar.
+
+1103
+01:32:44,084 --> 01:32:47,838
+E por isso a Matrix foi recriada assim.
+
+1104
+01:32:48,255 --> 01:32:49,798
+O ápice...
+
+1105
+01:32:50,006 --> 01:32:51,424
+da sua civilização.
+
+1106
+01:32:51,633 --> 01:32:54,010
+Eu digo "sua civilização"...
+
+1107
+01:32:54,219 --> 01:32:58,389
+porque, quando começamos a pensar por
+vocês, tornou-se nossa civilização...
+
+1108
+01:32:58,598 --> 01:33:01,684
+o que, claro, é a razão disto tudo.
+
+1109
+01:33:03,018 --> 01:33:05,562
+Evolução, Morpheus.
+
+1110
+01:33:05,896 --> 01:33:07,189
+Evolução.
+
+1111
+01:33:09,441 --> 01:33:11,318
+Como o dinossauro.
+
+1112
+01:33:13,486 --> 01:33:15,154
+Olhe pela janela.
+
+1113
+01:33:15,905 --> 01:33:17,990
+Vocês tiveram seu tempo.
+
+1114
+01:33:18,699 --> 01:33:22,620
+O futuro é o nosso mundo, Morpheus.
+
+1115
+01:33:22,953 --> 01:33:25,372
+O futuro é o nosso tempo.
+
+1116
+01:33:29,626 --> 01:33:30,752
+Podemos ter problemas.
+
+1117
+01:33:31,711 --> 01:33:35,089
+- O que estão fazendo com ele?
+- Entrando na mente dele.
+
+1118
+01:33:35,298 --> 01:33:37,508
+É como entrar num computador.
+É questão de tempo.
+
+1119
+01:33:37,717 --> 01:33:38,968
+Quanto tempo?
+
+1120
+01:33:39,218 --> 01:33:42,346
+Depende da mente. Mas
+ela acabará cedendo...
+
+1121
+01:33:42,554 --> 01:33:47,059
+e o padrão alfa dele
+mudará disto para isto.
+
+1122
+01:33:47,267 --> 01:33:50,228
+Quando mudar, ele dirá a
+eles tudo que eles quiserem.
+
+1123
+01:33:50,437 --> 01:33:51,563
+O que eles querem?
+
+1124
+01:33:51,771 --> 01:33:55,775
+O líder de cada nave recebe
+senhas para o mainframe de Zion.
+
+1125
+01:33:55,983 --> 01:33:58,986
+Se um agente pegar as senhas
+e entrar no mainframe de Zion...
+
+1126
+01:33:59,153 --> 01:34:02,281
+poderão nos destruir.
+Não podemos deixar.
+
+1127
+01:34:03,157 --> 01:34:04,700
+Zion é mais importante do que eu...
+
+1128
+01:34:04,908 --> 01:34:05,909
+ou você...
+
+1129
+01:34:06,243 --> 01:34:07,494
+ou até mesmo Morpheus.
+
+1130
+01:34:11,331 --> 01:34:12,999
+Deve haver algo que possamos fazer.
+
+1131
+01:34:13,374 --> 01:34:15,376
+E há. Nós puxamos o plugue.
+
+1132
+01:34:18,504 --> 01:34:20,256
+Você vai matá-lo?
+
+1133
+01:34:20,464 --> 01:34:21,632
+Matar Morpheus?
+
+1134
+01:34:22,216 --> 01:34:23,926
+Não temos outra alternativa.
+
+1135
+01:34:30,682 --> 01:34:33,643
+Nunca envie um humano para
+fazer serviço de máquina.
+
+1136
+01:34:33,852 --> 01:34:35,687
+Se o informante falhou...
+
+1137
+01:34:35,853 --> 01:34:39,148
+eles desfarão a conexão o mais
+rápido possível, a menos...
+
+1138
+01:34:39,357 --> 01:34:41,066
+Eles morreram, de qualquer forma.
+
+1139
+01:34:41,275 --> 01:34:44,862
+Temos de continuar como o
+planejado. Distribua os sentinelas.
+
+1140
+01:34:45,070 --> 01:34:46,154
+Imediatamente.
+
+1141
+01:34:51,368 --> 01:34:54,078
+Morpheus, você foi mais
+que um líder para nós.
+
+1142
+01:34:55,038 --> 01:34:57,290
+Você foi um pai.
+
+1143
+01:34:58,749 --> 01:35:00,709
+Sentiremos sua falta.
+
+1144
+01:35:07,883 --> 01:35:08,842
+Pare!
+
+1145
+01:35:10,051 --> 01:35:11,303
+Eu não acredito.
+
+1146
+01:35:11,511 --> 01:35:13,513
+- Neo, é necessário.
+- É mesmo?
+
+1147
+01:35:14,347 --> 01:35:15,723
+Eu não sei.
+
+1148
+01:35:16,057 --> 01:35:17,642
+Não pode ser só coincidência.
+
+1149
+01:35:17,850 --> 01:35:18,684
+O quê?
+
+1150
+01:35:19,185 --> 01:35:20,061
+O Oráculo.
+
+1151
+01:35:20,227 --> 01:35:22,062
+Ele me disse que isso aconteceria.
+
+1152
+01:35:22,438 --> 01:35:26,608
+Ela me disse que eu teria
+de fazer uma escolha.
+
+1153
+01:35:27,067 --> 01:35:28,276
+Que escolha?
+
+1154
+01:35:31,321 --> 01:35:32,155
+O que vai fazer?
+
+1155
+01:35:32,572 --> 01:35:33,823
+Vou entrar.
+
+1156
+01:35:34,073 --> 01:35:35,408
+Não vai, não.
+
+1157
+01:35:35,742 --> 01:35:36,492
+Eu preciso.
+
+1158
+01:35:36,701 --> 01:35:40,329
+Neo, Morpheus se sacrificou
+para que pudéssemos te salvar.
+
+1159
+01:35:40,538 --> 01:35:42,456
+Você não vai entrar lá de jeito nenhum.
+
+1160
+01:35:43,082 --> 01:35:46,335
+Morpheus fez isso porque acreditava
+que eu fosse algo que não sou.
+
+1161
+01:35:49,588 --> 01:35:51,214
+Não sou o Escolhido, Trinity.
+
+1162
+01:35:51,589 --> 01:35:54,550
+- O Oráculo me disse isso.
+- Não, você tem de ser.
+
+1163
+01:35:54,759 --> 01:35:57,428
+Sinto muito, não sou.
+Sou um cara normal.
+
+1164
+01:35:58,095 --> 01:35:59,388
+Não, Neo, não é verdade.
+
+1165
+01:35:59,930 --> 01:36:01,265
+Não pode ser verdade.
+
+1166
+01:36:01,599 --> 01:36:02,558
+Por quê?
+
+1167
+01:36:06,979 --> 01:36:10,357
+Isso é loucura. Eles estão com
+Morpheus num prédio militar controlado.
+
+1168
+01:36:10,565 --> 01:36:14,944
+Mesmo se você entrasse, há
+agentes protegendo-o. Três deles.
+
+1169
+01:36:16,279 --> 01:36:20,157
+Eu também quero Morpheus de
+volta, mas isso seria suicídio.
+
+1170
+01:36:20,366 --> 01:36:22,076
+Sei que parece isso...
+
+1171
+01:36:22,284 --> 01:36:23,243
+mas não é.
+
+1172
+01:36:23,452 --> 01:36:25,871
+Não sei explicar por que não é.
+
+1173
+01:36:26,955 --> 01:36:30,709
+Morpheus acreditava em algo, e estava
+pronto para dar a vida por isso.
+
+1174
+01:36:30,917 --> 01:36:33,920
+Agora eu entendo isso.
+Por isso tenho de ir.
+
+1175
+01:36:34,128 --> 01:36:34,963
+Por quê?
+
+1176
+01:36:35,171 --> 01:36:36,672
+Porque eu acredito em algo.
+
+1177
+01:36:36,881 --> 01:36:37,715
+No quê?
+
+1178
+01:36:39,175 --> 01:36:40,885
+Acredito que posso trazê-lo de volta.
+
+1179
+01:36:57,900 --> 01:36:59,777
+- O que está fazendo?
+- Vou com você.
+
+1180
+01:37:00,111 --> 01:37:00,945
+Não vai, não.
+
+1181
+01:37:01,237 --> 01:37:02,112
+Não?
+
+1182
+01:37:03,280 --> 01:37:05,407
+Vou te dizer no que acredito.
+
+1183
+01:37:05,866 --> 01:37:08,243
+Morpheus significa mais
+para mim do que para você.
+
+1184
+01:37:08,618 --> 01:37:12,914
+Acredito que, se você vai mesmo
+salvá-lo, vai precisar de minha ajuda.
+
+1185
+01:37:13,123 --> 01:37:15,249
+E, como sou a mais alta oficial aqui...
+
+1186
+01:37:15,458 --> 01:37:18,294
+se você não gostar, acho
+que pode ir pro inferno.
+
+1187
+01:37:19,086 --> 01:37:21,463
+Porque não vai para outro lugar.
+
+1188
+01:37:21,922 --> 01:37:22,756
+Tank...
+
+1189
+01:37:23,549 --> 01:37:24,716
+carregue-nos.
+
+1190
+01:37:34,350 --> 01:37:37,687
+Eu gostaria de te contar
+uma revelação que eu tive...
+
+1191
+01:37:38,020 --> 01:37:39,647
+durante o meu tempo aqui.
+
+1192
+01:37:39,855 --> 01:37:43,942
+Ela me ocorreu quando tentei
+classificar sua espécie...
+
+1193
+01:37:44,151 --> 01:37:46,403
+e me dei conta...
+
+1194
+01:37:46,612 --> 01:37:48,905
+de que vocês não são mamíferos.
+
+1195
+01:37:51,116 --> 01:37:53,576
+Todos os mamíferos do planeta...
+
+1196
+01:37:53,952 --> 01:37:58,873
+instintivamente entram em
+equilíbrio com o meio ambiente.
+
+1197
+01:37:59,040 --> 01:38:00,958
+Mas os humanos não.
+
+1198
+01:38:01,500 --> 01:38:05,045
+Vocês vão para uma
+área e se multiplicam...
+
+1199
+01:38:05,295 --> 01:38:09,716
+e se multiplicam, até que todos os
+recursos naturais sejam consumidos.
+
+1200
+01:38:10,091 --> 01:38:12,177
+A única forma de sobreviverem...
+
+1201
+01:38:12,427 --> 01:38:15,471
+é indo para uma outra área.
+
+1202
+01:38:20,851 --> 01:38:23,729
+Há um outro organismo neste planeta...
+
+1203
+01:38:23,937 --> 01:38:25,981
+que segue o mesmo padrão.
+
+1204
+01:38:26,565 --> 01:38:28,191
+Você sabe qual é?
+
+1205
+01:38:28,650 --> 01:38:30,402
+Um vírus.
+
+1206
+01:38:31,736 --> 01:38:34,864
+Os seres humanos são uma doença.
+
+1207
+01:38:35,239 --> 01:38:36,824
+Um câncer neste planeta.
+
+1208
+01:38:37,033 --> 01:38:39,160
+Vocês são uma praga.
+
+1209
+01:38:39,660 --> 01:38:40,661
+E nós...
+
+1210
+01:38:41,245 --> 01:38:42,663
+somos a cura.
+
+1211
+01:38:43,622 --> 01:38:45,040
+Muito bem, do que precisa?
+
+1212
+01:38:45,707 --> 01:38:46,833
+Além de um milagre.
+
+1213
+01:38:47,417 --> 01:38:48,585
+Armas.
+
+1214
+01:38:49,669 --> 01:38:50,670
+Muitas armas.
+
+1215
+01:39:03,474 --> 01:39:05,225
+Ninguém jamais fez algo assim.
+
+1216
+01:39:07,269 --> 01:39:09,104
+Por isso vai dar certo.
+
+1217
+01:39:13,274 --> 01:39:15,151
+Por que o soro não funciona?
+
+1218
+01:39:15,777 --> 01:39:18,112
+Talvez estejamos fazendo
+as perguntas erradas.
+
+1219
+01:39:20,197 --> 01:39:21,407
+Deixe-me com ele.
+
+1220
+01:39:24,034 --> 01:39:25,119
+Agora.
+
+1221
+01:39:36,337 --> 01:39:37,922
+Aguente, Morpheus.
+
+1222
+01:39:38,130 --> 01:39:40,925
+Eles vão te buscar. Já estão chegando.
+
+1223
+01:39:43,302 --> 01:39:45,429
+Você me ouve, Morpheus?
+
+1224
+01:39:45,637 --> 01:39:48,306
+Eu vou ser sincero...
+
+1225
+01:39:48,682 --> 01:39:49,850
+com você.
+
+1226
+01:39:54,312 --> 01:39:55,646
+Eu...
+
+1227
+01:39:56,773 --> 01:39:57,732
+odeio...
+
+1228
+01:39:57,940 --> 01:39:59,859
+este lugar...
+
+1229
+01:40:00,276 --> 01:40:02,569
+este zoológico...
+
+1230
+01:40:02,820 --> 01:40:03,946
+esta prisão...
+
+1231
+01:40:04,154 --> 01:40:07,366
+esta realidade, ou sei
+lá como vocês chamam.
+
+1232
+01:40:07,574 --> 01:40:09,868
+Eu não suporto mais.
+
+1233
+01:40:10,660 --> 01:40:12,495
+É o cheiro.
+
+1234
+01:40:13,830 --> 01:40:15,748
+Se é que isso existe.
+
+1235
+01:40:16,124 --> 01:40:19,418
+Eu me sinto impregnado dele.
+
+1236
+01:40:20,836 --> 01:40:22,254
+Eu sinto...
+
+1237
+01:40:22,463 --> 01:40:23,297
+o gosto...
+
+1238
+01:40:24,173 --> 01:40:26,216
+do seu fedor.
+
+1239
+01:40:26,425 --> 01:40:30,178
+E toda vez que sinto, fico
+achando que fui infectado por ele.
+
+1240
+01:40:30,387 --> 01:40:31,221
+É repulsivo.
+
+1241
+01:40:32,180 --> 01:40:33,640
+Não é?
+
+1242
+01:40:35,808 --> 01:40:38,102
+Eu preciso sair daqui.
+
+1243
+01:40:38,477 --> 01:40:40,771
+Eu preciso me libertar.
+
+1244
+01:40:40,980 --> 01:40:43,857
+E dentro desta cabeça está a chave.
+
+1245
+01:40:44,108 --> 01:40:45,734
+A minha chave.
+
+1246
+01:40:45,943 --> 01:40:48,862
+Quando Zion for destruída,
+não precisarei mais ficar aqui.
+
+1247
+01:40:49,112 --> 01:40:50,739
+Você entendeu?
+
+1248
+01:40:51,031 --> 01:40:52,449
+Preciso das senhas.
+
+1249
+01:40:52,699 --> 01:40:55,034
+Eu preciso entrar em Zion...
+
+1250
+01:40:55,326 --> 01:40:57,828
+e você tem de me dizer como.
+
+1251
+01:40:58,204 --> 01:41:00,164
+Você vai me dizer...
+
+1252
+01:41:00,372 --> 01:41:02,499
+senão você morre.
+
+1253
+01:41:22,768 --> 01:41:26,730
+Por favor, retire qualquer
+objeto metálico. Chaves, moedas.
+
+1254
+01:41:29,566 --> 01:41:30,900
+Minha nossa!
+
+1255
+01:41:42,911 --> 01:41:43,871
+Reforço!
+
+1256
+01:41:44,079 --> 01:41:45,664
+Envie reforço.
+
+1257
+01:42:09,644 --> 01:42:10,562
+Parados!
+
+1258
+01:44:25,602 --> 01:44:26,561
+O que estava fazendo?
+
+1259
+01:44:28,397 --> 01:44:29,731
+Ele não sabe.
+
+1260
+01:44:29,940 --> 01:44:31,441
+Sabe o quê?
+
+1261
+01:44:45,537 --> 01:44:47,122
+PARADA DE EMERGÊNCIA
+
+1262
+01:44:53,086 --> 01:44:54,087
+ATIVAR
+
+1263
+01:44:59,508 --> 01:45:02,011
+Acho que estão tentando salvá-lo.
+
+1264
+01:45:16,858 --> 01:45:18,609
+A colher não existe.
+
+1265
+01:45:48,303 --> 01:45:53,057
+- Encontre-os e destrua-os!
+- Eu repito, estamos sendo atacados!
+
+1266
+01:46:27,839 --> 01:46:28,298
+Me ajude!
+
+1267
+01:46:50,777 --> 01:46:51,945
+Apenas humano.
+
+1268
+01:46:53,112 --> 01:46:53,988
+Desvie deste.
+
+1269
+01:47:07,292 --> 01:47:08,752
+- Como fez aquilo?
+- O quê?
+
+1270
+01:47:09,169 --> 01:47:13,089
+Você se mexeu como eles. Nunca
+vi ninguém se mexer tão rápido.
+
+1271
+01:47:14,215 --> 01:47:15,591
+Não foi rápido o suficiente.
+
+1272
+01:47:18,302 --> 01:47:19,637
+Sabe pilotar aquilo?
+
+1273
+01:47:20,971 --> 01:47:21,764
+Ainda não.
+
+1274
+01:47:25,225 --> 01:47:26,059
+Operador.
+
+1275
+01:47:26,268 --> 01:47:29,437
+Preciso de um programa
+para o helicóptero B-212.
+
+1276
+01:47:29,980 --> 01:47:31,231
+Rápido.
+
+1277
+01:47:39,155 --> 01:47:40,781
+Vamos.
+
+1278
+01:47:55,878 --> 01:47:56,963
+Não.
+
+1279
+01:48:48,552 --> 01:48:50,095
+Morpheus, levante-se.
+
+1280
+01:48:50,387 --> 01:48:51,179
+Levante-se,
+levante-se.
+
+1281
+01:49:29,214 --> 01:49:30,215
+Ele não vai conseguir.
+
+1282
+01:49:40,057 --> 01:49:41,016
+Te peguei!
+
+1283
+01:51:29,991 --> 01:51:31,409
+Eu sabia.
+
+1284
+01:51:32,243 --> 01:51:33,244
+Ele é o Escolhido.
+
+1285
+01:51:49,176 --> 01:51:51,428
+Você acredita agora, Trinity?
+
+1286
+01:51:57,391 --> 01:51:58,225
+O Oráculo...
+
+1287
+01:51:59,477 --> 01:52:01,812
+- Ela me disse...
+- Ela te disse...
+
+1288
+01:52:02,271 --> 01:52:03,772
+O que você precisava ouvir.
+
+1289
+01:52:04,106 --> 01:52:05,440
+Só isso.
+
+1290
+01:52:06,483 --> 01:52:09,444
+Cedo ou tarde você vai
+perceber, como eu...
+
+1291
+01:52:09,778 --> 01:52:12,072
+que há uma diferença
+entre conhecer o caminho...
+
+1292
+01:52:12,781 --> 01:52:14,115
+e percorrer o caminho.
+
+1293
+01:52:17,118 --> 01:52:18,327
+Operador.
+
+1294
+01:52:19,286 --> 01:52:21,914
+- É bom ouvir a sua voz.
+- Queremos uma saída.
+
+1295
+01:52:22,122 --> 01:52:24,917
+Já tenho uma. Estação do
+metrô, State com Balboa.
+
+1296
+01:52:37,929 --> 01:52:38,888
+Droga!
+
+1297
+01:52:39,096 --> 01:52:40,389
+Rastreamos a ligação.
+
+1298
+01:52:40,598 --> 01:52:41,515
+Temos a posição deles.
+
+1299
+01:52:41,974 --> 01:52:44,143
+Há sentinelas a postos.
+
+1300
+01:52:45,269 --> 01:52:47,396
+Ordene o ataque.
+
+1301
+01:52:51,232 --> 01:52:55,445
+Eles ainda não sairam.
+
+1302
+01:53:07,080 --> 01:53:08,457
+Você primeiro, Morpheus.
+
+1303
+01:53:29,142 --> 01:53:31,436
+Neo, eu quero te dizer uma coisa...
+
+1304
+01:53:34,689 --> 01:53:38,651
+mas tenho medo do que
+você possa entender.
+
+1305
+01:53:42,238 --> 01:53:45,574
+Tudo que o Oráculo me
+disse tornou-se verdade.
+
+1306
+01:53:48,326 --> 01:53:49,828
+Tudo menos isto.
+
+1307
+01:53:51,579 --> 01:53:52,414
+Menos o quê?
+
+1308
+01:54:18,729 --> 01:54:20,397
+- O que aconteceu?
+- Um agente.
+
+1309
+01:54:20,606 --> 01:54:21,440
+Mande-me de volta.
+
+1310
+01:54:21,649 --> 01:54:22,483
+Não posso.
+
+1311
+01:54:24,485 --> 01:54:26,486
+Sr. Anderson.
+
+1312
+01:54:28,655 --> 01:54:30,115
+Corra, Neo. Corra.
+
+1313
+01:54:35,411 --> 01:54:37,079
+O que ele está fazendo?
+
+1314
+01:54:37,288 --> 01:54:38,539
+Começando a acreditar.
+
+1315
+01:55:05,480 --> 01:55:06,898
+Está sem balas.
+
+1316
+01:55:07,441 --> 01:55:08,733
+Você também.
+
+1317
+01:55:41,847 --> 01:55:44,850
+Vou gostar de te ver morrer...
+
+1318
+01:55:45,934 --> 01:55:47,019
+Sr. Anderson.
+
+1319
+01:56:27,973 --> 01:56:30,058
+Nossa, ele o está matando.
+
+1320
+01:57:56,220 --> 01:57:58,347
+Está ouvindo, Sr. Anderson?
+
+1321
+01:57:59,056 --> 01:58:02,059
+É o som da inevitabilidade.
+
+1322
+01:58:04,728 --> 01:58:08,023
+É o som da sua morte.
+
+1323
+01:58:08,940 --> 01:58:11,276
+Adeus, Sr. Anderson.
+
+1324
+01:58:11,484 --> 01:58:13,194
+O meu nome...
+
+1325
+01:58:16,114 --> 01:58:18,199
+é Neo.
+
+1326
+01:58:50,437 --> 01:58:52,605
+- O que aconteceu?
+- Não sei. Eu o perdi.
+
+1327
+01:58:52,814 --> 01:58:54,357
+AVISO DE PROXIMlDADE
+
+1328
+01:58:55,149 --> 01:58:56,234
+Merda.
+
+1329
+01:59:08,620 --> 01:59:09,996
+Sentinelas.
+
+1330
+01:59:10,789 --> 01:59:13,041
+- Quanto tempo?
+- Cinco, talvez seis minutos.
+
+1331
+01:59:15,084 --> 01:59:17,253
+Tank, carregue o PEM.
+
+1332
+01:59:17,461 --> 01:59:20,548
+- Não podemos usar, até ele sair.
+- Eu sei. Não se preocupe.
+
+1333
+01:59:21,966 --> 01:59:22,800
+Ele vai conseguir.
+
+1334
+01:59:23,008 --> 01:59:24,927
+Fino ou grosso?
+
+1335
+01:59:25,177 --> 01:59:28,096
+Que merda! O meu telefone!
+
+1336
+01:59:28,472 --> 01:59:30,098
+O cara pegou o meu telefone!
+
+1337
+01:59:32,475 --> 01:59:33,268
+Achei!
+
+1338
+01:59:33,518 --> 01:59:34,769
+Está fugindo.
+
+1339
+01:59:34,978 --> 01:59:35,812
+Sr. Mago...
+
+1340
+01:59:36,270 --> 01:59:37,688
+me tire daqui!
+
+1341
+01:59:37,897 --> 01:59:39,815
+Tem uma antiga saída. Wabash com Lake.
+
+1342
+01:59:43,819 --> 01:59:44,653
+Merda!
+
+1343
+02:00:06,298 --> 02:00:08,300
+Ajude-me! Preciso de ajuda!
+
+1344
+02:00:09,926 --> 02:00:11,136
+A porta.
+
+1345
+02:00:27,150 --> 02:00:28,610
+A porta à esquerda.
+
+1346
+02:00:29,528 --> 02:00:30,820
+A outra esquerda!
+
+1347
+02:00:37,493 --> 02:00:38,995
+Porta dos fundos.
+
+1348
+02:00:57,970 --> 02:00:59,055
+ALERTA VERMELHO
+
+1349
+02:00:59,472 --> 02:01:00,639
+Ah, não.
+
+1350
+02:01:02,308 --> 02:01:03,851
+Lá vêm eles.
+
+1351
+02:01:32,585 --> 02:01:33,836
+Ele vai conseguir.
+
+1352
+02:01:44,096 --> 02:01:47,182
+A saída de incêndio no
+fim do beco, sala 303.
+
+1353
+02:02:19,628 --> 02:02:20,963
+ATENÇÃO: VAZAMENTO
+
+1354
+02:02:22,506 --> 02:02:23,382
+Elas entraram.
+
+1355
+02:02:25,926 --> 02:02:26,760
+Rápido, Neo.
+
+1356
+02:03:23,103 --> 02:03:24,146
+Não pode ser.
+
+1357
+02:03:31,903 --> 02:03:33,279
+Verifiquem.
+
+1358
+02:03:36,782 --> 02:03:38,784
+Ele morreu.
+
+1359
+02:03:44,289 --> 02:03:48,085
+Adeus, Sr. Anderson.
+
+1360
+02:03:57,218 --> 02:04:00,054
+Não estou mais com medo.
+
+1361
+02:04:01,430 --> 02:04:05,934
+O Oráculo disse que eu me apaixonaria
+e que o homem que eu amaria...
+
+1362
+02:04:06,393 --> 02:04:08,603
+seria o Escolhido.
+
+1363
+02:04:11,731 --> 02:04:13,650
+Então, veja...
+
+1364
+02:04:14,359 --> 02:04:16,360
+você não pode estar morto.
+
+1365
+02:04:17,945 --> 02:04:19,739
+Não pode estar...
+
+1366
+02:04:21,323 --> 02:04:23,492
+porque eu te amo.
+
+1367
+02:04:25,369 --> 02:04:27,037
+Está me ouvindo?
+
+1368
+02:04:28,163 --> 02:04:29,831
+Eu te amo.
+
+1369
+02:04:53,770 --> 02:04:54,854
+Agora, levante.
+
+1370
+02:05:03,904 --> 02:05:04,738
+Não.
+
+1371
+02:05:31,638 --> 02:05:32,430
+Como?
+
+1372
+02:05:33,348 --> 02:05:34,432
+Ele é o Escolhido.
+
+1373
+02:07:58,898 --> 02:08:00,524
+Sei que você está aí.
+
+1374
+02:08:00,816 --> 02:08:02,609
+Eu sinto você agora.
+
+1375
+02:08:03,110 --> 02:08:04,903
+Sei que está com medo.
+
+1376
+02:08:05,112 --> 02:08:06,697
+Está com medo de nós.
+
+1377
+02:08:07,072 --> 02:08:08,865
+Está com medo das mudanças.
+
+1378
+02:08:09,074 --> 02:08:11,618
+- FALHA NO SISTEMA
+- Eu não conheço o futuro.
+
+1379
+02:08:11,826 --> 02:08:14,454
+Eu não vim aqui te dizer
+como isso vai acabar.
+
+1380
+02:08:14,662 --> 02:08:17,623
+Eu vim aqui te dizer como vai começar.
+
+1381
+02:08:18,541 --> 02:08:20,167
+Vou desligar este telefone.
+
+1382
+02:08:20,376 --> 02:08:23,545
+E vou mostrar a essas pessoas
+o que não quer que elas vejam.
+
+1383
+02:08:23,796 --> 02:08:25,631
+Vou mostrar a elas um mundo...
+
+1384
+02:08:25,839 --> 02:08:27,591
+sem você.
+
+1385
+02:08:27,924 --> 02:08:31,594
+Um mundo sem regras e controle,
+sem limites e fronteiras.
+
+1386
+02:08:31,803 --> 02:08:35,056
+Um mundo onde tudo é possível.
+
+1387
+02:08:38,184 --> 02:08:39,018
+Para onde vamos daqui...
+
+1388
+02:08:39,518 --> 02:08:42,980
+é uma escolha que deixo pra você.
+
+

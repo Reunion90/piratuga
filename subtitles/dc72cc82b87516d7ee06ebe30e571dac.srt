@@ -1,0 +1,3305 @@
+﻿1
+00:00:21,920 --> 00:00:23,490
+<i>Luís?</i>
+
+2
+00:00:28,755 --> 00:00:32,275
+<i>Luís, está ouvindo?</i>
+
+3
+00:00:32,650 --> 00:00:36,521
+<i>As flores.
+Elas estão cantando.</i>
+
+4
+00:00:37,392 --> 00:00:38,931
+Henriqueta?
+
+5
+00:00:39,300 --> 00:00:42,008
+<i>Deixe-me tomar banho
+no lago.</i>
+
+6
+00:00:57,420 --> 00:00:58,890
+Senhor!
+
+7
+00:01:00,620 --> 00:01:02,679
+Senhor, por favor,
+não vá adiante.
+
+8
+00:01:16,824 --> 00:01:20,315
+Um sonho ruim,
+Vossa Majestade, apenas isso.
+
+9
+00:01:21,701 --> 00:01:24,641
+Cheirar os sais vai ajudar.
+
+10
+00:01:30,212 --> 00:01:32,964
+Estava sonâmbulo,
+Senhor.
+
+11
+00:01:43,017 --> 00:01:45,067
+O Fabien já voltou?
+
+12
+00:01:46,590 --> 00:01:48,340
+Alguma notícia do meu filho?
+
+13
+00:01:48,341 --> 00:01:50,702
+Ele vai encontrá-lo, Senhor.
+
+14
+00:01:58,359 --> 00:02:02,430
+Mil homens morreram aqui,
+construindo isto.
+
+15
+00:02:03,100 --> 00:02:07,583
+Milhares ainda podem morrer
+antes que o trabalho termine.
+
+16
+00:02:08,020 --> 00:02:11,505
+Versalhes é
+uma criação maravilhosa, Senhor,
+
+17
+00:02:11,506 --> 00:02:14,617
+uma criação
+para toda a eternidade.
+
+18
+00:02:14,618 --> 00:02:19,062
+Um rei escreve seu epitáfio
+em pedra ou em sangue.
+
+19
+00:02:20,680 --> 00:02:22,968
+Pergunto-me
+em qual será o meu.
+
+20
+00:02:28,630 --> 00:02:30,880
+<i>Rohan foi capturado?</i>
+
+21
+00:02:30,881 --> 00:02:32,905
+<i>Ele não foi encontrado.</i>
+
+22
+00:02:41,960 --> 00:02:43,600
+Delfim!
+
+23
+00:02:43,601 --> 00:02:46,310
+Senhor Marchal, o Delfim.
+
+24
+00:02:54,720 --> 00:02:56,372
+Vossa Alteza.
+
+25
+00:02:58,320 --> 00:02:59,943
+Está tudo bem.
+
+26
+00:03:02,521 --> 00:03:04,860
+- Por favor...
+- Meu nome é Fabien Marchal.
+
+27
+00:03:04,861 --> 00:03:07,761
+Sirvo ao seu pai.
+Está seguro.
+
+28
+00:03:09,000 --> 00:03:10,474
+Está seguro.
+
+29
+00:03:40,260 --> 00:03:43,088
+- Ele está vivo?
+- Vamos ver.
+
+30
+00:03:44,700 --> 00:03:46,182
+Está.
+
+31
+00:03:47,743 --> 00:03:49,283
+Amarrem-no.
+
+32
+00:03:54,300 --> 00:03:57,300
+<b>Equipe inSanos
+apresenta...</b>
+
+33
+00:03:59,340 --> 00:04:04,140
+<i>Sou o Rei
+Da minha própria terra</i>
+
+34
+00:04:09,200 --> 00:04:12,800
+<i>Enfrentando
+Uma tempestade de areia</i>
+
+35
+00:04:12,801 --> 00:04:17,660
+<i>Lutarei até o fim</i>
+
+36
+00:04:21,340 --> 00:04:23,500
+<i>Criaturas dos meus sonhos</i>
+
+37
+00:04:23,501 --> 00:04:27,240
+<i>Levantem-se e dancem comigo</i>
+
+38
+00:04:35,600 --> 00:04:38,400
+<i>Agora e para sempre</i>
+
+39
+00:04:39,000 --> 00:04:43,400
+<i>Eu sou seu Rei</i>
+
+40
+00:04:43,401 --> 00:04:46,401
+<b>Legenda:
+OProfeta | Btarth</b>
+
+41
+00:04:46,402 --> 00:04:49,402
+<b>Legenda:
+MariTMS | MrRamonster</b>
+
+42
+00:04:49,403 --> 00:04:52,403
+<b>Legenda:
+MaLorencini | cardsjaposo</b>
+
+43
+00:04:52,404 --> 00:04:55,404
+<b>Legenda:
+AlanCristianoBr | Lory</b>
+
+44
+00:04:55,405 --> 00:04:58,405
+<b>Revisão:
+ToBe_AFM | LagerthaL</b>
+
+45
+00:04:58,406 --> 00:05:02,230
+<b>[S02E01]
+The Labyrinth</b>
+
+46
+00:05:03,320 --> 00:05:06,800
+Nossos informantes na França
+só aumentam, Mestre William.
+
+47
+00:05:06,801 --> 00:05:10,100
+Não faltam cortesãos
+que falarão por dinheiro.
+
+48
+00:05:10,101 --> 00:05:11,700
+Sou todo ouvidos.
+
+49
+00:05:11,701 --> 00:05:15,917
+O Rei suprimiu a rebelião
+que ameaçava o filho, o Delfim,
+
+50
+00:05:15,918 --> 00:05:19,020
+recentemente resgatado
+da Bretanha, acredito.
+
+51
+00:05:19,021 --> 00:05:21,720
+Os franceses capturaram
+o cabeça da operação,
+
+52
+00:05:21,721 --> 00:05:25,960
+o qual temo ser um dos nossos,
+o Chavalier de Rohan.
+
+53
+00:05:26,461 --> 00:05:28,164
+Uma pena.
+
+54
+00:05:28,165 --> 00:05:30,400
+Era um espião promissor.
+
+55
+00:05:30,401 --> 00:05:33,420
+- Providenciou um substituto?
+- Certamente.
+
+56
+00:05:35,620 --> 00:05:39,096
+<i>"Versalhes cresce
+dia após dia.</i>
+
+57
+00:05:39,620 --> 00:05:42,320
+<i>As obras exteriores
+estão concluídas.</i>
+
+58
+00:05:43,100 --> 00:05:45,365
+<i>O palácio está cheio</i>
+
+59
+00:05:45,366 --> 00:05:48,270
+<i>todos sujeitos às novas regras
+chamadas "etiqueta".</i>
+
+60
+00:05:48,271 --> 00:05:51,310
+<i>Os nobres
+aumentam em número".</i>
+
+61
+00:05:58,400 --> 00:05:59,939
+E a cama do Rei?
+
+62
+00:05:59,940 --> 00:06:04,307
+<i>"O rei permanece notavelmente
+fiel à primeira amante dele,</i>
+
+63
+00:06:04,307 --> 00:06:07,291
+<i>Madame de Montespan,
+que é agora,</i>
+
+64
+00:06:07,292 --> 00:06:11,710
+<i>reconhecida, oficialmente,
+como a favorita da casa real".</i>
+
+65
+00:06:15,066 --> 00:06:16,747
+E quanto ao irmão?
+
+66
+00:06:16,748 --> 00:06:19,458
+"Príncipe Filipe desfruta
+de uma vida social
+
+67
+00:06:19,459 --> 00:06:22,741
+<i>fora de Versalhes,
+com a família em Saint-Cloud.</i>
+
+68
+00:06:22,742 --> 00:06:24,443
+<i>Enquanto o amante dele,</i>
+
+69
+00:06:24,444 --> 00:06:27,999
+<i>o Chevalier de Lorena,
+segue em exílio".</i>
+
+70
+00:06:33,016 --> 00:06:35,148
+Esse novo espião,
+fale mais sobre ele.
+
+71
+00:06:35,149 --> 00:06:38,254
+Jovem, bem-disposto
+e competente.
+
+72
+00:06:40,710 --> 00:06:42,421
+Assim espero.
+
+73
+00:06:45,376 --> 00:06:47,745
+<i>Por que precisa
+de um historiador?</i>
+
+74
+00:06:47,746 --> 00:06:50,456
+Preciso de um escritor
+com uma mente leal.
+
+75
+00:06:50,457 --> 00:06:52,872
+E o coração de um poeta.
+
+76
+00:06:52,873 --> 00:06:55,854
+Então, é por isso
+que estamos indo ao teatro?
+
+77
+00:06:56,970 --> 00:06:58,468
+Possivelmente.
+
+78
+00:07:01,262 --> 00:07:02,838
+Estou com frio.
+
+79
+00:07:04,149 --> 00:07:06,397
+Vamos para Paris, Madame.
+
+80
+00:07:07,249 --> 00:07:09,655
+Respire o ar fresco,
+enquanto pode.
+
+81
+00:07:18,167 --> 00:07:19,855
+Com o Rei em Paris,
+esta noite,
+
+82
+00:07:19,856 --> 00:07:22,745
+devemos focar na preparação
+da agenda para apresentarmos
+
+83
+00:07:22,746 --> 00:07:25,290
+a Sua Majestade, amanhã,
+em seu retorno.
+
+84
+00:07:25,291 --> 00:07:28,720
+Louvois, qual o estado
+do prisioneiro?
+
+85
+00:07:28,721 --> 00:07:31,377
+Vivo e sem arrependimentos.
+
+86
+00:07:31,378 --> 00:07:33,678
+Esperando a decisão
+de Sua Majestade.
+
+87
+00:07:34,408 --> 00:07:36,169
+E quanto a você,
+Senhor Reynaud,
+
+88
+00:07:36,170 --> 00:07:39,567
+o Ministro da Justiça tem algum
+relatório do interrogatório?
+
+89
+00:07:43,805 --> 00:07:48,222
+Reynaud, não ouviu o Colbert
+se dirigir a você?
+
+90
+00:07:55,586 --> 00:07:57,923
+- Alguém o ajude.
+- Chamem os guardas.
+
+91
+00:07:57,924 --> 00:08:01,147
+- Ele está morrendo.
+<i>- Guardas, rápido!</i>
+
+92
+00:08:16,636 --> 00:08:18,518
+Casa cheia.
+
+93
+00:08:18,519 --> 00:08:20,432
+Que agradável.
+
+94
+00:08:20,965 --> 00:08:25,244
+Não pode estar tão satisfeito
+com o Chevalier ainda em exílio.
+
+95
+00:08:25,245 --> 00:08:27,452
+Como se mantêm aquecido
+durante a noite?
+
+96
+00:08:27,453 --> 00:08:28,854
+Chama-se cobertor.
+
+97
+00:08:28,855 --> 00:08:31,065
+Verde e cheio de plumas...
+
+98
+00:08:31,778 --> 00:08:33,472
+Assim como você.
+
+99
+00:08:39,180 --> 00:08:40,606
+O Rei está aqui.
+
+100
+00:08:45,277 --> 00:08:47,195
+Não olhe para ele.
+
+101
+00:08:54,761 --> 00:08:58,372
+Viu o casaco dele?
+Ele deveria estar no palco.
+
+102
+00:08:58,373 --> 00:09:02,266
+Acredite em mim,
+ele nunca o tira.
+
+103
+00:09:02,267 --> 00:09:04,462
+Prometa-me,
+que ao voltarmos,
+
+104
+00:09:04,463 --> 00:09:07,252
+virá comigo e deixará minha dama
+tirar suas cartas.
+
+105
+00:09:10,617 --> 00:09:13,549
+Ouvi coisas boas
+sobre esse jovem escritor.
+
+106
+00:09:15,989 --> 00:09:17,989
+Quero você dentro de mim.
+
+107
+00:09:33,571 --> 00:09:35,328
+Vossa Majestade!
+
+108
+00:09:36,332 --> 00:09:40,500
+Meu nome é Thomas Beaumont,
+o dramaturgo.
+
+109
+00:09:41,240 --> 00:09:46,239
+A história que irão ver,
+ocorreu há muitos anos atrás,
+
+110
+00:09:46,240 --> 00:09:49,780
+mas apesar
+do que possa ter lido,
+
+111
+00:09:49,781 --> 00:09:52,279
+o passado não é um prólogo.
+
+112
+00:09:52,763 --> 00:09:55,318
+A história
+não oferece um contexto,
+
+113
+00:09:55,319 --> 00:09:56,804
+mas uma lição,
+
+114
+00:09:57,505 --> 00:10:00,147
+uma lição para o presente...
+
+115
+00:10:00,148 --> 00:10:01,977
+Senhor,
+teve um envenenamento.
+
+116
+00:10:01,978 --> 00:10:03,876
+Você deve vir comigo,
+imediatamente.
+
+117
+00:10:26,280 --> 00:10:27,795
+E...
+
+118
+00:10:27,796 --> 00:10:31,244
+Embora esta seja uma história
+de homens do passado,
+
+119
+00:10:31,245 --> 00:10:34,251
+não duvide que,
+neste momento,
+
+120
+00:10:34,252 --> 00:10:37,675
+bem aqui neste lugar,
+eles vivem de novo,
+
+121
+00:10:37,676 --> 00:10:40,965
+renascidos,
+atravessando os séculos
+
+122
+00:10:40,966 --> 00:10:42,418
+para nos mostrar que,
+
+123
+00:10:42,419 --> 00:10:45,863
+como as areias das nossas vidas
+diminuindo e desaparecendo,
+
+124
+00:10:45,864 --> 00:10:49,404
+estamos todos nós
+fazendo história.
+
+125
+00:10:49,985 --> 00:10:52,498
+Aqui e agora.
+
+126
+00:11:04,360 --> 00:11:07,438
+Ele é inteligente,
+muito esperto.
+
+127
+00:11:07,439 --> 00:11:09,726
+- Quem, Senhor?
+- Guilherme III de Orange.
+
+128
+00:11:09,727 --> 00:11:12,390
+Envenenou meu Ministro
+para mostrar o que pode fazer,
+
+129
+00:11:12,391 --> 00:11:14,983
+para mostrar o quão perto está
+de me envenenar.
+
+130
+00:11:14,984 --> 00:11:16,789
+Estou quase impressionado.
+
+131
+00:11:16,790 --> 00:11:19,366
+Sabe o que está acontecendo
+na Europa,
+
+132
+00:11:19,367 --> 00:11:20,773
+No Mundo?
+
+133
+00:11:20,774 --> 00:11:23,446
+Versalhes é uma joia reluzente
+que brilha na noite!
+
+134
+00:11:23,447 --> 00:11:25,499
+Ela é beleza. É poder.
+
+135
+00:11:25,500 --> 00:11:28,069
+Não deve haver dúvidas
+do que simbolizamos.
+
+136
+00:11:28,070 --> 00:11:29,530
+Então é assim.
+
+137
+00:11:29,531 --> 00:11:32,520
+Um jovem ambicioso
+na Holanda observa
+
+138
+00:11:32,521 --> 00:11:36,120
+o seu glorioso vizinho
+e seu vívido símbolo de poder,
+
+139
+00:11:36,121 --> 00:11:38,400
+verá isso crescendo.
+
+140
+00:11:38,401 --> 00:11:41,401
+O que você faz quando a fortuna
+do inimigo cresce?
+
+141
+00:11:41,402 --> 00:11:43,064
+Quando
+os campos florescem?
+
+142
+00:11:43,065 --> 00:11:45,181
+- Você os envenena também.
+- Gota a gota.
+
+143
+00:11:45,182 --> 00:11:49,235
+Pega tudo que os alimenta,
+polui e contamina com veneno.
+
+144
+00:11:49,236 --> 00:11:52,160
+Guilherme sabe o que faz.
+Ele tentou levar meu filho.
+
+145
+00:11:52,161 --> 00:11:54,188
+Em vez disso,
+levou meu amor,
+
+146
+00:11:54,189 --> 00:11:56,000
+minha paz, meu sono.
+
+147
+00:11:56,001 --> 00:11:57,915
+Agora matou meu Ministro.
+
+148
+00:11:57,916 --> 00:12:01,915
+Mas em breve tomarei a vida dele
+e será o fim de tudo isso.
+
+149
+00:12:08,760 --> 00:12:10,564
+Ele pagou você?
+
+150
+00:12:10,565 --> 00:12:13,360
+Quando lutou por mim,
+nos Países Baixos espanhóis,
+
+151
+00:12:13,361 --> 00:12:15,085
+os holandeses foram
+até você.
+
+152
+00:12:15,086 --> 00:12:17,664
+Entram em contato
+e deram dinheiro.
+
+153
+00:12:37,860 --> 00:12:40,017
+Algo machucou o senhor.
+
+154
+00:12:40,454 --> 00:12:41,940
+Imagino o que seja.
+
+155
+00:12:41,941 --> 00:12:46,120
+Guilherme pagou para ferir-me,
+levar o meu filho,
+
+156
+00:12:46,121 --> 00:12:47,912
+e envenenar o meu Ministro.
+
+157
+00:12:47,913 --> 00:12:50,265
+Envenenar que Ministro?
+
+158
+00:12:50,266 --> 00:12:52,202
+Acha que sou um idiota.
+
+159
+00:12:52,203 --> 00:12:55,320
+Acredita mesmo
+que é o Guilherme que te odeia?
+
+160
+00:12:55,321 --> 00:12:58,583
+Confie em mim,
+todo mundo odeia o senhor.
+
+161
+00:13:02,049 --> 00:13:03,566
+Então, saiba disso:
+
+162
+00:13:03,567 --> 00:13:06,417
+Quando meus escribas fizerem
+a crônica dos meus dias,
+
+163
+00:13:06,418 --> 00:13:09,753
+garantirei que apaguem
+cada vestígio sobre você.
+
+164
+00:13:12,170 --> 00:13:14,857
+Nenhuma gota de tinta
+deve marcar sua existência.
+
+165
+00:13:16,452 --> 00:13:19,052
+Nenhuma imagem, brasão,
+nem mecha de cabelo.
+
+166
+00:13:19,053 --> 00:13:21,740
+Seus bens, suas roupas,
+tudo será queimado.
+
+167
+00:13:22,241 --> 00:13:26,983
+Sua linhagem renegada,
+expulsa, esquecida.
+
+168
+00:13:28,159 --> 00:13:31,433
+Será para a história
+o que é para mim, neste momento.
+
+169
+00:13:32,296 --> 00:13:33,753
+Nada.
+
+170
+00:13:34,398 --> 00:13:36,006
+Diferente do senhor,
+Majestade,
+
+171
+00:13:36,007 --> 00:13:39,883
+não me importa
+como a história me retratará.
+
+172
+00:13:44,197 --> 00:13:45,853
+Meus astrônomos
+me dizem que,
+
+173
+00:13:45,854 --> 00:13:48,877
+um dia, em breve,
+a lua atravessará o sol
+
+174
+00:13:48,878 --> 00:13:52,359
+e, por alguns segundos,
+o nosso dia se tornará noite.
+
+175
+00:13:52,360 --> 00:13:54,842
+Quero que se lembre
+desse momento, se puder,
+
+176
+00:13:54,843 --> 00:13:56,654
+porque,
+seja qual for o seu destino,
+
+177
+00:13:56,655 --> 00:13:59,999
+será nesse instante,
+que irá encontrá-lo.
+
+178
+00:14:07,673 --> 00:14:09,451
+Estava preocupada.
+
+179
+00:14:13,556 --> 00:14:15,443
+Está queimando.
+
+180
+00:14:33,406 --> 00:14:35,206
+O Rei está acordado?
+
+181
+00:14:35,207 --> 00:14:37,520
+Sua Majestade
+ainda não levantou.
+
+182
+00:14:37,521 --> 00:14:40,678
+Vou acordá-lo para o <i>lever</i>,
+como de costume, às 8h.
+
+183
+00:14:40,679 --> 00:14:42,880
+Diga que preciso vê-lo,
+imediatamente.
+
+184
+00:14:42,881 --> 00:14:45,819
+Quando ele acordar,
+Majestade, o informarei.
+
+185
+00:14:45,820 --> 00:14:48,410
+Embora, saiba
+que ele tem muitos compromissos.
+
+186
+00:14:48,411 --> 00:14:51,969
+Garanto a você que estou
+perfeitamente ciente.
+
+187
+00:14:58,692 --> 00:15:03,606
+Quanto mais de ti consumo,
+mais fome eu tenho.
+
+188
+00:15:06,313 --> 00:15:08,217
+Então,
+não estou satisfazendo.
+
+189
+00:15:08,218 --> 00:15:10,523
+Estimula meu apetite,
+Senhor.
+
+190
+00:15:10,524 --> 00:15:12,368
+Não me envergonho
+em admitir.
+
+191
+00:15:12,369 --> 00:15:14,616
+Enfim, de que outra forma
+impediria o senhor
+
+192
+00:15:14,617 --> 00:15:17,400
+de acordar no meio da noite
+e andar até a água?
+
+193
+00:15:17,401 --> 00:15:19,281
+Preocupo-me,
+de um dia eu acordar
+
+194
+00:15:19,282 --> 00:15:21,582
+e encontrar me presenteando
+com um peixe.
+
+195
+00:15:22,109 --> 00:15:23,827
+Não coma isso!
+
+196
+00:15:25,196 --> 00:15:26,759
+É só um biscoito.
+
+197
+00:15:26,760 --> 00:15:28,800
+Ele ainda não foi testado.
+Bontemps!
+
+198
+00:15:28,801 --> 00:15:30,977
+Seu homem o provou
+ontem à noite, não foi?
+
+199
+00:15:30,978 --> 00:15:33,134
+Então ele deve prová-lo
+novamente.
+
+200
+00:15:33,135 --> 00:15:36,160
+Chame o provador de alimentos
+e seu chefe de cozinha.
+
+201
+00:15:36,161 --> 00:15:38,532
+E prepare o quarto
+para o <i>lever</i>.
+
+202
+00:15:38,533 --> 00:15:40,009
+Imediatamente, Senhor.
+
+203
+00:15:41,631 --> 00:15:43,337
+Dois provadores?
+
+204
+00:15:44,621 --> 00:15:48,936
+- Que preocupação é essa?
+- Pensei em, pelo menos, três.
+
+205
+00:15:49,400 --> 00:15:51,713
+Um para o salão,
+um para a cozinha
+
+206
+00:15:51,714 --> 00:15:53,249
+e um para a mesa.
+
+207
+00:15:59,335 --> 00:16:01,871
+Quem acha
+que será a próxima?
+
+208
+00:16:01,872 --> 00:16:03,312
+Próxima?
+
+209
+00:16:03,313 --> 00:16:05,654
+Agora que a pobre
+e doce Henriqueta se foi.
+
+210
+00:16:05,655 --> 00:16:08,068
+Há, por assim dizer,
+uma vaga.
+
+211
+00:16:08,467 --> 00:16:11,359
+Não me diga que Filipe
+não se casará de novo.
+
+212
+00:16:11,360 --> 00:16:14,787
+É claro que ele deve,
+mas com quem?
+
+213
+00:16:17,861 --> 00:16:19,826
+Ainda não decidi.
+
+214
+00:16:22,405 --> 00:16:24,205
+Mal posso esperar
+para ajudar.
+
+215
+00:16:36,606 --> 00:16:38,206
+Onde você estava?
+
+216
+00:16:38,207 --> 00:16:41,079
+Na floresta,
+colhendo ervas.
+
+217
+00:16:41,080 --> 00:16:44,012
+Ministro Reynaud morreu
+uma hora atrás.
+
+218
+00:16:44,013 --> 00:16:46,903
+Uma dolorosa morte súbita.
+
+219
+00:16:46,904 --> 00:16:49,020
+Com a Princesa Henriqueta
+foi assim.
+
+220
+00:16:49,021 --> 00:16:50,549
+Idêntico.
+
+221
+00:16:51,400 --> 00:16:53,768
+E precisa de mim
+para examinar o corpo?
+
+222
+00:16:53,769 --> 00:16:55,204
+Preciso.
+
+223
+00:16:55,925 --> 00:16:57,925
+Mas queime-o em seguida.
+
+224
+00:16:58,764 --> 00:17:00,620
+Deve tomar
+todas as precauções.
+
+225
+00:17:00,621 --> 00:17:03,504
+Agradeço a sua preocupação
+com minha segurança.
+
+226
+00:17:03,505 --> 00:17:07,873
+É com a segurança do Rei
+que me preocupo, nada mais.
+
+227
+00:17:12,813 --> 00:17:16,080
+Muitos se beneficiarão
+com a morte do Ministro Reynaud,
+
+228
+00:17:16,081 --> 00:17:19,160
+alguns inimigos no tribunal,
+sendo Cassel um deles.
+
+229
+00:17:19,161 --> 00:17:21,661
+Sem contar
+com a própria viúva.
+
+230
+00:17:22,160 --> 00:17:25,153
+Acredito que os Reynaud
+eram clientes do Cassel.
+
+231
+00:17:25,154 --> 00:17:28,136
+Quando ele tinha o poder
+das terras no norte.
+
+232
+00:17:28,137 --> 00:17:31,206
+Mas agora esse poder acabou,
+junto com boa parte das terras.
+
+233
+00:17:31,207 --> 00:17:34,081
+De qualquer modo,
+a investigação deve dar frutos
+
+234
+00:17:34,082 --> 00:17:35,862
+e rapidamente, Marchal.
+
+235
+00:17:35,863 --> 00:17:38,731
+Um envenenador teve acesso
+a sala do Conselho do Rei...
+
+236
+00:17:38,732 --> 00:17:40,996
+Não há evidências
+de que o crime ocorreu aqui.
+
+237
+00:17:40,997 --> 00:17:42,927
+Temos que agir rápido
+para impedir
+
+238
+00:17:42,928 --> 00:17:45,174
+a inevitável onda
+de rumores.
+
+239
+00:17:45,175 --> 00:17:47,679
+Todas as comunicações
+estão sendo monitoradas?
+
+240
+00:17:47,680 --> 00:17:49,501
+Todas as cartas
+estão sendo abertas
+
+241
+00:17:49,502 --> 00:17:52,873
+e o material ofensivo
+será ajustado ou queimado.
+
+242
+00:17:54,158 --> 00:17:56,711
+E o sucessor
+para a Chancelaria?
+
+243
+00:17:57,203 --> 00:18:00,579
+De Foix está interessado,
+mas falta experiência.
+
+244
+00:18:00,580 --> 00:18:03,164
+A mãe dele é uma grande amiga
+da minha família.
+
+245
+00:18:03,165 --> 00:18:04,688
+Lesigny tem mais.
+
+246
+00:18:04,689 --> 00:18:06,289
+Eu o conheço há muitos anos.
+
+247
+00:18:06,290 --> 00:18:08,606
+Tempo não é juiz
+de lealdade.
+
+248
+00:18:09,540 --> 00:18:12,200
+Gostaria de conhecer
+cada candidato por vez.
+
+249
+00:18:12,201 --> 00:18:14,306
+Se me permite, senhor...
+
+250
+00:18:14,307 --> 00:18:18,249
+Talvez o Senhor Colbert deva
+abordá-los primeiro, juntos?
+
+251
+00:18:18,250 --> 00:18:19,948
+Para quê?
+
+252
+00:18:19,949 --> 00:18:23,546
+Se todos estiverem com ele,
+Vossa Majestade,
+
+253
+00:18:23,547 --> 00:18:25,905
+não estarão
+nos aposentos deles.
+
+254
+00:18:30,061 --> 00:18:32,273
+<i>Madame de Reynaud,</i>
+
+255
+00:18:32,274 --> 00:18:35,367
+<i>sabe de algum inimigo
+que seu marido tinha</i>
+
+256
+00:18:35,368 --> 00:18:37,768
+como Ministro da justiça?
+
+257
+00:18:37,769 --> 00:18:39,704
+Não consigo pensar
+em ninguém.
+
+258
+00:18:40,190 --> 00:18:42,657
+Ele era amado igualmente
+por todos.
+
+259
+00:18:43,510 --> 00:18:45,289
+Ele era um bom marido?
+
+260
+00:18:48,280 --> 00:18:50,360
+Tivemos
+nossos desentendimentos,
+
+261
+00:18:50,361 --> 00:18:52,085
+como todos os casais têm,
+
+262
+00:18:52,886 --> 00:18:55,053
+mas ele era
+muito dedicado a mim...
+
+263
+00:18:55,720 --> 00:18:57,514
+E eu a ele.
+
+264
+00:18:59,306 --> 00:19:01,602
+Sentirei tanto a falta dele.
+
+265
+00:19:08,038 --> 00:19:09,804
+<i>É tudo que peço,</i>
+
+266
+00:19:09,805 --> 00:19:11,764
+<i> sua última parada
+antes de recolher-se.</i>
+
+267
+00:19:11,765 --> 00:19:13,901
+<i>Sempre.
+Porque me abandonou?</i>
+
+268
+00:19:13,902 --> 00:19:16,167
+Devo rezar uma ave Maria?
+
+269
+00:19:16,729 --> 00:19:21,093
+Sua consciência e alma são
+assuntos para outro dia, Senhor.
+
+270
+00:19:21,700 --> 00:19:25,169
+Apenas falo
+dos nossos compromissos.
+
+271
+00:19:25,170 --> 00:19:28,756
+De qualquer forma,
+fico feliz que esteja aqui.
+
+272
+00:19:29,159 --> 00:19:30,899
+É bom ver você.
+
+273
+00:19:30,900 --> 00:19:34,849
+Obrigado, Senhor.
+Igualmente.
+
+274
+00:19:34,850 --> 00:19:36,638
+No entanto,
+tenho um problema.
+
+275
+00:19:36,639 --> 00:19:38,551
+Queria um conselho seu.
+
+276
+00:19:38,552 --> 00:19:40,647
+Ajudarei se puder.
+
+277
+00:19:43,426 --> 00:19:44,835
+Aí está você.
+
+278
+00:19:44,836 --> 00:19:48,545
+E três cabeças são melhores
+que duas, nesse caso.
+
+279
+00:19:48,960 --> 00:19:52,548
+Depende das cabeças, é claro.
+Vossa majestade.
+
+280
+00:19:52,549 --> 00:19:55,264
+Tenho certeza
+que não entendi.
+
+281
+00:19:55,265 --> 00:19:59,261
+Sabem que meu irmão
+precisa de uma nova esposa.
+
+282
+00:20:00,598 --> 00:20:03,980
+Já que vocês conhecem ele,
+e também a mim,
+
+283
+00:20:03,981 --> 00:20:08,097
+pressinto que, juntos,
+acharemos a escolha perfeita.
+
+284
+00:20:08,098 --> 00:20:09,798
+Preferiria
+que fossem mulheres
+
+285
+00:20:09,799 --> 00:20:12,252
+me aconselhando
+do que qualquer outra pessoa.
+
+286
+00:20:12,253 --> 00:20:15,163
+Já que é preciso uma mulher
+para entender outra.
+
+287
+00:20:15,164 --> 00:20:18,874
+- Não acha?
+- Não acho que seja apropriado.
+
+288
+00:20:18,875 --> 00:20:21,051
+Talvez, mas é necessário.
+
+289
+00:20:21,052 --> 00:20:23,964
+Senhor,
+respeito seus desejos, claro,
+
+290
+00:20:23,965 --> 00:20:28,894
+mas selecionar a melhor pessoa
+na corte é assunto para o Rei.
+
+291
+00:20:29,449 --> 00:20:30,855
+Ou a Rainha.
+
+292
+00:20:30,856 --> 00:20:33,323
+São tantas tarefas
+para uma Rainha, Madame.
+
+293
+00:20:33,324 --> 00:20:34,624
+Tem vezes
+que me pergunto
+
+294
+00:20:34,625 --> 00:20:37,168
+se você já as executa,
+de certa maneira.
+
+295
+00:20:37,169 --> 00:20:40,020
+Sei que qualquer posto
+que eu ocupar na vida do Rei,
+
+296
+00:20:40,021 --> 00:20:42,612
+não se comparará ao seu,
+Majestade.
+
+297
+00:20:42,613 --> 00:20:46,073
+Fico feliz em dizer que parei
+de me comparar há muitos anos.
+
+298
+00:20:46,760 --> 00:20:49,144
+Viu? Não é divertido?
+
+299
+00:20:50,578 --> 00:20:53,866
+Talvez devêssemos
+discutir as candidatas?
+
+300
+00:21:02,482 --> 00:21:04,082
+Estão todos aqui?
+
+301
+00:21:05,400 --> 00:21:08,984
+Onde está Gaston de Foix?
+Está aqui?
+
+302
+00:21:14,635 --> 00:21:17,379
+- Agora estou.
+- Muito bem.
+
+303
+00:21:21,135 --> 00:21:23,739
+Verifique todos os quartos
+minunciosamente.
+
+304
+00:22:09,586 --> 00:22:13,169
+- Bom dia, Cassel.
+- Devo ensinar a bater na porta.
+
+305
+00:22:13,170 --> 00:22:15,153
+É uma prática social
+muito útil.
+
+306
+00:22:15,154 --> 00:22:17,983
+Envolve bater em coisas,
+acredito que apreciaria muito.
+
+307
+00:22:17,984 --> 00:22:20,680
+A etiqueta da corte
+é bem clara nesse ponto.
+
+308
+00:22:20,681 --> 00:22:24,181
+Conheço o manual social do Rei
+que favorece o dedo mínimo.
+
+309
+00:22:24,862 --> 00:22:26,604
+Um método inútil
+na minha opinião.
+
+310
+00:22:26,605 --> 00:22:28,990
+Arranhar a porta?
+Como escutariam isso?
+
+311
+00:22:28,991 --> 00:22:31,230
+Estou sempre quebrando
+minhas unhas.
+
+312
+00:22:32,286 --> 00:22:34,301
+Onde estão meus modos?
+
+313
+00:22:34,302 --> 00:22:36,294
+Você gostaria de...
+
+314
+00:22:36,295 --> 00:22:37,755
+Um rato?
+
+315
+00:22:38,955 --> 00:22:40,480
+Recém capturado.
+
+316
+00:22:40,481 --> 00:22:43,786
+Investigo a morte
+do Ministro Reynaud.
+
+317
+00:22:46,520 --> 00:22:48,801
+E deseja confiar
+na minha informação?
+
+318
+00:22:48,802 --> 00:22:50,426
+Não se importava com ele.
+
+319
+00:22:50,427 --> 00:22:52,738
+Não. Eu o odiava.
+
+320
+00:22:52,739 --> 00:22:54,839
+Acho que descobrirá
+que quem o envenenou
+
+321
+00:22:54,840 --> 00:22:56,561
+também não gostava
+muito dele.
+
+322
+00:22:56,562 --> 00:22:59,785
+- Por que não gostava dele?
+- Ele era muito entediante.
+
+323
+00:22:59,786 --> 00:23:03,235
+A família de Reynaud costumava
+me pedir crédito,
+
+324
+00:23:03,236 --> 00:23:04,774
+se me lembro bem.
+
+325
+00:23:06,459 --> 00:23:10,083
+Quase o mandei arar meu campo
+com o rosto da esposa dele.
+
+326
+00:23:10,084 --> 00:23:12,554
+Ela tem uma mandíbula boa
+para trabalho no campo.
+
+327
+00:23:12,555 --> 00:23:15,877
+Ele tomou
+várias terras suas, não foi?
+
+328
+00:23:15,878 --> 00:23:17,592
+Após a queda de sua casa,
+
+329
+00:23:17,593 --> 00:23:20,412
+elas foram vendidas
+com um desconto substancial.
+
+330
+00:23:20,413 --> 00:23:23,045
+Desculpe, estou atrasado
+para o jogo de cartas.
+
+331
+00:23:27,384 --> 00:23:30,152
+É claro que sou um suspeito.
+
+332
+00:23:30,153 --> 00:23:32,415
+Deve estar desesperado
+para vasculhar aqui.
+
+333
+00:23:32,416 --> 00:23:35,414
+Então, de todo modo,
+fique à vontade.
+
+334
+00:23:46,995 --> 00:23:49,131
+Parece que sobraram
+apenas três.
+
+335
+00:23:49,132 --> 00:23:51,649
+- Não pode ser Montpensier.
+- Não!
+
+336
+00:23:52,373 --> 00:23:53,802
+Concordo.
+
+337
+00:23:53,803 --> 00:23:55,886
+Isso mesmo.
+O tempo dela passou.
+
+338
+00:24:00,373 --> 00:24:02,610
+A Princesa do Palatinado,
+que tal ela?
+
+339
+00:24:02,611 --> 00:24:04,906
+Acho que não é adequada
+para a vida na corte.
+
+340
+00:24:04,907 --> 00:24:06,836
+Quem se encaixa
+antes de chegar aqui?
+
+341
+00:24:06,837 --> 00:24:08,153
+Tem razão.
+
+342
+00:24:08,154 --> 00:24:10,235
+Acha que ela é adequada
+para o meu irmão?
+
+343
+00:24:10,236 --> 00:24:13,898
+Nenhuma delas está à altura
+de nossa falecida Henriqueta.
+
+344
+00:24:15,339 --> 00:24:17,811
+Então, deve ser Caumont.
+
+345
+00:24:18,631 --> 00:24:20,044
+Parece que sim.
+
+346
+00:24:20,045 --> 00:24:22,877
+- Ela seria uma boa escolha.
+- Apesar...
+
+347
+00:24:22,878 --> 00:24:25,549
+- Ainda... Não importa.
+- Muito bem, então.
+
+348
+00:24:27,176 --> 00:24:28,776
+Espere!
+
+349
+00:24:28,777 --> 00:24:30,789
+Diga, Madame, o que foi?
+
+350
+00:24:31,432 --> 00:24:34,225
+Não quero difamar
+o caráter dela.
+
+351
+00:24:34,226 --> 00:24:36,407
+Mas não pude
+deixar de ouvir
+
+352
+00:24:36,408 --> 00:24:38,537
+que ela viajou
+para Bordéus recentemente
+
+353
+00:24:38,538 --> 00:24:41,352
+na esperança de reavivar
+um romance com um plebeu.
+
+354
+00:24:41,353 --> 00:24:44,492
+- Por que ela faria isso?
+- Por amor, aparentemente.
+
+355
+00:24:44,493 --> 00:24:47,404
+E ele se apaixonou por ela.
+Mas não podemos culpá-lo.
+
+356
+00:24:47,405 --> 00:24:49,100
+Ela é muito bonita.
+
+357
+00:24:49,101 --> 00:24:51,993
+Não surpreende um homem
+achá-la um bom partido.
+
+358
+00:24:54,587 --> 00:24:56,944
+Pergunto-me se seria justo
+casar Filipe
+
+359
+00:24:56,945 --> 00:24:58,842
+com alguém
+que já está apaixonado?
+
+360
+00:24:58,843 --> 00:25:00,467
+Casamento não é por amor.
+
+361
+00:25:00,468 --> 00:25:02,315
+É um assunto de Estado.
+
+362
+00:25:02,316 --> 00:25:06,020
+- Temos a candidata perfeita.
+- A Madame tem razão.
+
+363
+00:25:06,021 --> 00:25:07,650
+- A Palatina.
+- A Palatina.
+
+364
+00:25:08,640 --> 00:25:10,720
+Ela, com certeza,
+é a mais simples.
+
+365
+00:25:10,721 --> 00:25:13,880
+E sendo simples,
+precisa trabalhar a conversação.
+
+366
+00:25:13,881 --> 00:25:15,360
+Ela pode ser divertida.
+
+367
+00:25:15,361 --> 00:25:17,080
+É jovem.
+Com certeza é fértil.
+
+368
+00:25:17,081 --> 00:25:20,640
+- Terras no leste. Além do Reno.
+- Verdade.
+
+369
+00:25:20,641 --> 00:25:23,549
+Se fechar bem os olhos,
+ela é quase um homem.
+
+370
+00:25:30,420 --> 00:25:31,912
+Senhor.
+
+371
+00:25:33,200 --> 00:25:35,240
+Se posso me atrever...
+
+372
+00:25:35,241 --> 00:25:39,497
+O que teria feito se tivessem
+escolhido outra pessoa?
+
+373
+00:25:39,498 --> 00:25:41,770
+O território Palatinado é
+um excelente aliado
+
+374
+00:25:41,771 --> 00:25:43,700
+em nossa guerra
+com os holandeses.
+
+375
+00:25:43,701 --> 00:25:46,762
+Desse modo, elas pensam
+que a decisão foi delas,
+
+376
+00:25:46,763 --> 00:25:49,958
+o que parece ser melhor
+para todo mundo, não acha?
+
+377
+00:25:49,959 --> 00:25:51,420
+De fato, Senhor.
+
+378
+00:26:07,720 --> 00:26:11,228
+Os próximos dias
+serão prósperos, Madame de Foix.
+
+379
+00:26:11,229 --> 00:26:15,560
+Um eclipse na luz
+anuncia uma grande mudança.
+
+380
+00:26:15,561 --> 00:26:17,845
+- Continue.
+- Claro.
+
+381
+00:26:17,846 --> 00:26:19,620
+Com licença, Mãe.
+
+382
+00:26:32,339 --> 00:26:35,226
+Vejo que está usando punhos
+da semana passada, Cassel.
+
+383
+00:26:35,949 --> 00:26:38,380
+A moda de hoje
+valoriza a manga.
+
+384
+00:26:38,381 --> 00:26:39,785
+Dou meu conselho livremente
+
+385
+00:26:39,786 --> 00:26:42,294
+já que nossas avós
+eram primas de segundo grau
+
+386
+00:26:42,966 --> 00:26:45,489
+e, com certeza,
+vale a pena ajudar.
+
+387
+00:26:45,927 --> 00:26:47,410
+Tão gentil.
+
+388
+00:26:47,411 --> 00:26:49,975
+Mas não requisito seus
+conhecimentos enciclopédicos
+
+389
+00:26:49,976 --> 00:26:51,580
+em etiqueta moderna,
+de Foix,
+
+390
+00:26:51,581 --> 00:26:55,100
+exceto quando se trata
+de ganhar nas cartas, é claro.
+
+391
+00:26:56,420 --> 00:26:58,200
+Talvez sua mãe
+teve mais sorte.
+
+392
+00:26:58,201 --> 00:27:02,329
+Ou a maldição da sua família
+passa através das gerações?
+
+393
+00:27:02,330 --> 00:27:05,880
+Um homem jovem tem tempo
+para se recuperar, Cassel.
+
+394
+00:27:05,881 --> 00:27:08,212
+E um homem experiente
+não precisa disso,
+
+395
+00:27:08,213 --> 00:27:12,259
+já que ele costuma ser
+melhor nas cartas, de Foix.
+
+396
+00:27:20,400 --> 00:27:22,000
+Madame de Reynaud,
+
+397
+00:27:22,001 --> 00:27:26,268
+anda tão alegre desde
+que o marido morreu, não acha?
+
+398
+00:27:26,269 --> 00:27:28,988
+A herança faz isso
+com uma mulher.
+
+399
+00:27:36,654 --> 00:27:39,677
+Os aposentos dos candidatos
+ministeriais foram investigados?
+
+400
+00:27:39,678 --> 00:27:42,178
+- Foram.
+- Encontraram algo?
+
+401
+00:27:42,587 --> 00:27:44,857
+Nada que indique
+conhecimento em envenenamento
+
+402
+00:27:44,858 --> 00:27:48,207
+ou qualquer instrumento
+que ajude na sua criação.
+
+403
+00:27:49,335 --> 00:27:51,960
+Veremos o que os aposentos
+da viúva nos revelam.
+
+404
+00:28:00,940 --> 00:28:04,380
+Um presente
+do Duque de Cassel.
+
+405
+00:28:05,061 --> 00:28:07,015
+"Com meus melhores votos
+para o banquete
+
+406
+00:28:07,016 --> 00:28:09,220
+da Imaculada Conceição".
+
+407
+00:28:12,944 --> 00:28:15,940
+Que tipo de homem
+dá um rato de presente?
+
+408
+00:28:15,941 --> 00:28:17,577
+Cassel.
+
+409
+00:28:23,532 --> 00:28:26,492
+Preciso que seja
+meus ouvidos nos salões.
+
+410
+00:28:26,800 --> 00:28:30,120
+Fale com seus amigos.
+Quero saber o que andam dizendo.
+
+411
+00:28:30,121 --> 00:28:32,929
+Bem, no momento,
+o assunto é a viúva de Reynaud.
+
+412
+00:28:32,930 --> 00:28:34,640
+Ela é muito jovem,
+comparada a ele.
+
+413
+00:28:34,641 --> 00:28:36,593
+Herdará todas as propriedades
+do marido?
+
+414
+00:28:36,594 --> 00:28:40,845
+O testamento ordena,
+o Rei aprova, a fortuna é dela.
+
+415
+00:28:40,846 --> 00:28:43,064
+Ela é popular,
+mas não fala muito em público.
+
+416
+00:28:43,065 --> 00:28:45,484
+Pode ser útil descobrir
+o que fala no particular.
+
+417
+00:28:45,485 --> 00:28:46,924
+Concordo.
+
+418
+00:28:47,891 --> 00:28:50,540
+Então preciso
+de roupas novas.
+
+419
+00:28:52,920 --> 00:28:56,087
+Devo ao menos parecer
+uma mulher em ascensão.
+
+420
+00:29:03,541 --> 00:29:06,761
+Já está fazendo
+um bom trabalho com isso.
+
+421
+00:29:36,422 --> 00:29:38,835
+Onde está Thomas Beaumont?
+
+422
+00:29:38,836 --> 00:29:41,330
+O dramaturgo.
+Procurei em todo lugar.
+
+423
+00:29:41,331 --> 00:29:44,488
+Quero ele faça parte
+da minha companhia teatral.
+
+424
+00:29:45,133 --> 00:29:47,118
+Ele virá à peça esta noite?
+
+425
+00:29:47,860 --> 00:29:50,200
+Onde posso encontrá-lo?
+
+426
+00:29:50,201 --> 00:29:52,300
+Versalhes, Vossa Alteza.
+
+427
+00:29:52,301 --> 00:29:54,598
+O Rei lhe deu uma posição.
+
+428
+00:29:54,599 --> 00:29:56,569
+Ele partiu esta manhã.
+
+429
+00:30:10,220 --> 00:30:11,845
+Verdade?
+
+430
+00:30:31,920 --> 00:30:33,498
+Desculpe-me.
+
+431
+00:30:39,760 --> 00:30:43,282
+Você detalhará a vida da corte
+da Sua Majestade em Versalhes.
+
+432
+00:30:43,283 --> 00:30:46,320
+Foque somente na glória do Rei.
+
+433
+00:30:46,321 --> 00:30:50,540
+Ele é a luz que brilha
+eternamente em nossos corações.
+
+434
+00:30:50,541 --> 00:30:52,191
+Sim, Senhor Colbert.
+
+435
+00:31:07,330 --> 00:31:12,306
+Senhor, deixe-me apresentar
+Thomas Beaumont,
+
+436
+00:31:12,307 --> 00:31:14,914
+o historiador da corte
+que o senhor requisitou.
+
+437
+00:31:19,054 --> 00:31:22,074
+<i>Senhoras e senhores,
+já vamos começar.</i>
+
+438
+00:31:26,158 --> 00:31:27,558
+<i>Vossa Majestade,</i>
+
+439
+00:31:27,559 --> 00:31:30,581
+<i>quando a luz do sol
+atinge o vidro do espelho,</i>
+
+440
+00:31:30,582 --> 00:31:32,707
+sua forma particular
+e disposição,
+
+441
+00:31:32,708 --> 00:31:35,675
+suplica aos raios de sol
+para que formem um raio único.
+
+442
+00:31:35,676 --> 00:31:37,150
+Um ponto focal de luz,
+
+443
+00:31:37,151 --> 00:31:39,868
+com potencial
+de um enorme poder.
+
+444
+00:31:40,774 --> 00:31:43,462
+O espelho, Senhor, é você.
+
+445
+00:31:43,463 --> 00:31:47,699
+O pedaço de madeira suspenso
+são os Países Baixos, claro.
+
+446
+00:31:51,603 --> 00:31:54,024
+Agora, se a atenção
+de Vossa Majestade se voltar
+
+447
+00:31:54,025 --> 00:31:57,533
+para a República Holandesa,
+contemplem...
+
+448
+00:32:12,745 --> 00:32:17,086
+Como Arquimedes incendiou
+navios romanos do promontório.
+
+449
+00:32:30,181 --> 00:32:33,039
+Assim como o sol nos guia,
+nos protege e nos esquenta,
+
+450
+00:32:33,040 --> 00:32:35,293
+o sol também é
+muito poderoso.
+
+451
+00:32:35,294 --> 00:32:38,440
+E se escolher,
+pode aniquilar seus inimigos.
+
+452
+00:32:39,089 --> 00:32:42,681
+Obrigado, Villette,
+por este oportuno lembrete.
+
+453
+00:32:52,880 --> 00:32:55,148
+- Então, pode vir?
+- Senhor...
+
+454
+00:32:55,149 --> 00:32:57,273
+Deixe-o esperar
+a vez dele.
+
+455
+00:32:58,488 --> 00:33:01,271
+Virá comigo ver as cartas?
+
+456
+00:33:01,685 --> 00:33:04,898
+Agathe me ensinou um encanto
+do amor que recito toda noite.
+
+457
+00:33:04,899 --> 00:33:06,845
+Acho que já ouvi.
+
+458
+00:33:07,391 --> 00:33:10,039
+Muito bem,
+verei minha sorte.
+
+459
+00:33:10,040 --> 00:33:13,500
+- Senhor, acredito que...
+- Bontemps, quase esqueci.
+
+460
+00:33:13,501 --> 00:33:16,656
+Tomei banho ontem
+e não achei o sabão de oliva.
+
+461
+00:33:16,657 --> 00:33:19,708
+Poderia fazer a gentileza
+de encomendar alguns de Paris?
+
+462
+00:33:19,709 --> 00:33:22,274
+Minhas Damas
+parecem não conseguir.
+
+463
+00:33:28,122 --> 00:33:29,940
+Dê a ela o que ela quer.
+
+464
+00:34:11,279 --> 00:34:12,986
+Minha querida.
+
+465
+00:34:12,987 --> 00:34:14,664
+Madame Agathe.
+
+466
+00:34:16,890 --> 00:34:20,575
+Você falou de uma consulta
+extremamente importante.
+
+467
+00:34:21,467 --> 00:34:24,467
+Mas não ousei sonhar
+que seria aqui.
+
+468
+00:34:24,468 --> 00:34:27,249
+Espero que entenda
+como é vital
+
+469
+00:34:27,250 --> 00:34:30,184
+que ele fique inspirado
+após um tempo com você.
+
+470
+00:34:30,185 --> 00:34:34,150
+Trago sempre o melhor
+para você, minha querida.
+
+471
+00:34:34,151 --> 00:34:35,451
+Para o tempo de eclipse,
+
+472
+00:34:35,452 --> 00:34:38,899
+um baralho
+de grande poder e profecia.
+
+473
+00:34:39,281 --> 00:34:42,126
+Fale apenas das glórias que viu,
+nada mais.
+
+474
+00:34:42,127 --> 00:34:43,590
+Apenas a luz.
+
+475
+00:34:43,591 --> 00:34:46,780
+Sim, mas mesmo na luz
+
+476
+00:34:46,781 --> 00:34:49,972
+são nossas sombras
+que dizem a verdade.
+
+477
+00:34:52,122 --> 00:34:55,901
+A glória.
+A glória, como diz.
+
+478
+00:34:56,360 --> 00:34:58,354
+Fico feliz que entenda.
+
+479
+00:34:59,735 --> 00:35:01,665
+Veja só você.
+
+480
+00:35:03,311 --> 00:35:06,932
+Como o florescer
+de uma rosa de inverno.
+
+481
+00:35:12,491 --> 00:35:14,196
+Majestade.
+
+482
+00:35:14,197 --> 00:35:17,103
+É uma grande honra.
+
+483
+00:35:18,509 --> 00:35:21,225
+Bem, Senhor...
+
+484
+00:35:22,571 --> 00:35:24,749
+Por favor,
+aproxime-se da mesa.
+
+485
+00:35:29,418 --> 00:35:33,729
+E, por favor,
+corte as cartas.
+
+486
+00:35:33,730 --> 00:35:37,072
+Madame Agathe é muito talentosa
+em adivinhação.
+
+487
+00:35:37,829 --> 00:35:41,283
+Então, sem dúvidas,
+ela saberá o que vou dizer.
+
+488
+00:35:41,284 --> 00:35:44,288
+Não posso ler sua mente,
+Senhor.
+
+489
+00:35:44,289 --> 00:35:47,390
+Vejo apenas o que está
+nas cartas.
+
+490
+00:35:47,391 --> 00:35:50,021
+Apenas as escuto.
+
+491
+00:35:50,022 --> 00:35:53,638
+Só elas podem falar a verdade
+sobre o seu futuro.
+
+492
+00:36:26,209 --> 00:36:27,809
+O labirinto.
+
+493
+00:36:30,261 --> 00:36:33,246
+- Algo importante?
+- O que as cartas dizem?
+
+494
+00:36:33,645 --> 00:36:35,121
+Talvez...
+
+495
+00:36:35,122 --> 00:36:37,075
+As cartas
+estejam misturadas.
+
+496
+00:36:37,076 --> 00:36:41,424
+- O que elas dizem?
+- Que glórias você vê?
+
+497
+00:36:41,425 --> 00:36:45,424
+Sei que o conteúdo das cartas
+não reflete sua mensagem, não é?
+
+498
+00:36:45,425 --> 00:36:50,289
+Em muitas leituras, é verdade.
+Mas esta combinação de cartas...
+
+499
+00:36:50,290 --> 00:36:54,653
+Não posso mentir
+para o meu Rei.
+
+500
+00:36:55,039 --> 00:36:56,817
+Não vejo glórias.
+
+501
+00:37:01,297 --> 00:37:04,726
+Obrigado pela diversão.
+Vamos embora.
+
+502
+00:37:07,461 --> 00:37:09,630
+O senhor viu o paraíso.
+
+503
+00:37:09,631 --> 00:37:12,045
+E o construiu para si.
+
+504
+00:37:13,245 --> 00:37:15,542
+Mas agora a desgraça
+está vindo.
+
+505
+00:37:15,887 --> 00:37:18,796
+Cinco pontas
+da mesma estrela vingativa.
+
+506
+00:37:18,797 --> 00:37:21,545
+O poço está envenenado.
+
+507
+00:37:21,546 --> 00:37:23,400
+Mas o senhor bebe
+mesmo assim.
+
+508
+00:37:23,401 --> 00:37:25,601
+O inferno ascenderá,
+Senhor,
+
+509
+00:37:25,602 --> 00:37:28,523
+e consumirá
+tudo o que construiu.
+
+510
+00:37:28,524 --> 00:37:30,289
+Os incêndios estão vindo.
+
+511
+00:37:30,290 --> 00:37:33,319
+Não apenas para o senhor
+mas para toda a França.
+
+512
+00:37:33,320 --> 00:37:35,894
+Coisas terríveis
+acontecerão com os reis.
+
+513
+00:38:07,705 --> 00:38:10,383
+Se no futuro você me vir
+sob influência de uma mulher
+
+514
+00:38:10,384 --> 00:38:12,368
+em relação
+a assuntos de Estado,
+
+515
+00:38:12,369 --> 00:38:15,992
+quero que diga-me diretamente,
+sem demora e sem preocupação.
+
+516
+00:38:15,993 --> 00:38:18,498
+E juro para você que,
+seja lá quem for,
+
+517
+00:38:18,499 --> 00:38:20,923
+ela terá desaparecido
+pela manhã.
+
+518
+00:38:22,806 --> 00:38:24,305
+Tenho sua palavra?
+
+519
+00:38:25,477 --> 00:38:27,927
+Até o dia de minha morte,
+Senhor.
+
+520
+00:38:40,340 --> 00:38:43,099
+Encontramos isso nos aposentos
+de Madame de Raynaud.
+
+521
+00:38:43,100 --> 00:38:44,691
+Bom trabalho.
+
+522
+00:39:15,000 --> 00:39:17,800
+Este frasco de prata foi
+encontrado nos seus aposentos.
+
+523
+00:39:17,801 --> 00:39:19,816
+Pode explicar o conteúdo?
+
+524
+00:39:20,413 --> 00:39:21,846
+Posso.
+
+525
+00:39:22,536 --> 00:39:26,440
+É pó de raiz de Satyrion,
+de uma orquídea exótica rara.
+
+526
+00:39:26,441 --> 00:39:29,019
+As damas o chamam
+de "Fonte da Juventude".
+
+527
+00:39:29,020 --> 00:39:31,623
+Adquirido com muito custo,
+eu acrescentaria.
+
+528
+00:39:31,624 --> 00:39:34,014
+Dei ao meu marido
+um pouco todo dia.
+
+529
+00:39:34,015 --> 00:39:35,359
+Para matá-lo?
+
+530
+00:39:35,360 --> 00:39:37,477
+Para melhorar
+o nosso casamento.
+
+531
+00:39:37,478 --> 00:39:40,059
+Conduz o sangue
+para os órgãos do prazer.
+
+532
+00:39:40,060 --> 00:39:41,704
+Ambos sexos podem
+se beneficiar.
+
+533
+00:39:41,705 --> 00:39:43,887
+Meu marido
+achou muito eficaz.
+
+534
+00:39:43,888 --> 00:39:47,039
+O ardor dele foi
+significativamente melhorado.
+
+535
+00:39:48,656 --> 00:39:50,602
+Vendido em Paris, eu presumo?
+
+536
+00:39:50,603 --> 00:39:53,560
+Não.
+Adquiri aqui, na corte.
+
+537
+00:39:55,443 --> 00:39:57,003
+De quem?
+
+538
+00:39:57,660 --> 00:40:00,265
+Bem, depende dos círculos
+em que se envolve.
+
+539
+00:40:00,266 --> 00:40:02,840
+Alguns se encontram
+livremente disponíveis,
+
+540
+00:40:02,841 --> 00:40:05,040
+em cima da mesa,
+assim como o sal.
+
+541
+00:40:05,041 --> 00:40:08,008
+Mas para o pó desta qualidade,
+é preciso perguntar.
+
+542
+00:40:08,009 --> 00:40:11,301
+O dinheiro passa por várias mãos
+e, depois, o pó chega.
+
+543
+00:40:12,340 --> 00:40:15,320
+Acha que é veneno.
+Posso ver a sua dúvida.
+
+544
+00:40:20,645 --> 00:40:23,439
+É o veneno que matou
+o seu marido.
+
+545
+00:40:23,440 --> 00:40:25,694
+Disso eu tenho certeza.
+
+546
+00:40:27,040 --> 00:40:31,500
+Não seja ridículo!
+É totalmente inofensivo.
+
+547
+00:40:36,121 --> 00:40:37,579
+Não entendo.
+
+548
+00:40:37,580 --> 00:40:39,605
+A fonte da juventude,
+de fato.
+
+549
+00:40:39,606 --> 00:40:42,980
+Eu te prendo, Madame de Reynaud,
+em nome do Rei.
+
+550
+00:40:43,608 --> 00:40:45,429
+Tirem suas mãos de mim!
+
+551
+00:40:55,982 --> 00:40:57,629
+Madame.
+
+552
+00:40:57,630 --> 00:41:00,432
+Pode deixar Sua Majestade
+e eu sozinhos.
+
+553
+00:41:11,058 --> 00:41:13,140
+Como sabia que era eu?
+
+554
+00:41:14,071 --> 00:41:17,291
+Senti você, Senhor.
+Como sempre.
+
+555
+00:41:18,980 --> 00:41:22,839
+Se me permite,
+antes de começar...
+
+556
+00:41:22,840 --> 00:41:26,360
+A conduta da Madame Agathe
+foi imperdoável.
+
+557
+00:41:26,361 --> 00:41:29,119
+O momento era destinado
+a te desviar temporariamente
+
+558
+00:41:29,120 --> 00:41:32,220
+de seus problemas,
+apenas por um momento.
+
+559
+00:41:32,221 --> 00:41:35,606
+Em vez disso, sinto que isso
+criou uma ruptura entre nós.
+
+560
+00:41:36,439 --> 00:41:40,053
+Sei que não há uma forma
+de reparar o que foi feito.
+
+561
+00:41:40,715 --> 00:41:43,300
+Quero oferecer
+minhas sinceras desculpas.
+
+562
+00:41:43,968 --> 00:41:47,287
+Com todo meu coração,
+e minha alma,
+
+563
+00:41:47,288 --> 00:41:48,875
+e meu corpo...
+
+564
+00:41:50,731 --> 00:41:52,260
+E minha mente.
+
+565
+00:41:54,515 --> 00:41:56,772
+Sinto uma corrente de ar.
+Deve estar com frio.
+
+566
+00:41:56,773 --> 00:41:58,799
+Talvez gostaria
+de se juntar a mim?
+
+567
+00:42:02,560 --> 00:42:05,941
+Respire o ar fresco
+enquanto pode, Vossa Majestade.
+
+568
+00:42:13,555 --> 00:42:15,865
+O que o senhor
+queria me dizer?
+
+569
+00:42:18,028 --> 00:42:19,613
+Esqueci.
+
+570
+00:42:33,400 --> 00:42:35,921
+É muito?
+Não tinha certeza.
+
+571
+00:42:44,220 --> 00:42:47,717
+Muitas damas falam de um livro
+lido na corte.
+
+572
+00:42:47,718 --> 00:42:49,480
+Os Prazeres De Vênus.
+
+573
+00:42:49,481 --> 00:42:52,046
+É um livro de instruções
+para ajudar a melhorar
+
+574
+00:42:52,047 --> 00:42:54,180
+a qualidade
+das relações amorosas.
+
+575
+00:42:54,181 --> 00:42:57,160
+Mas há uma nova edição
+que defende fortemente
+
+576
+00:42:57,161 --> 00:42:59,921
+o uso de estimulantes
+e afrodisíacos.
+
+577
+00:43:00,505 --> 00:43:02,913
+A viúva Reynaud
+mencionou o mesmo.
+
+578
+00:43:03,780 --> 00:43:05,439
+Onde ela está agora?
+
+579
+00:43:05,440 --> 00:43:08,664
+- Presa.
+- Ela o envenenou?
+
+580
+00:43:09,265 --> 00:43:12,407
+Ou isso,
+ou alguém deseja fortemente
+
+581
+00:43:12,408 --> 00:43:14,181
+que assim acreditemos.
+
+582
+00:43:24,176 --> 00:43:26,801
+Tenho pensado em seu irmão.
+
+583
+00:43:27,479 --> 00:43:29,703
+Não recentemente, espero.
+
+584
+00:43:31,214 --> 00:43:33,416
+O senhor tem falado
+com o Filipe?
+
+585
+00:43:33,417 --> 00:43:36,545
+Ele sabe da feliz notícia
+da nova noiva?
+
+586
+00:43:37,083 --> 00:43:39,289
+Ele permanece
+em Saint-Cloud.
+
+587
+00:43:40,715 --> 00:43:44,463
+E quando ele volta para casa,
+para Versalhes?
+
+588
+00:43:48,898 --> 00:43:51,253
+Queria falar
+com você sobre isso.
+
+589
+00:43:55,988 --> 00:43:58,073
+RESIDÊNCIA
+DE FILIPE DUQUE DE ORLEÃES
+
+590
+00:43:58,074 --> 00:43:59,380
+SAINT-CLOUD
+
+591
+00:44:02,410 --> 00:44:04,730
+E o Gaspard?
+
+592
+00:44:05,183 --> 00:44:06,694
+Guillaume?
+
+593
+00:44:07,330 --> 00:44:08,790
+De Busseys?
+
+594
+00:44:10,250 --> 00:44:12,632
+Ninguém vem?
+Onde estão todos?
+
+595
+00:44:13,194 --> 00:44:14,733
+Em Versalhes.
+
+596
+00:44:18,945 --> 00:44:20,885
+Você não é todo mundo.
+
+597
+00:44:21,832 --> 00:44:23,752
+É hora de voltar para casa.
+
+598
+00:44:24,350 --> 00:44:25,888
+Estou em casa.
+
+599
+00:44:26,710 --> 00:44:29,645
+Esta é a minha casa.
+Está sentada na minha casa.
+
+600
+00:44:29,646 --> 00:44:32,130
+Por que não se anuncia,
+como uma pessoa de nível,
+
+601
+00:44:32,131 --> 00:44:35,529
+ou apenas diz "bom dia",
+como uma pessoa normal?
+
+602
+00:44:35,530 --> 00:44:39,429
+O Rei me enviou
+para a festa no lugar dele.
+
+603
+00:44:39,430 --> 00:44:41,870
+Você o enviou um convite,
+não foi?
+
+604
+00:44:47,943 --> 00:44:49,742
+Parece que sim.
+
+605
+00:44:51,066 --> 00:44:52,506
+Bem...
+
+606
+00:44:53,485 --> 00:44:55,350
+Sirva-se
+com algumas bebidas.
+
+607
+00:44:55,351 --> 00:44:58,050
+Acharei um cobertor
+e me esconderei até que acabe.
+
+608
+00:44:58,051 --> 00:44:59,994
+Já basta, não acha?
+
+609
+00:45:01,514 --> 00:45:03,714
+O passado se foi.
+
+610
+00:45:04,986 --> 00:45:06,580
+Foi?
+
+611
+00:45:08,330 --> 00:45:10,154
+Acredito que sim.
+
+612
+00:45:10,155 --> 00:45:11,826
+O seu se foi?
+
+613
+00:45:11,827 --> 00:45:15,410
+Diga-me.
+Como está seu marido?
+
+614
+00:45:15,411 --> 00:45:17,490
+- Por favor!
+- Como está o velho?
+
+615
+00:45:17,491 --> 00:45:19,171
+Ainda um bêbado lunático?
+
+616
+00:45:19,172 --> 00:45:23,405
+Nas terras dele, Vossa Alteza.
+Não o vejo.
+
+617
+00:45:23,406 --> 00:45:25,561
+Ouvi dizer
+que ele fez um funeral.
+
+618
+00:45:25,562 --> 00:45:27,481
+Enterrou você no quintal.
+
+619
+00:45:28,698 --> 00:45:30,778
+Está muito bem,
+considerando isso.
+
+620
+00:45:33,030 --> 00:45:36,688
+Nossas sombras nos acompanham,
+não é?
+
+621
+00:45:37,290 --> 00:45:39,173
+Versalhes mudou.
+
+622
+00:45:39,174 --> 00:45:41,530
+Acredite.
+Eu ajudei na mudança.
+
+623
+00:45:41,531 --> 00:45:43,250
+Gosta de acreditar nisso.
+
+624
+00:45:43,251 --> 00:45:45,969
+Seu irmão ouve
+as minhas opiniões.
+
+625
+00:45:47,883 --> 00:45:50,783
+Ele vira os ouvidos, assim?
+
+626
+00:45:51,394 --> 00:45:53,654
+- Fixa os dele em você?
+- Ele me ouve.
+
+627
+00:45:54,710 --> 00:45:57,390
+Não.
+Ele te faz pensar que ouve.
+
+628
+00:45:57,391 --> 00:46:01,070
+Vai descobrir que é isso
+que faz dele tão nobre
+
+629
+00:46:01,071 --> 00:46:03,569
+e não é o mesmo que ouvir.
+Não mesmo.
+
+630
+00:46:04,450 --> 00:46:07,272
+Ele mandou um cavaleiro à Roma
+há duas semanas.
+
+631
+00:46:07,998 --> 00:46:10,610
+Concordou em fazer
+os acordos necessários
+
+632
+00:46:10,611 --> 00:46:13,485
+para o Chevalier de Lorena
+retornar à França.
+
+633
+00:46:17,503 --> 00:46:19,403
+Em troca de quê?
+
+634
+00:46:25,030 --> 00:46:28,510
+O Rei fez
+uma lista de substitutos
+
+635
+00:46:28,511 --> 00:46:32,200
+e o meu filho é
+o único plausível nela.
+
+636
+00:46:33,650 --> 00:46:37,378
+Prepare-se
+para notícias agradáveis.
+
+637
+00:46:38,440 --> 00:46:42,210
+Soube que os aposentos
+do novo ministro
+
+638
+00:46:42,211 --> 00:46:44,201
+não são pouco luxuosos.
+
+639
+00:46:45,570 --> 00:46:48,420
+Perdoe a minha ignorância,
+mas o senhor de Foix
+
+640
+00:46:48,421 --> 00:46:50,670
+- não é novo para a candidatura?
+<i>- O Rei!</i>
+
+641
+00:46:50,671 --> 00:46:52,984
+A família dele
+remonta ao tempo de Clovis.
+
+642
+00:47:00,591 --> 00:47:02,505
+Por favor, continuem.
+
+643
+00:47:22,961 --> 00:47:25,470
+Houve uma época em que podia
+apostar a noite toda
+
+644
+00:47:25,471 --> 00:47:28,133
+e não causar danos
+a sua fortuna, Cassel.
+
+645
+00:47:29,110 --> 00:47:32,046
+Ora, Senhor,
+esses dias se foram.
+
+646
+00:47:32,550 --> 00:47:35,773
+Estou condenado
+a permanecer aqui...
+
+647
+00:47:36,218 --> 00:47:39,520
+Aproveitando
+os frutos da sua glória.
+
+648
+00:47:39,521 --> 00:47:41,670
+Não sente falta
+das suas terras no norte?
+
+649
+00:47:41,671 --> 00:47:44,510
+Todos os dias, Senhor.
+Embora, devo admitir,
+
+650
+00:47:44,511 --> 00:47:48,504
+as flores
+são bem mais bonitas aqui.
+
+651
+00:47:53,470 --> 00:47:56,390
+Venha aos meus aposentos
+após meu passeio.
+
+652
+00:47:56,391 --> 00:47:59,283
+Tem um assunto
+que gostaria de tratar com você.
+
+653
+00:48:08,432 --> 00:48:10,712
+O cheiro do fracasso.
+
+654
+00:48:11,149 --> 00:48:13,750
+É difícil de livrar-se dele.
+Pobre coitado.
+
+655
+00:48:22,650 --> 00:48:24,500
+<i>Sua Majestade me confiou</i>
+
+656
+00:48:24,501 --> 00:48:27,289
+para elaborar
+um castigo apropriado para você.
+
+657
+00:48:29,539 --> 00:48:33,269
+Mas que tipo de dor,
+pergunto-me,
+
+658
+00:48:33,270 --> 00:48:37,930
+seria adequada para quem traiu
+a confiança e a amizade do Rei,
+
+659
+00:48:37,931 --> 00:48:40,030
+sequestrou seu primogênito
+
+660
+00:48:40,031 --> 00:48:43,150
+e matou a mulher
+que ele mais amava no mundo?
+
+661
+00:48:43,151 --> 00:48:46,090
+Então...
+Chamou-me a atenção.
+
+662
+00:48:47,515 --> 00:48:50,935
+Somos todos agraciados
+pelo Rei.
+
+663
+00:48:52,321 --> 00:48:54,950
+Somos abençoados
+todos os dias
+
+664
+00:48:54,951 --> 00:48:57,950
+por testemunharmos
+a grandeza de sua criação.
+
+665
+00:48:58,451 --> 00:49:02,283
+Vivemos, verdadeiramente,
+todos os dias no paraíso.
+
+666
+00:49:03,690 --> 00:49:06,830
+Mas imagine...
+Viver embaixo do sol
+
+667
+00:49:06,831 --> 00:49:08,990
+e não sentir seu calor.
+
+668
+00:49:10,430 --> 00:49:13,230
+Conhecer a beleza arrebatadora
+deste mundo,
+
+669
+00:49:13,984 --> 00:49:16,281
+mas, não poder olhá-la.
+
+670
+00:49:16,282 --> 00:49:17,982
+Nunca mais.
+
+671
+00:49:17,991 --> 00:49:19,503
+Isso...
+
+672
+00:49:19,504 --> 00:49:22,691
+Estaria longe do paraíso.
+
+673
+00:49:23,350 --> 00:49:27,305
+Seria o sofrimento eterno.
+
+674
+00:49:28,910 --> 00:49:31,242
+Seria o inferno.
+
+675
+00:49:48,930 --> 00:49:51,770
+Que arda eternamente
+no fogo do inferno.
+
+676
+00:49:52,950 --> 00:49:56,070
+A graça do Rei
+não recai mais sobre você.
+
+677
+00:50:03,310 --> 00:50:06,650
+Não é mais digno de contemplar
+a sua glória.
+
+678
+00:50:41,990 --> 00:50:45,300
+Não te trago dinheiro,
+clientes e riquezas?
+
+679
+00:50:45,301 --> 00:50:48,359
+E desafia minha palavra
+diante do meu Rei?
+
+680
+00:50:48,360 --> 00:50:51,950
+Não duvide da minha gratidão,
+Madame...
+
+681
+00:50:52,423 --> 00:50:57,247
+- Eu te dei um Rei!
+- E eu te dei mais.
+
+682
+00:50:58,778 --> 00:51:00,550
+Muito mais.
+
+683
+00:51:01,350 --> 00:51:05,989
+Uma vez, aquelas cartas
+ajudaram a ganhar seu Rei.
+
+684
+00:51:05,990 --> 00:51:08,710
+Mostraram o caminho
+para a cama dele.
+
+685
+00:51:09,359 --> 00:51:12,072
+Duvidou de mim, querida?
+
+686
+00:51:13,736 --> 00:51:15,696
+Não o ama agora?
+
+687
+00:51:17,848 --> 00:51:19,828
+Não o quer seguro?
+
+688
+00:51:22,719 --> 00:51:26,059
+O que vi nas cartas
+não pode ser silenciado.
+
+689
+00:51:26,351 --> 00:51:28,230
+O que eu vi...
+
+690
+00:51:28,930 --> 00:51:31,510
+Era um aviso de sentinela.
+
+691
+00:51:31,511 --> 00:51:34,618
+E ajudará você a manter
+o seu Rei.
+
+692
+00:51:38,674 --> 00:51:40,834
+Por favor,
+diga-me o que fazer.
+
+693
+00:51:41,889 --> 00:51:43,709
+Tantas perguntas.
+
+694
+00:51:44,252 --> 00:51:45,852
+Por sorte...
+
+695
+00:51:46,698 --> 00:51:49,058
+Tenho algumas respostas.
+
+696
+00:51:53,350 --> 00:51:55,510
+Para te acalmar, querida.
+
+697
+00:52:20,936 --> 00:52:23,997
+Avançarei com a minha invasão
+à Holanda.
+
+698
+00:52:23,998 --> 00:52:27,210
+A partir de agora, considerarei
+qualquer objeção aos meus planos
+
+699
+00:52:27,211 --> 00:52:29,190
+um ato de traição,
+
+700
+00:52:29,191 --> 00:52:33,370
+e serão tratados rapidamente
+pelo novo Ministro da Justiça...
+
+701
+00:52:34,553 --> 00:52:36,453
+O Duque de Cassel!
+
+702
+00:52:50,915 --> 00:52:54,684
+Uma benção, Bossuet,
+por favor.
+
+703
+00:53:21,050 --> 00:53:22,430
+Amém.
+
+704
+00:53:22,431 --> 00:53:24,090
+- Amém.
+- Amém.
+
+705
+00:54:03,790 --> 00:54:07,130
+Caso eu não te veja,
+tenha um Natal adorável.
+
+706
+00:54:28,350 --> 00:54:30,650
+Entregue-se à sua inSanidade.
+Junte-se a nós!
+
+707
+00:54:30,651 --> 00:54:31,951
+@inSanosTV
+www.insanos.tv
+

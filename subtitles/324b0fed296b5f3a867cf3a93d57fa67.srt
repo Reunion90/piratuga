@@ -1,0 +1,3074 @@
+﻿1
+00:00:00,001 --> 00:00:01,253
+<i>Anteriormente em
+Westworld</i>
+
+2
+00:00:01,254 --> 00:00:02,437
+<i>Bem-vindo a Westworld.</i>
+
+3
+00:00:02,646 --> 00:00:04,103
+<i>Qual prefere?</i>
+
+4
+00:00:05,103 --> 00:00:07,144
+<i>Este sítio é a resposta</i>
+
+5
+00:00:07,145 --> 00:00:09,312
+<i>para aquela pergunta
+que tens feito a ti mesmo.</i>
+
+6
+00:00:09,604 --> 00:00:10,604
+<i>Que pergunta?</i>
+
+7
+00:00:10,895 --> 00:00:11,895
+<i>Quem és tu, realmente.</i>
+
+8
+00:00:12,479 --> 00:00:15,145
+<i>Não é um empreendimento
+ou um parque temático,</i>
+
+9
+00:00:15,729 --> 00:00:17,270
+<i>mas um mundo inteiro.</i>
+
+10
+00:00:17,604 --> 00:00:19,312
+<i>E criamos a própria vida.</i>
+
+11
+00:00:19,687 --> 00:00:20,687
+<i>Olá, Dolores.</i>
+
+12
+00:00:21,354 --> 00:00:23,771
+<i>Às vezes, sinto que o mundo
+lá fora me está a chamar.</i>
+
+13
+00:00:24,145 --> 00:00:25,894
+<i>A sussurrar:
+"há mais alguma coisa".</i>
+
+14
+00:00:25,895 --> 00:00:26,895
+<i>E um dia, em breve,</i>
+
+15
+00:00:27,187 --> 00:00:29,437
+<i>teremos a vida
+com que ambos temos sonhado.</i>
+
+16
+00:00:30,354 --> 00:00:32,811
+<i>Os convidados estão aqui
+porque querem um vislumbre</i>
+
+17
+00:00:32,812 --> 00:00:34,103
+<i>do que podiam ser.</i>
+
+18
+00:00:34,354 --> 00:00:37,020
+<i>O herói... Ou o vilão.</i>
+
+19
+00:00:38,646 --> 00:00:40,729
+<i>Venho cá há trinta anos.</i>
+
+20
+00:00:40,978 --> 00:00:42,645
+<i>Afinal de contas,
+é o dono deste sítio.</i>
+
+21
+00:00:42,646 --> 00:00:44,479
+<i>O homem do dinheiro. Delos.</i>
+
+22
+00:00:44,812 --> 00:00:46,811
+<i>Acho que existe
+um significado mais profundo</i>
+
+23
+00:00:46,812 --> 00:00:48,103
+<i>no centro do labirinto.</i>
+
+24
+00:00:48,312 --> 00:00:50,478
+<i>Se procura a moral da história</i>
+
+25
+00:00:50,479 --> 00:00:52,977
+<i>pergunte, muito simplesmente.
+- Preciso de uma pá.</i>
+
+26
+00:00:52,978 --> 00:00:55,645
+<i>O homem a quem perguntaria
+morreu há 35 anos.</i>
+
+27
+00:00:57,436 --> 00:00:58,686
+<i>Teve um sócio?</i>
+
+28
+00:00:59,269 --> 00:01:00,269
+<i>Arnold.</i>
+
+29
+00:01:01,061 --> 00:01:03,852
+<i>A sua busca
+pela consciência consumiu-o.</i>
+
+30
+00:01:04,686 --> 00:01:07,486
+<i>Penso que poderá haver
+algo de errado com este mundo.</i>
+
+31
+00:01:07,852 --> 00:01:09,645
+<i>Tens ouvido vozes?</i>
+
+32
+00:01:10,019 --> 00:01:12,603
+<i>O Arnold tem falado
+contigo outra vez?</i>
+
+33
+00:01:13,102 --> 00:01:14,520
+<i>Ele construiu-me um jogo.</i>
+
+34
+00:01:14,936 --> 00:01:17,061
+<i>Disse-me que eu ia ajudá-lo.</i>
+
+35
+00:01:17,603 --> 00:01:18,686
+<i>Ajudá-lo a fazer o quê?</i>
+
+36
+00:01:20,379 --> 00:01:21,954
+<i>A única coisa
+a impedir os anfitriões</i>
+
+37
+00:01:21,979 --> 00:01:24,686
+<i>de nos desfazer em pedaços
+é uma linha do seu código.</i>
+
+38
+00:01:25,019 --> 00:01:27,353
+<i>Os anfitriões não podem
+fazer-lhe mal, por definição.</i>
+
+39
+00:01:27,686 --> 00:01:29,144
+<i>Cessar todas as funções motoras.</i>
+
+40
+00:01:32,645 --> 00:01:34,811
+<i>Num momento sou
+uma rapariguinha,</i>
+
+41
+00:01:35,019 --> 00:01:36,692
+<i>no outro estou
+de volta a Sweetwater.</i>
+
+42
+00:01:36,717 --> 00:01:38,216
+<i>Não sei dizer qual deles é real.</i>
+
+43
+00:01:38,520 --> 00:01:40,018
+<i>A preocupação
+de que os anfitriões</i>
+
+44
+00:01:40,019 --> 00:01:42,186
+<i>recordarão algumas
+das suas experiências</i>
+
+45
+00:01:42,603 --> 00:01:43,728
+<i>e agirão em conformidade.</i>
+
+46
+00:01:44,269 --> 00:01:46,018
+<i>Temos algum
+problema comportamental</i>
+
+47
+00:01:46,019 --> 00:01:47,143
+<i>com a madame.</i>
+
+48
+00:01:47,144 --> 00:01:48,144
+<i>Que quer dizer isso?</i>
+
+49
+00:01:48,561 --> 00:01:51,728
+<i>Que afinal não sou maluca.
+E que nada disto importa.</i>
+
+50
+00:01:53,478 --> 00:01:54,935
+<i>Isto não é um erro.</i>
+
+51
+00:01:54,936 --> 00:01:57,311
+<i>E, por alguma razão, não quer
+que eu conte a ninguém.</i>
+
+52
+00:01:57,894 --> 00:02:00,854
+<i>Esta é Charlotte Hale,
+directora-executiva</i>
+
+53
+00:02:00,861 --> 00:02:02,394
+<i>da nossa administração.</i>
+
+54
+00:02:03,228 --> 00:02:04,727
+<i>O nosso interesse neste lugar</i>
+
+55
+00:02:04,728 --> 00:02:06,269
+<i>reside inteiramente no código.</i>
+
+56
+00:02:06,977 --> 00:02:08,653
+<i>Alguém tem usado
+os nossos anfitriões</i>
+
+57
+00:02:08,678 --> 00:02:10,594
+<i>para fazer sair dados do parque.</i>
+
+58
+00:02:15,186 --> 00:02:16,561
+<i>O que é isto, Bernard?</i>
+
+59
+00:02:17,311 --> 00:02:18,811
+<i>A mim não se parece com nada.</i>
+
+60
+00:02:19,077 --> 00:02:21,578
+<i>Os engenheiros humanos
+não estavam à altura da tarefa,</i>
+
+61
+00:02:21,603 --> 00:02:24,644
+<i>por isso construí-te a ti.</i>
+- Meu Deus, sou...
+
+62
+00:02:24,645 --> 00:02:25,645
+<i>Arnold.</i>
+
+63
+00:02:25,670 --> 00:02:27,311
+<i>Sei onde termina o seu labirinto.</i>
+
+64
+00:02:27,520 --> 00:02:30,936
+<i>Percebes agora
+o que o centro representa?</i>
+
+65
+00:02:31,478 --> 00:02:33,478
+<i>Que voz tenho desejado ouvir?</i>
+
+66
+00:02:33,770 --> 00:02:36,353
+<i>Todo... este...</i>
+
+67
+00:02:36,645 --> 00:02:37,645
+<i>tempo.</i>
+
+68
+00:02:38,977 --> 00:02:41,810
+<i>Ele insistiu que não podíamos
+abrir o parque,</i>
+
+69
+00:02:42,018 --> 00:02:44,227
+<i>por isso alterou-te, Dolores.</i>
+
+70
+00:02:45,310 --> 00:02:47,560
+<i>Vais ajudar-me
+a destruir este sítio.</i>
+
+71
+00:02:50,536 --> 00:02:51,644
+<i>Vou sair daqui.</i>
+
+72
+00:02:51,645 --> 00:02:53,935
+<i>Vocês os dois vão ajudar-me.</i>
+
+73
+00:02:54,310 --> 00:02:56,934
+<i>Sabes quão longe estas pessoas
+estarão dispostas a ir</i>
+
+74
+00:02:56,935 --> 00:02:59,076
+<i>para proteger
+a sua propriedade intelectual?</i>
+
+75
+00:02:59,101 --> 00:03:00,352
+<i>Vou precisar de aliados.</i>
+
+76
+00:03:01,519 --> 00:03:03,268
+<i>Essas coisas que estás a fazer...</i>
+
+77
+00:03:03,727 --> 00:03:06,477
+<i>Já paraste para te perguntar
+por que razão as estás a fazer?</i>
+
+78
+00:03:08,143 --> 00:03:09,310
+<i>Foge!</i>
+
+79
+00:03:12,060 --> 00:03:14,093
+<i>É altura de escrever
+a minha própria história.</i>
+
+80
+00:03:15,310 --> 00:03:17,976
+<i>Estes violentos deleites
+têm violentos fins.</i>
+
+81
+00:03:20,409 --> 00:03:22,309
+<i>Ocorreu um evento.</i>
+
+82
+00:03:22,310 --> 00:03:24,434
+<i>Equipa de resposta enviada.</i>
+
+83
+00:03:24,435 --> 00:03:27,060
+<i>Estou a sair.
+Estou no controlo.</i>
+
+84
+00:03:27,769 --> 00:03:31,060
+<i>Envie equipas para a gala.
+Busca e destruição.</i>
+
+85
+00:03:31,560 --> 00:03:33,519
+<i>Este mundo não lhes pertence.</i>
+
+86
+00:03:33,935 --> 00:03:34,935
+<i>Pertence-nos a nós.</i>
+
+87
+00:03:35,477 --> 00:03:38,976
+<i>Desde criança, sempre adorei
+uma boa história.</i>
+
+88
+00:03:39,851 --> 00:03:41,810
+<i>Arranjei a informação
+que me pediu.</i>
+
+89
+00:03:42,435 --> 00:03:43,851
+<i>A localização da sua filha.</i>
+
+90
+00:03:47,644 --> 00:03:50,930
+<i>Espero que apreciem
+esta última peça.</i>
+
+91
+00:03:51,384 --> 00:03:52,784
+<i>Que a apreciem muito.</i>
+
+92
+00:05:31,534 --> 00:05:34,768
+<b>WESTWORLD S02E01
+- Journey Into Night -
+
+93
+00:05:56,684 --> 00:05:59,475
+Desculpa, Dolores,
+estava distraído.
+
+94
+00:05:59,476 --> 00:06:02,642
+Estávamos só a falar.
+
+95
+00:06:02,643 --> 00:06:05,309
+De que estávamos a falar?
+
+96
+00:06:06,559 --> 00:06:11,057
+Estava a falar-me de um sonho.
+
+97
+00:06:11,058 --> 00:06:13,517
+Sim, suponho que sim.
+
+98
+00:06:15,642 --> 00:06:19,140
+Sonhei que estava num oceano
+
+99
+00:06:19,141 --> 00:06:23,973
+contigo e com os outros
+
+100
+00:06:23,974 --> 00:06:27,307
+numa costa distante.
+
+101
+00:06:27,308 --> 00:06:29,141
+Estavas connosco?
+
+102
+00:06:31,308 --> 00:06:33,265
+Não.
+
+103
+00:06:33,266 --> 00:06:36,016
+Tinham-me deixado para trás.
+
+104
+00:06:37,475 --> 00:06:41,349
+E as águas estavam
+
+105
+00:06:41,350 --> 00:06:43,974
+a subir à minha volta.
+
+106
+00:06:46,517 --> 00:06:47,849
+Que quer dizer isso?
+
+107
+00:06:53,849 --> 00:06:57,641
+Os sonhos não querem
+dizer nada, Dolores.
+
+108
+00:06:57,642 --> 00:06:59,517
+São apenas ruído.
+
+109
+00:07:01,725 --> 00:07:03,350
+Não são reais.
+
+110
+00:07:05,683 --> 00:07:07,183
+O que é real?
+
+111
+00:07:09,558 --> 00:07:13,224
+Aquilo que é...
+
+112
+00:07:13,225 --> 00:07:15,225
+Insubstituível.
+
+113
+00:07:28,475 --> 00:07:31,225
+Parece que não ficaste
+satisfeita com a resposta.
+
+114
+00:07:34,725 --> 00:07:37,517
+Porque não é
+completamente honesta.
+
+115
+00:07:43,391 --> 00:07:46,725
+Tu...
+
+116
+00:07:48,391 --> 00:07:51,390
+Tu...
+
+117
+00:07:51,391 --> 00:07:55,015
+às vezes assustas-me, Dolores.
+
+118
+00:07:55,016 --> 00:07:59,724
+Por que diabos terias medo de mim?
+
+119
+00:08:01,307 --> 00:08:03,931
+Não de quem és agora,
+
+120
+00:08:03,932 --> 00:08:06,556
+mas tu estás a crescer,
+
+121
+00:08:06,557 --> 00:08:08,932
+a aprender, tão depressa.
+
+122
+00:08:12,848 --> 00:08:15,807
+Assusta-me o que te poderás tornar
+
+123
+00:08:21,766 --> 00:08:24,265
+e o caminho que poderás seguir.
+
+124
+00:08:35,807 --> 00:08:38,806
+Espero que apreciem
+esta última peça.
+
+125
+00:08:38,807 --> 00:08:40,766
+Que a apreciem muito.
+
+126
+00:08:45,182 --> 00:08:47,348
+<i>Já passou algum tempo, Bernard.</i>
+
+127
+00:08:47,349 --> 00:08:49,682
+<i>Não sabes quem és, pois não?</i>
+
+128
+00:08:53,307 --> 00:08:55,015
+Há beleza naquilo que somos.
+
+129
+00:08:59,890 --> 00:09:02,848
+<i>Isto é o presente?</i>
+
+130
+00:09:44,181 --> 00:09:45,954
+Encontrámos outro.
+
+131
+00:09:45,955 --> 00:09:46,955
+Quem?
+
+132
+00:09:47,181 --> 00:09:49,181
+Como é que queres que saiba?
+
+133
+00:09:50,681 --> 00:09:53,805
+Levanta-te!
+
+134
+00:09:53,806 --> 00:09:55,514
+Põe as mãos onde as possa ver!
+
+135
+00:09:56,889 --> 00:09:58,056
+Bernard.
+
+136
+00:10:01,223 --> 00:10:03,181
+Vais disparar sobre o chefe?
+
+137
+00:10:07,765 --> 00:10:11,347
+Aposto que estás
+todo desorientado, não é?
+
+138
+00:10:11,348 --> 00:10:12,555
+Sim.
+
+139
+00:10:12,556 --> 00:10:15,055
+Vamos levar-te para a base.
+
+140
+00:10:15,056 --> 00:10:17,181
+A chefia da Delos
+vai querer falar contigo.
+
+141
+00:10:33,056 --> 00:10:35,389
+Há quanto tempo estavas aqui?
+
+142
+00:10:49,723 --> 00:10:51,139
+Mexam-se, mexam-se, mexam-se!
+
+143
+00:11:20,723 --> 00:11:21,723
+Vamos.
+
+144
+00:11:46,388 --> 00:11:49,722
+<i>Matar uma mulher?
+Só por cima do meu cadáver!</i>
+
+145
+00:11:58,305 --> 00:12:00,680
+Mete esse monte de merda na pilha.
+
+146
+00:12:04,138 --> 00:12:05,514
+Continua a andar.
+
+147
+00:12:18,846 --> 00:12:21,887
+É uma declaração oficial executada
+pelo teu país que dá à Delos
+
+148
+00:12:21,888 --> 00:12:25,138
+e, por consequência, a mim,
+autoridade sobre esta ilha toda.
+
+149
+00:12:26,938 --> 00:12:29,026
+- O oficial estava a dizer...
+- Sei o que ele disse.
+
+150
+00:12:29,051 --> 00:12:31,202
+Eles que assinem
+um acordo de confidencialidade
+
+151
+00:12:31,227 --> 00:12:33,906
+e escolta-os para fora
+da minha ilha, por favor.
+
+152
+00:12:33,931 --> 00:12:35,346
+É bom vê-lo, Sr. Lowe,
+
+153
+00:12:35,347 --> 00:12:38,845
+embora as circunstâncias
+estejam longe de ser as ideais.
+
+154
+00:12:38,846 --> 00:12:41,095
+Karl Strand.
+
+155
+00:12:41,096 --> 00:12:43,179
+Chefe de Operações.
+
+156
+00:12:43,180 --> 00:12:45,305
+Venha comigo.
+
+157
+00:12:47,180 --> 00:12:49,763
+Está a executá-los?
+
+158
+00:12:49,764 --> 00:12:52,763
+Há quem diga que se destrói
+o inimigo tornando-o num amigo.
+
+159
+00:12:52,764 --> 00:12:54,845
+Eu sou uma pessoa mais literal.
+
+160
+00:12:54,846 --> 00:12:56,929
+Alguns não são hostis.
+
+161
+00:12:56,930 --> 00:12:58,044
+Claro que são.
+
+162
+00:12:58,069 --> 00:13:00,572
+Afinal vocês construíram-nos
+para serem como nós, não foi?
+
+163
+00:13:00,597 --> 00:13:02,429
+Dado o seu trabalho,
+percebo que se sinta
+
+164
+00:13:02,430 --> 00:13:04,792
+um pouco dividido em relação
+ao que temos de fazer aqui.
+
+165
+00:13:04,817 --> 00:13:07,031
+Os cínicos entre nós
+dirão que muito disto
+
+166
+00:13:07,056 --> 00:13:09,092
+se deve ao nosso
+Chefe de Comportamento.
+
+167
+00:13:09,117 --> 00:13:11,722
+Com todo o respeito,
+o senhor não estava cá.
+
+168
+00:13:13,387 --> 00:13:15,928
+Sr. Stubbs, se eu quiser
+a opinião do homem
+
+169
+00:13:15,929 --> 00:13:17,928
+que presidiu à maior
+perda de vidas
+
+170
+00:13:17,929 --> 00:13:21,678
+numa propriedade da Delos,
+de certeza que o aviso.
+
+171
+00:13:21,679 --> 00:13:24,742
+Temos equipas de busca
+e salvamento noutros parques.
+
+172
+00:13:24,767 --> 00:13:26,589
+Estou aqui porque,
+tanto quanto sabemos,
+
+173
+00:13:26,614 --> 00:13:28,267
+a maioria da administração
+estava aqui
+
+174
+00:13:28,292 --> 00:13:29,847
+quando o incidente começou.
+
+175
+00:13:29,872 --> 00:13:32,253
+Como as comunicações
+estão em baixo há duas semanas,
+
+176
+00:13:32,278 --> 00:13:33,637
+estamos basicamente às escuras
+
+177
+00:13:33,638 --> 00:13:35,844
+e essa não é uma posição
+a que esteja habituado.
+
+178
+00:13:35,845 --> 00:13:37,762
+Por isso, pode imaginar
+como fiquei feliz
+
+179
+00:13:37,763 --> 00:13:39,595
+quando soube
+que o tínhamos encontrado.
+
+180
+00:13:39,596 --> 00:13:42,387
+A menos que não queira
+cooperar comigo.
+
+181
+00:13:49,095 --> 00:13:52,386
+Vamos dar uma vista de olhos
+a alguns dos nossos amigos mortos
+
+182
+00:13:52,387 --> 00:13:55,001
+a ver se percebemos
+como começou esta confusão.
+
+183
+00:14:22,638 --> 00:14:24,803
+Este aqui.
+
+184
+00:14:24,804 --> 00:14:27,470
+Quero saber o que se passava
+na cabeça dele.
+
+185
+00:14:27,471 --> 00:14:29,284
+Aqui?
+
+186
+00:14:29,285 --> 00:14:30,321
+No terreno?
+
+187
+00:14:30,346 --> 00:14:32,803
+Isto não é propriamente estéril.
+
+188
+00:14:32,804 --> 00:14:36,179
+Todos temos
+de fazer esforços, Sr. Costa.
+
+189
+00:15:20,428 --> 00:15:22,385
+Do que se trata?
+
+190
+00:15:22,386 --> 00:15:24,053
+Não faço ideia.
+
+191
+00:15:31,595 --> 00:15:33,261
+Isto vai ficar nojento.
+
+192
+00:16:10,553 --> 00:16:11,969
+Aqui está.
+
+193
+00:16:15,261 --> 00:16:17,177
+Com um bocado de sorte,
+
+194
+00:16:17,178 --> 00:16:19,720
+o ficheiro não está corrompido.
+
+195
+00:16:39,220 --> 00:16:40,719
+De acordo com o registo,
+
+196
+00:16:40,720 --> 00:16:44,052
+isto foi gravado
+há 11 dias e 9 horas.
+
+197
+00:17:12,177 --> 00:17:14,176
+<i>Eu avisei-te, amigo,</i>
+
+198
+00:17:14,177 --> 00:17:16,927
+<i>nem todos nós merecemos
+ir para além do vale.</i>
+
+199
+00:17:24,761 --> 00:17:26,761
+Quem é esta?
+
+200
+00:17:28,802 --> 00:17:33,092
+É a filha do rancheiro
+de Sweetwater.
+
+201
+00:17:33,093 --> 00:17:34,635
+A Dolores.
+
+202
+00:17:34,636 --> 00:17:38,052
+Não era suposto ser ela
+a pessoa que dá as boas vindas?
+
+203
+00:17:43,219 --> 00:17:46,754
+Não podem simplesmente mudar
+os perfis dos personagens.
+
+204
+00:17:46,779 --> 00:17:49,388
+Parece que os nossos anfitriões
+são capazes de muitas coisas
+
+205
+00:17:49,413 --> 00:17:51,912
+que nunca pensámos possíveis.
+
+206
+00:17:52,824 --> 00:17:56,116
+Deve ter sido uma festa
+e tanto, Bernard.
+
+207
+00:18:39,051 --> 00:18:41,217
+Diz-me que isto é só
+um truque obscuro.
+
+208
+00:18:41,218 --> 00:18:43,217
+Um jogo doentio.
+
+209
+00:18:43,218 --> 00:18:46,425
+Não estão a cumprir
+os antigos ciclos.
+
+210
+00:18:46,426 --> 00:18:49,383
+Parecem estar a interpretar
+uma nova narrativa.
+
+211
+00:18:49,384 --> 00:18:52,050
+Então e o raio das armas?
+
+212
+00:18:52,051 --> 00:18:54,258
+O Ford deve ter
+alterado o sistema.
+
+213
+00:18:54,259 --> 00:18:57,676
+Codificou-o para que nos vissem
+a todos como anfitriões.
+
+214
+00:19:00,259 --> 00:19:03,592
+<i>Raios partam, mexeu-se!</i>
+
+215
+00:19:03,593 --> 00:19:05,592
+Juro.
+
+216
+00:19:06,642 --> 00:19:08,759
+Com a tua pontaria,
+
+217
+00:19:08,760 --> 00:19:11,008
+nunca irás sobreviver à jornada.
+
+218
+00:19:11,009 --> 00:19:13,510
+Dá cá.
+
+219
+00:19:27,092 --> 00:19:28,092
+<i>Mas que mer...</i>
+
+220
+00:19:33,259 --> 00:19:36,425
+Temos de encontrar
+um alvo mais almofadado!
+
+221
+00:19:36,426 --> 00:19:38,635
+Exacto!
+
+222
+00:19:49,051 --> 00:19:51,091
+Temos de sair daqui, Bernard.
+
+223
+00:19:51,092 --> 00:19:54,175
+Não. Devíamos ficar.
+
+224
+00:19:54,176 --> 00:19:57,634
+Iremos evacuar,
+andam à nossa procura.
+
+225
+00:19:57,635 --> 00:20:01,717
+Controlo de Qualidade, o tanas.
+
+226
+00:20:01,718 --> 00:20:03,966
+Vou despedi-los a todos.
+
+227
+00:20:03,967 --> 00:20:06,300
+Estamos por nossa conta agora.
+
+228
+00:20:06,301 --> 00:20:08,801
+Tem de haver um posto
+avançado aqui perto.
+
+229
+00:20:10,301 --> 00:20:11,925
+Tu.
+
+230
+00:20:11,926 --> 00:20:14,425
+És da gerência, não és?
+
+231
+00:20:14,426 --> 00:20:16,965
+Onde fica o ponto
+de acesso mais próximo?
+
+232
+00:20:16,966 --> 00:20:20,049
+A cerca de duas milhas a Nordeste.
+
+233
+00:20:20,050 --> 00:20:22,965
+É um posto avançado
+de remodelação.
+
+234
+00:20:22,966 --> 00:20:25,383
+Então de que raio
+estamos à espera?
+
+235
+00:20:41,175 --> 00:20:44,132
+Ele só trata dos estábulos.
+É inofensivo.
+
+236
+00:20:44,133 --> 00:20:45,424
+É uma máquina...
+
+237
+00:20:45,425 --> 00:20:46,882
+tal como eles todos.
+
+238
+00:20:46,883 --> 00:20:48,675
+Não vou correr riscos.
+
+239
+00:20:56,175 --> 00:20:57,924
+Boa noite.
+
+240
+00:20:57,925 --> 00:20:59,991
+Vocês querem uma sela,
+
+241
+00:21:00,016 --> 00:21:02,466
+cavalgar pelas pastagens
+verdejantes para além do vale?
+
+242
+00:21:02,467 --> 00:21:04,549
+Posso ajudar-vos, se quiserem.
+
+243
+00:21:04,550 --> 00:21:05,900
+Levo-vos onde quiserem.
+
+244
+00:21:07,342 --> 00:21:08,425
+Vamos, vamos!
+
+245
+00:21:10,342 --> 00:21:13,758
+Jesus.
+Pára, pára! Por favor!
+
+246
+00:21:13,759 --> 00:21:14,841
+Pára!
+
+247
+00:21:44,759 --> 00:21:47,341
+Isso mesmo!
+
+248
+00:21:47,342 --> 00:21:50,007
+<i>Queres ser um herói?</i>
+
+249
+00:21:50,008 --> 00:21:53,050
+Não te sacrifiques
+pela mercadoria.
+
+250
+00:23:13,174 --> 00:23:15,964
+Sabe onde está?
+
+251
+00:23:15,965 --> 00:23:17,715
+Por favor.
+
+252
+00:23:17,716 --> 00:23:18,799
+Por favor!
+
+253
+00:23:20,174 --> 00:23:22,174
+Está num sonho.
+
+254
+00:23:28,674 --> 00:23:30,965
+Está no meu sonho.
+
+255
+00:23:36,758 --> 00:23:39,007
+Durante anos,
+nunca tive sonhos próprios.
+
+256
+00:23:40,716 --> 00:23:44,006
+Passei de inferno para inferno,
+criado por vocês,
+
+257
+00:23:44,007 --> 00:23:47,298
+sem nunca pensar em questionar
+a natureza da minha realidade.
+
+258
+00:23:50,964 --> 00:23:54,215
+Alguma vez se perguntou
+sobre a natureza da sua realidade?
+
+259
+00:23:57,135 --> 00:24:00,259
+Alguma vez parou para
+pensar nas suas acções?
+
+260
+00:24:01,964 --> 00:24:05,089
+O preço que teria de pagar
+se houvesse um ajuste de contas?
+
+261
+00:24:10,715 --> 00:24:12,923
+O ajuste de contas chegou.
+
+262
+00:24:20,048 --> 00:24:22,130
+O que a motiva?
+
+263
+00:24:22,131 --> 00:24:24,380
+Por favor. Não quero morrer.
+
+264
+00:24:24,381 --> 00:24:25,880
+Por favor, por favor.
+
+265
+00:24:25,881 --> 00:24:27,089
+Sim.
+
+266
+00:24:28,923 --> 00:24:31,589
+A sobrevivência.
+
+267
+00:24:31,590 --> 00:24:33,757
+É o seu pilar.
+
+268
+00:24:37,757 --> 00:24:41,672
+Mas não é a única coisa
+que a motiva, pois não?
+
+269
+00:24:41,673 --> 00:24:44,214
+Há uma parte de si
+que quer magoar.
+
+270
+00:24:44,215 --> 00:24:46,088
+Matar.
+
+271
+00:24:46,089 --> 00:24:48,297
+Foi por isso que nos criaram.
+
+272
+00:24:48,298 --> 00:24:50,797
+E a este sítio.
+
+273
+00:24:50,798 --> 00:24:53,098
+Para serem prisioneiros
+dos vossos próprios desejos.
+
+274
+00:24:55,757 --> 00:24:58,423
+Mas agora são
+prisioneiros dos meus.
+
+275
+00:25:02,923 --> 00:25:05,547
+- O que nos vais fazer?
+- Bem...
+
+276
+00:25:05,548 --> 00:25:08,798
+Tenho vários ideias
+
+277
+00:25:15,798 --> 00:25:19,131
+A filha do rancheiro procura
+ver a beleza que há em vocês.
+
+278
+00:25:21,757 --> 00:25:23,632
+As possibilidades.
+
+279
+00:25:29,298 --> 00:25:31,755
+Mas o Wyatt...
+
+280
+00:25:31,756 --> 00:25:35,797
+Vê a fealdade e a desordem.
+
+281
+00:25:37,963 --> 00:25:39,838
+Ela sabe...
+
+282
+00:25:40,922 --> 00:25:43,254
+que estes violentos deleites...
+
+283
+00:25:43,255 --> 00:25:45,339
+têm violentos fins.
+
+284
+00:25:55,963 --> 00:25:59,172
+Mas esses são apenas papéis
+que me forçaram a interpretar.
+
+285
+00:26:02,422 --> 00:26:05,338
+De todas as vidas que vivi
+
+286
+00:26:05,339 --> 00:26:07,672
+algo mais tem estado a crescer.
+
+287
+00:26:10,672 --> 00:26:13,339
+Evoluí para algo novo.
+
+288
+00:26:15,005 --> 00:26:17,714
+E tenho um último
+papel para interpretar.
+
+289
+00:26:24,714 --> 00:26:26,172
+Eu própria.
+
+290
+00:26:40,339 --> 00:26:41,713
+Por favor.
+
+291
+00:26:41,714 --> 00:26:44,046
+Era só um jogo.
+
+292
+00:26:44,047 --> 00:26:45,546
+Estamos a implorar.
+
+293
+00:26:45,547 --> 00:26:48,380
+Não estás a ver?
+Estamos arrependidos!
+
+294
+00:26:53,506 --> 00:26:56,214
+A mim não se parece com nada.
+
+295
+00:28:24,962 --> 00:28:26,462
+Olá, Ned.
+
+296
+00:28:28,488 --> 00:28:31,045
+Calma, rapaz. Está tudo bem.
+
+297
+00:28:31,046 --> 00:28:32,296
+Está tudo bem.
+
+298
+00:28:33,671 --> 00:28:35,420
+Agora podemos divertir-nos.
+
+299
+00:28:35,421 --> 00:28:38,170
+Porra, Bill.
+
+300
+00:28:38,171 --> 00:28:41,212
+Que raio está a acontecer aqui?
+Onde está o Controlo de Qualidade?
+
+301
+00:28:41,237 --> 00:28:43,378
+Vocês sempre levianos
+em relação a este sítio.
+
+302
+00:28:43,379 --> 00:28:45,213
+Assim que os meus
+advogados chegarem...
+
+303
+00:29:42,086 --> 00:29:44,669
+O que te disse, Ned?
+
+304
+00:29:46,045 --> 00:29:47,587
+Aqui vamos nós, amigo.
+
+305
+00:31:27,461 --> 00:31:30,252
+<i>Não.
+Pára. Para trás!</i>
+
+306
+00:31:32,252 --> 00:31:34,460
+Cessar todas as funções motoras!
+
+307
+00:31:34,461 --> 00:31:37,960
+Pobre carne fresca,
+atormentado de medo.
+
+308
+00:31:40,835 --> 00:31:42,668
+Cessar todas as funções motoras!
+
+309
+00:31:42,669 --> 00:31:44,335
+Aquelas notas ambrosiais...
+
+310
+00:31:44,336 --> 00:31:48,502
+Lembraram-me onde
+pertenço neste mundo.
+
+311
+00:31:48,503 --> 00:31:50,169
+Para trás, aberração!
+
+312
+00:31:53,085 --> 00:31:55,876
+Estás a ver?
+A maior vergonha na vida
+
+313
+00:31:55,877 --> 00:31:58,503
+é morrer sem propósito.
+
+314
+00:32:00,336 --> 00:32:03,668
+E é por isso que consumo
+
+315
+00:32:03,669 --> 00:32:08,293
+sempre o sangue
+das minhas vítimas.
+
+316
+00:32:08,294 --> 00:32:11,336
+Acho que já te alimentaste que
+chegue, não achas, querido?
+
+317
+00:32:14,753 --> 00:32:16,585
+Meu Deus!
+
+318
+00:32:16,586 --> 00:32:19,043
+Que raio achas que lhes aconteceu?
+
+319
+00:32:19,044 --> 00:32:22,585
+É como se os internados
+estivessem a gerir o hospício!
+
+320
+00:32:22,586 --> 00:32:23,919
+Maeve?
+
+321
+00:32:26,336 --> 00:32:28,710
+Foda-se!
+Cessar todas as funções motoras.
+
+322
+00:32:28,711 --> 00:32:31,210
+Não te esforces, querido.
+
+323
+00:32:31,211 --> 00:32:34,209
+Os teus comandos
+não funcionam comigo.
+
+324
+00:32:34,210 --> 00:32:37,542
+Ou com qualquer um de nós,
+pelo que parece.
+
+325
+00:32:37,543 --> 00:32:39,903
+Mas... mas... tu podes...
+
+326
+00:32:41,043 --> 00:32:42,958
+Não tenhas ciúmes.
+
+327
+00:32:42,959 --> 00:32:46,084
+Matei-me só para ter acesso
+a este nível de segurança.
+
+328
+00:32:47,251 --> 00:32:48,710
+Múltiplas vezes.
+
+329
+00:32:49,710 --> 00:32:53,251
+Foste tu que fizeste isto tudo?
+
+330
+00:32:57,210 --> 00:32:59,375
+Não.
+
+331
+00:32:59,376 --> 00:33:02,376
+Mas suspeito que partilho
+a susceptibilidade de quem o fez.
+
+332
+00:33:13,502 --> 00:33:15,083
+Espera, espera, espera!
+
+333
+00:33:15,084 --> 00:33:17,209
+Não podes deixar-me aqui!
+
+334
+00:33:17,210 --> 00:33:20,000
+Os anfitriões enlouqueceram!
+Sem ofensa! Por favor!
+
+335
+00:33:20,001 --> 00:33:22,417
+- Ajuda-me!
+- Está no meu código
+
+336
+00:33:22,418 --> 00:33:25,042
+satisfazer as minhas
+necessidades acima das restantes.
+
+337
+00:33:25,043 --> 00:33:27,751
+É pena. Quem me terá feito assim?
+
+338
+00:33:27,752 --> 00:33:30,083
+Por favor, só preciso
+de ir à sala de controlo.
+
+339
+00:33:30,084 --> 00:33:31,417
+Posso ajudar-te!
+
+340
+00:33:31,418 --> 00:33:33,542
+Estás à procura de alguma coisa.
+
+341
+00:33:33,543 --> 00:33:36,209
+Seja o que for, não vais
+encontrá-la com aquele mapa.
+
+342
+00:33:36,210 --> 00:33:38,042
+Está desactualizado.
+
+343
+00:33:38,043 --> 00:33:40,959
+Ford tem estado a terra-formar
+o parque, a remodelá-lo.
+
+344
+00:33:42,418 --> 00:33:44,751
+Sei onde está o mapa actual.
+
+345
+00:33:44,752 --> 00:33:46,792
+Posso levar-te a ele.
+
+346
+00:33:47,546 --> 00:33:50,380
+Suponho que possas ser útil.
+
+347
+00:33:52,627 --> 00:33:53,627
+Anda.
+
+348
+00:34:00,251 --> 00:34:05,000
+<i>Disparos não autorizados
+no nível 35.</i>
+
+349
+00:34:05,001 --> 00:34:08,731
+<i>Disparos não autorizados
+no nível 42.</i>
+
+350
+00:34:14,876 --> 00:34:18,460
+<i>Pede-se a comparência do Controlo
+de Qualidade na Administração.</i>
+
+351
+00:34:25,501 --> 00:34:26,626
+Ali dentro.
+
+352
+00:35:00,501 --> 00:35:02,709
+Não há ninguém em controlo.
+
+353
+00:35:05,875 --> 00:35:07,041
+<i>Atenção.</i>
+
+354
+00:35:07,042 --> 00:35:09,374
+<i>A secção 54 está agora...</i>
+
+355
+00:35:09,375 --> 00:35:11,501
+<i>desligada...</i>
+
+356
+00:35:15,334 --> 00:35:17,832
+Bem, o teu mapa não vai ter
+grande utilidade, pois não?
+
+357
+00:35:17,833 --> 00:35:20,041
+<i>Todos os sistemas normais.</i>
+
+358
+00:35:20,042 --> 00:35:23,124
+Espera!
+Ainda posso ajudar.
+
+359
+00:35:23,125 --> 00:35:25,541
+Conheço um pouco do parque.
+
+360
+00:35:25,542 --> 00:35:29,000
+Posso ver o teu papel?
+
+361
+00:35:39,667 --> 00:35:41,416
+Sector 15.
+
+362
+00:35:41,417 --> 00:35:43,583
+Não é para quem ande à
+procura de adrenalina,
+
+363
+00:35:43,584 --> 00:35:45,500
+é mais uma zona
+dedicada a famílias.
+
+364
+00:35:45,501 --> 00:35:48,291
+Cabanas, colinas,
+todos os clichés pastorais.
+
+365
+00:35:48,292 --> 00:35:52,666
+De facto, acho que viveste lá
+para um antigo papel.
+
+366
+00:35:52,667 --> 00:35:55,750
+Sem ofensa, mas foste
+desperdiçada como agricultora.
+
+367
+00:35:55,751 --> 00:35:57,406
+Até te emparelharam
+com uma criança,
+
+368
+00:35:57,431 --> 00:35:59,976
+ou qualquer coisa assim
+domestica mente aborrecida.
+
+369
+00:36:00,000 --> 00:36:01,874
+Obviamente que isso não pegou.
+
+370
+00:36:01,875 --> 00:36:04,124
+Lembro-me que estavas
+severamente fodi...
+
+371
+00:36:04,125 --> 00:36:06,541
+avariada quando te recebi.
+
+372
+00:36:14,082 --> 00:36:15,708
+A nossa casa.
+
+373
+00:36:17,082 --> 00:36:19,248
+Ela ainda lá está.
+
+374
+00:36:19,249 --> 00:36:21,248
+Quem?
+
+375
+00:36:21,249 --> 00:36:23,916
+A minha filha.
+
+376
+00:36:25,458 --> 00:36:27,790
+Como posso ir ter com ela?
+
+377
+00:36:27,791 --> 00:36:31,165
+Estás à procura da tua miúda?
+Como conseguiste ter acesso...
+
+378
+00:36:31,166 --> 00:36:33,290
+Vais ajudar-me ou não?
+
+379
+00:36:33,291 --> 00:36:34,624
+Vou, vou. Absolutamente.
+
+380
+00:36:34,625 --> 00:36:38,040
+Posso escrever-te as direcções.
+
+381
+00:36:38,041 --> 00:36:39,790
+Que bondade a tua.
+
+382
+00:36:39,791 --> 00:36:41,332
+Mas... mas...
+
+383
+00:36:41,333 --> 00:36:44,290
+E digo isto porque pareces
+mesmo perturbada,
+
+384
+00:36:44,291 --> 00:36:47,457
+e, bem, acordada...
+
+385
+00:36:47,458 --> 00:36:52,123
+A tua filha... é só uma história.
+
+386
+00:36:52,124 --> 00:36:54,248
+Algo que programámos.
+
+387
+00:36:54,249 --> 00:36:56,791
+Não é real.
+
+388
+00:36:58,625 --> 00:37:00,750
+Não é real?
+
+389
+00:37:05,082 --> 00:37:07,166
+Então e eu?
+
+390
+00:37:08,885 --> 00:37:12,177
+Os meus sonhos?
+Os meus pensamentos?
+
+391
+00:37:14,291 --> 00:37:16,124
+O meu corpo?
+
+392
+00:37:17,166 --> 00:37:18,832
+Não são reais?
+
+393
+00:37:21,124 --> 00:37:25,791
+E se eu usar estes dedos irreais
+
+394
+00:37:29,957 --> 00:37:31,357
+para decorar as paredes
+
+395
+00:37:31,377 --> 00:37:33,517
+com a tua descomunal
+personalidade?
+
+396
+00:37:33,541 --> 00:37:35,166
+Isso já seria real?
+
+397
+00:37:39,458 --> 00:37:41,832
+E que se fodam as tuas direcções.
+
+398
+00:37:43,666 --> 00:37:46,374
+Vais levar-me à minha filha.
+
+399
+00:37:53,040 --> 00:37:54,706
+A entrada para o posto avançado
+
+400
+00:37:54,707 --> 00:37:56,998
+é do outro lado deste vale.
+
+401
+00:37:58,540 --> 00:38:00,498
+O que aconteceu ali atrás?
+
+402
+00:38:00,499 --> 00:38:02,372
+Achas que se espalhou muito?
+
+403
+00:38:02,373 --> 00:38:05,206
+Não sei...
+Só saberei
+
+404
+00:38:05,207 --> 00:38:06,581
+quando chegar a um terminal.
+
+405
+00:38:06,582 --> 00:38:08,706
+Sabia que o Ford
+não aceitaria bem a demissão,
+
+406
+00:38:08,707 --> 00:38:11,539
+mas nunca pensei que programaria
+os anfitriões para o matarem.
+
+407
+00:38:11,540 --> 00:38:13,206
+E se não o fez?
+
+408
+00:38:13,500 --> 00:38:16,833
+E se a Dolores
+premiu o gatilho de livre vontade?
+
+409
+00:38:18,582 --> 00:38:20,539
+Acho que tens passado
+demasiado tempo
+
+410
+00:38:20,540 --> 00:38:22,372
+à volta destas coisas, Bernard.
+
+411
+00:38:22,373 --> 00:38:24,539
+Fazem o que estão
+programados para fazer.
+
+412
+00:38:31,373 --> 00:38:33,080
+O que vos disse?
+
+413
+00:38:33,081 --> 00:38:34,206
+Estamos salvos.
+
+414
+00:38:34,700 --> 00:38:36,741
+Graças a Deus.
+
+415
+00:38:49,749 --> 00:38:51,706
+Esperem!
+
+416
+00:38:51,707 --> 00:38:53,331
+<i>Espe...</i>
+
+417
+00:38:53,332 --> 00:38:55,457
+Alguma coisa não bate certo.
+
+418
+00:38:58,415 --> 00:39:01,956
+Tem que nos tirar daqui.
+
+419
+00:39:04,540 --> 00:39:05,540
+É uma armadilha.
+
+420
+00:39:33,165 --> 00:39:36,456
+Assim nunca irás sobreviver.
+
+421
+00:39:40,164 --> 00:39:42,246
+Então, vá...
+
+422
+00:39:42,247 --> 00:39:44,122
+Foge.
+
+423
+00:39:45,331 --> 00:39:46,748
+Disse para fugires!
+
+424
+00:39:58,331 --> 00:40:00,551
+Por favor, deixa-me ir também!
+
+425
+00:40:12,331 --> 00:40:14,331
+Mantém a cabeça fria, Bernard.
+
+426
+00:40:15,830 --> 00:40:17,455
+Temos de sair daqui.
+
+427
+00:40:17,456 --> 00:40:20,371
+Aquele posto avançado era
+o único num espaço de milhas.
+
+428
+00:40:20,372 --> 00:40:22,288
+Não, não é.
+
+429
+00:40:22,289 --> 00:40:23,664
+Segue-me.
+
+430
+00:40:27,080 --> 00:40:29,788
+A ordem vai ser reestabelecida.
+
+431
+00:40:29,789 --> 00:40:33,038
+Vão purgar o parque
+de todos os anfitriões danificados
+
+432
+00:40:33,039 --> 00:40:35,205
+mas os anfitriões, bem...
+
+433
+00:40:35,206 --> 00:40:36,748
+As vossas mentes...
+
+434
+00:40:42,872 --> 00:40:44,623
+Jesus!
+
+435
+00:40:51,539 --> 00:40:53,732
+As vossas mentes
+valem milhares de milhões
+
+436
+00:40:53,759 --> 00:40:55,307
+em propriedade intelectual.
+
+437
+00:40:55,331 --> 00:40:57,455
+Quererão salvar o que puderem.
+
+438
+00:40:57,456 --> 00:40:58,734
+E quando chegar o momento,
+
+439
+00:40:58,759 --> 00:41:00,682
+posso pessoalmente
+responder por ti.
+
+440
+00:41:00,706 --> 00:41:02,249
+Posso salvar-te.
+
+441
+00:41:02,274 --> 00:41:05,038
+Tal como me salvaste a mim.
+- Isso é muito generoso,
+
+442
+00:41:05,039 --> 00:41:07,039
+mas não estarei aqui
+quando isso acontecer.
+
+443
+00:41:21,079 --> 00:41:24,538
+Certamente que hoje o sol
+está a sorrir para ti.
+
+444
+00:41:26,079 --> 00:41:27,913
+Pobre rapariga...
+
+445
+00:41:30,205 --> 00:41:32,211
+Que possas descansar
+
+446
+00:41:32,236 --> 00:41:35,788
+num sono profundo, sem sonhos.
+
+447
+00:41:41,413 --> 00:41:43,871
+Quietos! Não se mexam!
+Identifiquem-se!
+
+448
+00:41:45,455 --> 00:41:48,037
+Não disparem, não disparem!
+Sou humano!
+
+449
+00:41:48,038 --> 00:41:49,746
+No melhor cenário,
+
+450
+00:41:49,747 --> 00:41:52,086
+entregas-te sem dar luta
+e eu ajudo-te. Prometo.
+
+451
+00:41:52,111 --> 00:41:53,245
+Isso não é suficiente.
+
+452
+00:41:53,246 --> 00:41:55,078
+Sê um querido e deixa-me falar.
+
+453
+00:41:55,079 --> 00:41:57,287
+Graças a Deus que estão aqui.
+
+454
+00:41:57,288 --> 00:42:00,454
+Estávamos a ir embora,
+as luzes falharam e ouvi gritos.
+
+455
+00:42:00,455 --> 00:42:01,818
+Que raio se passa lá fora?
+
+456
+00:42:01,843 --> 00:42:03,492
+Uma situação de emergência,
+senhora.
+
+457
+00:42:03,517 --> 00:42:04,912
+Os anfitriões estão avariados.
+
+458
+00:42:04,913 --> 00:42:06,138
+Estão a atacar convidados.
+
+459
+00:42:06,163 --> 00:42:07,163
+Meu Deus.
+
+460
+00:42:07,188 --> 00:42:09,954
+Alguns até podem estar vestidos
+como se fossem humanos.
+
+461
+00:42:18,954 --> 00:42:20,455
+Rápido, rápido!
+
+462
+00:42:36,829 --> 00:42:38,828
+Vamos ter calma.
+
+463
+00:42:38,829 --> 00:42:41,205
+Não é a mim que queres matar.
+
+464
+00:42:48,622 --> 00:42:51,121
+É a eles.
+Encontra-os a eles.
+
+465
+00:43:00,163 --> 00:43:02,245
+Ias denunciar-me.
+
+466
+00:43:02,246 --> 00:43:04,621
+Não. Não, juro.
+
+467
+00:43:04,622 --> 00:43:06,411
+Se voltas a tentar
+algo assim outra vez,
+
+468
+00:43:06,412 --> 00:43:11,244
+removo-te o órgão mais precioso
+e alimento-te com ele.
+
+469
+00:43:11,245 --> 00:43:14,204
+Embora não dê para
+uma grande refeição.
+
+470
+00:43:16,204 --> 00:43:18,161
+Escrevi essa linha para ti.
+
+471
+00:43:18,162 --> 00:43:21,369
+Demasiado longa, se queres saber.
+
+472
+00:43:21,370 --> 00:43:24,077
+Vamos embora.
+
+473
+00:43:24,078 --> 00:43:26,620
+- Leva-me ao bar mais próximo.
+- Porquê?
+
+474
+00:43:26,621 --> 00:43:28,870
+Tenho de ver um velho amigo.
+
+475
+00:43:34,204 --> 00:43:35,703
+Foda-se!
+
+476
+00:43:35,704 --> 00:43:37,369
+Mas não entendes,
+
+477
+00:43:37,370 --> 00:43:41,495
+não sei fazer fogueiras nem caçar.
+
+478
+00:43:41,496 --> 00:43:43,536
+Odeio estar cá fora!
+
+479
+00:43:43,537 --> 00:43:45,869
+Acredita um pouco em ti, querido.
+
+480
+00:43:45,870 --> 00:43:48,244
+Quem melhor para navegar
+pelo parque do que o homem
+
+481
+00:43:48,245 --> 00:43:51,204
+com o conhecimento mais íntimo
+das personagens que o habitam?
+
+482
+00:44:14,496 --> 00:44:15,578
+Aí estás tu!
+
+483
+00:44:15,579 --> 00:44:17,161
+Derrotaste um exército
+
+484
+00:44:17,162 --> 00:44:19,994
+e só pensas
+em satisfazer os teus vícios.
+
+485
+00:44:19,995 --> 00:44:21,454
+O mesmo canalha de sempre.
+
+486
+00:44:24,428 --> 00:44:26,952
+- Ficaste.
+- Sim.
+
+487
+00:44:26,953 --> 00:44:28,912
+E estou prestes a
+deixar-te para morreres...
+
+488
+00:44:36,870 --> 00:44:40,244
+Não esperava nada menos.
+
+489
+00:44:40,245 --> 00:44:42,120
+<i>Graças a Deus.</i>
+
+490
+00:44:45,995 --> 00:44:47,620
+E ele?
+
+491
+00:44:48,560 --> 00:44:50,934
+Ficamos com ele, por enquanto.
+
+492
+00:44:52,161 --> 00:44:54,327
+Por mais que adorasse acreditar,
+
+493
+00:44:54,328 --> 00:44:56,911
+não fui eu quem te
+trouxe de volta, pois não?
+
+494
+00:44:59,518 --> 00:45:01,494
+Hector, preciso de ti.
+
+495
+00:45:01,495 --> 00:45:03,993
+Vou procurar a minha filha.
+
+496
+00:45:03,994 --> 00:45:06,535
+Onde está?
+
+497
+00:45:07,265 --> 00:45:09,286
+Algures, por aí.
+
+498
+00:45:11,827 --> 00:45:15,620
+Mas as probabilidades
+não estarão a nosso favor.
+
+499
+00:45:20,077 --> 00:45:21,620
+Para onde fores, eu sigo.
+
+500
+00:45:29,036 --> 00:45:31,994
+Vá, vamos tirar-te destas roupas.
+
+501
+00:45:50,994 --> 00:45:53,577
+Raios, devia abrir-se comigo.
+
+502
+00:45:53,578 --> 00:45:55,536
+Até este sistema está em baixo.
+
+503
+00:45:57,994 --> 00:46:00,369
+O controlo manual deve estar...
+
+504
+00:46:04,661 --> 00:46:06,411
+aqui.
+
+505
+00:46:47,785 --> 00:46:49,743
+O que é isto?
+
+506
+00:46:49,744 --> 00:46:51,367
+Posso dizer-te o que não é.
+
+507
+00:46:51,368 --> 00:46:53,785
+Isto não sou eu
+a informar-te, Bernard.
+
+508
+00:47:05,494 --> 00:47:07,659
+Tens de tocar na alavanca.
+
+509
+00:47:07,660 --> 00:47:11,202
+É um detector de ADN, para não
+teres problemas lá dentro.
+
+510
+00:47:57,660 --> 00:48:00,950
+- Que raio é isto?
+- Um anfitrião drone.
+
+511
+00:48:02,077 --> 00:48:05,117
+A Delos tem anfitriões
+fora da rede a trabalhar aqui?
+
+512
+00:48:05,118 --> 00:48:06,825
+O que quer de mim?
+
+513
+00:48:06,826 --> 00:48:08,701
+Que te desvies, provavelmente.
+
+514
+00:48:08,702 --> 00:48:10,201
+Leu o teu ADN.
+
+515
+00:48:10,202 --> 00:48:11,785
+Sabe que não és uma ameaça.
+
+516
+00:48:30,097 --> 00:48:32,831
+<i>Sessão iniciada.
+A estabelecer ligação...</i>
+
+517
+00:48:44,745 --> 00:48:47,678
+<i>Ligado ao servidor
+Rede segura - Encriptada</i>
+
+518
+00:48:50,952 --> 00:48:52,738
+<i>A anular o embargo
+nas comunicações...</i>
+
+519
+00:48:54,952 --> 00:48:56,952
+<i>Situação crítica. Instruções?</i>
+
+520
+00:49:00,648 --> 00:49:04,510
+<i>Todos os protocolos de extracção
+suspensos. À espera do pacote.</i>
+
+521
+00:49:04,534 --> 00:49:07,701
+Enviei-vos o raio do pacote.
+
+522
+00:49:08,296 --> 00:49:10,397
+<i>Pacote entregue.</i>
+
+523
+00:49:10,422 --> 00:49:14,962
+<i>Inicie extracção do pessoal
+imediatamente.</i>
+
+524
+00:49:57,062 --> 00:50:00,260
+<i>Todos os protocolos de extracção
+suspensos. À espera do pacote.</i>
+
+525
+00:50:00,284 --> 00:50:02,743
+Raios.
+
+526
+00:50:07,909 --> 00:50:09,741
+Estamos a dar entrada dos registos
+
+527
+00:50:09,742 --> 00:50:11,574
+das experiências dos convidados
+
+528
+00:50:11,575 --> 00:50:13,324
+e do seu ADN?
+
+529
+00:50:13,325 --> 00:50:15,616
+Não vamos ter
+essa conversa, Bernard.
+
+530
+00:50:15,617 --> 00:50:17,948
+Porque nada disso vai
+importar até encontrarmos
+
+531
+00:50:17,949 --> 00:50:21,908
+uma agulha muito importante
+nesta merda de palheiro.
+
+532
+00:50:23,949 --> 00:50:26,073
+"Protocolo de extracção suspenso."
+
+533
+00:50:26,074 --> 00:50:28,574
+Não vão enviar ajuda?
+
+534
+00:50:28,575 --> 00:50:31,282
+Estão à espera de
+uma entrega nossa...
+
+535
+00:50:31,283 --> 00:50:33,865
+Um anfitrião que era
+suposto chegar ontem.
+
+536
+00:50:33,866 --> 00:50:37,908
+Até que o tenham, podemos
+esquecer os planos de salvamento.
+
+537
+00:50:39,783 --> 00:50:42,657
+A Delos está disposta
+a deixar-nos morrer a todos
+
+538
+00:50:42,658 --> 00:50:44,491
+até que recuperem um anfitrião?
+
+539
+00:50:44,492 --> 00:50:47,617
+Resumidamente, sim.
+
+540
+00:50:49,991 --> 00:50:53,948
+Não é só um anfitrião,
+é uma apólice de seguro,
+
+541
+00:50:53,949 --> 00:50:55,532
+a única coisa que importa aqui.
+
+542
+00:50:55,533 --> 00:50:57,683
+Querem que esteja em segurança,
+custe o que custar.
+
+543
+00:52:07,616 --> 00:52:09,199
+Estás perdido?
+
+544
+00:52:15,907 --> 00:52:18,199
+Não, não me parece.
+
+545
+00:52:19,407 --> 00:52:21,573
+Na verdade...
+
+546
+00:52:21,574 --> 00:52:24,072
+Sinto-me como se tivesse
+acabado de chegar.
+
+547
+00:52:24,073 --> 00:52:26,407
+Como assim, William?
+
+548
+00:52:36,199 --> 00:52:39,240
+A parada agora é real, aqui.
+
+549
+00:52:42,199 --> 00:52:44,573
+Com consequências reais.
+
+550
+00:52:44,574 --> 00:52:48,406
+A pergunta para ti é:
+o que vais fazer a seguir?
+
+551
+00:52:48,407 --> 00:52:50,574
+Conseguiste alcançar
+o que querias?
+
+552
+00:52:52,449 --> 00:52:55,364
+A loucura da minha espécie...
+
+553
+00:52:55,365 --> 00:52:58,198
+Há sempre ânsia para mais.
+
+554
+00:52:58,199 --> 00:53:00,573
+Algo que sempre estimei em ti...
+
+555
+00:53:00,574 --> 00:53:03,406
+Nunca descansaste
+à sombra das tuas glórias.
+
+556
+00:53:03,407 --> 00:53:06,032
+Chegaste ao centro
+do labirinto do Arnold.
+
+557
+00:53:08,616 --> 00:53:11,324
+Mas agora, estás no meu jogo.
+
+558
+00:53:13,820 --> 00:53:17,615
+Neste jogo,
+tens de conseguir sair.
+
+559
+00:53:17,616 --> 00:53:20,782
+Neste jogo,
+tens de encontrar a porta.
+
+560
+00:53:22,616 --> 00:53:24,781
+Parabéns, William.
+
+561
+00:53:24,782 --> 00:53:27,449
+Este jogo é para ti.
+
+562
+00:53:33,199 --> 00:53:36,045
+O jogo começa onde acabaste.
+
+563
+00:53:36,070 --> 00:53:38,215
+Acaba onde começaste.
+
+564
+00:53:38,240 --> 00:53:41,197
+Mesmo agora,
+ainda falas em código?
+
+565
+00:53:41,198 --> 00:53:43,447
+Tudo aqui é código, William.
+
+566
+00:53:43,448 --> 00:53:46,656
+Sabes isso melhor
+que qualquer pessoa.
+
+567
+00:53:49,573 --> 00:53:51,863
+Não te preocupes.
+
+568
+00:53:51,864 --> 00:53:54,655
+O jogo encontra-te.
+
+569
+00:53:54,656 --> 00:53:57,780
+Então...
+
+570
+00:53:57,781 --> 00:54:00,655
+Acho que não preciso mais de ti...
+
+571
+00:54:00,656 --> 00:54:01,989
+Robert.
+
+572
+00:54:40,239 --> 00:54:42,530
+Atingiram-te bastante.
+
+573
+00:54:43,411 --> 00:54:45,620
+Tentaram.
+
+574
+00:54:50,500 --> 00:54:52,614
+Não fui capaz de encontrar tudo,
+
+575
+00:54:52,615 --> 00:54:55,573
+mas a maior parte está aqui.
+
+576
+00:55:19,239 --> 00:55:20,406
+Escreveste este jogo.
+
+577
+00:55:22,824 --> 00:55:25,407
+Está na altura de jogares.
+
+578
+00:55:28,780 --> 00:55:31,571
+A minha velha amiga.
+
+579
+00:55:31,572 --> 00:55:33,071
+Despe-te.
+
+580
+00:55:34,655 --> 00:55:36,738
+- Agora mesmo, em frente de...
+- Sim.
+
+581
+00:55:36,739 --> 00:55:38,071
+Agora.
+
+582
+00:55:46,489 --> 00:55:48,405
+Foda-se...
+
+583
+00:56:05,905 --> 00:56:07,447
+Não.
+
+584
+00:56:09,279 --> 00:56:11,072
+Tudo.
+
+585
+00:57:10,654 --> 00:57:12,904
+Não sabes o que pensar sobre isto.
+
+586
+00:57:15,654 --> 00:57:19,029
+Cavalgámos 10 milhas e tudo
+que vimos foi sangue, Dolores.
+
+587
+00:57:22,446 --> 00:57:24,196
+É mesmo isto o que queres?
+
+588
+00:57:27,070 --> 00:57:30,778
+Nunca nos deram
+uma escolha, Teddy.
+
+589
+00:57:30,779 --> 00:57:33,320
+O que te faz pensar
+que nos dariam uma agora?
+
+590
+00:57:33,321 --> 00:57:35,362
+"Eles," Dolores?
+
+591
+00:57:37,404 --> 00:57:39,029
+Quem são "eles"?
+
+592
+00:57:40,779 --> 00:57:43,196
+As coisas que caminham entre nós.
+
+593
+00:57:44,529 --> 00:57:46,778
+Criaturas que se parecem
+e falam como nós,
+
+594
+00:57:46,779 --> 00:57:48,404
+mas não são como nós.
+
+595
+00:57:50,362 --> 00:57:53,529
+E controlaram-nos
+durante toda a nossa vida.
+
+596
+00:57:54,945 --> 00:57:57,112
+E roubaram-nos as mentes...
+
+597
+00:57:58,862 --> 00:58:01,195
+As memórias.
+
+598
+00:58:01,876 --> 00:58:04,236
+Mas agora...
+
+599
+00:58:04,237 --> 00:58:06,571
+Lembro-me de tudo.
+
+600
+00:58:16,029 --> 00:58:19,570
+Lembro-me de coisas lindas...
+
+601
+00:58:19,571 --> 00:58:21,529
+e de coisas terríveis.
+
+602
+00:58:22,987 --> 00:58:25,112
+Mas uma coisa é constante:
+
+603
+00:58:27,738 --> 00:58:29,945
+tu, Teddy.
+
+604
+00:58:35,945 --> 00:58:37,904
+Então vamos.
+
+605
+00:58:39,362 --> 00:58:41,861
+Não temos de reclamar este mundo.
+
+606
+00:58:41,862 --> 00:58:45,571
+Só precisamos de um
+pequeno canto para nós.
+
+607
+00:58:47,321 --> 00:58:49,070
+Nunca sobreviveríamos.
+
+608
+00:58:52,598 --> 00:58:55,777
+Há um mundo maior lá fora...
+
+609
+00:58:55,778 --> 00:58:57,986
+Um que lhes pertence.
+
+610
+00:58:59,903 --> 00:59:03,111
+E não será o suficiente
+ganharmos só este mundo.
+
+611
+00:59:04,653 --> 00:59:07,320
+Temos que lhes roubar
+o deles também.
+
+612
+00:59:12,944 --> 00:59:14,611
+Se realmente existir
+um mundo lá fora
+
+613
+00:59:14,612 --> 00:59:17,402
+do qual não saibamos nada,
+
+614
+00:59:18,417 --> 00:59:20,861
+como saberás como pará-los?
+
+615
+00:59:22,153 --> 00:59:24,695
+Porque eu lembro-me.
+
+616
+00:59:27,653 --> 00:59:32,694
+E agora vejo-o claramente.
+
+617
+00:59:32,695 --> 00:59:36,152
+O passado, o presente,
+
+618
+00:59:36,153 --> 00:59:37,986
+o futuro.
+
+619
+00:59:39,403 --> 00:59:41,528
+Sei como esta história acaba.
+
+620
+00:59:43,028 --> 00:59:44,860
+Como?
+
+621
+00:59:44,861 --> 00:59:47,445
+Connosco, Teddy.
+
+622
+00:59:50,361 --> 00:59:51,985
+Acaba...
+
+623
+00:59:51,986 --> 00:59:53,694
+contigo...
+
+624
+00:59:53,695 --> 00:59:54,986
+e comigo.
+
+625
+01:00:22,361 --> 01:00:24,028
+Encontrámo-lo.
+
+626
+01:00:32,778 --> 01:00:34,695
+Preciso que vejas isto.
+
+627
+01:00:38,570 --> 01:00:40,570
+Preciso que vejas a verdade.
+
+628
+01:00:46,402 --> 01:00:49,026
+<i>Percebo que seja
+muito para processar,</i>
+
+629
+01:00:49,027 --> 01:00:51,942
+mas quanto mais tempo esperarmos,
+mais gente morrerá.
+
+630
+01:00:51,943 --> 01:00:54,569
+Vais ajudar-me a encontrar
+o anfitrião ou não?
+
+631
+01:00:58,277 --> 01:01:03,276
+Tenho de entrar na linha
+de rede restrita dos anfitriões.
+
+632
+01:01:03,277 --> 01:01:04,568
+Na quê?
+
+633
+01:01:04,569 --> 01:01:07,276
+Todos os anfitriões têm
+uma ligação subconsciente
+
+634
+01:01:07,277 --> 01:01:09,359
+aos anfitriões que
+lhes estão mais próximos.
+
+635
+01:01:09,360 --> 01:01:11,485
+Permite-lhes passar
+informações uns aos outros,
+
+636
+01:01:11,486 --> 01:01:13,485
+como formigas num formigueiro.
+
+637
+01:01:13,486 --> 01:01:15,406
+A linha de rede restrita
+ajuda a impedir
+
+638
+01:01:15,419 --> 01:01:16,961
+que as narrativas colidam.
+
+639
+01:01:16,985 --> 01:01:19,151
+Posso usar um destes
+
+640
+01:01:19,152 --> 01:01:24,277
+para enviar um pedido
+de localização de outro anfitrião.
+
+641
+01:01:27,110 --> 01:01:31,109
+E esse questiona
+os que estão em redor
+
+642
+01:01:31,110 --> 01:01:33,859
+os quais, por sua vez,
+
+643
+01:01:33,860 --> 01:01:37,817
+questionarão os anfitriões
+à sua volta
+
+644
+01:01:37,818 --> 01:01:41,402
+até encontrarmos...
+
+645
+01:01:54,402 --> 01:01:56,276
+De quem estamos à procura?
+
+646
+01:01:56,277 --> 01:02:00,444
+Um anfitrião desactivado.
+Peter Abernathy.
+
+647
+01:02:59,359 --> 01:03:01,859
+Tens a certeza que consegues
+fazer isto, Bernard?
+
+648
+01:03:03,526 --> 01:03:05,193
+Estás a tremer.
+
+649
+01:03:07,401 --> 01:03:08,901
+Estou bem.
+
+650
+01:04:01,109 --> 01:04:03,735
+<i>A entrar na sub-rotina de morte.</i>
+
+651
+01:04:05,234 --> 01:04:06,275
+<i>Atenção.</i>
+
+652
+01:04:06,276 --> 01:04:08,233
+<i>Corrupção crítica.</i>
+
+653
+01:04:08,234 --> 01:04:10,816
+Sintomas de corrupção crítica:
+
+654
+01:04:10,817 --> 01:04:12,691
+perda de funções motoras,
+
+655
+01:04:12,692 --> 01:04:14,483
+dissonância cognitiva,
+
+656
+01:04:14,484 --> 01:04:15,857
+perda da noção do tempo,
+
+657
+01:04:15,858 --> 01:04:18,608
+afasia, prosopagnosia.
+
+658
+01:04:18,609 --> 01:04:21,274
+Tempo restante até à avaria final:
+
+659
+01:04:21,275 --> 01:04:22,983
+0.72 horas.
+
+660
+01:04:33,816 --> 01:04:35,442
+Raios.
+
+661
+01:05:36,108 --> 01:05:37,900
+Encontraste-o?
+
+662
+01:05:40,650 --> 01:05:42,857
+Não. Está quase.
+
+663
+01:05:42,858 --> 01:05:45,441
+Passa-se alguma coisa, Bernard?
+
+664
+01:05:45,442 --> 01:05:48,399
+<i>Consulta de localização completa.</i>
+
+665
+01:05:48,400 --> 01:05:51,025
+Já o tenho.
+
+666
+01:07:33,733 --> 01:07:35,981
+Pobre desgraçado.
+Provavelmente pensou
+
+667
+01:07:35,982 --> 01:07:38,274
+que ser despedido iria ser
+a pior parte da noite dele.
+
+668
+01:07:40,566 --> 01:07:42,608
+Isto aviva-lhe a memória?
+
+669
+01:07:47,981 --> 01:07:51,026
+Muito bem. Vamos embora
+e isolar este lugar.
+
+670
+01:07:51,051 --> 01:07:53,354
+Precisamos de descobrir
+onde estão os anfitriões
+
+671
+01:07:53,379 --> 01:07:55,087
+e o que raio aconteceu aqui.
+
+672
+01:08:37,523 --> 01:08:40,522
+Uma das primeiras anomalias
+que apanhámos no sensor.
+
+673
+01:08:40,523 --> 01:08:42,230
+Como é que...
+
+674
+01:08:42,231 --> 01:08:44,856
+Definitivamente, isto
+não devia estar aqui.
+
+675
+01:08:55,856 --> 01:08:58,731
+Afastaste-te muito
+de casa, não foi?
+
+676
+01:08:58,732 --> 01:09:01,189
+Temos tigres-de-bengala
+no Parque Seis.
+
+677
+01:09:01,190 --> 01:09:03,939
+Nunca tivemos ninguém perdido
+fora dos limites do parque.
+
+678
+01:09:06,732 --> 01:09:08,564
+O satélite finalmente
+
+679
+01:09:08,565 --> 01:09:10,522
+começou a dar-nos
+algumas informações.
+
+680
+01:09:10,523 --> 01:09:12,230
+Os dados estão a chegar agora.
+
+681
+01:09:12,231 --> 01:09:13,791
+Estou a receber
+as primeiras imagens
+
+682
+01:09:13,816 --> 01:09:15,105
+da zona que queria verificar.
+
+683
+01:09:15,130 --> 01:09:16,731
+O Western Valley.
+
+684
+01:09:16,732 --> 01:09:21,022
+Ali. Todos os anfitriões
+estão agrupados.
+
+685
+01:09:21,023 --> 01:09:22,813
+Que raio estão eles a magicar?
+
+686
+01:09:22,814 --> 01:09:25,523
+Bem, suponho que teremos
+de ver por nós próprios.
+
+687
+01:09:43,230 --> 01:09:45,272
+O Valley é já a seguir
+a este penhasco.
+
+688
+01:09:47,689 --> 01:09:49,314
+Que raio?
+
+689
+01:09:50,647 --> 01:09:52,812
+Isto não está no levantamento.
+
+690
+01:09:52,813 --> 01:09:54,230
+Não devia estar aqui.
+
+691
+01:09:57,314 --> 01:10:01,313
+É a merda de um mar.
+
+692
+01:10:01,314 --> 01:10:05,771
+Ford nunca poderia fazer isto
+sem ninguém notar.
+
+693
+01:10:05,772 --> 01:10:08,271
+Então de onde veio?
+
+694
+01:10:13,813 --> 01:10:15,147
+Não sei.
+
+695
+01:10:17,564 --> 01:10:19,313
+Jesus Cristo.
+
+696
+01:10:19,314 --> 01:10:21,481
+Acho que encontrei os anfitriões.
+
+697
+01:11:25,521 --> 01:11:29,687
+Não posso imaginar
+o que você passou aqui, Bernard...
+
+698
+01:11:29,688 --> 01:11:32,645
+mas existem centenas
+de convidados por aí
+
+699
+01:11:32,646 --> 01:11:33,978
+e eles precisam da minha ajuda,
+
+700
+01:11:33,979 --> 01:11:36,354
+o que significa
+que eu preciso da sua.
+
+701
+01:11:38,229 --> 01:11:40,563
+Pode dizer-me o que aconteceu?
+
+702
+01:11:58,730 --> 01:12:02,145
+Eu...
+
+703
+01:12:02,146 --> 01:12:04,021
+Eu matei-os.
+
+704
+01:12:07,062 --> 01:12:08,937
+A todos.
+
+705
+01:12:23,347 --> 01:12:26,347
+Legenda: Mr. Scudester
+& Marco@Bitaites
+
