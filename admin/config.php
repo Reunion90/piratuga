@@ -6,5 +6,5 @@
     *dbPass = Password of your DataBase
     *dbName = Name of your DataBase
     **********************************************************************/
-    $dbC = mysqli_connect("sql303.epizy.com", "epiz_22161598", "piraTUGAadmin18", "epiz_22161598_piratuga");
+    $dbC = mysqli_connect("sql303.epizy.com", "epiz_22161598", "__PASSWORD__", "epiz_22161598_piratuga");
 ?>
